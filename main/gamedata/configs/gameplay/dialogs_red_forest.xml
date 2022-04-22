@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+    <dialog id="red_bridge_bridge_move_down">
+        <dont_has_info>red_bridge_bridge_move</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>red_bridge_bridge_move_down_0</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_bridge_bridge_move</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_bridge_bridge_move_up">
+        <has_info>red_bridge_bridge_move</has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>red_bridge_bridge_move_up_0</text>
+                <action>dialogs.break_dialog</action>
+                <disable_info>red_bridge_bridge_move</disable_info>
+                <give_info>red_bridge_bridge_move_up</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="noname_dialog">
+        <phrase_list>
+            <phrase id="0">
+                <text>noname_dialog_0</text>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_raven_first_dialog">
+        <dont_has_info>red_raven_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>red_raven_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_raven_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_raven_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_raven_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_raven_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>red_raven_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_raven_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>red_raven_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>red_raven_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="11">
+                <text>red_raven_first_dialog_11</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_raven_first_dialog</give_info>
+            </phrase>
+            <phrase id="10">
+                <text>red_raven_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_raven_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_raven_first_dialog_end">
+        <dont_has_info>red_raven_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>red_raven_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_raven_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_raven_first_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_raven_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_raven_first_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>red_raven_first_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>red_raven_first_dialog_end_9</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_raven_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="5">
+                <text>red_raven_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_raven_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="6">
+                <text>red_raven_first_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_infernis_first_dialog">
+        <has_info>red_raven_first_dialog_end</has_info>
+        <dont_has_info>red_infernis_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>red_infernis_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_infernis_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_infernis_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_infernis_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_infernis_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>red_infernis_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_infernis_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_infernis_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>red_infernis_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>red_infernis_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>red_infernis_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>red_infernis_first_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>red_infernis_first_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>red_infernis_first_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>red_infernis_first_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>red_infernis_first_dialog_15</text>
+                <action>new_quests.wpn_gauss_aes_give</action>
+                <give_info>red_infernis_first_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_infernis_first_dialog_end">
+        <has_info>red_sith_mask_find</has_info>
+        <dont_has_info>red_infernis_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>red_infernis_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>red_infernis_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_infernis_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_infernis_first_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_infernis_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_infernis_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>red_infernis_first_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_infernis_first_dialog_end_7</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_infernis_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="dolg_first_dialog">
+        <dont_has_info>dolg_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>dolg_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>dolg_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>dolg_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>dolg_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>dolg_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>dolg_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>dolg_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>dolg_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>dolg_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>dolg_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>dolg_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>dolg_first_dialog_11</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>dolg_first_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_return_gamma_dialog_end">
+        <has_info>sith_return_gamma_dialog_2</has_info>
+        <dont_has_info>sith_return_gamma_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>sith_return_gamma_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_return_gamma_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_return_gamma_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_return_gamma_dialog_end_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_return_gamma_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_return_gamma_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_return_gamma_dialog_2">
+        <has_info>red_bridge_bridge_move_break</has_info>
+        <dont_has_info>sith_return_gamma_dialog_2</dont_has_info>
+        <phrase_list>
+            <phrase id="2">
+                <text>sith_return_gamma_dialog_2_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_return_gamma_dialog_2_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_return_gamma_dialog_2_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_return_gamma_dialog_2</give_info>
+            </phrase>
+            <phrase id="1">
+                <text>sith_return_gamma_dialog_2_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>sith_return_gamma_dialog_2_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="smirnow_dopros">
+        <dont_has_info>smirnow_dopros</dont_has_info>
+        <phrase_list>
+            <phrase id="6">
+                <text>smirnow_dopros_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>smirnow_dopros_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>smirnow_dopros_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>smirnow_dopros_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>smirnow_dopros_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>smirnow_dopros_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>smirnow_dopros_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>smirnow_dopros_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>smirnow_dopros_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>smirnow_dopros_15</text>
+                <action>dialogs.break_dialog</action>
+                <action>red.smirnow_task</action>
+                <give_info>smirnow_dopros</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>smirnow_dopros_0</text>
+                <disable_info>sith_first_dialog_2</disable_info>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>smirnow_dopros_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>smirnow_dopros_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>smirnow_dopros_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="5">
+                <text>smirnow_dopros_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="4">
+                <text>smirnow_dopros_4</text>
+                <next>5</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_shkir_dialog_1_end">
+        <has_info>dolgs_dead</has_info>
+        <dont_has_info>sith_shkir_dialog_1_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>sith_shkir_dialog_1_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_shkir_dialog_1_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_shkir_dialog_1_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_shkir_dialog_1_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>sith_shkir_dialog_1_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>sith_shkir_dialog_1_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>sith_shkir_dialog_1_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>sith_shkir_dialog_1_end_8</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_shkir_dialog_1_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_shkir_dialog_1_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_shkir_dialog_3">
+        <has_info>sith_shkir_dialog_2</has_info>
+        <dont_has_info>sith_shkir_dialog_3</dont_has_info>
+        <phrase_list>
+            <phrase id="2">
+                <text>sith_shkir_dialog_3_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_shkir_dialog_3_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_shkir_dialog_3_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_shkir_dialog_3</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_shkir_dialog_3_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>sith_shkir_dialog_3_1</text>
+                <next>2</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="leshiy_first_dialog_end">
+        <has_info>red_giant_dead</has_info>
+        <dont_has_info>leshiy_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>leshiy_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>leshiy_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>leshiy_first_dialog_end_3</text>
+                <give_info>leshiy_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>leshiy_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_skryabin_first_dialog">
+        <dont_has_info>red_skryabin_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>red_skryabin_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_skryabin_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_skryabin_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_skryabin_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_skryabin_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_skryabin_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>red_skryabin_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>red_skryabin_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>red_skryabin_first_dialog_10</text>
+                <give_info>red_skryabin_first_dialog</give_info>
+            </phrase>
+            <phrase id="6">
+                <text>red_skryabin_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_skryabin_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_skryabin_last_dialog">
+        <dont_has_info>red_skryabin_last_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>red_skryabin_last_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_skryabin_last_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_skryabin_last_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_skryabin_last_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_skryabin_last_dialog_5</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_skryabin_last_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>red_skryabin_last_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="shkir_first_dialog">
+        <dont_has_info>shkir_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>shkir_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>shkir_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>shkir_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>shkir_first_dialog_4</text>
+                <action>dialogs.break_dialog</action>
+                <action>red.shkir_1_task</action>
+                <give_info>shkir_first_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>shkir_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="leshiy_first_dialog">
+        <has_info>shkir_first_dialog</has_info>
+        <dont_has_info>leshiy_first_dialog</dont_has_info>
+        <dont_has_info>leshiy_first_dialog_bad_variant</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>leshiy_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>leshiy_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="0">
+                <text>leshiy_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="3">
+                <text>leshiy_first_dialog_3</text>
+                <next>4</next>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>leshiy_first_dialog_5</text>
+                <give_info>leshiy_first_dialog</give_info>
+                <give_info>leshiy_first_dialog_bad_variant</give_info>
+                <give_info>zawalen</give_info>
+            </phrase>
+            <phrase id="4">
+                <text>leshiy_first_dialog_4</text>
+                <give_info>leshiy_first_dialog</give_info>
+                <give_info>zawalen</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_return_gamma_dialog">
+        <has_info>agr_sith_last_ge_dialog_end</has_info>
+        <dont_has_info>sith_return_gamma_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="5">
+                <text>sith_return_gamma_dialog_5</text>
+                <next>6</next>
+                <next>7</next>
+            </phrase>
+            <phrase id="8">
+                <text>sith_return_gamma_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>sith_return_gamma_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>sith_return_gamma_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>sith_return_gamma_dialog_11</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="7">
+                <text>sith_return_gamma_dialog_7</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>sith_return_gamma_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>sith_return_gamma_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>sith_return_gamma_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>sith_return_gamma_dialog_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>sith_return_gamma_dialog_16</text>
+                <action>new_quests.sith_give_radio</action>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>sith_return_gamma_dialog_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>sith_return_gamma_dialog_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>sith_return_gamma_dialog_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>sith_return_gamma_dialog_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>sith_return_gamma_dialog_21</text>
+                <next>22</next>
+            </phrase>
+            <phrase id="22">
+                <text>sith_return_gamma_dialog_22</text>
+                <next>23</next>
+            </phrase>
+            <phrase id="23">
+                <text>sith_return_gamma_dialog_23</text>
+                <next>24</next>
+            </phrase>
+            <phrase id="24">
+                <text>sith_return_gamma_dialog_24</text>
+                <next>25</next>
+            </phrase>
+            <phrase id="25">
+                <text>sith_return_gamma_dialog_25</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_return_gamma_dialog</give_info>
+            </phrase>
+            <phrase id="6">
+                <text>sith_return_gamma_dialog_6</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_return_gamma_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_return_gamma_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_return_gamma_dialog_4</text>
+                <next>6</next>
+                <next>7</next>
+            </phrase>
+            <phrase id="1">
+                <text>sith_return_gamma_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>sith_return_gamma_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_last_dialog">
+        <dont_has_info>sith_last_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>sith_last_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_last_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_last_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_last_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>sith_last_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>sith_last_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>sith_last_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>sith_last_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>sith_last_dialog_9</text>
+                <action>dialogs.transfer_medkit</action>
+                <give_info>sith_medkit_transfered</give_info>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>sith_last_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>sith_last_dialog_11</text>
+                <action>new_quests.pda_shkir_topor</action>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>sith_last_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>sith_last_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>sith_last_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>sith_last_dialog_15</text>
+                <action>new_quests.sith_mask_return</action>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>sith_last_dialog_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>sith_last_dialog_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>sith_last_dialog_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>sith_last_dialog_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>sith_last_dialog_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>sith_last_dialog_21</text>
+                <next>22</next>
+            </phrase>
+            <phrase id="22">
+                <text>sith_last_dialog_22</text>
+                <next>23</next>
+            </phrase>
+            <phrase id="23">
+                <text>sith_last_dialog_23</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_last_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_last_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_first_dialog_end">
+        <has_info>smirnow_dopros</has_info>
+        <dont_has_info>sith_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>sith_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_first_dialog_end_3</text>
+                <next>4</next>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>sith_first_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>sith_first_dialog_end_7</text>
+                <give_info>sith_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="4">
+                <text>sith_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>sith_first_dialog_end_5</text>
+                <give_info>sith_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_first_dialog">
+        <has_info>shkir_first_dialog_end</has_info>
+        <dont_has_info>sith_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>sith_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_first_dialog_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>sith_first_dialog</give_info>
+                <give_info>sith_first_dialog_2</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>sith_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="shkir_first_dialog_end">
+        <has_info>zawalen</has_info>
+        <dont_has_info>shkir_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="2">
+                <text>shkir_first_dialog_end_2</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>shkir_first_dialog_end_4</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="3">
+                <text>shkir_first_dialog_end_3</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>shkir_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>shkir_first_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>shkir_first_dialog_end_7</text>
+                <action>red.shkir_2_task</action>
+                <give_info>shkir_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="1">
+                <text>shkir_first_dialog_end_1</text>
+                <next>2</next>
+                <next>3</next>
+            </phrase>
+            <phrase id="0">
+                <text>shkir_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="shkir_strelok_dialog">
+        <has_info>sith_first_dialog_end</has_info>
+        <dont_has_info>shkir_strelok_dialog_2</dont_has_info>
+        <phrase_list>
+            <phrase id="8">
+                <text>shkir_strelok_dialog_8</text>
+                <action>dialogs.break_dialog</action>
+                <action>red.shkir_3_task</action>
+                <give_info>shkir_strelok_dialog</give_info>
+                <give_info>shkir_strelok_dialog_2</give_info>
+            </phrase>
+            <phrase id="6">
+                <text>shkir_strelok_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="4">
+                <text>shkir_strelok_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="3">
+                <text>shkir_strelok_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="2">
+                <text>shkir_strelok_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="1">
+                <text>shkir_strelok_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>shkir_strelok_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="5">
+                <text>shkir_strelok_dialog_5</text>
+                <next>6</next>
+                <next>8</next>
+            </phrase>
+            <phrase id="7">
+                <text>shkir_strelok_dialog_7</text>
+                <next>8</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="sith_shkir_dialog_2">
+        <has_info>monolits_dead</has_info>
+        <dont_has_info>sith_shkir_dialog_2</dont_has_info>
+        <phrase_list>
+            <phrase id="9">
+                <text>sith_shkir_dialog_2_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>sith_shkir_dialog_2_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>sith_shkir_dialog_2_11</text>
+                <next>12</next>
+                <next>14</next>
+            </phrase>
+            <phrase id="12">
+                <text>sith_shkir_dialog_2_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>sith_shkir_dialog_2_13</text>
+                <give_info>sith_shkir_dialog_2</give_info>
+            </phrase>
+            <phrase id="14">
+                <text>sith_shkir_dialog_2_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>sith_shkir_dialog_2_15</text>
+                <give_info>sith_shkir_dialog_2</give_info>
+            </phrase>
+            <phrase id="8">
+                <text>sith_shkir_dialog_2_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="1">
+                <text>sith_shkir_dialog_2_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>sith_shkir_dialog_2_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="0">
+                <text>sith_shkir_dialog_2_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="3">
+                <text>sith_shkir_dialog_2_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>sith_shkir_dialog_2_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>sith_shkir_dialog_2_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="7">
+                <text>sith_shkir_dialog_2_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="6">
+                <text>sith_shkir_dialog_2_6</text>
+                <next>7</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="anaconda_first_dialog">
+        <has_info>sith_return_gamma_dialog_end_cutscene_end</has_info>
+        <dont_has_info>anaconda_first_dialog_forgotten</dont_has_info>
+        <phrase_list>
+            <phrase id="3">
+                <text>anaconda_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>anaconda_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="1">
+                <text>anaconda_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>anaconda_first_dialog_2</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>anaconda_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>anaconda_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>anaconda_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>anaconda_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>anaconda_first_dialog_9</text>
+                <next>10</next>
+                <next>11</next>
+                <next>14</next>
+            </phrase>
+            <phrase id="12">
+                <text>anaconda_first_dialog_12</text>
+                <next>13</next>
+                <next>14</next>
+            </phrase>
+            <phrase id="11">
+                <text>anaconda_first_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="13">
+                <text>anaconda_first_dialog_13</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>anaconda_first_dialog_accept</give_info>
+                <give_info>anaconda_first_dialog_forgotten</give_info>
+            </phrase>
+            <phrase id="14">
+                <text>anaconda_first_dialog_14</text>
+                <action>new_quests.anaconda_stol</action>
+                <give_info>anaconda_first_dialog_deny</give_info>
+                <give_info>anaconda_first_dialog_forgotten</give_info>
+            </phrase>
+            <phrase id="10">
+                <text>anaconda_first_dialog_10</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>anaconda_first_dialog_accept</give_info>
+                <give_info>anaconda_first_dialog_forgotten</give_info>
+                <has_info>kilorik_first_dialog_end_end</has_info>
+            </phrase>
+            <phrase id="0">
+                <text>anaconda_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_shkir_last_dialog">
+        <dont_has_info>red_shkir_last_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="3">
+                <text>red_shkir_last_dialog_3</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_shkir_last_dialog</give_info>
+            </phrase>
+            <phrase id="1">
+                <text>red_shkir_last_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_shkir_last_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_shkir_last_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="red_shkir_last_dialog_end">
+        <dont_has_info>red_shkir_last_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="41">
+                <text>red_shkir_last_dialog_end_41</text>
+                <next>42</next>
+            </phrase>
+            <phrase id="43">
+                <text>red_shkir_last_dialog_end_43</text>
+                <next>44</next>
+            </phrase>
+            <phrase id="44">
+                <text>red_shkir_last_dialog_end_44</text>
+                <next>45</next>
+            </phrase>
+            <phrase id="45">
+                <text>red_shkir_last_dialog_end_45</text>
+                <next>46</next>
+            </phrase>
+            <phrase id="46">
+                <text>red_shkir_last_dialog_end_46</text>
+                <next>47</next>
+            </phrase>
+            <phrase id="47">
+                <text>red_shkir_last_dialog_end_47</text>
+                <next>48</next>
+            </phrase>
+            <phrase id="48">
+                <text>red_shkir_last_dialog_end_48</text>
+                <next>49</next>
+            </phrase>
+            <phrase id="49">
+                <text>red_shkir_last_dialog_end_49</text>
+                <next>50</next>
+            </phrase>
+            <phrase id="50">
+                <text>red_shkir_last_dialog_end_50</text>
+                <next>51</next>
+                <next>54</next>
+            </phrase>
+            <phrase id="54">
+                <text>red_shkir_last_dialog_end_54</text>
+                <next>55</next>
+            </phrase>
+            <phrase id="52">
+                <text>red_shkir_last_dialog_end_52</text>
+                <next>53</next>
+            </phrase>
+            <phrase id="53">
+                <text>red_shkir_last_dialog_end_53</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_shkir_last_dialog_end</give_info>
+                <give_info>red_shkir_last_dialog_end_good</give_info>
+            </phrase>
+            <phrase id="55">
+                <text>red_shkir_last_dialog_end_55</text>
+                <next>56</next>
+            </phrase>
+            <phrase id="56">
+                <text>red_shkir_last_dialog_end_56</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>red_shkir_last_dialog_end</give_info>
+                <give_info>red_shkir_last_dialog_end_bad</give_info>
+            </phrase>
+            <phrase id="51">
+                <text>red_shkir_last_dialog_end_51</text>
+                <has_info>leshiy_first_dialog_end</has_info>
+                <next>52</next>
+            </phrase>
+            <phrase id="3">
+                <text>red_shkir_last_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>red_shkir_last_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>red_shkir_last_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="19">
+                <text>red_shkir_last_dialog_end_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="21">
+                <text>red_shkir_last_dialog_end_21</text>
+                <next>22</next>
+            </phrase>
+            <phrase id="23">
+                <text>red_shkir_last_dialog_end_23</text>
+                <next>24</next>
+            </phrase>
+            <phrase id="25">
+                <text>red_shkir_last_dialog_end_25</text>
+                <next>26</next>
+            </phrase>
+            <phrase id="27">
+                <text>red_shkir_last_dialog_end_27</text>
+                <next>28</next>
+            </phrase>
+            <phrase id="29">
+                <text>red_shkir_last_dialog_end_29</text>
+                <next>30</next>
+            </phrase>
+            <phrase id="31">
+                <text>red_shkir_last_dialog_end_31</text>
+                <next>32</next>
+            </phrase>
+            <phrase id="33">
+                <text>red_shkir_last_dialog_end_33</text>
+                <next>34</next>
+            </phrase>
+            <phrase id="35">
+                <text>red_shkir_last_dialog_end_35</text>
+                <next>36</next>
+            </phrase>
+            <phrase id="37">
+                <text>red_shkir_last_dialog_end_37</text>
+                <next>38</next>
+            </phrase>
+            <phrase id="39">
+                <text>red_shkir_last_dialog_end_39</text>
+                <next>40</next>
+            </phrase>
+            <phrase id="0">
+                <text>red_shkir_last_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>red_shkir_last_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>red_shkir_last_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="6">
+                <text>red_shkir_last_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>red_shkir_last_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>red_shkir_last_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>red_shkir_last_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>red_shkir_last_dialog_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>red_shkir_last_dialog_end_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>red_shkir_last_dialog_end_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>red_shkir_last_dialog_end_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>red_shkir_last_dialog_end_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>red_shkir_last_dialog_end_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>red_shkir_last_dialog_end_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>red_shkir_last_dialog_end_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>red_shkir_last_dialog_end_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="20">
+                <text>red_shkir_last_dialog_end_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="22">
+                <text>red_shkir_last_dialog_end_22</text>
+                <next>23</next>
+            </phrase>
+            <phrase id="24">
+                <text>red_shkir_last_dialog_end_24</text>
+                <next>25</next>
+            </phrase>
+            <phrase id="26">
+                <text>red_shkir_last_dialog_end_26</text>
+                <next>27</next>
+            </phrase>
+            <phrase id="28">
+                <text>red_shkir_last_dialog_end_28</text>
+                <next>29</next>
+            </phrase>
+            <phrase id="30">
+                <text>red_shkir_last_dialog_end_30</text>
+                <next>31</next>
+            </phrase>
+            <phrase id="32">
+                <text>red_shkir_last_dialog_end_32</text>
+                <next>33</next>
+            </phrase>
+            <phrase id="34">
+                <text>red_shkir_last_dialog_end_34</text>
+                <next>35</next>
+            </phrase>
+            <phrase id="36">
+                <text>red_shkir_last_dialog_end_36</text>
+                <next>37</next>
+            </phrase>
+            <phrase id="38">
+                <text>red_shkir_last_dialog_end_38</text>
+                <next>39</next>
+            </phrase>
+            <phrase id="40">
+                <text>red_shkir_last_dialog_end_40</text>
+                <next>41</next>
+            </phrase>
+            <phrase id="42">
+                <text>red_shkir_last_dialog_end_42</text>
+                <next>43</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+</game_dialogs>

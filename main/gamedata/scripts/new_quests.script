@@ -1,0 +1,234 @@
+function dragon_eye_task()
+task_manager.get_task_manager():give_task("artefact_drag_eye_find")
+news_manager.send_tip(db.actor, "Инфернис : Сталкер, подойди, тебе нужно кое-что знать насчёт этих артефактов.", nil, "pioneer", nil, nil)
+end
+function dragon_eye_task_2()
+dialogs.relocate_item_section(second_speaker, "detector_scientific", "in")
+end
+function get_swarog (first_speaker, second_speaker)
+dialogs.relocate_item_section(second_speaker, "detector_science_update", "in")
+end
+function has_dragon_eye_art(task, objective) 
+if db.actor ~= nil then
+return db.actor:object("af_dragon_eye") ~= nil
+end
+return false
+end
+function give_dragon_eye_art(first_speaker, second_speaker) 
+dialogs.relocate_item_section(first_speaker, "af_dragon_eye", "out") 
+end
+function money_to_actor_5k (first_speaker, second_speaker)
+dialogs.relocate_money_to_actor(first_speaker, second_speaker, 5000)
+end
+function take_corre_art(task, objective) 
+dialogs.relocate_item_section(second_speaker, "af_corre", "in")
+end
+function geliy_task()
+task_manager.get_task_manager():give_task("artefact_drag_eye_find")
+end
+
+--[[
+function give_geliy_art(first_speaker, second_speaker) 
+dialogs.relocate_item_section(first_speaker, "af_geliy", "out")
+end
+
+]]--
+
+function give_geliy_art(first_speaker, second_speaker)
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "af_geliy")
+end
+
+function give_geliy_art_to_actor(task, objective) 
+dialogs.relocate_item_section(second_speaker, "af_geliy", "in")
+end
+
+function give_strelok_note(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "strelok_note")
+end
+
+function take_dagger(task, objective) 
+dialogs.relocate_item_section(second_speaker, "wpn_dagger", "in")
+dialogs.relocate_item_section(second_speaker, "ammo_9x39_sp5", "in")
+end
+
+
+function sith_give_radio(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "sith_radio", "in")
+end
+
+function anaconda_stol(first_speaker, second_speaker)
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit_army")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit_army")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit_scientic")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "medkit_scientic")
+end
+
+function for_first_contract(first_speaker, second_speaker)
+dialogs.relocate_item_section(second_speaker, "ecolog_1_outfit", "in")
+dialogs.relocate_item_section(second_speaker, "detector_forgotten", "in")
+dialogs.relocate_item_section(second_speaker, "item_for_art_1", "in")
+dialogs.relocate_item_section(second_speaker, "item_for_art_2", "in")
+dialogs.relocate_item_section(second_speaker, "item_for_art_3", "in")
+dialogs.relocate_item_section(second_speaker, "item_for_art_4", "in")
+xr_effects.in_ecolog(actor, nil)
+end
+
+function for_give_artefacts(first_speaker, second_speaker)
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "af_geliy")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "af_monolith")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "af_vaselisk")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "af_dragon_eye")
+dialogs.relocate_money_to_actor(first_speaker, second_speaker, 5000)
+end
+
+function has_4500_money(actor, npc)
+	return actor:money() >= 4500
+end
+
+function give_4500_money(actor, npc)
+	dialogs.relocate_money(npc, 4500, "out")	
+end
+
+function for_kilorik_armor_info(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "kilorik_armor_info", "in")
+end
+
+function for_kilorik_receive_1(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "scientific_outfit", "in")
+end
+function for_kilorik_receive_2(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "dolg_sc_outfit", "in")
+end
+function for_kilorik_receive_3(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "free_sc_outfit", "in")
+end
+function for_kilorik_receive_4(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "kill_sc_outfit", "in")
+end
+function for_kilorik_receive_5(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "mono_sc_outfit", "in")
+end
+function for_kilorik_receive_6(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "csky_sc_outfit", "in")
+end
+function for_kilorik_receive_7(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "ecolog_1_outfit", "in")
+end
+function for_kilorik_receive_8(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "ecolog_2_outfit", "in")
+end
+function for_kilorik_receive_9(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "ecolog_3_outfit", "in")
+end
+function for_kilorik_receive_10(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "ecolog_4_outfit", "in")
+end
+function for_kilorik_receive_money(first_speaker, second_speaker)
+dialogs.relocate_money_to_actor(first_speaker, second_speaker, 10000)
+end
+
+function for_kilorik_receive_armor_info(first_speaker, second_speaker)
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "kilorik_armor_info")
+end
+
+function hrust_task()
+task_manager.get_task_manager():give_task("for_hrust_quest_part_1")
+dialogs.relocate_item_section(second_speaker, "drug_psy_blockade", "in")
+dialogs.relocate_item_section(second_speaker, "drug_psy_blockade", "in")
+dialogs.relocate_item_section(second_speaker, "drug_psy_blockade_infernis", "in")
+end
+
+function give_item_for_red_barocamera_info()
+dialogs.relocate_item_section(second_speaker, "for_red_barocamera_info", "in")
+end
+
+function for_give_red_barocamera_info(first_speaker, second_speaker)
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "for_red_barocamera_info")
+dialogs.medic_magic_potion()
+dialogs.relocate_money_to_actor(first_speaker, second_speaker, 7500)
+end
+
+function for_bloodsucker_quest_part_2()
+task_manager.get_task_manager():give_task("for_bloodsucker_quest_part_2")
+end
+
+function for_bloodsucker_quest_part_3(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "mutant_krovosos_black_jaw")
+end
+
+function for_professor_first_weapon_dialog_end(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "lim_stalker_pda")
+end
+
+function for_infernis_give_vodka(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "vodka_infernis", "in")
+end
+
+function infernis_after_drunk_outfit(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "anarchist_outfit")
+end
+
+function for_professor_note_dialog(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "for_lab_jekyll_info")
+end
+
+function wpn_gauss_aes_give(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "wpn_gauss_aes", "in")
+end
+
+function sith_mask_give(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "sith_mask", "in")
+end
+
+function wpn_gauss_aes_relocate(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "wpn_gauss_aes")
+end
+
+function for_infernis_gone_soul_dialog_end(first_speaker, second_speaker)
+dialogs.relocate_item_section(second_speaker, "fraktor_amulette", "in")
+task_manager.get_task_manager():give_task("gone_soul_reunite")
+end
+
+function infernis_war_note_rel(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "infernis_war_note")
+end
+
+function for_infernis_give_good_vodka(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "vodka_infernis_good", "in")
+end
+
+function fraktor_amulette_rel(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "fraktor_amulette")
+end
+
+function le_deux(first_speaker, second_speaker)
+dialogs.relocate_item_section(second_speaker, "wpn_gauss_forgotten", "in")
+task_manager.get_task_manager():give_task("for_gauss_testing")
+end
+
+red_shkir_attack = {
+	[1] = "red_shkir_enable_to_attack",
+}
+
+function pda_shkir_topor(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "shkir_pda")
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "topor_pda")
+end
+
+function sith_mask_return(first_speaker, second_speaker) 
+dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "sith_mask")
+end
+
+function shkir_gauss_unpacking(first_speaker, second_speaker) 
+dialogs.relocate_item_section(second_speaker, "ammo_gauss", "in")
+dialogs.relocate_item_section(second_speaker, "ammo_gauss", "in")
+dialogs.relocate_item_section(second_speaker, "ammo_gauss", "in")
+dialogs.relocate_item_section(second_speaker, "ammo_gauss", "in")
+dialogs.relocate_item_section(second_speaker, "ammo_gauss", "in")
+end
+
+function shved_forgotten_way(first_speaker, second_speaker)
+task_manager.get_task_manager():give_task("shved_forgotten_way")
+end

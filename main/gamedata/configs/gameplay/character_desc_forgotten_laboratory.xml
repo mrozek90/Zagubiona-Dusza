@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<xml>
+
+	<specific_character id="for_lab_shkir" team_default="1">
+		<name>shkir</name>
+		<icon>ui_inGame2_Shkir</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+		<class>for_lab_shkir</class>
+		<community>actor</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+
+		<rank>930</rank>
+		<reputation>-50</reputation>
+
+		<visual>actors\stalker_merc\shkir_barrier_forgotten</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+  </specific_character>
+
+  <specific_character id="for_lab_infernis" team_default = "1">
+    <name>infernis</name>
+    <icon>ui_inGame2_Infernis</icon>
+    <map_icon x="1" y="0"></map_icon>
+    <bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+    <class>for_lab_infernis</class>
+    <community>freedom</community> <terrain_sect>stalker_terrain</terrain_sect>
+    <snd_config>characters_voice\human_01\stalker\</snd_config>
+
+    <rank>850</rank>
+    <reputation>15</reputation>
+	<money min="10000" max="15000" infinitive="0"/>
+    <visual>monsters\infernis\infernis</visual>
+    <supplies>
+      [spawn] \n
+      
+      wpn_sig220_infernis_u = 1 \n
+      ammo_11.43x23_ultima = 1 \n
+			
+#include "gameplay\character_items_3.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_4.xml"
+#include "gameplay\character_drugs_sci.xml"
+
+#include "gameplay\character_sell_weapons.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+
+  </specific_character>
+
+	<specific_character id="flsd" team_default="1">
+		<name>shkir</name>
+		<icon>ui_inGame2_Shkir</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+		<class>flsd</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\stalker\</snd_config>
+
+		<rank>930</rank>
+		<reputation>-50</reputation>
+
+		<visual>actors\stalker_merc\shkir_black</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+  </specific_character>
+
+	<specific_character id="flid" team_default="1">
+		<name>infernis</name>
+		<icon>ui_inGame2_Infernis</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+		<class>flid</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\stalker\</snd_config>
+
+		<rank>850</rank>
+		<reputation>15</reputation>
+
+		<visual>actors\stalker_merc\shkir_black</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+  </specific_character>
+
+  <specific_character id="for_lab_infernis_death" team_default = "1">
+    <name>infernis</name>
+    <icon>ui_inGame2_Infernis</icon>
+    <map_icon x="1" y="0"></map_icon>
+    <bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+    <class>for_lab_infernis</class>
+    <community>freedom</community> <terrain_sect>stalker_terrain</terrain_sect>
+    <snd_config>characters_voice\human_01\stalker\</snd_config>
+
+    <rank>850</rank>
+    <reputation>15</reputation>
+	<money min="10000" max="15000" infinitive="0"/>
+    <visual>monsters\infernis\infernis</visual>
+    <supplies>
+      [spawn] \n
+      
+      grenade_gravi = 3 \n
+      grenade_electra = 3 \n
+      grenade_chemi = 5 \n
+      grenade_fire = 3 \n
+			
+#include "gameplay\character_items_3.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_4.xml"
+#include "gameplay\character_drugs_sci.xml"
+
+#include "gameplay\character_sell_weapons.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+
+  </specific_character>
+
+	<specific_character id="for_lab_topor" team_default="1">
+		<name>topor</name>
+		<icon>ui_inGame2_merc_4</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>ќпытный сталкер. ƒетальна¤ информаци¤ отсутствует.</bio>
+
+		<class>for_lab_topor</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+
+		<rank>903</rank>
+		<reputation>10</reputation>
+
+		<visual>actors\stalker_merc\stalker_merc_4</visual>
+		<supplies>
+      [spawn] \n
+
+      wpn_pkm = 1 \n
+      ammo_pkm_100 = 1 \n
+      grenade_f1 = 3 \n
+      topor_pda = 1 \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+		<actor_dialog>red_bridge_bridge_move_down</actor_dialog>
+		<actor_dialog>red_bridge_bridge_move_up</actor_dialog>
+  </specific_character>
+
+</xml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+    <dialog id="infernis_first_dialog" priority="500000">
+        <has_info>shkir_gg_first_dialog_end</has_info>
+        <dont_has_info>infernis_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="7">
+                <text>infernis_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="9">
+                <text>infernis_first_dialog_9</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>infernis_first_dialog</give_info>
+            </phrase>
+            <phrase id="8">
+                <text>infernis_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="5">
+                <text>infernis_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>infernis_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="1">
+                <text>infernis_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="3">
+                <text>infernis_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="0">
+                <text>infernis_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>infernis_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="4">
+                <text>infernis_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+</game_dialogs>

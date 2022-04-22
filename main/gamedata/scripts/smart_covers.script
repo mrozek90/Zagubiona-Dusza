@@ -1,0 +1,604 @@
+if (_G.object == nil) then
+	_G.object = {}
+end
+
+local jump_time = nil
+
+function script_functor_jump()
+	--[[
+	if (jump_time ~= nil and jump_time + 10000 <= time_global()) or jump_time == nil then
+		jump_time = time_global()
+		return true
+	end
+	return false
+	]]--
+	return true
+end
+
+function script_functor_true()
+	return true
+end
+
+function exit_random(p)
+	return math.random(100) <= tonumber(p)
+end
+
+descriptions = {
+	--[[duplo = {
+		loopholes = {
+			-- {
+				-- id = "loophole_enter",
+				-- fov_position = vector():set(1.1, -.65 ,-1.4),
+				-- fov_direction = vector():set(-1,0,0),
+				-- enter_direction = vector():set(1,0,0),
+				-- enter_crouching = false,
+				-- enterable = true,
+				-- exitable = false,
+				-- usable = false,
+				-- actions = {
+					-- idle = {
+						-- "loophole_1_in_front_0",
+					-- },
+				-- },
+			-- },
+			{
+				id = "loophole_0",
+				fov_position = vector():set (1.1,0,-1.4),
+				fov_direction = vector():set(-1,0,0),
+				enter_direction = vector():set(1,0,0),
+--				enterable = false,
+--				enterable = true,
+--				enter_crouching = true,
+--				exitable = true,
+				usable = true,
+				fov	= 60.0,
+				range = 32.0,
+				actions = {
+					idle = {
+						animations = {
+							idle = {
+								"loophole_1_idle_0",
+							},
+						},
+					},
+					lookout = {
+						animations = {
+							idle = {
+								"loophole_1_look_out_0",
+							},
+						},
+					},
+					fire = {
+						animations = {
+							idle = {
+								"loophole_1_attack_idle_0",
+							},
+							shoot = {
+								"loophole_1_attack_shoot_0",
+							},
+						},
+					},
+					fire_no_lookout = {
+						animations = {
+							idle = {
+								"loophole_1_attack_idle_0",
+							},
+							shoot = {
+								"loophole_1_attack_shoot_0",
+							},
+						},
+					},
+					reload = {
+						animations = {
+							idle = {
+								"loophole_1_reload_0",
+							},
+						},
+					},
+					exit = {
+						movement = true,
+						position = vector():set(0,0,2),
+						animations = {
+							idle = {
+								"loophole_1_jump_0",
+							},
+						},
+					},
+				},
+				transitions = {
+					{
+						action_from = "idle",
+						action_to = "lookout",
+						weight = 1.2,
+						animations = {
+							"loophole_1_look_in_0",
+						},
+					},
+					{
+						action_from = "lookout",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_1_look_out_0",
+						},
+					},
+					{
+						action_from = "idle",
+						action_to = "fire",
+						weight = 1.2,
+						animations = {
+							"loophole_1_attack_in_0",
+						},
+					},
+					{
+						action_from = "fire",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_1_attack_out_0",
+						},
+					},
+					{
+						action_from = "idle",
+						action_to = "fire_no_lookout",
+						weight = 1.2,
+						animations = {
+							"loophole_1_attack_in_0",
+						},
+					},
+					{
+						action_from = "fire_no_lookout",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_1_attack_out_0",
+						},
+					},
+				},
+			},
+			-- {
+				-- id = "loophole_1",
+				-- position = vector():set(0.5,0,2),
+				-- direction = vector():set(0,0,-1),
+				-- enterable = false,
+				-- usable = true,
+				-- fov	= 60.0,
+				-- range = 32.0,
+				-- actions = {
+					-- idle = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_idle_0",
+							-- },
+						-- },
+					-- },
+					-- lookout = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_lookout_0",
+							-- },
+						-- },
+					-- },
+					-- fire = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+							-- shoot = {
+								-- "loophole_1_attack_shoot_0",
+							-- },
+						-- },
+					-- },
+					-- fire_no_lookout = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+							-- shoot = {
+								-- "loophole_1_attack_shoot_0",
+							-- },
+						-- },
+					-- },
+					-- reload = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_reload_0",
+							-- },
+						-- },
+					-- },
+					-- exit = {
+						-- movement = true,
+						-- position = vector():set(0,0,2),
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+						-- },
+					-- },
+				-- },
+				-- transitions = {
+					-- {
+						-- action_from = "idle",
+						-- action_to = "lookout",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_look_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "lookout",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_look_to_idle_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "idle",
+						-- action_to = "fire",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_attack_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "fire",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_attack_to_idle_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "idle",
+						-- action_to = "fire_no_lookout",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_attack_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "fire_no_lookout",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_attack_to_idle_0",
+						-- },
+					-- },
+				-- },
+			-- },
+			{
+				id = "loophole_2",
+				fov_position = vector():set (1.1,0,1.4),
+				fov_direction = vector():set(-1,0,0),
+				enter_direction = vector():set(1,0,0),
+				enterable = true,
+				enter_crouching = true,
+				exitable = false,
+				usable = true,
+				fov	= 60.0,
+				range = 32.0,
+				actions = {
+					idle = {
+						animations = {
+							idle = {
+								"loophole_3_idle_0",
+							},
+						},
+					},
+					lookout = {
+						animations = {
+							idle = {
+								"loophole_3_look_out_0",
+							},
+						},
+					},
+					fire = {
+						animations = {
+							idle = {
+								"loophole_3_attack_idle_0",
+							},
+							shoot = {
+								"loophole_3_attack_shoot_0",
+							},
+						},
+					},
+					fire_no_lookout = {
+						animations = {
+							idle = {
+								"loophole_3_look_idle_0",
+							},
+							shoot = {
+								"loophole_3_look_shoot_0",
+							},
+						},
+					},
+					reload = {
+						animations = {
+							idle = {
+								"loophole_3_reload_0",
+							},
+						},
+					},
+					exit = {
+						movement = true,
+						position = vector():set(0,0,2),
+						animations = {
+							idle = {
+								"loophole_3_jump_0",
+							},
+						},
+					},
+				},
+				transitions = {
+					{
+						action_from = "idle",
+						action_to = "lookout",
+						weight = 1.2,
+						animations = {
+							"loophole_3_look_in_0",
+						},
+					},
+					{
+						action_from = "lookout",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_3_look_out_0",
+						},
+					},
+					{
+						action_from = "idle",
+						action_to = "fire",
+						weight = 1.2,
+						animations = {
+							"loophole_3_attack_in_0",
+						},
+					},
+					{
+						action_from = "fire",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_3_attack_out_0",
+						},
+					},
+					{
+						action_from = "idle",
+						action_to = "fire_no_lookout",
+						weight = 1.2,
+						animations = {
+							"loophole_3_no_look_in_0",
+						},
+					},
+					{
+						action_from = "fire_no_lookout",
+						action_to = "idle",
+						weight = 1.2,
+						animations = {
+							"loophole_3_no_look_out_0",
+						},
+					},
+				},
+			},
+			-- {
+				-- id = "loophole_3",
+				-- position = vector():set (-0.5,0,-2),
+				-- direction = vector():set(0,0,1),
+				-- enterable = false,
+				-- usable = true,
+				-- fov	= 60.0,
+				-- range = 32.0,
+				-- actions = {
+					-- idle = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_idle_0",
+							-- },
+						-- },
+					-- },
+					-- lookout = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_lookout_0",
+							-- },
+						-- },
+					-- },
+					-- fire = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+							-- shoot = {
+								-- "loophole_1_attack_shoot_0",
+							-- },
+						-- },
+					-- },
+					-- fire_no_lookout = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+							-- shoot = {
+								-- "loophole_1_attack_shoot_0",
+							-- },
+						-- },
+					-- },
+					-- reload = {
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_reload_0",
+							-- },
+						-- },
+					-- },
+					-- exit = {
+						-- movement = true,
+						-- position = vector():set(0,0,2),
+						-- animations = {
+							-- idle = {
+								-- "loophole_1_attack_idle_0",
+							-- },
+						-- },
+					-- },
+				-- },
+				-- transitions = {
+					-- {
+						-- action_from = "idle",
+						-- action_to = "lookout",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_look_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "lookout",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_look_to_idle_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "idle",
+						-- action_to = "fire",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_attack_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "fire",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_attack_to_idle_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "idle",
+						-- action_to = "fire_no_lookout",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_idle_to_attack_0",
+						-- },
+					-- },
+					-- {
+						-- action_from = "fire_no_lookout",
+						-- action_to = "idle",
+						-- weight = 1.2,
+						-- animations = {
+							-- "loophole_1_attack_to_idle_0",
+						-- },
+					-- },
+				-- },
+			-- },
+		},
+		transitions = {
+			{
+				vertex0 = "",
+				vertex1 = "loophole_0",
+				weight = 1.0,
+				actions = {
+					{
+						position = vector():set(0, -.67, 1),
+						precondition_functor = "smart_covers.script_functor_true",
+						precondition_params = "",
+						animation = "loophole_1_in_front_0",
+					},
+				},
+			},
+			{
+				vertex0 = "loophole_0",
+				vertex1 = "",
+				weight = 1.0,
+				actions = {
+					{
+						position = vector():set(0,0,1),
+						precondition_functor = "smart_covers.script_functor_true",
+						precondition_params = "",
+						--body_state = move.standing, movement_type = move.run,
+						--time = 5.0,
+						animation = "loophole_1_exit_jump_0",
+					},
+				},
+			},
+			{
+				vertex0 = "loophole_0",
+				vertex1 = "loophole_2",
+				weight = 1.0,
+				actions = {
+					{
+						position = vector():set(0,0,1),
+						precondition_functor = "smart_covers.script_functor_true",
+						precondition_params = "",
+						animation = "loophole_transition_1_to_3",
+					},
+				},
+			},
+			{
+				vertex0 = "loophole_2",
+				vertex1 = "loophole_0",
+				weight = 1.1,
+				actions = {
+					{
+						position = vector():set(0,0,1),
+						precondition_functor = "smart_covers.script_functor_true",
+						precondition_params = "",
+						animation = "loophole_transition_3_to_1",
+					},
+				},
+			},
+		},
+	},--]]
+
+
+	--combat 					= smart_covers_combat.get_smart_cover(),
+	combat_prone 			= smart_covers_combat_prone.get_smart_cover(),
+	combat_front			= smart_covers_combat_front.get_smart_cover(),
+	
+	animpoint_stay_wall 	= smart_covers_animpoint_stay_wall.get_smart_cover(),
+	animpoint_stay_table 	= smart_covers_animpoint_stay_table.get_smart_cover(),	
+	animpoint_sit_high 		= smart_covers_animpoint_sit_high.get_smart_cover(),
+	animpoint_sit_normal 	= smart_covers_animpoint_sit_normal.get_smart_cover(),
+	animpoint_sit_low 		= smart_covers_animpoint_sit_low.get_smart_cover(),
+	animpoint_sit_ass 		= smart_covers_animpoint_sit_ass.get_smart_cover(),
+	animpoint_sit_knee 		= smart_covers_animpoint_sit_knee.get_smart_cover(),
+	animpoint_sit 		= smart_covers_animpoint_sit.get_smart_cover(),
+	animpoint_sleep 		= smart_covers_animpoint_sleep.get_smart_cover(),
+	animpoint_sleep_sit 		= smart_covers_animpoint_sleep_sit.get_smart_cover(),
+	animpoint_sleep_lead_0 		= smart_covers_animpoint_sleep_lead_0.get_smart_cover(),
+	animpoint_sit_lead_0 		= smart_covers_animpoint_sit_lead_0.get_smart_cover(),
+	animpoint_sit_lead_2 		= smart_covers_animpoint_sit_lead_2.get_smart_cover(),
+	animpoint_sit_old_1 		= smart_covers_animpoint_sit_old_1.get_smart_cover(),
+	animpoint_sit_old_2 		= smart_covers_animpoint_sit_old_2.get_smart_cover(),
+	animpoint_sit_old_3 		= smart_covers_animpoint_sit_old_3.get_smart_cover(),
+	animpoint_sit_zulus 		= smart_covers_animpoint_sit_zulus.get_smart_cover(),
+	animpoint_stay_lead_1 		= smart_covers_animpoint_stay_lead_1.get_smart_cover(),
+	animpoint_stay_lead_1_trader 		= smart_covers_animpoint_stay_lead_1_trader.get_smart_cover(),
+	animpoint_stay_chest 		= smart_covers_animpoint_stay_chest.get_smart_cover(),
+	animpoint_stay_ward 		= smart_covers_animpoint_stay_ward.get_smart_cover(),
+	animpoint_stay_binocular 		= smart_covers_animpoint_stay_binocular.get_smart_cover(),
+	animpoint_stay_trade 		= smart_covers_animpoint_stay_trade.get_smart_cover(),
+	animpoint_stay_komandir 		= smart_covers_animpoint_stay_komandir.get_smart_cover(),
+	animpoint_stay_stand_0 		= smart_covers_animpoint_stay_stand_0.get_smart_cover(),
+	animpoint_stay_stand_1 		= smart_covers_animpoint_stay_stand_1.get_smart_cover(),
+	animpoint_stay_smoke 		= smart_covers_animpoint_stay_smoke.get_smart_cover(),
+	animpoint_stay_drunk 		= smart_covers_animpoint_stay_drunk.get_smart_cover(),
+	animpoint_stay_bar_0 		= smart_covers_animpoint_stay_bar_0.get_smart_cover(),
+	animpoint_stay_bar_1 		= smart_covers_animpoint_stay_bar_1.get_smart_cover(),
+	animpoint_stay_bar_2 		= smart_covers_animpoint_stay_bar_2.get_smart_cover(),
+	animpoint_stay_bar_3 		= smart_covers_animpoint_stay_bar_3.get_smart_cover(),
+	animpoint_stay_bar_4 		= smart_covers_animpoint_stay_bar_4.get_smart_cover(),
+	animpoint_stay_drink_5 		= smart_covers_animpoint_stay_drink_5.get_smart_cover(),
+	animpoint_stay_drink_7 		= smart_covers_animpoint_stay_drink_7.get_smart_cover(),
+	animpoint_stay_drink_8 		= smart_covers_animpoint_stay_drink_8.get_smart_cover(),
+	animpoint_stay_drink_9 		= smart_covers_animpoint_stay_drink_9.get_smart_cover(),
+	animpoint_stay_drink_11 		= smart_covers_animpoint_stay_drink_11.get_smart_cover(),
+	animpoint_stay_lead_1_bar 		= smart_covers_animpoint_stay_lead_1_bar.get_smart_cover(),
+
+}
+
+
+function main()
+	print_table(descriptions)
+end

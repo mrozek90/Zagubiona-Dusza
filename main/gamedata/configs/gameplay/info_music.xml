@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<game_information_portions>
+
+   <info_portion id="ffdp_got_your_six"></info_portion>
+   
+   <info_portion id="ffdp_wash_it_all_away"></info_portion>
+   
+   <info_portion id="ffdp_crossing_over"></info_portion>
+   
+   <info_portion id="ffdp_sham_pain"></info_portion>
+   
+   <info_portion id="ffdp_the_pride"></info_portion>
+   
+   <info_portion id="ffdp_blue_on_black"></info_portion>
+   
+   <info_portion id="ffdp_succubus"></info_portion>
+   
+   <info_portion id="ffdp_wrong_side_of_heaven"></info_portion>
+   
+   <info_portion id="ffdp_a_little_bit_off"></info_portion>
+   
+   <info_portion id="ffdp_making_monsters"></info_portion>
+   
+   <info_portion id="aui_inventory_hide">
+		<disable>ui_inventory</disable>
+   </info_portion>
+
+</game_information_portions>

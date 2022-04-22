@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<xml>
+
+	<specific_character id="death_leshiy" team_default="1">
+		<name>leshiy</name>
+		<icon>ui_inGame2_neutral_nauchniy</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+		<class>leshiy</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\stalker\</snd_config>
+
+		<rank>920</rank>
+		<reputation>20</reputation>
+
+		<visual>actors\stalker_merc\death_leshiy</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+
+<actor_dialog>leshiy_first_dialog_end</actor_dialog>
+<actor_dialog>leshiy_first_dialog</actor_dialog>
+
+
+  </specific_character>
+
+	<specific_character id="death_kane" team_default="1">
+		<name>kane</name>
+		<icon>ui_inGame2_Kane</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+		<class>kane</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\stalker\</snd_config>
+
+		<rank>490</rank>
+		<reputation>10</reputation>
+
+		<visual>actors\stalker_merc\death_kane</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+  </specific_character>
+
+	<specific_character id="death_phobos" team_default="1">
+		<name>phobos</name>
+		<icon>ui_inGame2_Phobos</icon>
+		<map_icon x="1" y="0">
+		</map_icon>
+		<bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+		<class>phobos</class>
+		<community>killer</community>
+		<terrain_sect>stalker_terrain</terrain_sect>
+		<snd_config>characters_voice\human_03\stalker\</snd_config>
+
+		<rank>500</rank>
+		<reputation>11</reputation>
+
+		<visual>actors\stalker_merc\death_phobos</visual>
+		<supplies>
+      [spawn] \n
+
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_3.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+  </specific_character>
+
+  <specific_character id="death_suhoi" team_default = "1">
+    <name>suhoi</name>
+    <icon>ui_inGame2_neutral_nauchniy</icon>
+    <map_icon x="1" y="0"></map_icon>
+    <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+    <class>suhoi</class>
+    <community>killer</community> <terrain_sect>stalker_terrain</terrain_sect>
+    <snd_config>characters_voice\human_03\stalker\</snd_config>
+
+    <rank>435</rank>
+    <reputation>10</reputation>
+
+    <visual>actors\stalker_merc\death_suhoi</visual>
+    <supplies>
+      [spawn] \n
+#include "gameplay\character_items_nd.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+  </specific_character>
+
+  <specific_character id="for_dre_infernis" team_default = "1">
+    <name>infernis</name>
+    <icon>ui_inGame2_Infernis</icon>
+    <map_icon x="1" y="0"></map_icon>
+    <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+    <class>for_dre_infernis</class>
+    <community>freedom</community> <terrain_sect>stalker_terrain</terrain_sect>
+    <snd_config>characters_voice\human_01\stalker\</snd_config>
+
+    <rank>901</rank>
+    <reputation>15</reputation>
+	<money min="10000" max="15000" infinitive="0"/>
+    <visual>actors\stalker_freedom\wounded_infernis</visual>
+    <supplies>
+      [spawn] \n
+      
+#include "gameplay\character_items_3.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_4.xml"
+#include "gameplay\character_drugs_sci.xml"
+
+#include "gameplay\character_sell_weapons.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+  </specific_character>
+
+</xml>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<game_information_portions>
+
+    <info_portion id="prepare_to_infernis_first_dialog">
+    </info_portion>
+	
+    <info_portion id="infernis_first_dialog">
+    </info_portion>
+	
+    <info_portion id="where_is_infernis">
+    </info_portion>
+	
+    <info_portion id="infernis_return_dialog">
+    </info_portion>
+	
+</game_information_portions>

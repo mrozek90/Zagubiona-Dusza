@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="anaconda_forgotten_come_1">
+		<text>Лиманск: Сопроводить Анаконду</text>
+	</string>
+	<string id="anaconda_forgotten_come_2">
+		<text>Возможно, «Забытые Края», про которые говорит этот бандит - и есть то место, где скрывается Шкир.</text>
+	</string>
+	<string id="anaconda_forgotten_come_3">
+		<text>Лиманск: Поговорить с Анакондой</text>
+	</string>
+	<string id="anaconda_forgotten_come_4">
+		<text>Почему он остановился?</text>
+	</string>
+	
+	<string id="shved_hospital_come_1">
+		<text>Лиманск: Сопроводить Шведа до Госпиталя</text>
+	</string>
+	<string id="shved_hospital_come_2">
+		<text>Этот сталкер знает, куда направился Шкир, поэтому надо помочь ему добраться до нужного ему места.</text>
+	</string>
+	<string id="shved_hospital_come_3">
+		<text>Лиманск: Поговорить со Шведом</text>
+	</string>
+	<string id="shved_hospital_come_4">
+		<text>Вроде бы мы оба живы. Теперь настало время говорить.</text>
+	</string>
+	
+</string_table>

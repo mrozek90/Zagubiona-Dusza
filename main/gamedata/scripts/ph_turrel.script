@@ -1,0 +1,362 @@
+--[[------------------------------------ Логика автоматической охранной турели
+--
+-----------------------------	makdm, 2014 for Время Альянса 3.0
+--
+Параметры считываются из секции логики
+--
+enemy 				Назначить врага ( actor, stalker, monster, all )
+on_death_info		Выдать инфопоршион при гибели турели
+auto_fire			Разрешить автоматически начинать атаку
+fire_range			Радиус охраняемой территории
+show_health			Показать полоску жизни на худе
+map_spot			Установить метку на карте в ПДА
+invulnerable		Установить неуязвимость ( поддерживает кондлист )
+fire_angle			Угол обстрела относительно начального положения
+community			Группировка турели ( stalker, dolg, freedom и т.д.).
+					Работает, если enemy = all. Атакует только врагов своей группировки.
+--
+--	
+]]-------------------------------------------------------------
+
+class "action_turrel"
+function action_turrel:__init( obj, storage )
+
+	self.object = obj
+	self.turrel = obj:get_helicopter()
+	self.st = storage
+
+	self.st.comm = nil
+	self.st.enemy = nil
+	self.st.auto_fire = nil
+	self.attack_enemy = false
+	self.position = false
+	self.good_angle = false
+	self.not_wounded = true
+	self.show_health = false
+	self.st.map_spot = false
+	self.start_direction  =  self.object:direction()
+end
+
+function action_turrel:reset_scheme( loading )
+
+	self.turrel:TurnEngineSound( false )
+
+--'если разрешено атаковать и назначен враг, то включаем fastcall
+
+	if self.st.auto_fire and self.st.fire_target ~= nil then
+		self.object:set_fastcall( self.fastcall, self )
+	end
+	
+	if self.st.map_spot then
+		if level.map_has_object_spot( self.object:id(), "turrel" ) == 0 then
+			level.map_add_object_spot_ser( self.object:id(), "turrel", "" )
+		end
+	end
+		
+	if self.st.show_health then
+		self:cs_remove()
+		self.show_health = true
+		self:cs_turrel()
+	else
+		self.show_health = false
+		self:cs_remove()
+	end
+end
+
+function action_turrel:update( delta )
+
+	if xr_logic.try_switch_to_another_section( self.object, self.st, db.actor ) then
+		return
+	end
+	
+	if not self.st.auto_fire and self.turrel:GetfHealth() <= 0.005 then
+		self:destroy_turrel()
+	end
+
+end
+
+function action_turrel:hit_callback()
+	if self.st.show_health and self.turrel:GetfHealth() > 0.005 then
+		self:set_cs_turrel_progress_health()
+	end
+	-- Если ГГ атакует ножом, то это не отнимает здоровье
+	local slot = db.actor:active_slot()
+	if slot and slot == 1 then
+		local health = 1
+		self.turrel:SetfHealth( health )
+	end
+end
+
+function action_turrel:fastcall()
+	if db.storage[ self.object:id() ].active_scheme ~= "turrel" then
+		return true
+	end
+	return self:fast_update()
+end
+
+function action_turrel:fast_update()
+
+	if self.turrel:GetfHealth() <= 0.005 then
+		self:destroy_turrel()
+		return true --' турель уничтожена снимаем апдейт
+	end
+	
+-- поиск врага
+
+		if self.st.enemy == nil then
+			self:get_enemy()
+		end
+
+-- враг найден. Начинаем повторную проверку		
+
+		if self.st.enemy ~= nil then
+		
+-- позиция могла измениться. Враг мог отойти за пределы fire_range. 
+	 
+			self.position = self.object:position():distance_to_sqr( self.st.enemy:position() ) <= ( self.st.fire_range * self.st.fire_range )
+			
+-- возможно враг ушёл из сектора обстрела. 
+			
+			self.good_angle = good_angle( self.object, self.st.enemy:position(), self.start_direction, self.st.fire_angle )
+			if self.good_angle then
+				self.turrel:LookAtPoint( self.st.enemy:position(), true ) --' поворот в сторону врага
+			end
+			
+-- раненые не представляют угрозы. 
+
+			if IsStalker( self.st.enemy ) then
+				self.not_wounded = xr_wounded.is_wounded( self.st.enemy ) == false
+			else
+				self.not_wounded = true
+			end
+
+-- если все условия выполнены, то атакуем врага. Если нет, то ищем нового врага.
+			
+			if self.st.enemy:alive() and self.position and self.not_wounded and self.good_angle	and self.turrel:isVisible( self.st.enemy )	then
+				
+				if self.attack_enemy == false then
+					self.turrel:SetEnemy( self.st.enemy ) --' Атакуем врага
+					self.attack_enemy = true
+				end
+				
+			else
+				self.turrel:ClearEnemy()
+				self.st.enemy = nil --' Ищем нового врага
+				self.attack_enemy = false
+			end
+			
+		end
+			
+return false
+end
+
+function action_turrel:get_enemy()
+
+--Враг актор
+
+	if self.st.fire_target == "actor" then
+		local actor = db.actor
+		if actor then
+			if self.object:position():distance_to_sqr( actor:position() ) <= ( self.st.fire_range * self.st.fire_range ) then
+				if self.object:get_helicopter():isVisible( actor ) then
+					if good_angle( self.object, actor:position(), self.start_direction, self.st.fire_angle ) then
+						self.st.enemy = actor
+					end
+				end
+			end
+		end
+	return
+	end
+
+--Враг сталкер	
+	
+	if self.st.fire_target == "stalker" then
+		local index = 0
+		local min_dist2D = self.st.fire_range * self.st.fire_range
+		while index < db.heli_enemy_count do
+			if db.heli_enemies[ index ] then
+				if distance_2d( self.object:position(), db.heli_enemies[ index ]:position() ) < min_dist2D then
+					if self.object:get_helicopter():isVisible( db.heli_enemies[ index ] ) then
+						if xr_wounded.is_wounded( db.heli_enemies[ index ] ) == false then
+							if good_angle( self.object, db.heli_enemies[ index ]:position(), self.start_direction, self.st.fire_angle ) then
+								self.st.enemy = db.heli_enemies[ index ]
+								min_dist2D = distance_2d( self.object:position(), db.heli_enemies[ index ]:position() )
+							end
+						end
+					end
+				end
+			end
+        index = index + 1
+		end
+		return
+	end
+	
+--Враг монстр
+
+	if self.st.fire_target == "monster" then
+		local min_dist2D = self.st.fire_range * self.st.fire_range
+		local monstr_tbl = db.monstr
+		for k,v in pairs( monstr_tbl ) do
+			if v ~= nil and v:clsid() ~= clsid.psy_dog_s then
+				if v ~= nil and distance_2d( self.object:position(), v:position() ) < min_dist2D then
+					if v ~= nil and self.object:get_helicopter():isVisible( v ) then
+						if v ~= nil and good_angle( self.object, v:position(), self.start_direction, self.st.fire_angle ) then
+							self.st.enemy = v
+							min_dist2D = distance_2d( self.object:position(), v:position() )
+						end
+					end
+				end
+			end
+		end
+	return
+	end
+
+--Все враги. Атакуем того, кто ближе всех подобрался
+
+	if self.st.fire_target == "all" then
+	
+		local min_dist2D = self.st.fire_range * self.st.fire_range
+	
+		local index = 0
+		while index < db.heli_enemy_count do
+			if db.heli_enemies[ index ] then
+				if distance_2d( self.object:position(), db.heli_enemies[ index ]:position() ) < min_dist2D then
+					if self.object:get_helicopter():isVisible( db.heli_enemies[ index ] ) then
+						if xr_wounded.is_wounded( db.heli_enemies[ index ] ) == false then
+							if good_angle( self.object, db.heli_enemies[ index ]:position(), self.start_direction, self.st.fire_angle ) then
+								if self.st.comm ~= nil and self.st.comm ~= "" then
+									if game_relations.is_factions_enemies( self.st.comm, db.heli_enemies[ index ]:character_community() ) then
+										self.st.enemy = db.heli_enemies[ index ]
+										min_dist2D = distance_2d( self.object:position(), db.heli_enemies[ index ]:position() )
+									end
+								else
+									self.st.enemy = db.heli_enemies[ index ]
+									min_dist2D = distance_2d( self.object:position(), db.heli_enemies[ index ]:position() )
+								end
+							end
+						end
+					end
+				end
+			end
+        index = index + 1
+		end
+
+		local monstr_tbl = db.monstr
+		for k,v in pairs( monstr_tbl ) do
+			if v ~= nil and v:clsid() ~= clsid.psy_dog_s then
+				if v ~= nil and distance_2d( self.object:position(), v:position() ) < min_dist2D then
+					if v ~= nil and self.object:get_helicopter():isVisible( v ) then
+						if v ~= nil and good_angle( self.object, v:position(), self.start_direction, self.st.fire_angle ) then
+							self.st.enemy = v
+							min_dist2D = distance_2d( self.object:position(), v:position() )
+						end
+					end
+				end
+			end
+		end
+		
+	end
+
+end
+
+function action_turrel:cs_turrel()
+    local hud = get_hud()
+	local custom_static = hud:GetCustomStatic("cs_heli_health")
+	if custom_static == nil then
+		hud:AddCustomStatic("cs_heli_health", true)
+        local xml = CScriptXmlInit()
+        xml:ParseFile("heli_progress.xml")
+        local cs_heli = hud:GetCustomStatic("cs_heli_health")
+        local w = cs_heli:wnd()
+        self.turrel_progress = xml:InitProgressBar ("heli_health", w )
+        self:set_cs_turrel_progress_health()
+	end
+end
+
+function action_turrel:set_cs_turrel_progress_health()
+    local hud = get_hud()
+	local custom_static = hud:GetCustomStatic( "cs_heli_health" )
+    local xml = CScriptXmlInit()
+    xml:ParseFile( "heli_progress.xml" )
+	if custom_static then
+		hud:AddCustomStatic( "cs_heli_health", true )
+        local cs_heli = hud:GetCustomStatic( "cs_heli_health" )
+        local w = cs_heli:wnd()
+        local _progr = self.turrel:GetfHealth()*100
+        if _progr > 0 then
+            self.turrel_progress:Show( true )
+            self.turrel_progress:SetProgressPos( _progr )
+        else
+            self.turrel_progress:Show( false )
+            self.show_healt = false
+            hud:RemoveCustomStatic( "cs_heli_health" )
+        end
+	end
+end
+
+function action_turrel:cs_remove()
+    local hud = get_hud()
+    local custom_static = hud:GetCustomStatic( "cs_heli_health" )
+    if custom_static then
+        hud:RemoveCustomStatic( "cs_heli_health" )
+    end
+end
+
+function action_turrel:destroy_turrel()
+
+	if level.map_has_object_spot( self.object:id(), "turrel" ) ~= 0 then
+		level.map_remove_object_spot( self.object:id(), "turrel" )
+	end
+
+    if self.show_health then
+         self:cs_remove()
+    end
+
+	if self.st.on_death_info ~= nil then
+			db.actor:give_info_portion( self.st.on_death_info )
+	end
+	
+end
+
+
+--' ******************************************************************************************************************
+--' *												bind															 *
+--' ******************************************************************************************************************
+function add_to_binder( npc, ini, scheme, section, storage )
+
+	local new_action = action_turrel( npc, storage )
+
+	xr_logic.subscribe_action_for_events( npc, storage, new_action )
+	
+end
+function set_scheme( npc, ini, scheme, section, gulag_name )
+
+		local st 			= xr_logic.assign_storage_and_bind( npc, ini, scheme, section )
+		st.logic            = xr_logic.cfg_get_switch_conditions( ini, section, npc )
+		
+		st.fire_target      = utils.cfg_get_string( ini, section, "enemy", 			npc, false, gulag_name, nil )
+		st.on_death_info    = utils.cfg_get_string( ini, section, "on_death_info",  npc, false, gulag_name, nil )
+		st.comm		  	    = utils.cfg_get_string( ini, section, "community", 		npc, false, gulag_name, nil )
+		st.auto_fire        = utils.cfg_get_bool  ( ini, section, "auto_fire",      npc, false, true )
+		st.show_health      = utils.cfg_get_bool  ( ini, section, "show_health",    npc, false, false )
+		st.map_spot			= utils.cfg_get_bool  ( ini, section, "map_spot",       npc, false, false )
+		st.fire_angle		= utils.cfg_get_number( ini, section, "fire_angle",     npc, false, 120 )
+		st.fire_range       = utils.cfg_get_number( ini, section, "fire_range",     npc, false, 50 )
+
+end
+
+-----------------------------------------------------------Вспомогательные функции-----------------------------------------
+
+function distance_2d( a, b )
+	return math.sqrt( ( b.x-a.x )^2 + ( b.z-a.z )^2 )
+end
+
+function good_angle( turrel , target_pos, start_direction, angle )
+	local dir1 = start_direction
+		dir1.y = 0
+	local dir2 = vector():set( target_pos.x, target_pos.y, target_pos.z )
+		dir2 = dir2:sub( turrel:position() )
+		dir2.y = 0
+	local fire_angle = yaw( dir1, dir2 )
+	return fire_angle <= angle*math.pi/360 and fire_angle >= -( angle*math.pi/360 )
+end

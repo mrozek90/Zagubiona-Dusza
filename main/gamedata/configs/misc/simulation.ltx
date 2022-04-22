@@ -1,0 +1,116 @@
+[sim_faction]
+GroupControlSection	= 
+$spawn 			= "ai\DO_NOT_USE"
+class			= SCRIPTZN
+;script_binding	= bind_faction.bind
+
+shape_transp_color		= 0, 0, 255, 60 ;0x1800FF00
+shape_edge_color		= 32, 32, 32, 255 ;0xFF202020
+
+
+[smart_terrain]
+GroupControlSection	= 
+$spawn 			= "ai\smart_terrain"
+;$prefetch 		= 4
+$def_sphere		= 2
+class			= SMRTTRRN
+script_binding	= bind_smart_terrain.bind
+
+shape_transp_color		= 100, 100, 180, 60 ;0x1800FF00
+shape_edge_color		= 32, 32, 32, 255 ;0xFF202020
+
+
+[smart_terrain_stay_time]
+quick   = 2,  5
+medium  = 6,  8
+long    = 12, 14
+default = 10000, 10001
+
+
+
+;В simulation.ltx создаете поле [start_position_<имя уровня>]
+;В нем пишите строку <ид сквада> = <имя смарта>
+
+;;;;;;;;;;;;;;;;;;;;;; RED FOREST ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[start_position_red_forest]
+red_camp_squad = red_camp
+red_sith_squad = red_camp
+red_kane_squad = red_camp
+red_phobos_squad = red_camp
+red_monster_1_squad = red_monster_1
+red_monster_2_squad = red_monster_2
+red_leader_squad = red_bridge
+red_tech_squad = red_bridge
+red_medic_squad = red_bridge
+red_window_squad = red_bridge
+red_trader_squad = red_bridge
+red_leshiy_squad = red_leshiy
+
+;;;;;;;;;;;;;;;;;;;;;; Охуеть, я ещё не сдох. Тогда AGROPROM ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[start_position_agroprom]
+agr_leader_squad = agr_base
+agr_tech_squad = agr_base
+agr_medic_squad = agr_base
+agr_window_squad = agr_base
+agr_sith_squad = agr_base
+agr_leshiy_squad = agr_base
+agr_leshiyss1_squad = agr_base
+agr_leshiyss2_squad = agr_base
+agr_leshiyss3_squad = agr_base
+agr_base_squad = agr_base
+agr_base_trader_squad = agr_base
+agr_base_inquisitor_squad = agr_base
+agr_base_barman_squad = agr_base
+agr_base_backstabber_squad = agr_base
+agr_base_commander_squad = agr_base
+agr_base_mechanic_squad = agr_base
+agr_base_mayor_z_squad = agr_base
+agr_sim_1_squad = agr_sim_1
+agr_otshelnik_squad = agr_sim_1
+agr_drozd_squad = agr_sim_1
+
+; Победители конкурсов SGS Team 2018
+
+agr_sim_4_winners = agr_sim_4
+agr_sim_5_winners = agr_sim_5
+agr_sim_6_winners = agr_sim_6
+
+
+;;;;;;;;;;;;;;;;;;;;;; AGROPROM UNDERGROUND ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[start_position_agroprom_underground]
+agr_und_sim_1_squad_bloodsucker = agr_und_sim_1
+
+
+;;;;;;;;;;;;;;;;;;;;;; LIMANSK ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[start_position_limansk]
+lim_sim_2_monster_squad = lim_sim_2
+lim_sim_3_monolith_squad = lim_sim_3
+lim_sim_3_monolith_leader_squad = lim_sim_3
+
+;;;;;;;;;;;;;;;;;;;;;; HOSPITAL + FORGOTTEN + LABORATORY + DREAM ;;;;;;;;;;;;;;;;;;;;;;;;;
+
+[start_position_hospital]
+
+[start_position_forgotten]
+for_professor_squad = for_bunker_smart
+for_bunker_guard_1_squad = for_bunker_smart
+for_bunker_guard_2_squad = for_bunker_smart
+for_bunker_guard_3_squad = for_bunker_smart
+for_bunker_guard_4_squad = for_bunker_smart
+for_bunker_infernis_squad = for_bunker_smart
+for_bunker_anaconda_squad = for_bunker_smart
+for_bunker_kilorik_squad = for_bunker_smart
+for_hrust_squad = for_bunker_smart
+for_bunker_squad = for_bunker_smart
+for_zombied_squad = for_zombied_base_smart
+for_pentagram_squad = for_pentagram_smart
+
+[start_position_forgotten_laboratory]
+flsd_squad = for_lab_smart_1
+
+[start_position_forgotten_dream]
+for_dre_killers_squad = for_dre_smart

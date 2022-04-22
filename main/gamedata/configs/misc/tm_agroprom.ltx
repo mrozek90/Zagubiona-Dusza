@@ -1,0 +1,295 @@
+[inquisitor_quest]
+icon = ui_inGame2_Peremennoe_psi_izluchenie
+prior = 125
+title = {+orest_first_dialog} inquisitor_quest_3, inquisitor_quest_1
+descr = {+orest_first_dialog} inquisitor_quest_4, inquisitor_quest_2
+target = {+agr_controller_death} agr_orest, nil
+condlist_0 = {+orest_quest_end} complete
+storyline = false
+reward_item = af_geliy
+
+[inquisitor_strelok_dialog]
+icon = ui_inGame2_PD_Diplomat
+prior = 125
+title = inquisitor_strelok_dialog_1
+descr = inquisitor_strelok_dialog_2
+target = nil
+condlist_0 = {+inquisitor_dialog_end} complete
+storyline = false
+
+[agr_base_start]
+icon = ui_inGame2_PD_Drug_Dolga
+prior = 125
+title = {+shkir_gg_first_dialog} agr_base_start_3, agr_base_start_1
+descr = {+shkir_gg_first_dialog} agr_base_start_4, agr_base_start_2
+target = {+shkir_gg_first_dialog} agr_base_commander_squad, agr_leader_squad
+condlist_0 = {+krilow_first_dialog} complete
+storyline = true
+
+[agr_sim_3_clear]
+icon = ui_inGame2_Vizhivshiy_monolit
+prior = 125
+title = {+agr_fake_dolgs_dead} agr_sim_3_clear_3, agr_sim_3_clear_1
+descr = {+agr_fake_dolgs_dead} agr_sim_3_clear_4, agr_sim_3_clear_2
+target = {+agr_fake_dolgs_dead} nil, agr_heck
+condlist_0 = {+agr_heck_pda_finded} complete
+storyline = true
+
+[agr_base_end]
+icon = ui_inGame2_PD_Torgovets_informatsiey
+prior = 125
+title = {+krilow_first_dialog_end} agr_base_end_3, agr_base_end_1
+descr = {+krilow_first_dialog_end} agr_base_end_4, agr_base_end_2
+target = agr_base_commander_squad
+condlist_0 = {+krilow_first_dialog_end_end} complete
+storyline = true
+reward_item = wpn_ak74
+reward_money = 3000
+
+[vint_to_stalkers]
+icon = ui_inGame2_Ohrana_uchenih
+prior = 125
+title = {+shkir_vint_stalkers_dialog_yes} vint_to_stalkers_3, vint_to_stalkers_1
+descr = {+shkir_vint_stalkers_dialog_yes} vint_to_stalkers_4, vint_to_stalkers_2
+target = {+shkir_vint_stalkers_dialog_yes} agr_tech_squad, agr_leader_squad
+condlist_0 = {+vint_stalkers_dialog} complete
+storyline = false
+
+[vint_to_stalkers_2]
+icon = ui_inGame2_PD_Drug_Stalkerov
+prior = 125
+title = vint_to_stalkers_5
+descr = vint_to_stalkers_6
+target = agr_orest
+condlist_0 = {+orest_vint_stalkers_dialog_end} complete
+storyline = false
+reward_money = 5000
+
+[shkir_prelast_dialog]
+icon = ui_inGame2_Ohrana_uchenih
+prior = 125
+title = {+shkir_gg_first_dialog_end} shkir_prelast_dialog_3, shkir_prelast_dialog_1
+descr = {+shkir_gg_first_dialog_end} shkir_prelast_dialog_4, shkir_prelast_dialog_2
+target = {+shkir_gg_first_dialog_end} agr_agr_und_restrictor, agr_leader_squad
+condlist_0 = {=actor_on_level(agroprom_underground)} complete
+storyline = true
+
+[shkir_backstabber_situation]
+icon = ui_inGame2_PD_storonnik_ravnovesiya
+prior = 1000
+title = {+karas_end_dialog} shkir_backstabber_situation_3, shkir_backstabber_situation_1
+descr = {+karas_end_dialog} shkir_backstabber_situation_4, shkir_backstabber_situation_2
+target = nil
+condlist_0 = {+sith_genesis_dialog} complete
+storyline = true
+
+[infernis_karas_find]
+icon = ui_inGame2_Ohrana_uchenih
+prior = 1000
+title = {+i_must_return_to_karas} infernis_karas_find_3, infernis_karas_find_1
+descr = {+i_must_return_to_karas} infernis_karas_find_4, infernis_karas_find_2
+target = {+i_must_return_to_karas} agr_karas_find_restrictor, agr_agr_und_restrictor
+condlist_0 = {+where_is_all} fail
+storyline = true
+
+[infernis_find]
+icon = ui_inGame2_PD_Drug_Swobodi
+prior = 150
+title = infernis_find_1
+descr = infernis_find_2
+target = {+where_is_infernis} nil, agr_agr_und_restrictor
+condlist_0 = {+where_is_infernis} reversed
+condlist_1 = {+infernis_return_dialog} complete
+storyline = true
+
+[karas_find]
+icon = ui_inGame2_PD_Master_visokih_technologiy
+prior = 125
+title = karas_find_1
+descr = karas_find_2
+target = nil
+condlist_0 = {+karas_mayor_z_first_dialog_end} complete
+storyline = true
+
+[sith_find_return]
+icon = ui_inGame2_PD_Drug_Naemnikov
+prior = 125
+title = {+where_is_sith} sith_find_return_3, sith_find_return_1
+descr = {+where_is_sith} sith_find_return_4, sith_find_return_2
+target = nil
+condlist_0 = {+sith_resсue_dialog} complete
+condlist_1 = {+agr_good_return_dialog} complete
+storyline = true
+
+[agr_bad_ending]
+icon = ui_inGame2_PD_storonnik_ravnovesiya
+prior = 500
+title = {+agr_shkir_bros_bad_dialog} agr_bad_ending_5, {+mayor_z_first_dialog_bad} agr_bad_ending_3, {+agr_orest_bad_dialog} agr_bad_ending_3, {+mayor_z_first_dialog_bad +agr_orest_bad_dialog} agr_bad_ending_3, agr_bad_ending_1
+descr = {+agr_shkir_bros_bad_dialog} agr_bad_ending_6, {+mayor_z_first_dialog_bad} agr_bad_ending_4, {+agr_orest_bad_dialog} agr_bad_ending_4, {+mayor_z_first_dialog_bad +agr_orest_bad_dialog} agr_bad_ending_4, agr_bad_ending_2
+target = {+agr_shkir_bros_bad_dialog} nil, {+agr_shkir_bros_bad_dialog +mayor_z_first_dialog_bad} nil, {+mayor_z_first_dialog_bad} stalker_freak_leader, {+agr_orest_bad_dialog} stalker_freak_leader, {+mayor_z_first_dialog_bad +agr_orest_bad_dialog} stalker_freak_leader, stalker_freak_leader
+storyline = true
+
+[agr_orest_good_quest]
+icon = ui_inGame2_PD_Drug_Stalkerov
+prior = 125
+title = agr_orest_good_quest_1
+descr = agr_orest_good_quest_2
+target = agr_orest
+condlist_0 = {+agr_orest_good_dialog} complete
+storyline = true
+
+[agr_inquisitor_good_quest]
+icon = ui_inGame2_PD_Diplomat
+prior = 125
+title = agr_inquisitor_good_quest_1
+descr = agr_inquisitor_good_quest_2
+target = agr_base_inquisitor_squad
+condlist_0 = {+agr_inquisitor_good_dialog} complete
+storyline = true
+
+[agr_vint_good_quest]
+icon = ui_inGame2_PD_Drug_Naemnikov
+prior = 125
+title = agr_vint_good_quest_1
+descr = agr_vint_good_quest_2
+target = agr_tech_squad
+condlist_0 = {+agr_karas_good_dialog} complete
+storyline = true
+
+[agr_z_good_quest]
+icon = ui_inGame2_PD_Diplomat
+prior = 125
+title = agr_z_good_quest_1
+descr = agr_z_good_quest_2
+target = agr_sim_1_mayor_z_survived_squad
+condlist_0 = {+agr_mayor_z_good_dialog} complete
+storyline = true
+
+[agr_smirnow_good_quest]
+icon = ui_inGame2_Ohrana_uchenih
+prior = 125
+title = agr_smirnow_good_quest_1
+descr = agr_smirnow_good_quest_2
+target = agr_sim_1_smirnow_squad_2
+condlist_0 = {+smirnow_good_dialog} complete
+storyline = true
+
+[agr_freak_good_quest]
+icon = ui_inGame2_Odin_vistrel
+prior = 125
+title = {+agr_enemy_signal_started} agr_freak_good_quest_3, agr_freak_good_quest_1
+descr = {+agr_enemy_signal_started} agr_freak_good_quest_4, agr_freak_good_quest_2
+target = agr_start_freak_squad
+condlist_0 = {+agr_first_freak_squad_died} complete
+storyline = true
+
+[agr_freak_first_end]
+icon = ui_inGame2_PD_Hranitel_tayn
+prior = 125
+title = {=actor_has_item(agr_freak_pda)} agr_freak_first_end_2, agr_freak_first_end_1
+descr = {=actor_has_item(agr_freak_pda)} agr_freak_first_end_3, agr_freak_good_quest_4
+target = {=actor_has_item(agr_freak_pda)} nil, stalker_freak_leader
+condlist_0 = {+agr_npc_random_coordinate_dialog} complete
+storyline = true
+
+[agr_coordinate_6_find]
+icon = ui_inGame2_Karti_mestnosti
+prior = 125
+title = agr_coordinate_6_find_1
+descr = agr_coordinate_6_find_2
+target = {=actor_in_zone(agr_und_strelok_restrictor)} agr_und_strelok_restrictor, agr_agr_und_restrictor
+condlist_0 = {=actor_in_zone(agr_und_strelok_restrictor)} complete
+storyline = true
+
+[agr_freak_second_end]
+icon = ui_inGame2_Poslednyaya_Bitva
+prior = 125
+title = {+agr_npc_random_kill_freaks_dialog} agr_freak_second_end_3, agr_freak_second_end_1
+descr = {+agr_npc_random_kill_freaks_dialog} agr_freak_second_end_4, agr_freak_second_end_2
+target = {+agr_npc_random_kill_freaks_dialog} agr_sim_3_sith_squad, agr_sim_3_mayor_z_squad
+condlist_0 = {+agr_second_freak_squad_died} complete
+storyline = true
+
+
+[agr_inquisitor_thx]
+icon = ui_inGame2_PD_Drug_Dolga
+prior = 125
+title = agr_inquisitor_thx_1
+descr = agr_inquisitor_thx_2
+target = agr_base_inquisitor_squad_3
+condlist_0 = {+agr_inquisitor_last_ge_dialog_end} complete
+storyline = true
+
+[agr_mayor_z_thx]
+icon = ui_inGame2_PD_Drug_Dolga
+prior = 125
+title = agr_mayor_z_thx_1
+descr = agr_mayor_z_thx_2
+target = agr_sim_1_mayor_z_survived_squad_2
+condlist_0 = {+agr_base_mayor_z_last_ge_dialog} complete
+storyline = true
+
+[agr_orest_thx]
+icon = ui_inGame2_PD_Drug_Stalkerov
+prior = 125
+title = agr_orest_thx_1
+descr = agr_orest_thx_2
+target = agr_orest_squad_3
+condlist_0 = {+agr_orest_last_ge_dialog} complete
+storyline = true
+
+[agr_vint_thx]
+icon = ui_inGame2_PD_Drug_Naemnikov
+prior = 125
+title = agr_vint_thx_1
+descr = agr_vint_thx_2
+target = agr_sim_1_tech_squad
+condlist_0 = {+agr_vint_last_ge_dialog} complete
+storyline = true
+
+[agr_smirnow_thx]
+icon = ui_inGame2_PD_Drug_Stalkerov
+prior = 125
+title = agr_smirnow_thx_1
+descr = agr_smirnow_thx_2
+target = agr_sim_1_smirnow_squad_2
+condlist_0 = {+agr_smirnow_last_ge_dialog} complete
+storyline = true
+
+[agr_sith_thx]
+icon = ui_inGame2_PD_Drug_Naemnikov
+prior = 125
+title = agr_sith_thx_1
+descr = agr_sith_thx_2
+target = agr_sim_1_sith_relax_squad
+condlist_0 = {+agr_sith_last_ge_dialog} complete
+storyline = true
+
+[agr_stalkers_join]
+icon = ui_inGame2_PD_Drug_Stalkerov
+prior = 125
+title = {+agr_orest_last_ge_dialog_end} agr_stalkers_join_3, agr_stalkers_join_1
+descr = {+agr_orest_last_ge_dialog_end} agr_stalkers_join_4, agr_stalkers_join_2
+target = {+agr_orest_last_ge_dialog_end} agr_sim_3_sith_squad, agr_orest_squad_3
+condlist_0 = {+agr_sith_last_ge_dialog_end_end_end} complete
+storyline = true
+
+[agr_last_quest]
+icon = ui_inGame2_Put_na_plato
+prior = 125
+title = agr_last_quest
+descr = agr_stalkers_join_4
+target = agr_sim_1_sith_relax_squad
+condlist_0 = {+agr_sith_last_ge_dialog_end} complete
+storyline = true
+
+[kilorik_quest]
+icon = ui_inGame2_Anomalnoe_rastenie
+prior = 250
+title = {+kilorik_first_dialog_end} kilorik_quest_3, kilorik_quest_1
+descr = {+kilorik_first_dialog_end} kilorik_quest_4, kilorik_quest_2
+target = {+kilorik_first_dialog_end} nikita_halikov, nil
+condlist_0 = {+kilorik_first_dialog_end_end} complete
+storyline = false
+
+

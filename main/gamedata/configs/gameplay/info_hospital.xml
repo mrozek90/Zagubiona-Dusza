@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<game_information_portions>
+
+   <info_portion id="shved_in_hospital">
+   </info_portion>
+   
+   <info_portion id="delete_shved">
+   </info_portion>
+   
+   <info_portion id="delete_anaconda">
+   </info_portion>
+   
+   <info_portion id="shved_first_dialog_end">
+   </info_portion>
+   
+   <info_portion id="actor_back_in_hospital">
+   </info_portion>
+   
+   <info_portion id="fraktor_in_hospital">
+   </info_portion>
+   
+</game_information_portions>

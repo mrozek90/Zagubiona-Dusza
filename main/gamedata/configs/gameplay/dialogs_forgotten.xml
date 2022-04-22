@@ -1,0 +1,3084 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+    <dialog id="for_kilorik_professor_dialog">
+        <has_info>for_professor_kilorik_dialog</has_info>
+        <dont_has_info>for_kilorik_professor_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="3">
+                <text>for_kilorik_professor_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_kilorik_professor_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_kilorik_professor_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_kilorik_professor_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_kilorik_professor_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_kilorik_professor_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_kilorik_professor_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_kilorik_professor_dialog_7</text>
+                <action>new_quests.for_kilorik_armor_info</action>
+                <give_info>for_kilorik_professor_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_kilorik_professor_dialog_help">
+        <has_info>for_kilorik_professor_dialog</has_info>
+        <dont_has_info>for_kilorik_professor_dialog_help</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_kilorik_professor_dialog_help_1</text>
+                <give_info>for_kilorik_professor_dialog_help</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_kilorik_professor_dialog_help_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_trader_start_music_dialog">
+        <has_info>for_music_stop</has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_trader_start_music_dialog_1</text>
+                <disable_info>for_music_stop</disable_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_trader_start_music_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_kilorik_reward_dialog">
+        <has_info>for_kilorik_professor_dialog</has_info>
+        <dont_has_info>for_professor_kilorik_reward_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_kilorik_reward_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_kilorik_reward_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_kilorik_reward_dialog_3</text>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>8</next>
+                <next>9</next>
+                <next>10</next>
+                <next>11</next>
+                <next>12</next>
+                <next>13</next>
+                <next>14</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_kilorik_reward_dialog_4</text>
+                <action>new_quests.for_kilorik_receive_1</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_kilorik_reward_dialog_5</text>
+                <action>new_quests.for_kilorik_receive_1</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_kilorik_reward_dialog_6</text>
+                <action>new_quests.for_kilorik_receive_3</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_kilorik_reward_dialog_7</text>
+                <action>new_quests.for_kilorik_receive_4</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_kilorik_reward_dialog_8</text>
+                <action>new_quests.for_kilorik_receive_5</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_kilorik_reward_dialog_9</text>
+                <action>new_quests.for_kilorik_receive_6</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_kilorik_reward_dialog_10</text>
+                <action>new_quests.for_kilorik_receive_7</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_kilorik_reward_dialog_12</text>
+                <action>new_quests.for_kilorik_receive_9</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_kilorik_reward_dialog_13</text>
+                <action>new_quests.for_kilorik_receive_10</action>
+                <next>16</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_kilorik_reward_dialog_14</text>
+                <action>new_quests.for_kilorik_receive_money</action>
+                <next>17</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_kilorik_reward_dialog_11</text>
+                <action>new_quests.for_kilorik_receive_8</action>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_kilorik_reward_dialog_15</text>
+                <action>new_quests.for_kilorik_receive_armor_info</action>
+                <give_info>for_professor_kilorik_reward_dialog</give_info>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_kilorik_reward_dialog_17</text>
+                <action>new_quests.for_kilorik_receive_armor_info</action>
+                <give_info>for_professor_kilorik_reward_dialog</give_info>
+            </phrase>
+            <phrase id="16">
+                <text>for_professor_kilorik_reward_dialog_16</text>
+                <action>new_quests.for_kilorik_receive_armor_info</action>
+                <give_info>for_professor_kilorik_reward_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_kilorik_reward_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_stalkers_help_dialog">
+        <has_info>for_professor_first_dialog_end</has_info>
+        <dont_has_info>for_stalkers_help_dialog</dont_has_info>
+        <dont_has_info>for_professor_first_dialog_end_3</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_stalkers_help_dialog_1</text>
+                <next>2</next>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_stalkers_help_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_stalkers_help_dialog_5</text>
+            </phrase>
+            <phrase id="2">
+                <text>for_stalkers_help_dialog_2</text>
+                <precondition>new_quests.has_4500_money</precondition>
+                <action>new_quests.give_4500_money</action>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_stalkers_help_dialog_3</text>
+                <give_info>for_stalkers_help_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_stalkers_help_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_kilorik_dialog">
+        <has_info>for_professor_kilorik_dialog_start</has_info>
+        <dont_has_info>for_professor_kilorik_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_kilorik_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_kilorik_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_kilorik_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_kilorik_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_kilorik_dialog_5</text>
+                <give_info>for_professor_kilorik_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_kilorik_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_dialog">
+        <has_info>for_guard_first_dialog</has_info>
+        <dont_has_info>for_professor_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="7">
+                <text>for_professor_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_first_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_first_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_first_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_first_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_first_dialog_15</text>
+                <give_info>for_professor_first_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_stalkers_bs_dialog">
+        <has_info>for_professor_bloodsucker_dialog</has_info>
+        <dont_has_info>for_stalkers_bs_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_stalkers_bs_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_stalkers_bs_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_stalkers_bs_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_stalkers_bs_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_stalkers_bs_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_stalkers_bs_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_stalkers_bs_dialog_6</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_stalkers_bs_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_guard_first_dialog">
+        <dont_has_info>for_guard_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_guard_first_dialog_1</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_guard_first_dialog_12</text>
+                <give_info>for_guard_first_dialog</give_info>
+            </phrase>
+            <phrase id="8">
+                <text>for_guard_first_dialog_8</text>
+                <next>9</next>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_guard_first_dialog_3</text>
+                <has_info>kilorik_first_dialog_end_end</has_info>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_guard_first_dialog_13</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_guard_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_guard_first_dialog_14</text>
+                <action>dialogs.break_dialog</action>
+            </phrase>
+            <phrase id="10">
+                <text>for_guard_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_guard_first_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_guard_first_dialog_6</text>
+                <next>7</next>
+                <next>14</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_guard_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_guard_first_dialog_7</text>
+                <has_info>anaconda_first_dialog_forgotten</has_info>
+                <next>8</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_guard_first_dialog_2</text>
+                <has_info>anaconda_first_dialog_forgotten</has_info>
+                <next>4</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_guard_first_dialog_0</text>
+                <next>1</next>
+                <next>2</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_guard_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_raven_squad_dialog">
+        <has_info>red_raven_squad_restrictor_gained</has_info>
+        <dont_has_info>for_raven_squad_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_raven_squad_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_raven_squad_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_raven_squad_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_raven_squad_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_raven_squad_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_raven_squad_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_raven_squad_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_raven_squad_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_raven_squad_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_raven_squad_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_raven_squad_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_raven_squad_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_raven_squad_dialog_13</text>
+                <give_info>for_raven_squad_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_raven_squad_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_raven_first_dialog">
+        <has_info>for_professor_note_dialog_end</has_info>
+        <dont_has_info>for_raven_first_dialog</dont_has_info>
+        <dont_has_info>for_infernis_gone_soul_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_raven_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_raven_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_raven_first_dialog_3</text>
+                <give_info>for_raven_first_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_raven_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_profkil_dialog">
+        <has_info>for_professor_kilorik_reward_dialog</has_info>
+        <dont_has_info>for_infernis_profkil_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_profkil_dialog_1</text>
+                <give_info>for_infernis_profkil_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_profkil_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_trader_stop_music_dialog">
+        <dont_has_info>for_music_stop</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_trader_stop_music_dialog_1</text>
+                <give_info>for_music_stop</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_trader_stop_music_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_giants_dialog">
+        <has_info>for_giants_raid_squad_killed</has_info>
+        <dont_has_info>for_infernis_giants_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="2">
+                <text>for_infernis_giants_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_giants_dialog_3</text>
+                <give_info>for_infernis_giants_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_giants_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_giants_dialog_1</text>
+                <next>2</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_gauss_dialog_end">
+        <has_info>for_giant_smart_squad_killed</has_info>
+        <dont_has_info>for_professor_gauss_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_gauss_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_gauss_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_gauss_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_gauss_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_gauss_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_gauss_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_gauss_dialog_end_6</text>
+                <give_info>for_professor_gauss_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_dialog_end">
+        <has_info>for_professor_first_dialog</has_info>
+        <dont_has_info>for_professor_first_dialog_end</dont_has_info>
+        <dont_has_info>for_professor_first_dialog_end_2</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_first_dialog_end_1</text>
+                <next>2</next>
+                <next>3</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_first_dialog_end_2</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_first_dialog_end_3</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_first_dialog_end_6</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_first_dialog_end_4</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_first_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_first_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_first_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_first_dialog_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_first_dialog_end_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_first_dialog_end_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_first_dialog_end_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_first_dialog_end_14</text>
+                <next>15</next>
+                <next>17</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_first_dialog_end_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_professor_first_dialog_end_16</text>
+                <action>new_quests.for_first_contract</action>
+                <give_info>for_professor_first_dialog_end</give_info>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_first_dialog_end_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_professor_first_dialog_end_18</text>
+                <give_info>for_professor_first_dialog_end_2</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_dialog_end_2">
+        <has_info>for_professor_first_dialog_end_2</has_info>
+        <dont_has_info>for_professor_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_first_dialog_end_2_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_first_dialog_end_2_1</text>
+                <action>new_quests.for_first_contract</action>
+                <give_info>for_professor_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_dialog_end_3">
+        <has_info>for_actor_has_artefacts</has_info>
+        <dont_has_info>for_professor_first_dialog_end_3</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_first_dialog_end_3_1</text>
+                <action>new_quests.for_give_artefacts</action>
+                <give_info>for_professor_first_dialog_end_3</give_info>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_first_dialog_end_3_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_first_dialog_end_3_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_first_dialog_end_3_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_first_dialog_end_3_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_first_dialog_end_3_5</text>
+                <action>dialogs.medic_magic_potion</action>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_nikson_dialog">
+        <has_info>for_professor_first_dialog_end_3</has_info>
+        <dont_has_info>for_professor_nikson_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_nikson_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_nikson_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_nikson_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_nikson_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_nikson_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_nikson_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_nikson_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_nikson_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_nikson_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_nikson_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_nikson_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_nikson_dialog_11</text>
+                <action>new_quests.hrust_task</action>
+                <give_info>for_professor_nikson_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_hrust_first_dialog">
+        <has_info>for_professor_nikson_dialog</has_info>
+        <dont_has_info>for_hrust_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_hrust_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_hrust_first_dialog_1</text>
+                <next>2</next>
+                <next>3</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_hrust_first_dialog_2</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_hrust_first_dialog</give_info>
+            </phrase>
+            <phrase id="3">
+                <text>for_hrust_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_hrust_first_dialog_4</text>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_hrust_first_dialog_end">
+        <has_info>for_hrust_first_dialog</has_info>
+        <dont_has_info>for_hrust_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_hrust_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_hrust_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_hrust_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_hrust_first_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_hrust_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_hrust_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_hrust_first_dialog_end_6</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_hrust_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_hrust_search_dialog">
+        <has_info>for_zb_phantoms_dead</has_info>
+        <dont_has_info>for_hrust_search_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_hrust_search_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_hrust_search_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_hrust_search_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_hrust_search_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_hrust_search_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_hrust_search_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_hrust_search_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_hrust_search_dialog_7</text>
+                <give_info>for_hrust_search_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_hrust_search_dialog_end">
+        <has_info>for_all_docs_psy_finded</has_info>
+        <dont_has_info>for_hrust_search_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_hrust_search_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_hrust_search_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_hrust_search_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_hrust_search_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_hrust_search_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_hrust_search_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_hrust_search_dialog_end_6</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_hrust_search_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_hrust_zb_death_dialog">
+        <has_info>for_zb_controller_dead</has_info>
+        <dont_has_info>for_hrust_zb_death_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_hrust_zb_death_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_hrust_zb_death_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_hrust_zb_death_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_hrust_zb_death_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_hrust_zb_death_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_hrust_zb_death_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_hrust_zb_death_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_hrust_zb_death_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_hrust_zb_death_dialog_8</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_hrust_zb_death_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_info_dialog">
+        <phrase_list>
+            <phrase id="6">
+                <text>for_professor_info_dialog_6</text>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_info_dialog_1</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_info_dialog_2</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_info_dialog_7</text>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_info_dialog_3</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_info_dialog_8</text>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_info_dialog_4</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_info_dialog_9</text>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_info_dialog_5</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_info_dialog_10</text>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_info_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_artefacts_guide_dialog">
+        <has_info>for_professor_first_dialog_end</has_info>
+        <dont_has_info>for_professor_first_dialog_end_3</dont_has_info>
+        <phrase_list>
+            <phrase id="13">
+                <text>for_professor_artefacts_guide_dialog_13</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_artefacts_guide_dialog_10</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_artefacts_guide_dialog_15</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_artefacts_guide_dialog_11</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_professor_artefacts_guide_dialog_18</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="20">
+                <text>for_professor_artefacts_guide_dialog_20</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_artefacts_guide_dialog_4</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="21">
+                <text>for_professor_artefacts_guide_dialog_21</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_artefacts_guide_dialog_6</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_artefacts_guide_dialog_12</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="22">
+                <text>for_professor_artefacts_guide_dialog_22</text>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_artefacts_guide_dialog_17</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_artefacts_guide_dialog_7</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_artefacts_guide_dialog_3</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_artefacts_guide_dialog_9</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_artefacts_guide_dialog_14</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>for_professor_artefacts_guide_dialog_19</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_artefacts_guide_dialog_1</text>
+                <next>2</next>
+                <next>3</next>
+                <next>4</next>
+                <next>5</next>
+                <next>6</next>
+                <next>7</next>
+                <next>22</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_artefacts_guide_dialog_2</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_artefacts_guide_dialog_8</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_professor_artefacts_guide_dialog_16</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_artefacts_guide_dialog_5</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_artefacts_guide_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_bloodsucker_dialog">
+        <has_info>for_professor_nikson_dialog_end</has_info>
+        <dont_has_info>for_professor_bloodsucker_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_bloodsucker_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_bloodsucker_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_bloodsucker_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_bloodsucker_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_bloodsucker_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_bloodsucker_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_bloodsucker_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_bloodsucker_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_bloodsucker_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_bloodsucker_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_bloodsucker_dialog_10</text>
+                <give_info>for_professor_bloodsucker_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_bloodsucker_dialog_end">
+        <has_info>for_stalker_bandit_death</has_info>
+        <dont_has_info>for_professor_bloodsucker_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_bloodsucker_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_bloodsucker_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_bloodsucker_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_bloodsucker_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_bloodsucker_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_bloodsucker_dialog_end_5</text>
+                <action>dialogs.medic_magic_potion</action>
+                <give_info>for_professor_bloodsucker_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_bloodsucker_dialog_end_end">
+        <has_info>for_actor_has_bsb_jaw</has_info>
+        <dont_has_info>for_professor_bloodsucker_dialog_end_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_bloodsucker_dialog_end_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_bloodsucker_dialog_end_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_bloodsucker_dialog_end_end_2</text>
+                <action>new_quests.for_bloodsucker_quest_part_3</action>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_bloodsucker_dialog_end_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_bloodsucker_dialog_end_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_bloodsucker_dialog_end_end_5</text>
+                <action>dialogs.medic_magic_potion</action>
+                <give_info>for_professor_bloodsucker_dialog_end_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_weapon_dialog">
+        <has_info>for_professor_bloodsucker_dialog_end_end</has_info>
+        <dont_has_info>for_professor_first_weapon_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_first_weapon_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_first_weapon_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_first_weapon_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_first_weapon_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_first_weapon_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_first_weapon_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_first_weapon_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_first_weapon_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_first_weapon_dialog_8</text>
+                <give_info>for_professor_first_weapon_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_first_weapon_dialog_end">
+        <has_info>lim_actor_has_spda</has_info>
+        <dont_has_info>for_professor_first_weapon_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_first_weapon_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_first_weapon_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_first_weapon_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_first_weapon_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_first_weapon_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_first_weapon_dialog_end_5</text>
+                <action>new_quests.for_professor_first_weapon_dialog_end</action>
+                <give_info>for_professor_first_weapon_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_drunk_dialog">
+        <has_info>for_infernis_after_drunk_dialog_end</has_info>
+        <dont_has_info>for_professor_drunk_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_professor_drunk_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_drunk_dialog_1</text>
+                <give_info>for_professor_drunk_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_gauss_dialog">
+        <has_info>for_infernis_giants_dialog</has_info>
+        <dont_has_info>for_professor_gauss_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="16">
+                <text>for_professor_gauss_dialog_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_gauss_dialog_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_professor_gauss_dialog_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>for_professor_gauss_dialog_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>for_professor_gauss_dialog_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>for_professor_gauss_dialog_21</text>
+                <action>new_quests.le_deux</action>
+                <give_info>for_professor_gauss_dialog</give_info>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_gauss_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_gauss_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_gauss_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_gauss_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_gauss_dialog_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_gauss_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_gauss_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_gauss_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_gauss_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_gauss_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_gauss_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_gauss_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_gauss_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_gauss_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_gauss_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_gauss_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_note_dialog">
+        <has_info>for_infernis_drunk_dialog</has_info>
+        <dont_has_info>for_professor_note_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_note_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_note_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_note_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_note_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_note_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_note_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_note_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_note_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_note_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_note_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_note_dialog_10</text>
+                <action>new_quests.for_professor_note_dialog</action>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_note_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_note_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_note_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_note_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_note_dialog_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_professor_note_dialog_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_note_dialog_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_professor_note_dialog_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>for_professor_note_dialog_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>for_professor_note_dialog_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>for_professor_note_dialog_21</text>
+                <action>xr_effects.in_stalker</action>
+                <give_info>for_professor_note_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_note_dialog_end">
+        <has_info>sith_treasure_note_get</has_info>
+        <dont_has_info>for_professor_note_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_note_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_note_dialog_end_2</text>
+                <action>new_quests.wpn_gauss_aes_relocate</action>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_note_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_note_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_note_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_note_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_note_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_note_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_note_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_note_dialog_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_professor_note_dialog_end_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_professor_note_dialog_end_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_professor_note_dialog_end_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_professor_note_dialog_end_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_professor_note_dialog_end_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_professor_note_dialog_end_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_professor_note_dialog_end_17</text>
+                <give_info>for_professor_note_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_note_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_y13_dialog">
+        <has_info>for_infernis_sgs_reuniting</has_info>
+        <dont_has_info>for_professor_y13_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="2">
+                <text>for_professor_y13_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_y13_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_y13_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_y13_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_y13_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_y13_dialog_8</text>
+                <give_info>for_professor_y13_dialog</give_info>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_y13_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_professor_y13_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_y13_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_bloodsucker_dialog_attack">
+        <has_info>for_infernis_bloodsucker_dialog_pre</has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog_attack</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_bloodsucker_dialog_attack_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_bloodsucker_dialog_attack_2</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_infernis_bloodsucker_dialog_attack</give_info>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_bloodsucker_dialog_attack_1</text>
+                <next>2</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_bloodsucker_dialog_attack_end">
+        <has_info>for_infernis_bloodsucker_dialog_attack</has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog_attack_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_bloodsucker_dialog_attack_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_bloodsucker_dialog_attack_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_bloodsucker_dialog_attack_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_bloodsucker_dialog_attack_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_bloodsucker_dialog_attack_end_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_infernis_bloodsucker_dialog_attack_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_bloodsucker_dialog_end">
+        <has_info>for_forest_bloodsucker_dead</has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_bloodsucker_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_bloodsucker_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_bloodsucker_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_bloodsucker_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_bloodsucker_dialog_end_5</text>
+                <give_info>for_infernis_bloodsucker_dialog_end</give_info>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_bloodsucker_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_bloodsucker_dialog_pre">
+        <has_info>for_infernis_bloodsucker_dialog</has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog_pre</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_bloodsucker_dialog_pre_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_bloodsucker_dialog_pre_2</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_infernis_bloodsucker_dialog_pre</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_bloodsucker_dialog_pre_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_vodka_dialog">
+        <dont_has_info>for_infernis_vodka_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_vodka_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_vodka_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_vodka_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_vodka_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_vodka_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_vodka_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_vodka_dialog_6</text>
+                <action>new_quests.for_infernis_give_vodka</action>
+                <give_info>for_infernis_vodka_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_shkir_first_dialog">
+        <dont_has_info>for_lab_shkir_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_shkir_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_shkir_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_shkir_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_shkir_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_shkir_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_shkir_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_shkir_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_shkir_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_lab_shkir_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_lab_shkir_first_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_lab_shkir_first_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_lab_shkir_first_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_lab_shkir_first_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_lab_shkir_first_dialog_13</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_shkir_first_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_first_dialog">
+        <dont_has_info>for_lab_infernis_first_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_first_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_first_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_first_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_first_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_lab_infernis_first_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_lab_infernis_first_dialog_9</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_first_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_shkir_first_dialog_end">
+        <dont_has_info>for_lab_shkir_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_shkir_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_shkir_first_dialog_end_1</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_shkir_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_first_dialog_end">
+        <dont_has_info>for_lab_infernis_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_first_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_first_dialog_end_5</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_shkir_dialog">
+        <dont_has_info>for_lab_infernis_shkir_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_shkir_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_shkir_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_shkir_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_shkir_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_shkir_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_shkir_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_shkir_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_shkir_dialog_7</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_shkir_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_shkir_infernis_dialog_end">
+        <dont_has_info>for_lab_shkir_infernis_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_shkir_infernis_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_shkir_infernis_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_shkir_infernis_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_shkir_infernis_dialog_end_3</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_shkir_infernis_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_shkir_dialog_end">
+        <dont_has_info>for_lab_infernis_shkir_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_lab_infernis_shkir_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_shkir_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_shkir_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_shkir_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_shkir_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_shkir_dialog_end_7</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_shkir_dialog_end</give_info>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_shkir_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_lab_infernis_shkir_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_stage_dialog">
+        <dont_has_info>for_lab_infernis_stage_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_stage_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_stage_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_stage_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_stage_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_stage_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_stage_dialog_5</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_stage_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_1_last_dialog_end">
+        <dont_has_info>for_lab_infernis_1_last_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_1_last_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_1_last_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_1_last_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_1_last_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_1_last_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_1_last_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_1_last_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_1_last_dialog_end_7</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_1_last_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_1_last_dialog">
+        <dont_has_info>for_lab_infernis_1_last_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_lab_infernis_1_last_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_1_last_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_1_last_dialog_3</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_1_last_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_lab_infernis_1_last_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_1_end">
+        <dont_has_info>for_lab_infernis_1_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_1_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_1_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_1_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_1_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_1_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_1_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_1_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_1_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_lab_infernis_1_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_lab_infernis_1_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_lab_infernis_1_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_lab_infernis_1_end_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_lab_infernis_1_end_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_lab_infernis_1_end_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_lab_infernis_1_end_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_lab_infernis_1_end_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_lab_infernis_1_end_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_lab_infernis_1_end_17</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_1_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_artefacts_dialog">
+        <dont_has_info>for_lab_infernis_artefacts_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_artefacts_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_artefacts_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_artefacts_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_artefacts_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_artefacts_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_artefacts_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_artefacts_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_artefacts_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_lab_infernis_artefacts_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_lab_infernis_artefacts_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_lab_infernis_artefacts_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_lab_infernis_artefacts_dialog_11</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_artefacts_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_artefacts_dialog_end">
+        <dont_has_info>for_lab_infernis_artefacts_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_artefacts_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_artefacts_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_artefacts_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_artefacts_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_lab_infernis_artefacts_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_lab_infernis_artefacts_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_lab_infernis_artefacts_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_lab_infernis_artefacts_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_lab_infernis_artefacts_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_lab_infernis_artefacts_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_lab_infernis_artefacts_dialog_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_lab_infernis_artefacts_dialog_end_11</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_artefacts_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_lab_infernis_dialog">
+        <dont_has_info>for_lab_infernis_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_lab_infernis_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_lab_infernis_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_lab_infernis_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_lab_infernis_dialog_3</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_lab_infernis_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_fch_dialog">
+        <has_info>for_infernis_fch_dialog</has_info>
+        <dont_has_info>for_infernis_fch_dialog_end</dont_has_info>
+        <dont_has_info>for_actor_has_artefacts</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_fch_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_fch_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_fch_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_fch_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_fch_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_fch_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_fch_dialog_7</text>
+                <give_info>for_infernis_fch_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_fch_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_drunk_dialog">
+        <has_info>for_professor_drunk_dialog</has_info>
+        <dont_has_info>for_infernis_drunk_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_drunk_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_drunk_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_drunk_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_drunk_dialog_3</text>
+                <give_info>for_infernis_drunk_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_after_drunk_dialog">
+        <dont_has_info>for_infernis_after_drunk_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_after_drunk_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_after_drunk_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_after_drunk_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_after_drunk_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_after_drunk_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_infernis_after_drunk_dialog_9</text>
+                <action>new_quests.infernis_after_drunk_outfit</action>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_infernis_after_drunk_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_infernis_after_drunk_dialog_11</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_infernis_after_drunk_dialog</give_info>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_after_drunk_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_after_drunk_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_after_drunk_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_after_drunk_dialog_2</text>
+                <next>3</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_after_drunk_dialog_end">
+        <dont_has_info>for_infernis_after_drunk_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_after_drunk_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_after_drunk_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_after_drunk_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_after_drunk_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_after_drunk_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_after_drunk_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_after_drunk_dialog_end_8</text>
+                <give_info>for_infernis_after_drunk_dialog_end</give_info>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_after_drunk_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_after_drunk_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_women_dialog">
+        <has_info>for_infernis_gs_plus_war</has_info>
+        <dont_has_info>for_infernis_women_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_women_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_women_dialog_0</text>
+                <action>new_quests.infernis_war_note_rel</action>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_women_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_women_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_women_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_women_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_women_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_women_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_women_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_infernis_women_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_infernis_women_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_infernis_women_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_infernis_women_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_infernis_women_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_infernis_women_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_infernis_women_dialog_15</text>
+                <action>new_quests.for_infernis_give_good_vodka</action>
+                <give_info>for_infernis_women_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_sgs_reuniting">
+        <dont_has_info>for_infernis_sgs_reuniting</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_sgs_reuniting_1</text>
+                <give_info>for_infernis_sgs_reuniting</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_sgs_reuniting_0</text>
+                <give_info>for_infernis_sgs_reuniting_reward</give_info>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_gone_soul_dialog">
+        <has_info>for_raven_first_dialog</has_info>
+        <dont_has_info>for_infernis_gone_soul_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="0">
+                <text>for_infernis_gone_soul_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_gone_soul_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_gone_soul_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_gone_soul_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_gone_soul_dialog_4</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_infernis_gone_soul_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_gone_soul_dialog_end">
+        <has_info>for_infernis_gone_soul_dialog</has_info>
+        <dont_has_info>for_infernis_gone_soul_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="26">
+                <text>for_infernis_gone_soul_dialog_end_26</text>
+                <next>27</next>
+            </phrase>
+            <phrase id="27">
+                <text>for_infernis_gone_soul_dialog_end_27</text>
+                <action>new_quests.for_infernis_gone_soul_dialog_end</action>
+                <give_info>for_infernis_gone_soul_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_gone_soul_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_gone_soul_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_gone_soul_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_gone_soul_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_gone_soul_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_gone_soul_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_gone_soul_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_gone_soul_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_gone_soul_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_infernis_gone_soul_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_infernis_gone_soul_dialog_end_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_infernis_gone_soul_dialog_end_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_infernis_gone_soul_dialog_end_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_infernis_gone_soul_dialog_end_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_infernis_gone_soul_dialog_end_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_infernis_gone_soul_dialog_end_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_infernis_gone_soul_dialog_end_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_infernis_gone_soul_dialog_end_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_infernis_gone_soul_dialog_end_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>for_infernis_gone_soul_dialog_end_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>for_infernis_gone_soul_dialog_end_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>for_infernis_gone_soul_dialog_end_21</text>
+                <next>22</next>
+            </phrase>
+            <phrase id="22">
+                <text>for_infernis_gone_soul_dialog_end_22</text>
+                <next>23</next>
+            </phrase>
+            <phrase id="23">
+                <text>for_infernis_gone_soul_dialog_end_23</text>
+                <next>24</next>
+            </phrase>
+            <phrase id="24">
+                <text>for_infernis_gone_soul_dialog_end_24</text>
+                <next>25</next>
+            </phrase>
+            <phrase id="25">
+                <text>for_infernis_gone_soul_dialog_end_25</text>
+                <next>26</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_professor_nikson_dialog_end">
+        <has_info>for_pnzbdde_prepare</has_info>
+        <dont_has_info>for_professor_nikson_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_professor_nikson_dialog_end_1</text>
+                <next>2</next>
+                <next>5</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_professor_nikson_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_professor_nikson_dialog_end_4</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_professor_nikson_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_professor_nikson_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_professor_nikson_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_professor_nikson_dialog_end_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_professor_nikson_dialog_end_10</text>
+                <action>new_quests.for_give_red_barocamera_info</action>
+                <give_info>for_professor_nikson_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_professor_nikson_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_professor_nikson_dialog_end_2</text>
+                <dont_has_info>for_hrust_zb_death_dialog</dont_has_info>
+                <has_info>for_hrust_death</has_info>
+                <next>3</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_professor_nikson_dialog_end_5</text>
+                <dont_has_info>for_hrust_death</dont_has_info>
+                <has_info>for_hrust_zb_death_dialog</has_info>
+                <next>6</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_bloodsucker_dialog">
+        <has_info>for_bloodsucker_dream_video_end</has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_bloodsucker_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_bloodsucker_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_bloodsucker_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_bloodsucker_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_infernis_bloodsucker_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_bloodsucker_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_bloodsucker_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_bloodsucker_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_infernis_bloodsucker_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_infernis_bloodsucker_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_infernis_bloodsucker_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_infernis_bloodsucker_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_infernis_bloodsucker_dialog_13</text>
+                <next>14</next>
+            </phrase>
+            <phrase id="14">
+                <text>for_infernis_bloodsucker_dialog_14</text>
+                <next>15</next>
+            </phrase>
+            <phrase id="15">
+                <text>for_infernis_bloodsucker_dialog_15</text>
+                <next>16</next>
+            </phrase>
+            <phrase id="16">
+                <text>for_infernis_bloodsucker_dialog_16</text>
+                <next>17</next>
+            </phrase>
+            <phrase id="17">
+                <text>for_infernis_bloodsucker_dialog_17</text>
+                <next>18</next>
+            </phrase>
+            <phrase id="18">
+                <text>for_infernis_bloodsucker_dialog_18</text>
+                <next>19</next>
+            </phrase>
+            <phrase id="19">
+                <text>for_infernis_bloodsucker_dialog_19</text>
+                <next>20</next>
+            </phrase>
+            <phrase id="20">
+                <text>for_infernis_bloodsucker_dialog_20</text>
+                <next>21</next>
+            </phrase>
+            <phrase id="21">
+                <text>for_infernis_bloodsucker_dialog_21</text>
+                <next>22</next>
+            </phrase>
+            <phrase id="22">
+                <text>for_infernis_bloodsucker_dialog_22</text>
+                <next>23</next>
+            </phrase>
+            <phrase id="23">
+                <text>for_infernis_bloodsucker_dialog_23</text>
+                <next>24</next>
+            </phrase>
+            <phrase id="24">
+                <text>for_infernis_bloodsucker_dialog_24</text>
+                <next>25</next>
+            </phrase>
+            <phrase id="25">
+                <text>for_infernis_bloodsucker_dialog_25</text>
+                <next>26</next>
+            </phrase>
+            <phrase id="26">
+                <text>for_infernis_bloodsucker_dialog_26</text>
+                <next>27</next>
+            </phrase>
+            <phrase id="27">
+                <text>for_infernis_bloodsucker_dialog_27</text>
+                <next>28</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_bloodsucker_dialog_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="28">
+                <text>for_infernis_bloodsucker_dialog_28</text>
+                <action>new_quests.for_bloodsucker_quest_part_2</action>
+                <give_info>for_infernis_bloodsucker_dialog</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_info_dialog">
+        <has_info>for_infernis_first_dialog</has_info>
+        <dont_has_info>for_infernis_info_dialog</dont_has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="5">
+                <text>for_infernis_info_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_infernis_info_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_infernis_info_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_infernis_info_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_infernis_info_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_infernis_info_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_infernis_info_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_infernis_info_dialog_13</text>
+                <give_info>for_infernis_info_dialog</give_info>
+            </phrase>
+            <phrase id="11">
+                <text>for_infernis_info_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_info_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_info_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_info_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="1">
+                <text>for_infernis_info_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_info_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_infernis_first_dialog">
+        <dont_has_info>for_infernis_first_dialog</dont_has_info>
+        <dont_has_info>for_infernis_bloodsucker_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_infernis_first_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_infernis_first_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_infernis_first_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_infernis_first_dialog_4</text>
+                <give_info>for_infernis_first_dialog</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_infernis_first_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_dre_dialog">
+        <dont_has_info>for_dre_dialog</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_dre_dialog_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_dre_dialog_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_dre_dialog_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_dre_dialog_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_dre_dialog_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_dre_dialog_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="10">
+                <text>for_dre_dialog_10</text>
+                <next>11</next>
+            </phrase>
+            <phrase id="11">
+                <text>for_dre_dialog_11</text>
+                <next>12</next>
+            </phrase>
+            <phrase id="12">
+                <text>for_dre_dialog_12</text>
+                <next>13</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_dre_dialog_9</text>
+                <next>10</next>
+            </phrase>
+            <phrase id="13">
+                <text>for_dre_dialog_13</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_dre_dialog</give_info>
+            </phrase>
+            <phrase id="4">
+                <text>for_dre_dialog_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_dre_dialog_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="0">
+                <text>for_dre_dialog_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+    <dialog id="for_dre_dialog_end">
+        <dont_has_info>for_dre_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>for_dre_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>for_dre_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>for_dre_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>for_dre_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="5">
+                <text>for_dre_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>for_dre_dialog_end_6</text>
+                <next>7</next>
+            </phrase>
+            <phrase id="7">
+                <text>for_dre_dialog_end_7</text>
+                <next>8</next>
+            </phrase>
+            <phrase id="8">
+                <text>for_dre_dialog_end_8</text>
+                <next>9</next>
+            </phrase>
+            <phrase id="9">
+                <text>for_dre_dialog_end_9</text>
+                <action>dialogs.break_dialog</action>
+                <give_info>for_dre_dialog_end</give_info>
+            </phrase>
+            <phrase id="0">
+                <text>for_dre_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+        </phrase_list>
+    </dialog>
+</game_dialogs>

@@ -1,0 +1,174 @@
+
+function diary_gunslinger_group_functor()
+	return has_alife_info("shkir_first_dialog")
+end
+
+function diary_zam_leshiy_functor()
+	if not has_alife_info("diary_zam_leshiy_functor") then
+		if has_alife_info("leshiy_first_dialog_end") then
+			db.actor:give_info_portion("diary_zam_leshiy_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_leshiy_functor")
+end
+
+function diary_zam_smirnow_functor()
+	if not has_alife_info("diary_zam_smirnow_functor") then
+		if has_alife_info("smirnow_dopros") then
+			db.actor:give_info_portion("diary_zam_smirnow_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_smirnow_functor")
+end
+
+function diary_zap_shkir_functor()
+	if not has_alife_info("diary_zap_shkir_functor") then
+		if has_alife_info("shkir_strelok_dialog") then
+			db.actor:give_info_portion("diary_zap_shkir_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_shkir_functor")
+end
+
+function diary_zam_sith_functor()
+	if not has_alife_info("diary_zam_sith_functor") then
+		if has_alife_info("sith_shkir_dialog_1_end") then
+			db.actor:give_info_portion("diary_zam_sith_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_sith_functor")
+end
+
+function diary_zap_dolg_functor()
+	if not has_alife_info("diary_zap_dolg_functor") then
+		if has_alife_info("shkir_gg_first_dialog") then
+			db.actor:give_info_portion("diary_zap_dolg_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_dolg_functor")
+end
+
+function diary_zap_infernis_functor()
+	if not has_alife_info("diary_zap_infernis_functor") then
+		if has_alife_info("infernis_first_dialog") then
+			db.actor:give_info_portion("diary_zap_infernis_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_infernis_functor")
+end
+
+function diary_zap_agr_attack_functor()
+	if not has_alife_info("diary_zap_agr_attack_functor") then
+		if has_alife_info("agr_orest_good_dialog") then
+			db.actor:give_info_portion("diary_zap_agr_attack_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_agr_attack_functor")
+end
+
+function diary_zap_smirnow_functor()
+	if not has_alife_info("diary_zap_smirnow_functor") then
+		if has_alife_info("smirnow_good_dialog_start") then
+			db.actor:give_info_portion("diary_zap_smirnow_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_smirnow_functor")
+end
+
+function diary_zap_shkir_group_functor()
+	if not has_alife_info("diary_zap_shkir_group_functor") then
+		if has_alife_info("agr_npc_random_coordinate_dialog_end") then
+			db.actor:give_info_portion("diary_zap_shkir_group_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_shkir_group_functor")
+end
+
+function diary_zap_red_bridge_functor()
+	if not has_alife_info("diary_zap_red_bridge_functor") then
+		if has_alife_info("sith_return_gamma_dialog_2_end") then
+			db.actor:give_info_portion("diary_zap_red_bridge_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_red_bridge_functor")
+end
+
+function diary_zam_anaconda_functor()
+	if not has_alife_info("diary_zam_anaconda_functor") then
+		if has_alife_info("anaconda_first_dialog_forgotten") then
+			db.actor:give_info_portion("diary_zam_anaconda_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_anaconda_functor")
+end
+
+function diary_zam_infernis_functor()
+	if not has_alife_info("diary_zam_infernis_functor") then
+		if has_alife_info("for_lab_infernis_1_last_dialog_end") then
+			db.actor:give_info_portion("diary_zam_infernis_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_infernis_functor")
+end
+
+function diary_zap_shahta_man_functor()
+	if not has_alife_info("diary_zap_shahta_man_functor") then
+		if has_alife_info("red_infernis_first_dialog") then
+			db.actor:give_info_portion("diary_zap_shahta_man_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_shahta_man_functor")
+end
+
+function diary_zap_helicopter_functor()
+	if not has_alife_info("diary_zap_helicopter_functor") then
+		if has_alife_info("infernis_war_note_gained") then
+			db.actor:give_info_portion("diary_zap_helicopter_functor")
+			news_manager.send_tip(db.actor, "st_pda_zapis", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zap_helicopter_functor")
+end
+
+function diary_zam_fraktor_functor()
+	if not has_alife_info("diary_zam_fraktor_functor") then
+		if has_alife_info("for_infernis_sgs_reuniting") then
+			db.actor:give_info_portion("diary_zam_fraktor_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_fraktor_functor")
+end
+
+function diary_zam_topor_functor()
+	if not has_alife_info("diary_zam_topor_functor") then
+		if has_alife_info("actor_has_item_topor_pda") then
+			db.actor:give_info_portion("diary_zam_topor_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_topor_functor")
+end
+
+function diary_zam_shkir_functor()
+	if not has_alife_info("diary_zam_shkir_functor") then
+		if has_alife_info("red_shkir_last_dialog_end") then
+			db.actor:give_info_portion("diary_zam_shkir_functor")
+			news_manager.send_tip(db.actor, "st_pda_zametka", nil, "information_dealer", nil, nil)
+		end
+	end
+	return has_alife_info("diary_zam_shkir_functor")
+end

@@ -1,0 +1,276 @@
+; Здесь содержатся дескрипшены сквадов, которые потом можно создавать используя спец функции. А ещё пошёл нахуй, ковыряльщик мода.
+
+[for_professor_squad]:online_offline_group
+faction = ecolog
+npc = for_professor
+target_smart = for_bunker_smart
+story_id = for_professor_squad
+spawn_point = for_bunker_prof_start_position
+
+[for_bunker_guard_1_squad]:online_offline_group
+faction = ecolog
+npc = for_bunker_guard_1
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_guard_1_squad
+spawn_point = for_bunker_smart_guard_1_walk
+
+[for_bunker_guard_2_squad]:online_offline_group
+faction = ecolog
+npc = for_bunker_guard_2
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_guard_2_squad
+spawn_point = for_bunker_smart_guard_2_walk
+
+[for_bunker_guard_3_squad]:online_offline_group
+faction = stalker
+npc = for_bunker_guard_3
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_guard_3_squad
+
+[for_bunker_guard_4_squad]:online_offline_group
+faction = stalker
+npc = for_bunker_guard_4
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_guard_4_squad
+
+[for_bunker_infernis_squad]:online_offline_group
+faction = freedom
+npc = for_infernis
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_bunker_infernis_squad
+spawn_point = for_infernis_spawn
+on_death = %+for_infernis_dead%
+
+[for_bunker_anaconda_squad]:online_offline_group
+faction = bandit
+npc = for_anaconda
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_anaconda_squad
+spawn_point = for_actor_camp_walk
+
+[for_bunker_kilorik_squad]:online_offline_group
+faction = ecolog
+npc = for_kilorik
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_kilorik_squad
+
+[for_hrust_squad]:online_offline_group
+faction = killer
+npc = for_hrust
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_hrust_squad
+
+[for_bunker_squad]:online_offline_group
+faction = ecolog
+npc = for_bunker_stalker_1, for_bunker_stalker_2, for_bunker_stalker_3
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bunker_squad
+
+[for_zombied_squad]:online_offline_group
+faction = zombied
+npc = sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_2, sim_default_zombied_2, sim_default_zombied_3, sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_1, sim_default_zombied_2, sim_default_zombied_2, sim_default_zombied_3, sim_default_zombied_4
+target_smart = for_zombied_base_smart
+relationship = enemy
+story_id = for_zombied_squad
+
+[for_forest_squad]:online_offline_group
+faction = monster
+npc = rotan_1, rotan_2, rotan_1, rotan_2
+target_smart = for_forest_smart
+story_id = for_forest_squad
+
+[for_pentagram_squad]:online_offline_group
+faction = monster
+npc = snork_forgotten_strong, snork_forgotten_normal, snork_forgotten_normal, snork_forgotten_normal
+target_smart = for_pentagram_smart
+story_id = for_pentagram_squad
+
+[for_hrust_zb_squad]:online_offline_group
+faction = stalker
+npc = for_hrust
+target_smart = for_zombied_base_smart
+relationship = neutral
+story_id = for_hrust_zb_squad
+spawn_point = for_zombied_base_smart_nikson_first_walk
+on_death = %+for_hrust_death%
+
+[for_phantom_squad]:online_offline_group
+faction = monster
+npc = phantom_1, phantom_2, phantom_3, phantom_4, phantom_5, phantom_6
+target_smart = {+for_hrust_first_dialog_end} for_bunker_smart, for_zombied_base_smart
+story_id = for_phantom_squad
+on_death = %+for_zb_phantoms_dead%
+
+[for_zb_controller_squad]:online_offline_group
+faction = monster
+npc = m_controller_normal
+target_smart = for_zombied_base_smart
+story_id = for_zb_controller_squad
+spawn_point = for_zb_controller_point
+on_death = %+for_zb_controller_dead%
+
+[for_forest_squad_npc]:online_offline_group
+faction = ecolog
+npc = for_bunker_stalker_1, for_bunker_stalker_2, for_bunker_stalker_3
+target_smart = for_forest_smart
+story_id = for_forest_squad_npc
+spawn_point = for_forest_smart_stalkers_spawn_point
+
+[for_forest_bloodsucker_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_forgotten
+target_smart = for_forest_smart
+story_id = for_forest_bloodsucker_squad
+on_death = %+for_forest_bloodsucker_dead%
+
+[for_bunker_infernis_drunk_squad]:online_offline_group
+faction = freedom
+npc = for_inf_drunk
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_bunker_infernis_drunk_squad
+spawn_point = for_infernis_spawn
+on_death = %+for_infernis_dead%
+
+[for_infernis_monolith_squad]:online_offline_group
+faction = freedom
+npc = for_infernis_monolith
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_infernis_monolith_squad
+spawn_point = for_infernis_spawn
+on_death = %+for_infernis_dead%
+
+[for_raven_squad]:online_offline_group
+faction = killer
+npc = for_raven
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_raven_squad
+
+[for_infernis_grave_squad]:online_offline_group
+faction = freedom
+npc = for_infernis
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_infernis_grave_squad
+spawn_point = for_infernis_grave_spawn
+on_death = %+for_infernis_dead%
+
+[for_infernis_fraktor_squad]:online_offline_group
+faction = freedom
+npc = for_infernis
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_infernis_fraktor_squad
+spawn_point = for_bunker_smart_fraktor_look
+on_death = %+for_infernis_dead%
+
+[for_fraktor_squad]:online_offline_group
+faction = monolith
+npc = for_fraktor
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_fraktor_squad
+spawn_point = for_actor_tp_to_hos
+
+[for_infernis_mgun_squad]:online_offline_group
+faction = freedom
+npc = for_infernis
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_infernis_mgun_squad
+spawn_point = for_bunker_smart_infernis_mgun_walk
+on_death = %+for_infernis_dead%
+
+[for_hrust_last_squad]:online_offline_group
+faction = killer
+npc = for_hrust
+target_smart = for_bunker_smart
+relationship = friend
+story_id = for_hrust_last_squad
+spawn_point = for_bunker_smart_hrust_wounded_walk
+
+[for_kilorik_mgun_squad]:online_offline_group
+faction = ecolog
+npc = for_kilorik
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_kilorik_mgun_squad
+spawn_point = for_bunker_smart_kilorik_mgun_walk
+
+[for_anaconda_mgun_squad]:online_offline_group
+faction = ecolog
+npc = lim_anaconda
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_anaconda_mgun_squad
+spawn_point = for_bunker_smart_anaconda_mgun_walk
+
+[for_demon_mgun_squad]:online_offline_group
+faction = ecolog
+npc = for_demon
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_demon_mgun_squad
+spawn_point = for_bunker_smart_demon_mgun_walk
+
+[for_bastard_mgun_squad]:online_offline_group
+faction = ecolog
+npc = for_bastard
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_bastard_mgun_squad
+spawn_point = for_bunker_smart_bastard_mgun_walk
+
+[for_giants_raid_squad]:online_offline_group
+faction = monster
+npc = gigant_strong, gigant_bb, chimera_normal, chimera_normal
+target_smart = for_bunker_smart
+story_id = for_giants_raid_squad
+on_death = %+for_giants_raid_squad_killed%
+
+[for_giant_smart_squad]:online_offline_group
+faction = monster
+npc = gigant_forgotten
+target_smart = for_giant_smart
+story_id = for_giant_smart_squad
+on_death = %+for_giant_smart_squad_killed%
+
+[for_fraktor_last_squad]:online_offline_group
+faction = monolith
+npc = for_fraktor
+target_smart = for_bunker_smart
+relationship = neutral
+story_id = for_fraktor_last_squad
+spawn_point = for_infernis_spawn
+
+[for_pentagram_squad_respawn]:online_offline_group
+faction = monster
+npc = m_poltergeist_normal_flame, snork_forgotten_normal
+target_smart = for_pentagram_smart
+story_id = for_pentagram_squad_respawn
+
+[for_zombied_squad_respawn]:online_offline_group
+faction = zombied
+npc = sim_default_zombied_1, sim_default_zombied_2, sim_default_zombied_3
+target_smart = for_zombied_base_smart
+relationship = enemy
+story_id = for_zombied_squad_respawn
+on_death = %+for_zs_killed%
+
+[for_phantom_squad_respawn]:online_offline_group
+faction = monster
+npc = phantom_1, phantom_2, phantom_3
+target_smart = for_bunker_smart
+story_id = for_phantom_squad_respawn
+on_death = %-for_zs_killed%

@@ -1,0 +1,14 @@
+<start_dialog>orest_first_dialog</start_dialog>
+<actor_dialog>orest_first_dialog_end</actor_dialog>
+<start_dialog>hello_dialog</start_dialog>
+<actor_dialog>orest_vint_stalkers_dialog</actor_dialog>
+<actor_dialog>orest_vint_stalkers_dialog_end</actor_dialog>
+<actor_dialog>agr_orest_bad_dialog</actor_dialog>
+<actor_dialog>agr_orest_good_dialog</actor_dialog>
+<actor_dialog>agr_npc_random_coordinate_dialog</actor_dialog>
+<actor_dialog>agr_npc_random_kill_freaks_dialog_start</actor_dialog>
+<actor_dialog>agr_npc_random_kill_freaks_dialog</actor_dialog>
+<actor_dialog>agr_orest_last_ge_dialog</actor_dialog>
+<actor_dialog>agr_orest_last_ge_dialog_end</actor_dialog>
+
+<actor_dialog>actor_break_dialog</actor_dialog>

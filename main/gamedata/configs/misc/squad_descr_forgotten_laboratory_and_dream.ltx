@@ -1,0 +1,143 @@
+; Ну, погнали
+
+[fld_sq]:online_offline_group
+faction = stalker
+target_smart = for_lab_smart_1
+
+[flsd_squad]:fld_sq
+npc = flsd
+story_id = flsd_squad
+spawn_point = for_lab_shkir_dialog_spawn
+
+[flid_squad]:fld_sq
+npc = flid
+story_id = flid_squad
+relationship = friend
+spawn_point = for_lab_infernis_dialog_spawn
+
+[for_lab_infernis_squad]:online_offline_group
+faction = freedom
+npc = for_lab_infernis
+target_smart = for_lab_smart_1
+relationship = friend
+story_id = for_lab_infernis_squad
+spawn_point = for_lab_smart_1_infernis_first_walk
+
+[for_lab_shkir_squad]:online_offline_group
+faction = stalker
+npc = for_lab_shkir
+target_smart = for_lab_smart_1
+story_id = for_lab_shkir_squad
+spawn_point = for_lab_smart_1_shkir_first_walk
+
+[for_lab_smart_1_start_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_normal, bloodsucker_normal
+target_smart = for_lab_smart_1
+story_id = for_lab_smart_1_start_squad
+spawn_point = for_lab_actor_first_look
+on_death = %+fls1ss_death%
+
+[for_lab_smart_1_attack_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_normal, bloodsucker_strong
+target_smart = for_lab_smart_1
+story_id = for_lab_smart_1_attack_squad
+spawn_point = for_lab_bloodsuckers_spawn_1
+on_death = %+fls1as_death%
+
+[for_lab_smart_1_defense_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_strong, bloodsucker_strong
+target_smart = for_lab_smart_1
+story_id = for_lab_smart_1_defense_squad
+spawn_point = for_lab_bloodsuckers_spawn_2
+on_death = %+fls1ds_death%
+
+[for_lab_smart_1_enter_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_forgotten
+target_smart = for_lab_smart_1
+story_id = for_lab_smart_1_enter_squad
+spawn_point = for_lab_bloodsuckers_spawn_3
+on_death = %+fls1es_death%
+
+[for_lab_shkir_last_squad]:for_lab_shkir_squad
+story_id = for_lab_shkir_last_squad
+spawn_point = for_lab_bloodsuckers_spawn_1
+
+[for_lab_infernis_squad_2]:online_offline_group
+faction = freedom
+npc = for_lab_infernis
+target_smart = for_lab_smart_2
+relationship = friend
+story_id = for_lab_infernis_squad_2
+spawn_point = for_lab_smart_2_infernis_first_walk
+
+[for_lab_stronglaw_squad]:online_offline_group
+faction = monster
+npc = bloodsucker_stronglaw
+target_smart = for_lab_smart_2
+story_id = for_lab_stronglaw_squad
+spawn_point = for_lab_stronglaw_spawn
+on_death = %+for_lab_stronglaw_death%
+
+[for_stronglaw_fire_squad]:online_offline_group
+faction = monster
+npc = for_stronglaw_fire
+target_smart = for_lab_smart_2
+relationship = enemy
+story_id = for_stronglaw_fire_squad
+spawn_point = for_stronglaw_fire_spawn
+on_death = %+for_stronglaw_fire_death%
+
+[for_stronglaw_electra_squad]:online_offline_group
+faction = monster
+npc = for_stronglaw_electra
+relationship = enemy
+target_smart = for_lab_smart_2
+story_id = for_stronglaw_electra_squad
+spawn_point = for_stronglaw_electra_spawn
+on_death = %+for_stronglaw_electra_death%
+
+[for_stronglaw_chemi_squad]:online_offline_group
+faction = monster
+npc = for_stronglaw_chemi
+relationship = enemy
+target_smart = for_lab_smart_2
+story_id = for_stronglaw_chemi_squad
+spawn_point = for_stronglaw_chemi_spawn
+on_death = %+for_stronglaw_chemi_death%
+
+[for_stronglaw_gravi_squad]:online_offline_group
+faction = monster
+npc = for_stronglaw_gravi
+relationship = enemy
+target_smart = for_lab_smart_2
+story_id = for_stronglaw_gravi_squad
+spawn_point = for_stronglaw_gravi_spawn
+on_death = %+for_stronglaw_gravi_death%
+
+[for_lab_infernis_undead_squad]:online_offline_group
+faction = monster
+npc = infernis_undead
+target_smart = for_lab_smart_2
+relationship = friend
+story_id = for_lab_infernis_undead_squad
+spawn_point = for_lab_smart_2_infernis_death_walk
+
+[for_dre_killers_squad]:online_offline_group
+faction = killer
+npc = death_kane, death_phobos, death_suhoi, death_leshiy
+target_smart = for_dre_smart
+relationship = neutral
+story_id = for_dre_killers_squad
+spawn_point = for_dre_killers_spawn
+
+[for_dre_infernis_squad]:online_offline_group
+faction = freedom
+npc = for_dre_infernis
+target_smart = for_dre_smart
+relationship = friend
+story_id = for_dre_infernis_squad
+spawn_point = for_dre_actor_tp_walk

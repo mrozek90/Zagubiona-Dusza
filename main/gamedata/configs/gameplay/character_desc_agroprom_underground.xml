@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<xml>
+
+  <specific_character id="agr_und_infernis" team_default = "1">
+    <name>infernis</name>
+    <icon>ui_inGame2_Infernis</icon>
+    <map_icon x="1" y="0"></map_icon>
+    <bio>Опытный сталкер. Детальная информация отсутствует.</bio>
+
+    <class>agr_und_infernis</class>
+    <community>freedom</community> <terrain_sect>stalker_terrain</terrain_sect>
+    <snd_config>characters_voice\human_01\stalker\</snd_config>
+
+    <rank>625</rank>
+    <reputation>10</reputation>
+	<money min="5000" max="10000" infinitive="0"/>
+    <visual>actors\stalker_freedom\real_infernis</visual>
+    <supplies>
+      [spawn] \n
+      
+      wpn_sig550_infernis = 1 \n
+      ammo_5.56x45_ultima = 1 \n
+      wpn_sig220_infernis = 1, silencer \n
+      ammo_11.43x23_ultima = 1 \n
+			
+#include "gameplay\character_items_3.xml"
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs_4.xml"
+#include "gameplay\character_drugs_sci.xml"
+
+#include "gameplay\character_sell_weapons.xml"
+    </supplies>
+#include "gameplay\character_criticals_4.xml"
+
+<start_dialog>hello_dialog</start_dialog>
+
+
+<actor_dialog>infernis_return_dialog</actor_dialog>
+<actor_dialog>actor_break_dialog</actor_dialog>
+
+  </specific_character>
+
+
+</xml>

@@ -1,0 +1,15 @@
+function shkir_1_task()
+task_manager.get_task_manager():give_task("shkir_first_task")
+end
+
+function shkir_2_task()
+task_manager.get_task_manager():give_task("sith_first_task")
+end
+
+function smirnow_task()
+task_manager.get_task_manager():give_task("sith_first_task_2")
+end
+
+function shkir_3_task()
+task_manager.get_task_manager():give_task("shahta_task")
+end

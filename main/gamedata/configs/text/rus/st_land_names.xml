@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="symbiont">
+		<text>Аномалия «Симбионт»</text>
+	</string>
+	<string id="lesnik">
+		<text>Дом Лесника</text>
+	</string>
+	<string id="zapravka">
+		<text>Остановка</text>
+	</string>
+	<string id="naim">
+		<text>Временная база наёмников</text>
+	</string>
+	<string id="baza_stalkerov">
+		<text>База сталкеров</text>
+	</string>
+	<string id="baza_dolga">
+		<text>База «Долга»</text>
+	</string>
+	<string id="ruki">
+		<text>Аномалия «Загребущие руки»</text>
+	</string>
+	<string id="boloto">
+		<text>Болото</text>
+	</string>
+	<string id="tunnel">
+		<text>Странный туннель</text>
+	</string>
+	<string id="for_bunker_base_tip">
+		<text>Забытый бункер</text>
+	</string>
+	<string id="for_zombied_base_tip">
+		<text>Заброшенное здание</text>
+	</string>
+	<string id="for_forest_tip">
+		<text>Токсичный лес</text>
+	</string>
+	<string id="for_pentagram_tip">
+		<text>Аномалия «Пентаграмма»</text>
+	</string>
+	<string id="for_mountains_tip">
+		<text>Аномалия «Скалы»</text>
+	</string>
+</string_table>

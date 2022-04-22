@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+    <dialog id="shved_first_dialog_end">
+        <has_info>shved_first_dialog</has_info>
+        <dont_has_info>shved_first_dialog_end</dont_has_info>
+        <phrase_list>
+            <phrase id="1">
+                <text>shved_first_dialog_end_1</text>
+                <next>2</next>
+            </phrase>
+            <phrase id="2">
+                <text>shved_first_dialog_end_2</text>
+                <next>3</next>
+            </phrase>
+            <phrase id="3">
+                <text>shved_first_dialog_end_3</text>
+                <next>4</next>
+            </phrase>
+            <phrase id="4">
+                <text>shved_first_dialog_end_4</text>
+                <next>5</next>
+            </phrase>
+            <phrase id="0">
+                <text>shved_first_dialog_end_0</text>
+                <next>1</next>
+            </phrase>
+            <phrase id="5">
+                <text>shved_first_dialog_end_5</text>
+                <next>6</next>
+            </phrase>
+            <phrase id="6">
+                <text>shved_first_dialog_end_6</text>
+                <action>new_quests.shved_forgotten_way</action>
+                <give_info>shved_first_dialog_end</give_info>
+            </phrase>
+        </phrase_list>
+    </dialog>
+</game_dialogs>
