@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="st_pyos_description">
+		<text>Поздравляем! Вы нашли отсылку к одному из разработчиков - Боде Кислому.</text>
+	</string>
+	<string id="st_pyos_name">
+		<text>Пйос</text>
+	</string>
+	
+	<string id="st_shved_description">
+		<text>Поздравляем! Вы нашли отсылку к одному из разработчиков - Александру Шведскому.</text>
+	</string>
+	<string id="st_shved_name">
+		<text>Чалэн</text>
+	</string>
+	
+</string_table>

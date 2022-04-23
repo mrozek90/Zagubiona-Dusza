@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="anaconda_first_dialog_end_0">
+        <text>Отлично справились! Если захочешь подзаработать денег - отправляйся в «Забытые Края», на контракт. В бункере неподалёку отсюда поговори с профессором, он там всей работой заведует.</text>
+    </string>
+    <string id="shved_first_dialog_end_0">
+        <text>Спасибо, что помог. Я просто никогда в сторону Госпиталя не ходил, но думаю, дальше я разберусь, куда мне идти. Может, ещё не поздно.. Так, тебе нужно знать, куда ушли те наёмники?</text>
+    </string>
+    <string id="shved_first_dialog_end_1">
+        <text>Да.</text>
+    </string>
+    <string id="shved_first_dialog_end_2">
+        <text>Давай я отмечу тебе на карте сторону, в которую он шёл.</text>
+    </string>
+    <string id="shved_first_dialog_end_3">
+        <text>[Далее...]</text>
+    </string>
+    <string id="shved_first_dialog_end_4">
+        <text>Вот, где-то там. Возможно, там есть какая-то тропинка, я не знаю, извини.</text>
+    </string>
+    <string id="shved_first_dialog_end_5">
+        <text>И на том спасибо.</text>
+    </string>
+    <string id="shved_first_dialog_end_6">
+        <text>Удачи.</text>
+    </string>
+</string_table>

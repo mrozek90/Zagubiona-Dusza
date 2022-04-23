@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="agr_base_mayor_z_last_ge_dialog_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_base_mayor_z_last_ge_dialog_1">
+        <text>Без меня? Ты шутишь? Эти отморозки стреляли так, что ты бы и в одиночку их положил. А вот поддержка - это да. Тут всем спасибо надо сказать, все постарались. Я даже и не думал, что среди сталкеров действительно могут быть люди.</text>
+    </string>
+    <string id="agr_inquisitor_good_dialog_0">
+        <text>Инквизитор, мне нужна помощь...</text>
+    </string>
+    <string id="agr_inquisitor_good_dialog_1">
+        <text>Да да, я уже слышал. Мне всё равно нечего делать в этом лагере. Я тоже иду с тобой.</text>
+    </string>
+    <string id="agr_inquisitor_good_dialog_2">
+        <text>Спасибо.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_1">
+        <text>Так ты тоже мне помог, наёмник.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_2">
+        <text>В чём?</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_3">
+        <text>Когда согласился отправиться со мной за Орестом. Думаешь, было бы всё так радужно?</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_4">
+        <text>Ну тогда мы в расчёте.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_1">
+        <text>Так ты тоже мне помог, наёмник.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_2">
+        <text>В чём?</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_3">
+        <text>Когда согласился отправиться со мной за Орестом. Думаешь, было бы всё так радужно?</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_4">
+        <text>Ну тогда мы в расчёте.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_5">
+        <text>Не совсем. Помнишь, ты отдал мне артефакт? Я хотел отдать его Крылову на исследование. Но так, как он не в живых, можешь забрать этот артефакт. Он мне не нужен.</text>
+    </string>
+    <string id="agr_inquisitor_last_ge_dialog_has_artefact_6">
+        <text>Удачи.</text>
+    </string>
+    <string id="agr_karas_good_dialog_0">
+        <text>Лучше, чем было. Я смогу за себя постоять, Сектор. Бери всех, кого посчитаешь нужным.</text>
+    </string>
+    <string id="agr_karas_good_dialog_1">
+        <text>Хорошо..</text>
+    </string>
+    <string id="agr_mayor_z_good_dialog_0">
+        <text>Майор, ты с нами?</text>
+    </string>
+    <string id="agr_mayor_z_good_dialog_1">
+        <text>Хм... Карасю точно не нужна помощь?</text>
+    </string>
+    <string id="agr_mayor_z_good_dialog_2">
+        <text>Точно.</text>
+    </string>
+    <string id="agr_mayor_z_good_dialog_3">
+        <text>Ладно.. Не нравится мне эта затея, но раз все идут, пойду и я с вами.</text>
+    </string>
+    <string id="agr_mayor_z_good_dialog_4">
+        <text>Отлично!</text>
+    </string>
+    <string id="agr_npc_random_coordinate_dialog_0">
+        <text>Ребята, я нашёл у этой мрази КПК с записью. Шкир послал их чтобы убить оставшихся наёмников, меня в том числе.</text>
+    </string>
+    <string id="agr_npc_random_coordinate_dialog_1">
+        <text>Хм.. Ожидаемо. И что теперь делать?</text>
+    </string>
+    <string id="agr_npc_random_coordinate_dialog_2">
+        <text>Тут так же указано шесть координат. Это могут быть возможные местонахождения Ситха. Конечно, вряд-ли, но всё возможно. Вы поможете мне?</text>
+    </string>
+    <string id="agr_npc_random_coordinate_dialog_3">
+        <text>Конечно, наёмник. Сталкеры стараются помогать своим друзьям. Руководи, ты неплохо справляешься с ролью лидера.</text>
+    </string>
+    <string id="agr_npc_random_coordinate_dialog_4">
+        <text>Спасибо.. Значит так, Орест отправляется к координате №1, Инквизитор - к координате №2, Винт - к координате №3, Звягинцев - к координате №4, Смирнов - к координате №5. Координата №6 - моя. Я уже скинул их на ваши КПК. Если кто-то найдёт что-то интересное, отправьте всем остальным сигналы, чтобы они не продолжали поиски. Я же в любом случае отправлю вам сигнал с сообщением - нашёл я что-то, или нет. Если спустя два часа вы не получите моего сообщения, считайте, что подох я. Всё, вперёд!</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_0">
+        <text>Чёрт, они держут там Ситха! Нельзя терять ни секунды, ребята!</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_1">
+        <text>Быстро обсудим план?</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_2">
+        <text>Нас - шестеро, их - трое. Всё очевидно.</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_3">
+        <text>Штурм, значит.. Раз это единственное, что остаётся, начнём?</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_4">
+        <text>Отлично! Вперёд, парни!</text>
+    </string>
+    <string id="agr_npc_random_kill_freaks_dialog_start_0">
+        <text>На месте координаты №6 я нашёл сталкера, который практически полностью видел нападение и сказал, что Ситха повели в сторону Янтаря, как раз недалеко отсюда...</text>
+    </string>
+    <string id="agr_orest_bad_dialog_0">
+        <text>Орест, мне нужна помощь.</text>
+    </string>
+    <string id="agr_orest_bad_dialog_1">
+        <text>Что стряслось, дружище?</text>
+    </string>
+    <string id="agr_orest_bad_dialog_2">
+        <text>Моего напарника, похоже, держат в плену. Я собираю отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+    </string>
+    <string id="agr_orest_bad_dialog_3">
+        <text>Даже не знаю.. Нужно на кого-то оставить эту базу.</text>
+    </string>
+    <string id="agr_orest_bad_dialog_4">
+        <text>Не хочешь - как хочешь.</text>
+    </string>
+    <string id="agr_orest_bad_dialog_5">
+        <text>Инквизитор мог бы присмотреть за лагерем.</text>
+    </string>
+    <string id="agr_orest_bad_dialog_6">
+        <text>Действительно. А ты, как никак, очень много сделал для меня и одиночек в целом. Я просто не могу тебе отказать.</text>
+    </string>
+    <string id="agr_orest_bad_dialog_7">
+        <text>Спасибо.</text>
+    </string>
+    <string id="agr_orest_good_dialog_0">
+        <text>Орест, мне нужна помощь.</text>
+    </string>
+    <string id="agr_orest_good_dialog_1">
+        <text>Что стряслось, дружище?</text>
+    </string>
+    <string id="agr_orest_good_dialog_2">
+        <text>Моего напарника, похоже, держат в плену. Я собираю отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+    </string>
+    <string id="agr_orest_good_dialog_3">
+        <text>Хм.. Надо подумать на кого остаивть эту базу..</text>
+    </string>
+    <string id="agr_orest_good_dialog_4">
+        <text>[Молчание]</text>
+    </string>
+    <string id="agr_orest_good_dialog_5">
+        <text>А впрочем, они сами могут за себя постоять. А ты, как никак, очень много сделал для меня и одиночек в целом. Я просто не могу тебе отказать.</text>
+    </string>
+    <string id="agr_orest_good_dialog_6">
+        <text>Спасибо.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_1">
+        <text>Не за что. Это вам с Инквизитором спасибо за то, что спасли меня. Так бы я сейчас с вами не разговаривал.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_2">
+        <text>Ну тогда выходит, что мы в расчёте.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_end_0">
+        <text>Мы с Ситхом хотим присоединиться к вашему клану.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_end_1">
+        <text>Отличное решение! На самом деле всё просто. Быть сталкером - значит, быть человеком. Помочь товарищу в тяжёлую минуту, не крысятничать, не совершать подлости, поделиться аптечкой или куском хлеба, прикрыть спину в бою, разделить ночлег у костра..</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_end_2">
+        <text>Я понял, надо просто быть нормальным человеком. Я со всем согласен.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_end_3">
+        <text>Добро пожаловать в клан "Одиночки", друг! Снаряжение, думаю, вам уже не нужно, поэтому можешь идти. Если будет желание, можешь зайти ко мне за заданиями.</text>
+    </string>
+    <string id="agr_orest_last_ge_dialog_end_4">
+        <text>Спасибо. Я пойду.</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_0">
+        <text>Это мне пришло твоё сообщение.</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_1">
+        <text>Мы - старые кореша Шкира. Надеюсь, память не отшибло; не забыл, кто это?</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_2">
+        <text>Что?..</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_3">
+        <text>Короче, он нам сказал, чтобы мы твою псину повязали и выманили ваш остальной отряд на расстрел. Но у меня другие планы. Сечёшь, о чём я?</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_4">
+        <text>Не особо. Говори, что тебе нужно?</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_5">
+        <text>Не любишь пустой трёп? Тогда вот тебе задача - в тоннеле, где мы и нашли твоего кореша.. Короче, мне шепнули, что там арты новые находятся. Побегай там, поищи чё-нибудь. Как найдёшь - сразу притарань мне, мы тебе твоего кореша вернём, а Шкиру скажем, что терпила сбежать успел.</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_6">
+        <text>А если я ничего не найду в тоннеле?</text>
+    </string>
+    <string id="agr_shkir_bros_bad_dialog_7">
+        <text>Если ты нихера не найдёшь, мы сделаем то, что нам сказал Шкир. И даже не пытайся меня пристрелить - тебя всё время наша снайпа на мушке держит. Всё, вали отсюда, я всё сказал.</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_0">
+        <text>Это мне пришло твоё сообщение.</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_1">
+        <text>Мы - старые кореша Шкира. Надеюсь, память не отшибло; не забыл, кто это?</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_2">
+        <text>Ну и?</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_3">
+        <text>Короче, он нам сказал, чтобы мы твою псину повязали и выманили ваш остальной отряд на расстрел. Но у меня другие планы. Сечёшь, о чём я?</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_4">
+        <text>Не особо. Говори, что тебе нужно?</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_5">
+        <text>Не любишь пустой трёп? Хорошо, но сначала выведи своих псов метров на 20, это - личный базар.</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_6">
+        <text>Хорошо, но тогда пусть твои ребята тоже отойдут.</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_7">
+        <text>Ты мля не указывай мне! Мы щас тебя и твоих терпил на жопу посадим, сечёшь? Башляй то, что я тебе говорю, и пасть заткни!</text>
+    </string>
+    <string id="agr_shkir_bros_good_dialog_8">
+        <text>Пасть свою зарой, чепуха. Или хочешь, чтобы я выбил из тебя всё сам?</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_0">
+        <text>Что ты планируешь делать после того, как мы прикончим Шкира?</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_1">
+        <text>Немного подзаработаю и свалю отсюда. А ты?</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_2">
+        <text>Наверное, то же самое.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_3">
+        <text>Завтра утром надо будет отправляться на поиски Шкира, у нас почти каждая минута на счету.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_4">
+        <text>Я хочу присоединиться к Одиночкам. Ты со мной?</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_5">
+        <text>От наёмников у меня только убитые товарищи... Наверное, да, я с тобой. Конечно, если нас возьмут.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_6">
+        <text>Нас возьмут. Я пойду поговорю с Орестом.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_end_0">
+        <text>Орест принял нас в группировку Сталкеров.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_end_1">
+        <text>Я слышал. Что теперь?</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_end_2">
+        <text>Отправимся на поиски Шкира.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_end_3">
+        <text>Я ещё побуду на Агропроме. Ещё не всё я там осмотрел.</text>
+    </string>
+    <string id="agr_sith_last_ge_dialog_end_end_0">
+        <text>Пора отправляться.</text>
+    </string>
+    <string id="agr_smirnow_last_ge_dialog_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_smirnow_last_ge_dialog_1">
+        <text>Справился бы. У тебя был такой отряд, что любой обзавидуется. Но главное - что сейчас мы все живы.</text>
+    </string>
+    <string id="agr_vint_good_dialog_0">
+        <text>Винт, тут Ситха, походу, в плен взяли. Я отряд собираю чтобы освободить его. Пойдёшь со мной?</text>
+    </string>
+    <string id="agr_vint_good_dialog_1">
+        <text>Да от меня пользы не особо много, как от стрелка.</text>
+    </string>
+    <string id="agr_vint_good_dialog_2">
+        <text>Это тебе Шкир сказал?</text>
+    </string>
+    <string id="agr_vint_good_dialog_3">
+        <text>Ну..</text>
+    </string>
+    <string id="agr_vint_good_dialog_4">
+        <text>В себя надо верить, а не гнид слушать. Ладно, как хочешь.</text>
+    </string>
+    <string id="agr_vint_good_dialog_5">
+        <text>Погоди. Может, ты действительно прав. Давай я хоть для численности там постою. Орест не будет против?</text>
+    </string>
+    <string id="agr_vint_good_dialog_6">
+        <text>Орест тоже согласился участвовать.</text>
+    </string>
+    <string id="agr_vint_good_dialog_7">
+        <text>Тогда я с вами.</text>
+    </string>
+    <string id="agr_vint_good_dialog_8">
+        <text>Карась, как ты себя чувствуешь?</text>
+    </string>
+    <string id="agr_vint_last_ge_dialog_0">
+        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+    </string>
+    <string id="agr_vint_last_ge_dialog_1">
+        <text>Это тебе спасибо, за то, что вытащил меня на базу сталкеров. И за слова, про Шкира. Ты всегда был прав насчёт него - он никогда не ценил командную работу.</text>
+    </string>
+    <string id="infernis_return_dialog_0">
+        <text>Рад, что нашёл тебя. У меня к тебе есть несколько вопросов.</text>
+    </string>
+    <string id="infernis_return_dialog_1">
+        <text>Я могу попытаться на них ответить, но сначала - верни записку, которую взял здесь. Тебе то она уже не нужна, а мне потом отчитываться перед Доктором.</text>
+    </string>
+    <string id="infernis_return_dialog_2">
+        <text>Держи.</text>
+    </string>
+    <string id="infernis_return_dialog_3">
+        <text>Теперь я готов тебя выслушать.</text>
+    </string>
+    <string id="infernis_return_dialog_4">
+        <text>Тот наёмник, который напал на других наемников с долговцами.. Ты не видел, куда он ушёл?</text>
+    </string>
+    <string id="infernis_return_dialog_5">
+        <text>Ммм.. Вроде бы он направился в сторону складов. Кстати, я видел сталкеров, которые были с комбезами прихвостней того наёмника. Они куда-то тащили твоего кореша, я проследил за ними. Хотел рассказать тебе, но ты сам меня нашёл.</text>
+    </string>
+    <string id="infernis_return_dialog_6">
+        <text>Что?! Куда они его вели?</text>
+    </string>
+    <string id="infernis_return_dialog_7">
+        <text>В сторону Янтаря. Меня заметили и я смылся. Ещё вопросы?</text>
+    </string>
+    <string id="infernis_return_dialog_8">
+        <text>Нет, это всё. Спасибо за ответы, мне пора.</text>
+    </string>
+    <string id="infernis_return_dialog_9">
+        <text>Удачи, мститель!</text>
+    </string>
+    <string id="inquisitor_quest_dialog_0">
+        <text>Крутая броня. Где достал?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_1">
+        <text>Не достал - награда за задание. Я тут особо опасные миссии выполняю, этот экзоскелет как раз для них подходит.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_10">
+        <text>Ничего особенного, просто наведаться в то место, найти Ореста. Или если его там не будет, попробовать поискать неподалёку. Если он там будет лежать мёртвым, попытаться понять причину смерти.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_11">
+        <text>Причину смерти? Ты же говорил, что там пси-излучение.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_12">
+        <text>Скорее всего, он уже погиб, но нельзя терять надежды. Если он правда погиб, просто вытащим его оттуда. Ну так ты ещё не передумал?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_13">
+        <text>Передумал.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_14">
+        <text>Ни в коем случае.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_15">
+        <text>Отлично, ты мне уже нравишься, наёмник! Следуй за мной.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_16">
+        <text>[Далее...]</text>
+    </string>
+    <string id="inquisitor_quest_dialog_2">
+        <text>И что же за задания ты выполняешь?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_3">
+        <text>Хочешь присоединиться? Мне как раз для одного задания напарник нужен.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_4">
+        <text>А что хоть за задание?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_5">
+        <text>Не, мне жизнь дороже.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_6">
+        <text>В соседнем здании - на заводе "Агропром", пропал лидер Одиночек - Орестом кличут. Я разузнал у местных - кто-то ему наплёл про новые артефакты в тоннеле неподалёку, он и попёрся.. Уже как два дня не вышел оттуда, а сталкеры туда идти боятся - излучением там бьёт. Они то без защиты особой, а мы с тобой нормально экипированы. Пройдёмся, найдём его, доведём до базы, и всё. Или хотя бы то, что от него осталось...</text>
+    </string>
+    <string id="inquisitor_quest_dialog_7">
+        <text>Интересно. Я в деле.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_8">
+        <text>Интересно. Но я пас.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_9">
+        <text>Ну как знаешь. Если что - я всегда тут.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_0">
+        <text>Я возвращаюсь на базу. Будешь со мной идти?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_1">
+        <text>Нет, я немного тут передохну, позже пойду. А сам как, узнал что-то у Ореста?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_10">
+        <text>Да, наверное, ничего. Я и правда, лучше его себе оставлю.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_11">
+        <text>Ммм.. Нет, я ничего о нём не знаю.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_12">
+        <text>У меня нет такой суммы.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_13">
+        <text>Вот именно. Ну что?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_14">
+        <text>Держи.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_2">
+        <text>Да. Орест действительно нашёл там новый артефакт. Он отдал его мне. Взглянешь?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_3">
+        <text>Да нет, ничего особенного. Ну ладно, я пойду.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_4">
+        <text>А чего бы не взглянуть.. Да, действительно, я таких артефактов ещё не видел. Слушай, может отдашь его мне? Наши как раз сейчас изучают их чтобы лучше знать, как Зона устроена.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_5">
+        <text>А может, лучше мне будет его у себя оставить? Вдруг это он помог Оресту так долго под пси-полем выстоять.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_6">
+        <text>Что ты хочешь за этот артефакт?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_7">
+        <text>Информацию о Стрелке. Где он сейчас находится?</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_8">
+        <text>150.000 гривен.</text>
+    </string>
+    <string id="inquisitor_quest_dialog_end_9">
+        <text>Ладно, забирай. Не факт, что у него положительные свойства.</text>
+    </string>
+    <string id="karas_end_dialog_0">
+        <text>Сектор... Подойди сюда..</text>
+    </string>
+    <string id="karas_end_dialog_1">
+        <text>Карась?! Что произошло?</text>
+    </string>
+    <string id="karas_end_dialog_2">
+        <text>Кто-то.. Устроил засаду.. Всех убили.. Я выжил.. Но ненадолго...</text>
+    </string>
+    <string id="karas_end_dialog_3">
+        <text>Тебе нужна помощь, идём на базу сталкеров!</text>
+    </string>
+    <string id="karas_end_dialog_4">
+        <text>Поздно.. Ты слишком долго был в лаборатории... Отправляйся к Ситху.. Он тоже выжил... Он отправился в сторону тоннеля с пси-излучением...</text>
+    </string>
+    <string id="karas_end_dialog_5">
+        <text>Откуда ты знаешь про тоннель?</text>
+    </string>
+    <string id="karas_end_dialog_6">
+        <text>Инквизитор рассказывал, просил помочь.. Надо было соглашаться... А сейчас иди к Ситху..</text>
+    </string>
+    <string id="karas_end_dialog_7">
+        <text>Я вернусь, и мы быстро доведём тебя до базы. Ты, главное - держись!</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_0">
+        <text>Что тут произошло? Как Карась тут оказался?</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_1">
+        <text>Какой-то свободовец принёс его сюда. Пришёл и ушёл. Не стрелял, ничего не объяснил, молча ушёл.</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_2">
+        <text>Свободовец?</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_3">
+        <text>Да. В каком-то перекрашенном сталкерском комбезе.</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_4">
+        <text>Ладно, это сейчас неважно. Как Карась?</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_end_0">
+        <text>Со мной всё в порядке. Раны скоро заживут. Тот свободовец поставил меня на ноги. Сейчас я просто хочу отдохнуть.</text>
+    </string>
+    <string id="karas_mayor_z_first_dialog_end_1">
+        <text>Понятно.</text>
+    </string>
+    <string id="kilorik_first_dialog_0">
+        <text>Приветствую.</text>
+    </string>
+    <string id="kilorik_first_dialog_1">
+        <text>Я тебя раньше здесь не видел. Ты учёный?</text>
+    </string>
+    <string id="kilorik_first_dialog_10">
+        <text>Я был в тоннеле. За крайним вагоном я нашёл странное растение, похожее на цветок. Странно, как оно могло вырасти без солнца..</text>
+    </string>
+    <string id="kilorik_first_dialog_11">
+        <text>Ты пытался сорвать растение?</text>
+    </string>
+    <string id="kilorik_first_dialog_12">
+        <text>Бывай.</text>
+    </string>
+    <string id="kilorik_first_dialog_13">
+        <text>Хорошо, я посмотрю, что в том тоннеле. Я в нём был недавно, думаю, особо ничего не поменялось.</text>
+    </string>
+    <string id="kilorik_first_dialog_14">
+        <text>Удачи, наёмник.</text>
+    </string>
+    <string id="kilorik_first_dialog_15">
+        <text>Да. Оно бьёт током, когда я к нему касаюсь. Его невозможно сорвать.</text>
+    </string>
+    <string id="kilorik_first_dialog_16">
+        <text>А вот это уже интересно. Некое "аномальное растение", которое не подпускает никого к себе. Надо будет сообщить об этом профессору. Ах да, я так же сообщу ему о том, что ты помог мне найти его. Спасибо, наёмник. Давай я отмечу тебе наш бункер в ПДА. Таак.. Вот, всё, там находится наша база. Скажешь ему, что ты от меня и получишь свою награду. Ещё раз спасибо и до встречи.</text>
+    </string>
+    <string id="kilorik_first_dialog_2">
+        <text>Скажем так, я - ассистент, который исследую различные аномалии, осматриваю и ищу новые тропы для перехода в те места, куда ещё не ступала нога сталкерская.</text>
+    </string>
+    <string id="kilorik_first_dialog_3">
+        <text>И как результаты?</text>
+    </string>
+    <string id="kilorik_first_dialog_4">
+        <text>Да пока никак. Я ещё занимаюсь торговлей различного оружия, которое я нахожу в тайниках. Вряд ли ты когда-нибудь найдёшь или купишь такой ассортимент.</text>
+    </string>
+    <string id="kilorik_first_dialog_5">
+        <text>Есть для меня какая-нибудь работа?</text>
+    </string>
+    <string id="kilorik_first_dialog_6">
+        <text>Я работаю на одного профессора, который помешан на исследовании артефактов. Недавно по Зоне пошла молва, что в тоннеле возле Агропрома появились новые артефакты. Меня на всех парах отправили сюда чтобы я обшмонал тот тоннель. А я даже не знаю, что меня там ждёт. Сталкеры говорили, что там обитал контролёр, да и сам тоннель покрыт излучением. Ты ведь наёмник, да? Не мог бы ты за некоторую плату, осмотреть туннель, после чего сообщить мне насчёт того, есть ли что-то, ради чего стоит туда переться.</text>
+    </string>
+    <string id="kilorik_first_dialog_7">
+        <text>О какой сумме идёт речь?</text>
+    </string>
+    <string id="kilorik_first_dialog_8">
+        <text>Я сообщу профессору о том, что ты помог мне с исследованием, после чего ты получишь от него свою часть награды и, если захочешь, контракт на более хорошие вещи.</text>
+    </string>
+    <string id="kilorik_first_dialog_9">
+        <text>Отправили тебя, значит разбирайся сам.</text>
+    </string>
+    <string id="krilow_first_dialog_0">
+        <text>Нас интересуют Ваши бойцы.</text>
+    </string>
+    <string id="krilow_first_dialog_1">
+        <text>У меня сейчас нет бойцов, ничем не можем помочь.</text>
+    </string>
+    <string id="krilow_first_dialog_10">
+        <text>text in default(Бодян красавчик)</text>
+    </string>
+    <string id="krilow_first_dialog_11">
+        <text>[Показать фотографию]</text>
+    </string>
+    <string id="krilow_first_dialog_12">
+        <text>Да, знаю одного. Но должен ли я тебе рассказывать о нём?</text>
+    </string>
+    <string id="krilow_first_dialog_13">
+        <text>Сколько?</text>
+    </string>
+    <string id="krilow_first_dialog_14">
+        <text>Услуга за услугу.</text>
+    </string>
+    <string id="krilow_first_dialog_15">
+        <text>Идёт.</text>
+    </string>
+    <string id="krilow_first_dialog_16">
+        <text>На болотах неподалёку отсюда есть один домик. Вокруг него идёт химическое облако. Возможно, поэтому мои ребята видели там каких-то сумасшедших в долговских комбинезонах, наверное галлюцинации. Может, это друзья нападавших на вас. Во всяком случае, тебе нужно обчистить этот дом. Обо всём, что ты там найдёшь, расскажешь мне, а я решу, есть ли смысл это забирать. Одному тебе идти туда необязательно - можешь взять с собой своих приятелей.</text>
+    </string>
+    <string id="krilow_first_dialog_17">
+        <text>Сам справлюсь. Давай координаты.</text>
+    </string>
+    <string id="krilow_first_dialog_2">
+        <text>Да мы, собственно, по другому вопросу. Что вы можете сказать за бойцов в Рыжем лесу?</text>
+    </string>
+    <string id="krilow_first_dialog_3">
+        <text>Что они успели натворить? Они недавно погибли в аномалии, жаль ребят.</text>
+    </string>
+    <string id="krilow_first_dialog_4">
+        <text>В аномалии? Похоже, мы говорим не об одних и тех же людях, сколько было в твоём отряде бойцов?</text>
+    </string>
+    <string id="krilow_first_dialog_5">
+        <text>Человека три, не больше.</text>
+    </string>
+    <string id="krilow_first_dialog_6">
+        <text>На нас напало порядка 10-ти бойцов в общем.</text>
+    </string>
+    <string id="krilow_first_dialog_7">
+        <text>Это - подстава, я не отправлял своих бойцов на уничтожение наёмников, тем более - десяток.</text>
+    </string>
+    <string id="krilow_first_dialog_8">
+        <text>Значит, загадка... Ладно, ещё хотел кое-что спросить. Я тебе сейчас покажу фотографию, хотелось-бы попросить тебя рассказать всё, что знаешь об этих бойцах.</text>
+    </string>
+    <string id="krilow_first_dialog_9">
+        <text>Давай гляну.</text>
+    </string>
+    <string id="krilow_first_dialog_end_0">
+        <text>Докладываю: в том доме действительно были, судя по всему, бывшие долговцы.</text>
+    </string>
+    <string id="krilow_first_dialog_end_1">
+        <text>"Бывшие"? Но что они там забыли?</text>
+    </string>
+    <string id="krilow_first_dialog_end_2">
+        <text>У одного из них я нашёл КПК, где говорится про какого-то Миротворца, который активно сливал им инфу с вашей базы, видимо, тоже один из них. Вот КПК, почитай.</text>
+    </string>
+    <string id="krilow_first_dialog_end_end_0">
+        <text>Ты в порядке, генерал?</text>
+    </string>
+    <string id="krilow_first_dialog_end_end_1">
+        <text>Да, наверное.. Спасибо за помощь. Держи, хоть как-то тебя отблагодарю.</text>
+    </string>
+    <string id="krilow_first_dialog_end_end_2">
+        <text>Как насчёт информации?</text>
+    </string>
+    <string id="krilow_first_dialog_end_end_3">
+        <text>Конечно, да... В общем, знаю одного из этих сталкеров, его наёмник искал... Шрам, точно! Он нам помог подземелье зачистить, там он и нашёл информацию об этом же сталкере. Думаю тебе стоит туда пойти. За казармами есть люк, тебе его найти не составит труда.</text>
+    </string>
+    <string id="krilow_first_dialog_end_end_4">
+        <text>Хорошо, спасибо.</text>
+    </string>
+    <string id="mayor_z_first_dialog_bad_0">
+        <text>Мне нужна помощь.</text>
+    </string>
+    <string id="mayor_z_first_dialog_bad_1">
+        <text>В чём проблема?</text>
+    </string>
+    <string id="mayor_z_first_dialog_bad_2">
+        <text>Мой напарник пропал. Сейчас мне пришло сообщение от какого-то сталкера, что он, предположительно, знает его местонахождение. Но что-то не верится мне. Возможно, это люди Шкира организовали мне засаду. Не мог бы ты составить мне компанию?</text>
+    </string>
+    <string id="mayor_z_first_dialog_bad_3">
+        <text>Слушай, я не особо разбираюсь в ваших Шкирах, напарниках, засадах... Я устал после всего, что произошло и сейчас просто хочу спокойствия. Поэтому извини, но я - пас.</text>
+    </string>
+    <string id="orest_first_dialog_0">
+        <text>А-ах, да когда же это всё закончится.... А-аа, кто вы?!</text>
+    </string>
+    <string id="orest_first_dialog_1">
+        <text>Мы - твоя скорая помощь. Это тебя Орестом кличут?</text>
+    </string>
+    <string id="orest_first_dialog_2">
+        <text>А-аа, что? Орест? Да, я.. А вы кто?.. Скора-ая по-омощь?</text>
+    </string>
+    <string id="orest_first_dialog_3">
+        <text>Да. Мы выведем тебя отсюда.</text>
+    </string>
+    <string id="orest_first_dialog_4">
+        <text>ААА-А-А-А-ААААААААААА!</text>
+    </string>
+    <string id="orest_first_dialog_5">
+        <text>Что с тобой?</text>
+    </string>
+    <string id="orest_first_dialog_end_0">
+        <text>Ну как ты, парень?</text>
+    </string>
+    <string id="orest_first_dialog_end_1">
+        <text>Вы спасли мне жизнь! Огромное спасибо. Я не знаю, сколько бы я ещё пробыл там, и в кого бы превратился. Остальные сталкеры тоже вам благодарны, я уверен, у Дрозда найдётся кое-что интересное для вас.</text>
+    </string>
+    <string id="orest_first_dialog_end_10">
+        <text>Ага, спасибо.</text>
+    </string>
+    <string id="orest_first_dialog_end_2">
+        <text>Дрозд?</text>
+    </string>
+    <string id="orest_first_dialog_end_3">
+        <text>Торговец на нашей базе. Итак, чем я могу быть вам полезен?</text>
+    </string>
+    <string id="orest_first_dialog_end_4">
+        <text>Меня интересует сталкер по кличке Стрелок. А ещё больше меня инетресует его примерное местоположение. Что можешь сказать по этому поводу?</text>
+    </string>
+    <string id="orest_first_dialog_end_5">
+        <text>Стрелок... Стрелок... А, вспомнил! Он со своей группой к центру Зоны ходил. Может, сгинул где-то там. Тут недавно один из ваших тоже Стрелком интересовался.</text>
+    </string>
+    <string id="orest_first_dialog_end_6">
+        <text>"Один из наших"?</text>
+    </string>
+    <string id="orest_first_dialog_end_7">
+        <text>Да. Наёмник какой-то со шрамом на лице.</text>
+    </string>
+    <string id="orest_first_dialog_end_8">
+        <text>Понятно. Ну я пойду тогда.</text>
+    </string>
+    <string id="orest_first_dialog_end_9">
+        <text>Погоди! Тот сталкер, который мне про артефакты наплёл, прав оказался - в том тоннеле действительно новые артефакты были. Я нашёл один, можешь забрать его себе. Всё таки, ты мне жизнь спас, а если бы вы опоздали, вы бы всё равно этот артефакт забрали. А так, скажем, в награду за то, что рисковали своей жизнью ради другого.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_0">
+        <text>Вам нужна какая-то помощь?</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_1">
+        <text>Хорошо, что ты спросил. У нас ведь на базе тоже был техник, как на базе Долга, только сейчас он с некоторыми сталкерами отправился в Рыжий Лес на рейд. Я, конечно, уверен в Айдаре, но нужно готовить себя ко всему. Если вдруг он не вернётся, многим на нашей базе будет туго, добираться до долговского блокпоста, чтобы тебе ремонтировали вещи по завышенной цене, а потом возвращаться обратно на базу - не очень приятно, согласись. А Крылов своего техника не хочет отдавать, ну оно то и понятно. Я это к чему - может, у тебя есть знакомые люди, которые более-менее разбираются в оружии, или броне? Не мог бы кого-нибудь найти?</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_2">
+        <text>Хм.. Да, есть один. Попробую его уговорить.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_3">
+        <text>Хм.. Да, есть один. Но он на такое никогда не согласится.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_4">
+        <text>Ничем не могу помочь.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_5">
+        <text>Может, всё-таки спросишь? Мало ли, вдруг ему денег заработать надо.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_6">
+        <text>Ну хорошо, спрошу.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_7">
+        <text>Сказал же - не согласится. Я его хорошо знаю.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_end_0">
+        <text>Вот вам новый техник, Винтом кличут.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_end_1">
+        <text>Спасибо тебе, Сектор, ты уже в какой раз нас выручаешь. Если хочешь, я всегда согласен принять тебя в Одиночки.</text>
+    </string>
+    <string id="orest_vint_stalkers_dialog_end_2">
+        <text>Посмотрим.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_0">
+        <text>Почему ты выбрал именно Агропром?</text>
+    </string>
+    <string id="shkir_gg_first_dialog_1">
+        <text>Потому что тут находится главная база Долга. Они знают нашу цель, возможно, им так-же нужна группа Стрелка. Мы можем объединиться дабы быстрее найти его.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_2">
+        <text>Объединиться с теми, кто убили Кейна с Фобосом, и почти убили Ситха?</text>
+    </string>
+    <string id="shkir_gg_first_dialog_3">
+        <text>Да. Я не думаю, что между наёмниками и долговцами будут плохие отношения из-за четырёх идиотов. Всё, у меня нет времени на разговоры. Если тебе так интересно узнать, зачем они убили тех бестолочей, спроси сам у Крылова.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_4">
+        <text>Как скажешь.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_0">
+        <text>Судя по всему, те долговцы в Рыжем Лесу были фанатиками.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_1">
+        <text>Да? И как ты это понял?</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_2">
+        <text>Крылов рассказал, что он посылал лишь троих бойцов, которые погибли в аномалии. Так же я узнал, что часть долговцев, что на Агропроме, что в Рыжем лесу - были монолитовцы, которым не составило труда влиться в их ряды. С ними уже покончено.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_3">
+        <text>Запутанно.. Ладно, что-то о Группе Стрелка узнал?</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_4">
+        <text>Да, узнал. Того наёмника, который так же охотился за Стрелком, звали Шрамом. Он помог долговцам зачистить подземелья НИИ от мутантов, в которых он и нашёл документы, связанные со Стрелком. Я собираюсь спуститься в подземелья Агропрома с целью найти информацию. В конце я расскажу тебе обо всём.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_5">
+        <text>Ты один туда собираешься спускаться?</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_6">
+        <text>Да, от тебя ведь нормальных приказов не дождёшься.</text>
+    </string>
+    <string id="shkir_gg_first_dialog_end_7">
+        <text>Отлично, мне даже не пришлось тебе сопли вытирать. Ну что могу сказать, отправляйся.</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_0">
+        <text>Шкир, разговор к тебе есть.</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_1">
+        <text>Чё тебе надо?</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_2">
+        <text>У сталкеров временно отсутствует техник. Мы могли бы отдать им Винта на то время, пока мы на базе Долга.</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_3">
+        <text>С какой это радости?</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_4">
+        <text>Ну подумай. Сегодня мы вотрёмся в их доверие, а завтра они могут нам рассказать за группу Стрелка.</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_5">
+        <text>Хм... Ладно. Всё равно от Винта толку - ноль, как от бойца. В руках - Винторез, а пользоваться им не умеет.</text>
+    </string>
+    <string id="shkir_vint_stalkers_dialog_6">
+        <text>Ну нет, так нет.</text>
+    </string>
+    <string id="sith_genesis_dialog_0">
+        <text>Ситх, это ты?</text>
+    </string>
+    <string id="sith_genesis_dialog_1">
+        <text>Как видишь..</text>
+    </string>
+    <string id="sith_genesis_dialog_2">
+        <text>Так значит, это всё устроил Шкир?</text>
+    </string>
+    <string id="sith_genesis_dialog_3">
+        <text>Да.. Он вдруг вышел из базы, я - за ним незаметно. С другого холма посмотрел, он позвал кого-то по рации. Я предупредил всех, кто был на базе, что что-то не так. Потом вернулся - наблюдать, и помогать в случае чего.. Высадился вертолёт с вооружёнными головорезами. Конкретно кто это были - я не понял, по комбинезонам было не понять, ибо я таких не видел ещё. Это было поражение, меня заметили в последний момент, когда я уже начал бежать. Кто эти сталкеры - я не знаю, скорее всего, его сообщники. Возможно, контракт - это было лишь прикрытие. А настоящие его планы никто не знает..</text>
+    </string>
+    <string id="sith_genesis_dialog_4">
+        <text>И куда они ушли - ты, как я понимаю, тоже не знаешь..?</text>
+    </string>
+    <string id="sith_genesis_dialog_5">
+        <text>Нет, не знаю.</text>
+    </string>
+    <string id="sith_genesis_dialog_6">
+        <text>Ситх, помнится, ты говорил мне, что поможешь мне, когда я попрошу? Так вот, сейчас я хочу найти и уничтожить Шкира, любой ценой. У меня давно руки чешутся его завалить, но теперь...</text>
+    </string>
+    <string id="sith_genesis_dialog_7">
+        <text>Я рад, что наши дорожки сошлись. Я помогу тебе, это не обсуждается. Кстати, ты был в лаборатории? Что ты там нашёл?</text>
+    </string>
+    <string id="sith_genesis_dialog_8">
+        <text>Нашёл записку.. Погоди, точно! В подземельях я нашёл сталкера, который в точности видел всю засаду. Он мог видеть, куда после этого ушёл Шкир. Я сейчас вернусь.</text>
+    </string>
+    <string id="sith_resсue_dialog_0">
+        <text>Спасибо, брат, ты в очередной раз спас мне жизнь.</text>
+    </string>
+    <string id="sith_resсue_dialog_1">
+        <text>Тут была не только моя заслуга. Ещё этих ребят, и ещё одного человека... Если бы не он, я бы вряд-ли узнал о том, что тебя тут держат.</text>
+    </string>
+    <string id="sith_resсue_dialog_2">
+        <text>Я могу знать этого человека?</text>
+    </string>
+    <string id="sith_resсue_dialog_3">
+        <text>Возможно.</text>
+    </string>
+    <string id="sith_resсue_dialog_4">
+        <text>Ладно, с этим потом разберёмся. Ты узнал что-нибудь о Шкире?</text>
+    </string>
+    <string id="sith_resсue_dialog_5">
+        <text>Да. Эти твари, которые тебя взяли в плен, являются кем-то вроде его шестёрок. Их было несколько и, скорее всего, где-то они ещё остались. Ещё я узнал, что Шкир, предположительно, отправился в сторону Армейских складов, а уже оттуда - в Рыжий Лес.</text>
+    </string>
+    <string id="sith_resсue_dialog_6">
+        <text>Понятно. Значит, у нас есть место, где можно начать поиски?</text>
+    </string>
+    <string id="sith_resсue_dialog_7">
+        <text>Верно.</text>
+    </string>
+    <string id="sith_resсue_dialog_8">
+        <text>Это хорошо. Но я думаю, что сейчас самое время отдохнуть.</text>
+    </string>
+    <string id="sith_resсue_dialog_9">
+        <text>Да...</text>
+    </string>
+    <string id="smirnow_good_dialog_0">
+        <text>Как ты сюда попал?</text>
+    </string>
+    <string id="smirnow_good_dialog_1">
+        <text>Когда вы ушли, я сбежал оттуда, ведь был уверен, что в доме, который раньше принадлежал Леснику, ещё кто-нибудь засядет. Я подумал, что база Одиночек на Агропроме будет безопасным местом, где я смогу отдохнуть.</text>
+    </string>
+    <string id="smirnow_good_dialog_2">
+        <text>Понятно.</text>
+    </string>
+    <string id="smirnow_good_dialog_3">
+        <text>Хорошо, что оставили меня в живых в своё время. А что вы все тут собрались, на охоту что ли?</text>
+    </string>
+    <string id="smirnow_good_dialog_4">
+        <text>Моего напарника, похоже, держат в плену. Я собрал отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+    </string>
+    <string id="smirnow_good_dialog_5">
+        <text>Пойду. Отдохнуть ещё успею.</text>
+    </string>
+    <string id="smirnow_good_dialog_6">
+        <text>Замечательно.</text>
+    </string>
+    <string id="vint_stalkers_dialog_0">
+        <text>Есть желание дополнительно подзаработать?</text>
+    </string>
+    <string id="vint_stalkers_dialog_1">
+        <text>Что тебе нужно, Сектор?</text>
+    </string>
+    <string id="vint_stalkers_dialog_2">
+        <text>У сталкеров на базе техник временно отсутствует. Лидер лично попросил меня найти ему временную замену. Если ты согласишься, я проведу тебя на базу сталкеров, а когда наш отряд будет собираться уходить, ты уйдёшь вместе с нами.</text>
+    </string>
+    <string id="vint_stalkers_dialog_3">
+        <text>Возможно, это неплохая идея. Пока все отдыхают, я смогу нормально подзаработать, ибо в отряде мне редко что чинить приходится.</text>
+    </string>
+    <string id="vint_stalkers_dialog_4">
+        <text>Ну?</text>
+    </string>
+    <string id="vint_stalkers_dialog_5">
+        <text>Что по этому поводу думает Шкир?</text>
+    </string>
+    <string id="vint_stalkers_dialog_6">
+        <text>Он не против.</text>
+    </string>
+    <string id="vint_stalkers_dialog_7">
+        <text>Хорошо. Выдвигаемся?</text>
+    </string>
+    <string id="vint_stalkers_dialog_8">
+        <text>Вперёд.</text>
+    </string>
+    <string id="vitaliy_start_dialog_0">
+        <text>Приветствую.</text>
+    </string>
+    <string id="vitaliy_start_dialog_1">
+        <text>Я тебя раньше тут не видел. Перестрелка была, ты откуда?</text>
+    </string>
+    <string id="vitaliy_start_dialog_2">
+        <text>Я с Болот. Меня сюда отправили разведать обстановку. Прости, это всё, что я могу тебе сказать.</text>
+    </string>
+    <string id="vitaliy_start_dialog_3">
+        <text>Что можешь интересного рассказать?</text>
+    </string>
+    <string id="vitaliy_start_dialog_4">
+        <text>Недавно выбили Ренегатов с Болот. Наконец-то теперь зажить можно в тех местах! Один наёмник со шрамом на лице помог нам. Если-бы не он, вряд-ли бы я вообще тут находился. Главное - чтобы на Болота сейчас какая-нибудь другая тварь не полезла.</text>
+    </string>
+    <string id="vitaliy_start_dialog_5">
+        <text>Бывай.</text>
+    </string>
+</string_table>

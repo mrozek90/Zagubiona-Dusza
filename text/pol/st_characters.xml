@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_actor">
+		<text>Сектор</text>
+	</string>
+	<string id="vint">
+		<text>Винт</text>
+	</string>
+	<string id="karas">
+		<text>Карась</text>
+	</string>
+	<string id="shkir">
+		<text>Шкир</text>
+	</string>
+	<string id="topor">
+		<text>Топор</text>
+	</string>
+	<string id="suhoi">
+		<text>Сухой</text>
+	</string>
+	<string id="leshiy">
+		<text>Леший</text>
+	</string>
+	<string id="sith">
+		<text>Ситх</text>
+	</string>
+	<string id="kane">
+		<text>Кейн</text>
+	</string>
+	<string id="phobos">
+		<text>Фобос</text>
+	</string>
+		<string id="agr_base_barman">
+		<text>Колобок</text>
+	</string>
+	<string id="agr_base_trader">
+		<text>Митяй</text>
+	</string>
+	<string id="agr_base_inquisitor">
+		<text>Инквизитор</text>
+	</string>
+	<string id="agr_base_mechanic">
+		<text>Громов</text>
+	</string>
+	<string id="agr_base_commander">
+		<text>Генерал Крылов</text>
+	</string>
+	<string id="agr_base_mayor_z">
+		<text>Майор Звягинцев</text>
+	</string>
+	<string id="agr_base_backstabber">
+		<text>Миротворец</text>
+	</string>
+	<string id="agr_sim_1_drozd">
+		<text>Дрозд</text>
+	</string>
+	<string id="agr_sim_1_otshelnik">
+		<text>Отшельник</text>
+	</string>
+	<string id="agr_sim_2_orest">
+		<text>Орест</text>
+	</string>
+	<string id="agr_heck">
+		<text>Чёрт</text>
+	</string>
+	<string id="stalker_freak_leader">
+		<text>Харпер</text>
+	</string>
+	<string id="stalker_freak_leader_2">
+		<text>Рован</text>
+	</string>
+	
+	<string id="jora_efimov">
+		<text>Жора Ефимов</text>
+	</string>
+	<string id="nikolai_yurchuk">
+		<text>Колян Юрчук</text>
+	</string>
+	<string id="kalter">
+		<text>Кальтер</text>
+	</string>
+	<string id="khan">
+		<text>Хан</text>
+	</string>
+	<string id="vedun">
+		<text>Ведун</text>
+	</string>
+	<string id="dan_mutniy">
+		<text>Дэн Мутный</text>
+	</string>
+	<string id="danil_radist">
+		<text>Даня Радист</text>
+	</string>
+	<string id="dima_suslik">
+		<text>Дима Суслик</text>
+	</string>
+	<string id="psih">
+		<text>Псих</text>
+	</string>
+	<string id="edya_razvedos">
+		<text>Эдя Разведос</text>
+	</string>
+	
+	<string id="vitaliy_litvin">
+		<text>Виталик «Разведчик» Литвин</text>
+	</string>
+	<string id="nikita_halikov">
+		<text>Килорик</text>
+	</string>
+		
+	<string id="infernis">
+		<text>Инфернис</text>
+	</string>
+	<string id="anaconda">
+		<text>Анаконда</text>
+	</string>
+	<string id="shved">
+		<text>Швед</text>
+	</string>
+	<string id="alex_smirnow">
+		<text>Саня Смирнов</text>
+	</string>
+	<string id="hrust">
+		<text>Хруст</text>
+	</string>
+	<string id="skryabin">
+		<text>Ст. Лейтенант Скрябин</text>
+	</string>
+	<string id="raven">
+		<text>Ворон</text>
+	</string>
+	<string id="fraktor">
+		<text>Фрактор</text>
+	</string>
+		
+	<string id="shakal">
+		<text>Шакал</text>
+	</string>
+	<string id="war">
+		<text>Война</text>
+	</string>
+	<string id="kant">
+		<text>Кант</text>
+	</string>
+		
+	<string id="shram">
+		<text>Наёмник Шрам</text>
+	</string>
+	<string id="lebedev">
+		<text>Лебедев</text>
+	</string>
+		
+	<string id="for_professor">
+		<text>Профессор Джекил</text>
+	</string>
+	<string id="for_bunker_guard_1">
+		<text>Демон</text>
+	</string>
+	<string id="for_bunker_guard_2">
+		<text>Мразь</text>
+	</string>
+</string_table>
