@@ -1,9 +1,0 @@
-function dal_pda_vovika(actor,npc)
---alife():create("pda_vovik", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
-dialogs.relocate_item_section(actor,"pda_vovik","in")--добавить в инвентарь инвентаря
-end
-
-
-function transfer_vodka_to_boroda(first_speaker, second_speaker)  
-  dialogs.relocate_item_section_from_actor(first_speaker, second_speaker, "pda_vovik")--убрать из инвентаря
-end

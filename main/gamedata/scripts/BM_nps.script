@@ -1,8 +1,0 @@
-function spawn_npc () 
-local 
-
-alife():create("vovik",vector():set(245.5799407959,18.530138015747 ,531.22399902344),1386424,292) 
-
-
-params.custom="[logic]\ncfg = scripts\\test_npc_logic.ltx" 
-end

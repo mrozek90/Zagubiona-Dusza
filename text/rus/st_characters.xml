@@ -1,162 +1,162 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="st_actor">
-		<text>Sektor</text>
+		<text>Ńĺęňîđ</text>
 	</string>
 	<string id="vint">
-		<text>Vint</text>
+		<text>Âčíň</text>
 	</string>
 	<string id="karas">
-		<text>Karaś</text>
+		<text>Ęŕđŕńü</text>
 	</string>
 	<string id="shkir">
-		<text>Szkir</text>
+		<text>Řęčđ</text>
 	</string>
 	<string id="topor">
-		<text>Topor</text>
+		<text>Ňîďîđ</text>
 	</string>
 	<string id="suhoi">
-		<text>Suchy</text>
+		<text>Ńóőîé</text>
 	</string>
 	<string id="leshiy">
-		<text>Leszy</text>
+		<text>Ëĺřčé</text>
 	</string>
 	<string id="sith">
-		<text>Stih</text>
+		<text>Ńčňő</text>
 	</string>
 	<string id="kane">
-		<text>Kane</text>
+		<text>Ęĺéí</text>
 	</string>
 	<string id="phobos">
-		<text>Fobos</text>
+		<text>Ôîáîń</text>
 	</string>
 		<string id="agr_base_barman">
-		<text>Kołobok</text>
+		<text>Ęîëîáîę</text>
 	</string>
 	<string id="agr_base_trader">
-		<text>Mitiaj</text>
+		<text>Ěčň˙é</text>
 	</string>
 	<string id="agr_base_inquisitor">
-		<text>Inkwizytor</text>
+		<text>Číęâčçčňîđ</text>
 	</string>
 	<string id="agr_base_mechanic">
-		<text>Gromow</text>
+		<text>Ăđîěîâ</text>
 	</string>
 	<string id="agr_base_commander">
-		<text>Generał Kryłow</text>
+		<text>Ăĺíĺđŕë Ęđűëîâ</text>
 	</string>
 	<string id="agr_base_mayor_z">
-		<text>Major Zwiagincew</text>
+		<text>Ěŕéîđ Çâ˙ăčíöĺâ</text>
 	</string>
 	<string id="agr_base_backstabber">
-		<text>Mirotworec</text>
+		<text>Ěčđîňâîđĺö</text>
 	</string>
 	<string id="agr_sim_1_drozd">
-		<text>Drozd</text>
+		<text>Äđîçä</text>
 	</string>
 	<string id="agr_sim_1_otshelnik">
-		<text>Pustelnik</text>
+		<text>Îňřĺëüíčę</text>
 	</string>
 	<string id="agr_sim_2_orest">
-		<text>Orest</text>
+		<text>Îđĺńň</text>
 	</string>
 	<string id="agr_heck">
-		<text>Czart</text>
+		<text>×¸đň</text>
 	</string>
 	<string id="stalker_freak_leader">
-		<text>Herper</text>
+		<text>Őŕđďĺđ</text>
 	</string>
 	<string id="stalker_freak_leader_2">
-		<text>Roman</text>
+		<text>Đîâŕí</text>
 	</string>
-
+	
 	<string id="jora_efimov">
-		<text>Żora Efimow</text>
+		<text>Ćîđŕ Ĺôčěîâ</text>
 	</string>
 	<string id="nikolai_yurchuk">
-		<text>Kolian Jurczuk</text>
+		<text>Ęîë˙í Ţđ÷óę</text>
 	</string>
 	<string id="kalter">
-		<text>Kalter</text>
+		<text>Ęŕëüňĺđ</text>
 	</string>
 	<string id="khan">
-		<text>Khan</text>
+		<text>Őŕí</text>
 	</string>
 	<string id="vedun">
-		<text>Wedun</text>
+		<text>Âĺäóí</text>
 	</string>
 	<string id="dan_mutniy">
-		<text>Dan Mutny</text>
+		<text>Äýí Ěóňíűé</text>
 	</string>
 	<string id="danil_radist">
-		<text>Danił Radist</text>
+		<text>Äŕí˙ Đŕäčńň</text>
 	</string>
 	<string id="dima_suslik">
-		<text>Dima Suslik</text>
+		<text>Äčěŕ Ńóńëčę</text>
 	</string>
 	<string id="psih">
-		<text>Psih</text>
+		<text>Ďńčő</text>
 	</string>
 	<string id="edya_razvedos">
-		<text>Edia Razwedos</text>
+		<text>Ýä˙ Đŕçâĺäîń</text>
 	</string>
-
+	
 	<string id="vitaliy_litvin">
-		<text>Witalij Skaut Litwin</text>
+		<text>Âčňŕëčę «Đŕçâĺä÷čę» Ëčňâčí</text>
 	</string>
 	<string id="nikita_halikov">
-		<text>Kilorik</text>
+		<text>Ęčëîđčę</text>
 	</string>
-
+		
 	<string id="infernis">
-		<text>Infernis</text>
+		<text>Číôĺđíčń</text>
 	</string>
 	<string id="anaconda">
-		<text>Anakonda</text>
+		<text>Ŕíŕęîíäŕ</text>
 	</string>
 	<string id="shved">
-		<text>Szwed</text>
+		<text>Řâĺä</text>
 	</string>
 	<string id="alex_smirnow">
-		<text>Sanja Smirnow</text>
+		<text>Ńŕí˙ Ńěčđíîâ</text>
 	</string>
 	<string id="hrust">
-		<text>Chrust</text>
+		<text>Őđóńň</text>
 	</string>
 	<string id="skryabin">
-		<text>st. Porucznik Sturbin</text>
+		<text>Ńň. Ëĺéňĺíŕíň Ńęđ˙áčí</text>
 	</string>
 	<string id="raven">
-		<text>Wrona</text>
+		<text>Âîđîí</text>
 	</string>
 	<string id="fraktor">
-		<text>Fraktor</text>
+		<text>Ôđŕęňîđ</text>
 	</string>
-
+		
 	<string id="shakal">
-		<text>Szakal</text>
+		<text>Řŕęŕë</text>
 	</string>
 	<string id="war">
-		<text>Wojna</text>
+		<text>Âîéíŕ</text>
 	</string>
 	<string id="kant">
-		<text>Kant</text>
+		<text>Ęŕíň</text>
 	</string>
-
+		
 	<string id="shram">
-		<text>Najemnik Blizna</text>
+		<text>Íŕ¸ěíčę Řđŕě</text>
 	</string>
 	<string id="lebedev">
-		<text>Lebiediew</text>
+		<text>Ëĺáĺäĺâ</text>
 	</string>
-
+		
 	<string id="for_professor">
-		<text>Profesor Jekyl</text>
+		<text>Ďđîôĺńńîđ Äćĺęčë</text>
 	</string>
 	<string id="for_bunker_guard_1">
-		<text>Demon</text>
+		<text>Äĺěîí</text>
 	</string>
 	<string id="for_bunker_guard_2">
-		<text>Mraz</text>
+		<text>Ěđŕçü</text>
 	</string>
 </string_table>
