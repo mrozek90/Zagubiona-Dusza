@@ -1,111 +1,111 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_diary_0_name">
-		<text>Фотография: Группа Стрелка</text>
+		<text>Fotografia: Grupa Strieіoka</text>
 	</string>
 	<string id="st_diary_0_descr">
-		<text>"Группа опытных сталкеров" - это, по сути, всё, что известно про цель нашего контракта. Какой идиот додумается так информировать наёмников? И на что я только рассчитывал, участвуя в этом... С другой стороны, выбора у меня особо и не было.</text>
+		<text>„Grupa doњwiadczonych stalkerуw” to wіaњciwie wszystko, co wiadomo o celu naszego kontraktu. Jaki idiota pomyњlaіby o poinformowaniu najemnikуw w taki sposуb? Tylko na co  liczyіem, bior№c w tym udziaі… Z drugiej strony tak naprawdк nie miaіem wyboru.</text>
 	</string>
 	<string id="st_diary_1_name">
-		<text>Заметка: Леший</text>
+		<text>Notatka: Leszy</text>
 	</string>
 	<string id="st_diary_1_descr">
-		<text>Видимо, этот старик за эти пару часов повидал больше, чем я за свои контракты. Во всяком случае, теперь мне за себя не стыдно.</text>
+		<text>Najwyraџniej ten staruszek widziaі w ci№gu tych kilku godzin wiкcej niї ja w moich kontraktach. Zreszt№ teraz juї siк nie wstydzк.</text>
 	</string>
 	<string id="st_diary_2_name">
-		<text>Заметка: Саня Смирнов</text>
+		<text>Notatka: Sania Simonow</text>
 	</string>
 	<string id="st_diary_2_descr">
-		<text>Странный тип. Не было видно, что ему жаль своих товарищей, или же они ему товарищами не были. В любом случае мне кажется, что убивать его... Как-то неправильно, что ли.</text>
+		<text>Dziwny typ. Nie byіo jasne, czy wspуіczuі swoim towarzyszom, ani їe nie byli jego towarzyszami. W kaїdym razie wydaje mi siк, їe zabicie go... Byіo jakieњ niewіaњciwe, czy coњ.</text>
 	</string>
 	<string id="st_diary_3_name">
-		<text>Запись: Худшая сделка в моей жизни</text>
+		<text>Notatka: Najgorsza oferta w moim їyciu</text>
 	</string>
 	<string id="st_diary_3_descr">
-		<text>Опять меня угораздило с этой скотиной в одной группе сидеть. Он ни на что не способен, кроме как указывать, а сам - сидит на базе.</text>
+		<text>Znowu podkusiіo mnie by usi№њж z tym bydlakiem w jednej grupie. On nie nadaje siк do niczego poza pokazywaniem palcem. Sam siedzi na dupie w bazie.</text>
 	</string>
 	<string id="st_diary_4_name">
-		<text>Заметка: Ситх</text>
+		<text>Notatka: Sith</text>
 	</string>
 	<string id="st_diary_4_descr">
-		<text>Судя по всему, он так же не получает удовольствия от контракта и Шкира. Думаю, если что-то пойдёт.. Скажем так, не по плану, Ситх может меня поддержать.</text>
+		<text>Wydaje siк, їe on teї nie cieszy z kontraktu z Szkir№. Myњlк, їe jeњli coњ pуjdzie... Powiedzmy, їe nie zgodnie z planem, Sith moїe mnie wesprzeж.</text>
 	</string>
 	<string id="st_diary_5_name">
-		<text>Запись: Долговцы в Рыжем Лесу</text>
+		<text>Notatka: Doіgowce w Czerwonym Lesie</text>
 	</string>
 	<string id="st_diary_5_descr">
-		<text>Очень подозрительно, кто мог нанять самих долговцев, на ликвидацию наших групп? Неужто кто-то из группы Стрелка прознал о наших планах? Или тут надо рыть глубже?..</text>
+		<text>To bardzo podejrzane, kto mуgіby zatrudniж samych dіuїnikуw do likwidacji naszych grup? Czy ktoњ z grupy Streіka dowiedziaі siк o naszych planach? A moїe muszк pokopaж gікbiej?</text>
 	</string>
 	<string id="st_diary_6_name">
-		<text>Запись: Встреча с Инфернисом</text>
+		<text>Notatka: Spotkanie z Infernis</text>
 	</string>
 	<string id="st_diary_6_descr">
-		<text>На удивление, не мерзкий тип, но не менее странный, чем тот очкарик в Рыжем Лесу. Судя по тому, что я услышал, лишний раз убивать у него желания нет. Он либо смелый, либо глупый.</text>
+		<text>Co zaskakuj№ce, nie byі to typ wredny, ale nie mniej dziwny niї ten mкїczyzna w okularach w Czerwonym Lesie. S№dz№c po tym, co sіyszaіem, po raz kolejny nie ma ochoty zabijaж. Jest albo odwaїny albo... gіupi.</text>
 	</string>
 	<string id="st_diary_7_name">
-		<text>Запись: Пережившие нападение</text>
+		<text>Notatka: Ocaleni z ataku</text>
 	</string>
 	<string id="st_diary_7_descr">
-		<text>Ребята выжили после того, что произошло на базе. После того, как найдём Ситха, надо будет разузнать у них всё.</text>
+		<text>Chіopaki przeїyli po tym, co wydarzyіo siк w bazie. Po odnalezieniu Sithуw konieczne bкdzie dowiedzenie siк od nich wszystkiego.</text>
 	</string>
 	<string id="st_diary_8_name">
-		<text>Запись: Возвращение Сани Смирнова</text>
+		<text>Notatka: Powrуt Sani Smirnowa</text>
 	</string>
 	<string id="st_diary_8_descr">
-		<text>Этот очкарик каким-то чудом дошёл до Агропрома. Возможно, мы с Ситхом и не зря оставили его в живых. Надо попросить и у него помощи, как-никак должок.</text>
+		<text>Ten mкїczyzna w okularach jakimњ cudem dotarі do Agropromu. Moїe Sith i ja nie pozwoliliњmy mu їyж na prуїno. Musimy prosiж go o pomoc, przecieї wisi nam przysіugк.</text>
 	</string>
 	<string id="st_diary_9_name">
-		<text>Запись: Встреча с группой Шкира</text>
+		<text>Notatka: Spotkanie z grup№ Szkira</text>
 	</string>
 	<string id="st_diary_9_descr">
-		<text>Такие же ублюдки, как и сам Шкир. Не жалею, что убили их. Жалею только за потраченное время на пустой контракт.</text>
+		<text>Tacy sami dranie co sam Szkir. Nie їaіujк, їe ich zabiіem. Їaіujк tylko marnowania czasu na pust№ umowк.</text>
 	</string>
 	<string id="st_diary_10_name">
-		<text>Запись: Мост в Лиманск</text>
+		<text>Notatka: Most do Limaсska</text>
 	</string>
 	<string id="st_diary_10_descr">
-		<text>В принципе, у меня есть идея, как пересечь эту речку. Если перелезть через провода, которые ещё со времён аварии должны были перестать работать.. Надо предложить это Ситху.</text>
+		<text>Zasadniczo mam pomysі, jak przeprawiж siк przez t№ rzekк. Wystarczy wspi№ж siк po drutach, ktуre powinny nie dziaіaж od czasu wypadku… Trzeba powiedzieж to Sithom.</text>
 	</string>
 	<string id="st_diary_11_name">
-		<text>Заметка: Анаконда</text>
+		<text>Notatka: Anakonda</text>
 	</string>
 	<string id="st_diary_11_descr">
-		<text>Бандит знает, за что берётся. Не просто так он нам помог, но грех жаловаться.</text>
+		<text>Bandyta wie, co robi. Nie tylko dlatego, їe nam pomуgі, ale grzechem jest narzekaж.</text>
 	</string>
 	<string id="st_diary_12_name">
-		<text>Заметка: Инфернис</text>
+		<text>Notatka: Infernis</text>
 	</string>
 	<string id="st_diary_12_descr">
-		<text>С этим парнем более, чем что-то не так. Во время первого знакомства я отметил, что он странный. Но я и подумать не мог, что он - монстр, в прямом смысле этого слова. Но пока что он ведёт себя достаточно спокойно.</text>
+		<text>Z tym facetem jest wiкcej niї "nie halo". Podczas pierwszego spotkania zauwaїyіem, їe jest dziwny. Ale nie mogіem nawet pomyњleж, їe byі potworem w dosіownym tego sіowa znaczeniu. Pуki co byі caіkiem spokojny.</text>
 	</string>
 	<string id="st_diary_13_name">
-		<text>Запись: Зловещая шахта</text>
+		<text>Notatka: Zіowroga Kopalnia</text>
 	</string>
 	<string id="st_diary_13_descr">
-		<text>Долго же я до этой шахты добраться не мог. Но теперь всё в порядке и я наконец могу её исследовать. Надо найти что-то, что поможет мне узнать, где сейчас Ситх.</text>
+		<text>Przez dіugi czas nie mogіem dotrzeж do tej kopalni. Ale teraz wszystko jest w porz№dku i wreszcie mogк j№ zbadaж. Muszк znaleџж coњ, co pomoїe mi dowiedzieж siк, gdzie jest teraz Sith.</text>
 	</string>
 	<string id="st_diary_14_name">
-		<text>Запись: Упавший вертолёт</text>
+		<text>Notatka: Rozbity helikopter</text>
 	</string>
 	<string id="st_diary_14_descr">
-		<text>Вокруг вертолёта валяются убитые наёмники из группы Ворона. И... У них в группе была тёлка? Дегенераты что ли, баб в Зону тащить? Ещё и записка какая-то. Анаконда упоминается, а сама бумажка расписана была относительно недавно. Показывать её Ворону пока что не самый лучший вариант, лучше поищу владельца.</text>
+		<text>Wokуі helikoptera leї№ zabici najemnicy z grupy Wrona. I... Czy mieli w grupie dzioіszkк? Czy s№ degeneratami, wci№gaj№cymi kobiety do Strefy? Rуwnieї uwaga. Wspomina siк o Anakondzie, a sama kartka papieru zostaіa napisana stosunkowo niedawno. Pokazanie go Wronie nie jest najlepsz№ opcj№, lepiej poszukam wіaњciciela.</text>
 	</string>
 	<string id="st_diary_15_name">
-		<text>Заметка: Фрактор</text>
+		<text>Notatka: Faktor</text>
 	</string>
 	<string id="st_diary_15_descr">
-		<text>Несчастный монолитовец, с которым в тесных отношениях Инфернис, Ворон, Анаконда, Хруст и другие. Надеюсь, со временем ему станет лучше.</text>
+		<text>Nieszczкsny Monolitowiec, z ktуrym Infernis, Wrona, Anakonda, Chrust i inni s№ w bliskich stosunkach. Mam nadziejк, їe z czasem mu siк polepszy.</text>
 	</string>
 	<string id="st_diary_16_name">
-		<text>Заметка: Топор</text>
+		<text>Notatka: Topуr</text>
 	</string>
 	<string id="st_diary_16_descr">
-		<text>На самом деле, я мало что знал про многих участников своей группы. Увидев, как у Топора складывалась жизнь, становится его как-то жалко. Впрочем, ещё не факт, что я выберусь отсюда, так что посмотрим, кого ещё жалеть придётся. После того, как выберусь, надо будет связаться с Ситхом.</text>
+		<text>Wіaњciwie niewiele wiedziaіem o wielu czіonkach mojego zespoіu. Widz№c, jak Topуr potoczyіo siк jego їycie, jakoњ mu wspуіczuje. Jednak nie wiadomo czy wydostanк siк st№d, wiкc zobaczmy, kogo jeszcze bкdzie їal. Po wyjњciu bкdк musiaі skontaktowaж siк z Sithami..</text>
 	</string>
 	<string id="st_diary_17_name">
-		<text>Заметка: Шкир</text>
+		<text>Uwaga: Szkir</text>
 	</string>
 	<string id="st_diary_17_descr">
-		<text>Человек, который погубил жизни многих наёмников, запорол всем контракт и потратил на себя кучу чужого времени. На протяжении всего времени поступал как гнида, но в итоге.. Его, как и Топора, становится жаль. Видимо, в Зоне нет людей, которые не сожалели о своём нахождении в ней. Теперь главное - найти Ситха. А дальше уже посмотрим, как судьба повернётся.</text>
+		<text>Czіowiek, ktуry zrujnowaі їycie wielu najemnikom, zrujnowaі kontrakty dla wszystkich i zmarnowaі mnуstwo czasu innych ludzi. Przez caіy czas zachowywaі siк jak gnida, ale w gruncie rzeczy… jemu, podobnie jak Toporowi, trochк wspуіczuje. Podobno w Strefie nie ma ludzi, ktуrzy by nie їaіowali, їe siк w niej znaleџli. Teraz najwaїniejsze jest znalezienie Sithуw. A potem zobaczymy, co przyniesie los.</text>
 	</string>
 </string_table>

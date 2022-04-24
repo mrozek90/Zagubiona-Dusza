@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 	<string id="st_pyos_description">
-		<text>Поздравляем! Вы нашли отсылку к одному из разработчиков - Боде Кислому.</text>
+		<text>Gratulacje! Znalazіeњ wzmiankк o jednym z twуrcуw - Bode Kisіomu. (Spolszczone bo by nie wyњwietliіo poprawnie.)</text>
 	</string>
 	<string id="st_pyos_name">
-		<text>Пйос</text>
+		<text>Pjos</text>
 	</string>
-	
+
 	<string id="st_shved_description">
-		<text>Поздравляем! Вы нашли отсылку к одному из разработчиков - Александру Шведскому.</text>
+		<text>Gratulacje! Znalazіeњ wzmiankк o jednym z twуrcуw - Aleksandrze Szwedskim.  (Spolszczone bo by nie wyњwietliіo poprawnie.)</text>
 	</string>
 	<string id="st_shved_name">
-		<text>Чалэн</text>
+		<text>Ciaіen</text>
 	</string>
-	
+
 </string_table>

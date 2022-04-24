@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="repair_bad_dialog_0">
-        <text>Ты можешь отремонтировать слишком повреждённую броню?</text>
+        <text>Czy potrafisz naprawiж nadmiernie zniszczony sprzкt?</text>
     </string>
     <string id="repair_bad_dialog_1">
-        <text>Да. Благодаря инструментам, которые ты принёс, я способен ремонтировать любые детали в бронежилете, или шлеме. Но их починка всё-равно будет не бесплатной: Починка курток и плащей - 1000 р, Починка лёгких комбинезонов - 5000 р, починка починка тяжёлых комбинезонов - 10000 р, починка научных комбинезонов - 30000 р, починка тяжёлых бронежилетов - 50000 р, починка экзоскелетов - 60000 р, починка шлемов - от 500 до 5000 р. Что тебе починить?</text>
+        <text>Tak. Dziкki narzкdziom, ktуre mi przyniosіeњ, jestem w stanie naprawiж kaїd№ czкњж kamizelki kuloodpornej lub heіmu. Ale ich naprawa nadal nie bкdzie bezpіatna: naprawa kurtek i pіaszczy przeciwdeszczowych - 1000 RU, naprawa lekkich kombinezonуw - 5000 RU, naprawa ciкїkich kombinezonуw - 10000 RU, naprawa kombinezonуw naukowych - 30000 RU, naprawa ciкїkich kamizelek kuloodpornych - 50000 RU, naprawa egzoszkieletуw - 60000 RU, naprawa heіmуw - od 500 do 5000 RU. Co chcesz naprawiж?</text>
     </string>
     <string id="repair_bad_dialog_2">
-        <text>a</text>
+        <text>st_dialog_repair_xml_1</text>
     </string>
     <string id="repair_bad_dialog_3">
-        <text>aa</text>
+        <text>st_dialog_repair_xml_2</text>
     </string>
 </string_table>

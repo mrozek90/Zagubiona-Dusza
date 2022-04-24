@@ -1,45 +1,45 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="symbiont">
-		<text>Аномалия «Симбионт»</text>
+		<text>Anomalia „Symbiont”</text>
 	</string>
 	<string id="lesnik">
-		<text>Дом Лесника</text>
+		<text>Dom Leњnika</text>
 	</string>
 	<string id="zapravka">
-		<text>Остановка</text>
+		<text>Przystanek</text>
 	</string>
 	<string id="naim">
-		<text>Временная база наёмников</text>
+		<text>Tymczasowa Baza Najemnikуw</text>
 	</string>
 	<string id="baza_stalkerov">
-		<text>База сталкеров</text>
+		<text>Baza Stalkerуw</text>
 	</string>
 	<string id="baza_dolga">
-		<text>База «Долга»</text>
+		<text>Baza Powinnoњci</text>
 	</string>
 	<string id="ruki">
-		<text>Аномалия «Загребущие руки»</text>
+		<text>Anomalia „Chciwe Јapska”</text>
 	</string>
 	<string id="boloto">
-		<text>Болото</text>
+		<text>Bіoto</text>
 	</string>
 	<string id="tunnel">
-		<text>Странный туннель</text>
+		<text>Dziwny Tunel</text>
 	</string>
 	<string id="for_bunker_base_tip">
-		<text>Забытый бункер</text>
+		<text>Zapomniany Bunkier</text>
 	</string>
 	<string id="for_zombied_base_tip">
-		<text>Заброшенное здание</text>
+		<text>Opuszczony Budynek</text>
 	</string>
 	<string id="for_forest_tip">
-		<text>Токсичный лес</text>
+		<text>Toksyczny Las</text>
 	</string>
 	<string id="for_pentagram_tip">
-		<text>Аномалия «Пентаграмма»</text>
+		<text>Anomalia „Pentagram”</text>
 	</string>
 	<string id="for_mountains_tip">
-		<text>Аномалия «Скалы»</text>
+		<text>Anomalia „Skaіy”</text>
 	</string>
 </string_table>
