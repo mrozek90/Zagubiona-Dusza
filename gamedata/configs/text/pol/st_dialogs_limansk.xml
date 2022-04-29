@@ -1,105 +1,105 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="anaconda_first_dialog_end_0">
-        <text>Ну наконец-то выбрались! Никогда в жизни больше не попру сюда в одиночку. Теперь мы в рассчёте с тобой - пойду своей дорогой.</text>
+        <text>Cуї, w koсcu siк wydostaliњmy! Juї nigdy w їyciu nie bкdк tu chodziж sam. Teraz jesteњmy kwita - pуjdк wіasn№ drog№.</text>
     </string>
     <string id="lim_fraktor_first_dialog_0">
-        <text>Кто здесь?!</text>
+        <text>Kto tu jest?!</text>
     </string>
     <string id="lim_fraktor_first_dialog_1">
-        <text>Я ищу одного сталкера. Его кличка - Фрактор.</text>
+        <text>Szukam jednego stalkera. Jego pseudonim to Fraktor.</text>
     </string>
     <string id="lim_fraktor_first_dialog_2">
-        <text>Чего?! Так ты тоже по мою душу пришёл?! Оставьте меня в покое, чёртовы убийцы!</text>
+        <text>Co?! Wiкc Ty teї przyszedіeњ do mojej duszy?! Zostawcie mnie w spokoju wy pieprzeni zabуjcy!</text>
     </string>
     <string id="lim_fraktor_first_dialog_3">
-        <text>Погоди, ты и есть Фрактор? Я не желаю тебя зла, выслушай меня.</text>
+        <text>Czekaj, to Ty jesteњ Fraktor? Nie zrobiк Ci krzywdy, posіuchaj mnie.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_0">
-        <text>Не подходи ко мне, падаль монолитовская! Оставь меня в покое!</text>
+        <text>Nie zbliїaj siк do mnie, padlino Monolitu! Zostaw mnie w spokoju!</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_1">
-        <text>Я не собираюсь тебя убивать. И я не монолитовец.</text>
+        <text>Nie zamierzam Ciк zabiж. Nie jestem monolitem.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_10">
-        <text>Кто меня ждёт?! Ты меня обмануть хочешь?! Ты всё-таки из монолитовцев?! Не трогай меня! Я не хочу снова слышать этот голос!!</text>
+        <text>Kto na mnie czeka?! Chcesz mnie oszukaж?! Czy nadal jesteњ jednym z Monolitуw?! Nie dotykaj mnie! Nie chcк ponownie sіyszeж tego gіosu!!</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_11">
-        <text>Какой голос? У тебя крыша совсем поехала, монолитовец? Я тебе ещё раз говорю - искал я тебя по просьбе Инферниса.</text>
+        <text>Jaki gіos? Czy kompletnie postradaіeњ zmysіy, Monolicie? Mуwiк Ci jeszcze raz - szukaіem Ciк na proњbк Infernisa.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_12">
-        <text>Как ты вообще узнал про Инферниса и нашу старую группу?</text>
+        <text>Sk№d w ogуle wiedziaіeњ o Infernis i naszej starej grupie?</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_13">
-        <text>Вот, взгляни. Не твоё случайно?</text>
+        <text>Spуjrz tutaj. Nie Twoje przypadkiem?</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_14">
-        <text>Это же... Это же мой кулон.. Но ведь...</text>
+        <text>To... To mуj wisiorek... Ale...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_15">
-        <text>Теперь веришь мне?</text>
+        <text>Czy teraz mi wierzysz??</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_16">
-        <text>Как ты.. Где ты тогда был..</text>
+        <text>Jak Ty... Gdzie byіeњ wtedy...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_17">
-        <text>Инфернис говорил, что все амулеты он ещё в январе 2010-го решил сохранить до последней встречи. Его он тоже попросил вернуть тебе, если, конечно, найду.</text>
+        <text>Infernis powiedziaі, їe juї w styczniu 2010 roku postanowiі zatrzymaж wszystkie amulety do ostatniego spotkania. Poprosiі rуwnieї o zwrot tego Tobie, jeњli oczywiњcie Ciк znajdк..</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_18">
-        <text>Как же я всё плохо помню.. Мозги плывут.. Надо подниматься...</text>
+        <text>Tylko ja jakoњ wszystko џle pamiкtam... Mуzg mi pіywa.. Muszк wstaж...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_19">
-        <text>Давай, я помогу тебе подняться. Пойдёшь за мной, я доведу тебя до базы.</text>
+        <text>Chodџ, pomogк Ci wstaж. Idџ za mn№, zabiorк Ciк do bazy.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_2">
-        <text>Кто ты такой?! Откуда ты знаешь моё имя?!</text>
+        <text>Kim jesteњ?! Sk№d znasz moje imie?!</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_20">
-        <text>Успокойся. Я не буду насильно тебя никуда тащить. Повторюсь - Инфернис попросил меня найти тебя.</text>
+        <text>Uspokуj siк. Do niczego nie bкdк Ciк zmuszaж. Powtarzam - Infernis poprosiі mnie, abym Ciк odnalazі.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_3">
-        <text>Закрой пасть. Сейчас твоя жизнь в моих руках, и выстрелю ли я - зависит от твоих ответов.</text>
+        <text>Zamknij siк. Teraz Twoje їycie jest w moich rкkach, a to, czy strzelк, zaleїy od Twoich odpowiedzi.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_4">
-        <text>Как же меня угораздило.. И что же тебе нужно от меня?</text>
+        <text>Jakoњ sobie radziіem.. A czego ode mnie chcesz?</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_5">
-        <text>Меня к тебе послал Инфернис. Я его друг.</text>
+        <text>Infernis przysіaі mnie po Ciebie. Jestem jego przyjacielem.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_6">
-        <text>Чёрт.. Как давно я не слышал этого имени... Откуда ты знаешь его?</text>
+        <text>Cholera.. Dawno nie sіyszaіem tego imienia... Sk№d je znasz?</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_7">
-        <text>Он просил найти тебя. Он рассказал мне историю про Ушедших Душ, и про то, что ты уже давно пропал без вести.</text>
+        <text>Poprosiі, їebym Ciк odnalazі. Opowiedziaі mi historiк o zmarіych duszach i o tym, jak dawno przepadіeњ bez wieњci..</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_8">
-        <text>Я тебя никогда и нигде не видел.. Хотя.. Я уже никого, кроме монолитовцев, столько времени не видел...</text>
+        <text>Nigdy Ciк nigdzie nie widziaіem.. Chociaї.. Nie widziaіem nikogo poza Monolitami tak dіugo ...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_9">
-        <text>Пойдём со мной. За некоторую дистанцию отсюда есть база, где тебя все ждут.</text>
+        <text>Chodџ ze mn№. Niedaleko st№d znajduje siк baza, w ktуrej wszyscy na Ciebie czekaj№.</text>
     </string>
     <string id="shved_first_dialog_0">
-        <text>Сталкеры? Каким ветром вас сюда занесло?</text>
+        <text>Stalker? Jaki wiatr Ciк tu przywiуdі?</text>
     </string>
     <string id="shved_first_dialog_1">
-        <text>У меня к тебе тот же вопрос.</text>
+        <text>Mam do Ciebie to samo pytanie.</text>
     </string>
     <string id="shved_first_dialog_2">
-        <text>Я отстал от своего отряда, когда мы прорывались в Госпиталь. Теперь не знаю, что делать. ПДА сломан, карта не работает.</text>
+        <text>Zostaіem w tyle za moim oddziaіem, kiedy przebiliњmy siк do szpitala. Teraz nie wiem co robiж. PDA uszkodzony, karta nie dziaіa.</text>
     </string>
     <string id="shved_first_dialog_3">
-        <text>Госпиталь? Так это недалеко отсюда, мы бы могли тебя провести.</text>
+        <text>Szpital? Wiкc nie jest daleko st№d, moїemy Ciк zabraж.</text>
     </string>
     <string id="shved_first_dialog_4">
-        <text>Это было бы неплохо. Что ты хочешь за это?</text>
+        <text>Byіoby miіo. Co chcesz za to?</text>
     </string>
     <string id="shved_first_dialog_5">
-        <text>Я ищу одного наёмника. Возможно, он с отрядом некоторых сталкеров в неизвестных бронежилетах, которые раньше ни у кого не были. Ты их видел?</text>
+        <text>Szukam najemnika. Byж moїe jest z oddziaіem stalkerуw w nieznanych kamizelkach kuloodpornych, ktуrych nikt wczeњniej nie miaі. Widziaіeњ ich?</text>
     </string>
     <string id="shved_first_dialog_6">
-        <text>Да. Проведи меня до Госпиталя, а я скажу, куда они ушли.</text>
+        <text>Tak. Zabierz mnie do szpitala, a powiem Ci, dok№d poszli.</text>
     </string>
     <string id="shved_first_dialog_7">
-        <text>Мы с Анакондой туда отправляемся. Не отставай.</text>
+        <text>Anakonda i ja idziemy tam. Nie zostawiaj w tyle.</text>
     </string>
 </string_table>
