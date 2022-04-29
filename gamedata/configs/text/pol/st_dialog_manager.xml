@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="dm_anomalies_10">
+		<text>Na Zatonie jest miejsce, gdzie powstało "smażenie" pod wodą. Nazywają to Kotłem, ponieważ z ziemi bije para, jak z prawdziwego kotła. Jeśli uważasz, że para jest absurdem, jesteś głęboko w błędzie. Doświadczeni stalkerzy mówią: taka anomalia parowa uderza nie słabiej, jeśli nie mocniej niż zwykłe "smażenie". Temperatura może trochę niższa, ale za to ta wilgotność! I piecze dłużej. Podobno znaleźli tam zwykłe, ogniste artefakty.</text>
+	</string>
+	<string id="dm_anomalies_11">
+		<text>Mówią, że miejsce w kamieniołomie jest dobre: jest wiele artefaktów. Ale jest też wiele anomalii. Na dole "soda" już bulgocze, oczy są zalane nawet w masce gazowej.</text>
+	</string>
+	<string id="dm_anomalies_12">
+		<text>Popioły - stary cmentarz w pobliżu Kopaczy. Tam jest bardzo niebezpiecznie, dużo "smażeń", czasem przychodzą zombie. Zwykle to miejsce omija dziesiąta droga, ale czasami znajdują się tam artefakty.</text>
+	</string>
+	<string id="dm_anomalies_13">
+		<text>Mówią, że artefakty znaleziono na starym parkingu. Transport tam - w ogóle nic, ale z tego, że fonit nie jest słaby, licznik jest już poza skalą. Cóż, w dodatku jest mnóstwo "elektr".</text>
+	</string>
+	<string id="dm_anomalies_14">
+		<text>W Zgniłym Gaju - drzewa są powykręcane kwasem. Ci, którzy tam byli, mówili, "sodówek" jest dużo, a w powietrzu jest tak dużo gazu, że nie można niczego zobaczyć - mgła! Ale jeśli masz doświadczenie, możesz tam znaleźć artefakty.</text>
+	</string>
+	<string id="dm_anomalies_15">
+		<text>Jeśli szukasz artefaktów, to te kwaśne są lepsze. A najodpowiedniejszym miejscem do ich poszukiwania jest Łaźnia Betonowa. Jest tam kilku konkurentów: tuż obok warsztatu Jupiter, więc sam rozumiesz ...</text>
+	</string>
+	<string id="dm_anomalies_16">
+		<text>Droga zawaliła się niedaleko fabryki Jupiter. Miejsce to nosiło przydomek "Asfalt" - stopiła się tam nawierzchnia drogi. Przepaść jest pełna anomalii: "smażenie" zmieszane z grawitacyjnymi… A ponieważ istnieją dwa rodzaje anomalii, artefakty powinny być różne.</text>
+	</string>
+	<string id="dm_anomalies_17">
+		<text>Za cementownią jest jedno miejsce, zwane też "Zalew". Jedna zatoka zamieniła się w okropne śmierdzące bagno - cóż, czego oczekiwać, gdy w wodzie jest dużo "sody"? Nie ma już wody, ale prawie stały kwas... Znajdują tam artefakty, owszem, ale mówią też, że potwory strasznie lubią to miejsce.</text>
+	</string>
+	<string id="dm_anomalies_18">
+		<text>Trzeba spojrzeć na starą cementownię: jest tam wiele anomalii, ale gra jest warta świeczki. Oczywiście są miejsca, w których łatwiej zdobyć artefak. Tylko tam, gdzie jest to łatwiejsze jest też więcej konkurentów. I tutaj tylko tuszkany mogą Ci przeszkadzać. Nawet wtedy, gdy wejdziesz do piwnic.</text>
+	</string>
+	<string id="dm_anomalies_19">
+		<text>Trzeba zerknąć w pobliżu Sosnodąb - to ta rzecz, która wyrosła między wzgórzami nad "sodą". Wszyscy tutaj tak to nazywają: jakiś sprytny facet ustalił, że kora na tym drzewie jest częściowo sosnowa, a częściowo dębowa. Jeśli chcesz tam poszukać artefaktu, potrzebujesz dobrej ochrony przed chemią ... Cóż, weź więcej nabojów: często można spotakć psy na wzgórzach.</text>
+	</string>
+	<string id="dm_anomalies_2">
+		<text>Czasami nie trzeba przedzierać się przez anomalię, aby znaleźć artefakt! Opowiedziano mi historię o tym, jak artefakt został znaleziony na środku otwartego pola. Detektor jednego stalkera zepsuł się i postanowił wymienić baterie. Zmienił je... i wtedy detektor nagle dał dźwięk i artefakt prawie leci w ręce chłopa! Pomyśl, jakie szczęście? Zona jest taka: pokazuje, ukarze, ale zdarza się, że obdarzy.</text>
+	</string>
+	<string id="dm_anomalies_20">
+		<text>Słyszałem od doświadczonych stalkerów, że czasami artefakty wychodzą poza anomalie. Detektor zaczyna piszczeć, po prostu rozglądasz się i nic nie ma. "Co?" - myślisz, a to wędrowny artefakt, który uciekł. Jaka szkoda... Pogoń za nim jest bezskuteczna: Zona sama decyduje, kogo nagrodzić takim cudem.</text>
+	</string>
+	<string id="dm_anomalies_21">
+		<text>Nikt jeszcze nie szukał artefaktów w Prypeci. Wszyscy, których znam, byli tu ostatnio... ostrzegając!</text>
+	</string>
+	<string id="dm_anomalies_22">
+		<text>Kto wie, gdzie je tutaj znaleźć! Prypeć jest mało zbadana.</text>
+	</string>
+	<string id="dm_anomalies_23">
+		<text>Zaglądałbym do podziemnych tuneli. Mówią, że pod miastem jest ich dużo.</text>
+	</string>
+	<string id="dm_anomalies_24">
+		<text>Niewiele wiadomo o tych miejscach - głównie o tym, co powiedział Garik. Mówi, że jest tu miejsce, w którym z anomalii kwasowej wyrosły potężne winogrona wielkości dziesięciopiętrowego budynku. Może kłamie... ale jeśli nie, to na pewno sprawdziłbym tę winnicę na obecność artefaktów.</text>
+	</string>
+	<string id="dm_anomalies_3">
+		<text>Najpewniejszą rzeczą jest zajrzeć w trujące bagno. Wciąż jest dużo anomalii grawitacyjnych, są one łatwe do wykrycia: pozostawiają duże ślady na wodzie, nie można się pomylić. Ale z "sodą" jest gorzej, bo przez nie praktycznie nie ma czym oddychać. Lub w inny sposób - rozpryskuje się na Ciebie - korodując zbroję na Twoich oczach.</text>
+	</string>
+	<string id="dm_anomalies_5">
+		<text>Na spalonej farmie, która znajduje się na wzgórzu, jest wiele "smażeń". Cóż, często znajdują się tam artefakty - oczywiście ogniste. Trzeba szukać w domach: mówią, w którym domu jest więcej "smażeń" - na pewno będzie w tym artefakt.</text>
+	</string>
+	<string id="dm_anomalies_6">
+		<text>Prawdopodobnie jest ich dużo w jaskiniach pod spalonym gospodarstwem. Jeśli wejdziesz na wzgórze z detektorem w dłoniach, cały czas wydaje sygnał dźwiękowy. Łatwo się tam dostać: można skoczyć z góry, przez uskok. Trudniej będzie się wydostać - jest wiele, wiele anomalii! Głównie "lejków" i "sodówek"... Widziano też, że coś się porusza w uskoku, coś w rodzaju "komety". To taki urozmaicony zestaw. Z drugiej strony, artefakty tam prawdopodobnie są inne.</text>
+	</string>
+	<string id="dm_anomalies_7">
+		<text>Widziałeś anomalię "cyrk"? Jest potężna anomalia trampoliny, a wokół niej krążą dwie komety… hit widowiska! Tylko lepiej podziwiać z daleka: w kierunku centrum zaczyna się prawdziwe piekło, "smażenie" jak w  piekle. Są tam artefakty, ale ognisty poltergeist uniemożliwia obserwację - ten drań, wiesz! Gdy tylko się zbliżysz, natychmiast próbuje Cię usmażyć!</text>
+	</string>
+	<string id="dm_anomalies_9">
+		<text>Jeśli interesują Cię artefakty grawitacyjne, musisz zajrzeć do anomalii "kieł". Trudno nie zauważyć tego miejsca - tam ziemia została poważnie uszkodzona przez anomalie, część wzgórza została po prostu całkowicie zburzona. A w jaskiniach, które otworzyły się na wzgórzu, snorkowie natychmiast osiedlili się, ale rzadko wychodzą na zewnątrz.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_1">
+		<text>W Zonie, człowieku, w Zonie! Najważniejsze, żeby nie rozpaczać.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_2">
+		<text>Trafne pytanie. Wiesz - powiedz mi, posłucham.</text>
+	</string>
+	<string id="dm_anomalies_do_not_know_3">
+		<text>Gdzie, kiedy ... Najważniejsze jest to: jeśli znajdziesz miejsce "połowu" - nie mów nikomu!</text>
+	</string>
+	<string id="dm_anomalies_general">
+		<text>Gdzie można znaleźć artefakty?</text>
+	</string>
+	<string id="dm_anomalies_no_more_1">
+		<text>Już Ci opowiedziałem.</text>
+	</string>
+	<string id="dm_anomalies_no_more_2">
+		<text>Nie wiem nic więcej.</text>
+	</string>
+	<string id="dm_anomalies_no_more_3">
+		<text>To wszystko, co wiem. Zapytaj innych.</text>
+	</string>
+	<string id="dm_hello_0">
+		<text>Cześć, bracie.</text>
+	</string>
+	<string id="dm_hello_1">
+		<text>Pozdrawiam.</text>
+	</string>
+	<string id="dm_hello_10">
+		<text>Witaj Stalkerze!</text>
+	</string>
+	<string id="dm_hello_11">
+		<text>Dzień dobry.</text>
+	</string>
+	<string id="dm_hello_12">
+		<text>Co trzeba?</text>
+	</string>
+	<string id="dm_hello_13">
+		<text>Co chcesz?</text>
+	</string>
+	<string id="dm_hello_14">
+		<text>Co tam?</text>
+	</string>
+	<string id="dm_hello_15">
+		<text>Zdrówka życzę!</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>W czym Ci pomóc?</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>Słucham.</text>
+	</string>
+	<string id="dm_hello_18">
+		<text>Dzień dobry.</text>
+	</string>
+	<string id="dm_hello_19">
+		<text>Tak? słucham.</text>
+	</string>
+	<string id="dm_hello_20">
+		<text>Słucham Cię.</text>
+	</string>
+	<string id="dm_hello_21">
+		<text>Cześć.</text>
+	</string>
+	<string id="dm_hello_22">
+		<text>Pozdrowiam.</text>
+	</string>
+	<string id="dm_hello_23">
+		<text>Bry, Stalkerze.</text>
+	</string>
+	<string id="dm_hello_24">
+		<text>No witam.</text>
+	</string>
+	<string id="dm_hello_25">
+		<text>Jak leci?</text>
+	</string>
+	<string id="dm_hello_26">
+		<text>Jak tam?</text>
+	</string>
+	<string id="dm_hello_27">
+		<text>Słucham Cie.</text>
+	</string>
+	<string id="dm_hello_2">
+		<text>No cześć.</text>
+	</string>
+	<string id="dm_hello_3">
+		<text>Co chcesz?</text>
+	</string>
+	<string id="dm_hello_4">
+		<text>O, pojawił się!</text>
+	</string>
+	<string id="dm_hello_5">
+		<text>O, Stalker. Co trzeba?</text>
+	</string>
+	<string id="dm_hello_6">
+		<text>Hej-ho.</text>
+	</string>
+	<string id="dm_hello_7">
+		<text>Cześć, stary.</text>
+	</string>
+	<string id="dm_hello_8">
+		<text>Och... Hej stary.</text>
+	</string>
+	<string id="dm_hello_9">
+		<text>Dobry dzień.</text>
+	</string>
+	<string id="dm_hello_general">
+		<text>Cześć!</text>
+	</string>
+	<string id="dm_help_0">
+		<text>Bracie, pomóż!</text>
+	</string>
+	<string id="dm_help_1">
+		<text>Bracie, ratuj mnie, umieram!...</text>
+	</string>
+	<string id="dm_help_10">
+		<text>Potrzebuję medyka!</text>
+	</string>
+	<string id="dm_help_11">
+		<text>Apteczka, szybko!..</text>
+	</string>
+	<string id="dm_help_2">
+		<text>Pomóż mi, człowieku... Ach, ała! Boli-i!</text>
+	</string>
+	<string id="dm_help_3">
+		<text>Tatku apteczkę... daj mi apteczkę!..</text>
+	</string>
+	<string id="dm_help_4">
+		<text>Koleś... uhh... pomóż mi koleś!..</text>
+	</string>
+	<string id="dm_help_5">
+		<text>Człowieku, potrzebuję apteczki... pilnie....</text>
+	</string>
+	<string id="dm_help_6">
+		<text>Stalker, pomóż... daj mi apteczkę!..</text>
+	</string>
+	<string id="dm_help_7">
+		<text>Jestem ranny... pomóż!</text>
+	</string>
+	<string id="dm_help_8">
+		<text>Daj mi apteczkę!</text>
+	</string>
+	<string id="dm_help_9">
+		<text>Apteczkę!</text>
+	</string>
+	<string id="dm_information_1">
+		<text>Czy słyszałeś o pogłębiarce trochę na wschód od Skadowska? Mówią, że w nocy jest jakiś dziwny blask. Nawet tu jest to dziwne. Zastanawiam się: leźć tam? A może jest tam coś wartościowego? A może nie ryzykować wyprawy "na czuja" i siedzieć bezpiecznie na dupie?</text>
+	</string>
+	<string id="dm_information_10">
+		<text>Jakie to wszystko jest stare! Weźmy na przykład opuszczony konwój na moście Preobrażeńskiego: wszystko tam, kurwa, zardzewiało wraz z mostem! Tylko, wiesz, wciąż ciągnie, żeby tam pogrzebać. Gdyby nie mutanty i anomalie...</text>
+	</string>
+	<string id="dm_information_11">
+		<text>Słyszałeś, że Sułtan chciał wziąć pod siebie Brodę? Nie dość, że jego gangsterska morda jest zagrożona na Skadowsku to on jeszcze zaczął się popisywać! Po prostu go nie zaatakował. Mówią, że Broda i nasi stalkerzy tak wiele mu zrobili. Sułtan już nie zobaczy swojej dawnej władzy wśród hołoty!</text>
+	</string>
+	<string id="dm_information_12">
+		<text>Cholera, słyszałeś? Sułtan, drań, wpadł na Brodę!.. Nie wiem, jak to zrobił, ale wygląda na to, że Broda również położył go na dechach. Jak to w ogóle może być?! Zanim się obejrzysz, Skadowsk stanie się meliną.</text>
+	</string>
+	<string id="dm_information_13">
+		<text>Bracie, czy słyszałeś o Oasis? Podobno jest takie miejsce: niełatwo je znaleźć, a dotarcie tam, nie znając drogi, jest jeszcze trudniejsze. Mówią też, że jest tam jezioro: wchodzisz do niego i wszystkie choroby znikają ... oby tylko.. - wszelkie rany goją się! Ech, po co gadać na próżno… Widziałeś, ilu przybyszów przybyło tutaj, do centrum Zony? Kto szuka artefaktów Klondike, a kto - tak z ciekawości, a jest ich wielu - potrzebuje Oazy. Podobno jest gdzieś w tych stronach.</text>
+	</string>
+	<string id="dm_information_14">
+		<text>Mówią, wszyscy, jebać Zonę! Ktoś znalazł Oazę i zabrał główny artefakt, Serce Oazy. Teraz Strefa przeniesie się do innego wymiaru i żaden ze stalkerów nigdy się z niej nie wydostanie!... Ha-ha! Żart! Uwierzyłeś w to?... Nie, naprawdę, znaleźli jakiś nowy artefakt. Teraz badają go naukowcy w bunkrze.</text>
+	</string>
+	<string id="dm_information_15">
+		<text>Czy słyszałeś o "Topoli"? Niedawno znalazł dla swoich chłopaków obiecującą perspektywę - i oczywiście lecieli tam w radosnych podskokach. Doszli do punktu, w którym kontroler przeszedł przez ich mózgi. Koniec byłby dla chłopaków, gdyby nie stalker, który był z nimi. Mówią, że zombifikacja zniknęła z Topola, zamrugał oczami - a przed nim ten sam stalker kuca i odcina  uszy martwemu kontrolerowi na pamiątkę...</text>
+	</string>
+	<string id="dm_information_16">
+		<text>Czy słyszałeś o wiosce Kopaczy? Kiedy doszło do pierwszego wypadku w elektrowni atomowej w Czarnobylu, była ona tak pokryta promieniowaniem, że postanowili zakopać ją do samiutkiego dachu. Z domów pozostały tylko kopce radioaktywne. Mówią, że to miejsce było przerażające już wtedy i nikt tak naprawdę nie wie, co się tam teraz dzieje. Wszyscy je omijają - boją się... A jeśli na próżno je omijają? Może Klondike artefaktów właśnie tam jest?</text>
+	</string>
+	<string id="dm_information_17">
+		<text>Czy wiesz, że teraz w Janowie jest tylko dwóch stalkerów, którzy mogą wyczuć zbliżającą się Emisję? Jednym z nich jest Kostopraw, nasz medyk, a drugim Zulu, były "powinnościowiec". Niedawno się stamtąd wyprowadziłem. Kiedy powinnościowce przybyli na stację "Janów", byli tam już bojownicy "Swobody" - i oczywiście nadejście "Powinności" nie podobało im się. Podczas potyczki zginęła połowa obu jednostek, no i rykoszetem oberwało także kilku wolnych stalkerów. To wtedy Zulu krzyknął: "ukryj wszystkich, nadchodzi Emisja". Nie było dokąd iść, "Powinność" ze "Swobodą" ogłosił rozejm i schronili się na stacji. A Zulus niemal natychmiast po tym opuścili "Powinność" i osiedlił się obok stacji, na wieży.</text>
+	</string>
+	<string id="dm_information_18">
+		<text>Tak, mówią wiele dziwnych rzeczy, ale wierzyć we wszystko, to nie szanować siebie. Opowiadacze mówili jak to biegają odporne na naboje psy, dar od Zony! Ale o dziwo, kilku stalkerów ze stacji Janow już powiedziało, że widzieli UFO. Podobno wygląda jak czarny dysk o średnicy pięciu metrów. Chociaż inni mówią, że to mógł być samolot, bo na początku nikt nie był nawet szczególnie zaniepokojony. Tylko że wśród naocznych świadków okazał się były pilot i tak później powiedział – nigdy w życiu nie widział czegoś takiego.</text>
+	</string>
+	<string id="dm_information_2">
+		<text>Z nowych rzeczy, tylko smutne... Dobrzy stalkerzy znikają jeden po drugim, a potem ich ciała znajdują się bez kropli krwi. Krwiopijcy Liadscy, a nawet całe stado, to jak postawienie drinka! Ech, gdybym mógł znaleźć dziurę, w której siedzą - to ołowiem, suki, bym wypchał! Eh, co nam pozostało? Nawet do kibla chodzić tylko w parach? Tak, ot wolne życie stalkera ...</text>
+	</string>
+	<string id="dm_information_20">
+		<text>Jest nowy żart. Chłopaki ze Swobody zdobyli PDA legendarnego założyciela Powinności - i wiecie co? Okazuje się, że podstępem przekonał swoich bojowników, że dowództwo porzuciło ich w Zonie i na tą okoliczność zebrał obecną grupę! Tak, ale w Strefie podłość nie idzie na marne: wkrótce ten przystojny mężczyzna wpadł w bańkę przestrzenną - i siup do następnego świata! Zgadza się... A ja, głupiec, wciąż myślałem o przejściu do "Powinności"! Nie, niech maszerują beze mnie, zwykłe roboty...</text>
+	</string>
+	<string id="dm_information_21">
+		<text>Nowy oddział "Powinność". Pojawił się jak z powietrza! Pomyśl tylko: grupa powinnościowców opuszcza Janów, a kiedy wracają, jest ich już prawie trzy razy więcej! Czy oni poddają się klonowaniu?... Chociaż, wiesz, nie zdziwiłbym się, gdyby tak było: tak byłoby w przypadku powinnościowców! Sami przecież chyba odróżniają się tylko tytułem.</text>
+	</string>
+	<string id="dm_information_22">
+		<text>Nowy oddział "Swobody". Pojawił się jak z powietrza! Pomyślcie tylko: grupa Swobody opuszcza Janów, a kiedy wracają, jest ich już prawie trzy razy więcej! Cóż, nie rozmnażają się przez pączkowanie?.. Chociaż w ogóle pasuje to do nich. Trawa, zaciągnie się, zakorzenie się - i powiedzmy, rozmnażanie się wegetatywnie...</text>
+	</string>
+	<string id="dm_information_23">
+		<text>Znasz Gontę i jego chłopaków? Przez długi czas mieli czarną smugę: Danila zniknęła, Krab został ranny ... Ale teraz zniknął biały: osiedlili się z naukowcami, wykonując dla nich pomiary. Powiedz mi, szczęśliwe chłopaki? Praca, jak sądzę, nie jest brudna, a jeśli masz szczęście, zarwiesz również oficjalne przepustki.</text>
+	</string>
+	<string id="dm_information_24">
+		<text>Czy znasz trio prześladowców Mitai, Torby i Niedźwiedzia? Jak słyszałem, dostali pracę u naukowców, wykonując pomiary. Diabeł wie, na czym polega ta praca, ale jest mało prawdopodobne, by uniwersyteccy geniusze wymyślili coś dobrego. Mało robią: pobieżnie, przedzierają się - i takie pozorancje, ale widzisz, dostają oficjalne przepustki!</text>
+	</string>
+	<string id="dm_information_25">
+		<text>Słyszałeś o Spartaku i jego chłopakach? Teraz nie zobaczysz ich na Skadowsku - bunkier naukowców jest strzeżony. I co? Chłopaki wiedzą, jak radzić sobie z mutantami i nie raz walczyli z bandytami. To coś wartościowego pod każdym względem: nauka potrzebuje spokoju, a faceci potrzebują statusu i pieniędzy.</text>
+	</string>
+	<string id="dm_information_26">
+		<text>Może widziałeś najemników, którzy tkwili w sklepach podstacji? W każdym razie ich tam nie ma. Krążą plotki - udali się do Jupitera, aby strzec bunkra naukowców. Przed nimi też byli tacy najemnicy na straży, ale coś im się tam stało. W zasadzie dobry trend: jedni znikają, inni przchodzą na ich miejsce... Tak jeszcze dwa, trzy razy, a najemników w Zatonie zabraknie na dobre.</text>
+	</string>
+	<string id="dm_information_27">
+		<text>Według naocznych świadków bunkier naukowców jest teraz strzeżony przez dzielnych bojowników Powinności. Zastanawiam się, jacy powinnościowce z tego korzystają? Czy naprawdę mają nadzieję, że naukowcy z wdzięczności wymyślą dla nich pistolet plazmowy do prowadzenia desantu? Och, ci obrońcy...</text>
+	</string>
+	<string id="dm_information_28">
+		<text>Mówią, że bunkra naukowców strzeże teraz "Swoboda"... Ciekawe, czy naukowcy nie boją się, że ich okazy badawcze mogą z łatwością zostać zjarane w lufkach? Z drugiej strony nie pozostaje to bez korzyści: jeśli ktoś chce zaatakować bunkier, najpierw trzeba będzie go szukać w tej zasłonie dymnej i jednocześnie nie zgubić się w centrach.</text>
+	</string>
+	<string id="dm_information_29">
+		<text>Widziałeś Jupiter, który jest fabryką sprzętu radiowego? Przerażające miejsce! Chuj wie, co się tam dzieje: anomalie wydają się być takie same, a mutantów nie ma więcej niż gdziekolwiek indziej... nadal nie chcesz tam iść. W brzuchu czuję - że to bezwartościowe miejsce.</text>
+	</string>
+	<string id="dm_information_3">
+		<text>Słuchaj, czy jesteś tym samym gościem, który przyprowadził lekarza do czystej wody w Skadowsku? Dziękuję Ci za to! A potem, rozumiesz, mógłbym w końcu znaleźć się na jego stole... W końcu to prawda, że wszyscy jesteśmy istotami grzesznymi, ale okazało się – człowiek jest gorszy niż mutant.</text>
+	</string>
+	<string id="dm_information_30">
+		<text>Więc musisz zapytać, "co nowego"! Po Twojej wyprawie do tuneli pod Jupiterem pojawiła się plotka, że dotarłeś do centrum Strefy, było takie zamieszanie... Już około dziesięciu osób próbowało za Tobą podążać! Tylko Azot wszystkich zatrzymał, powiedział, że bramy do tuneli są zamknięte i nie będzie mógł ich już otworzyć. Są oczywiście zdesperowane łby, które chcą wysadzić drzwi, ale jeszcze nie zorientowali się, skąd wziąć tyle dynamitu i czym będą oddychać, gdy zejdą na dół.</text>
+	</string>
+	<string id="dm_information_31">
+		<text>Och, słyszałeś o Gariku? Ten stalker, który pracował dla naukowców. Nie można go teraz nazwać "nieskazitelny rozum", wyrwał oficjalną przepustkę do Zony, zgadza się! Musiał zabrać łup z domu w Strefie, ale wziął, rozumiesz, i pojechał do Prypeci! Cóż, uwierzyłbyś w to?.. Myśleli, że zginął jak wielu - ale nie! To prawda, że stalkerowi zawsze mało: spotkał tam wojsko. Teraz go to nie obchodzi, ma przepustkę, a zwykli stalkerzy nie mają powodu, żeby tam zachodzić.</text>
+	</string>
+	<string id="dm_information_32">
+		<text>No cóż... "Swoboda" i "Powinność" znów walczą, nie podzielili się skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam "Swobodowcy" – podobno "Powinność" nie miało szczęścia.</text>
+	</string>
+	<string id="dm_information_33">
+		<text>No cóż... "Obowiązek" i "Swoboda" znów walczą, nie podzielili niektórych skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam "powinnościowce" - najwyraźniej "Swoboda" nie miało szczęścia.</text>
+	</string>
+	<string id="dm_information_34">
+		<text>To było niedawno: grupa stalkerów wyskoczyła do tuneli w pobliżu Jupitera i natknęła się na coś – a raczej na kogoś. Najpierw pistolety chłopaków zostały wytrącone z ich rąk, a potem wleciały w nich wszelkiego rodzaju pierdoły. Na ogół sami nie potrafią tak naprawdę wyjaśnić, co się tam wydarzyło, chociaż stracili tam dwóch.</text>
+	</string>
+	<string id="dm_information_35">
+		<text>Słyszałem, że na północ od Jupitera, w tunelach znaleźli jakieś zmutowane ścierwo. Zweroboj wysłało tam stalkera na zwiad. Okazało się, że jest tam legowisko burerów. Pytasz dlaczego w czasie przeszłym? I właśnie ten stalker przerwał życie wszystkim burerom. W pojedynkę! Hmm-m-m... wydajesz się nawet wyglądać jak on, tyle że ten gość jest wyższy i zawsze nosi przy sobie granatnik...</text>
+	</string>
+	<string id="dm_information_36">
+		<text>Hana przybyła do stalkerów... Bestie latały po Zatoce. W cementowni zobaczyli, jak odciągnęli stalkera. Było ich co najmniej kilkanaście - i wszystkie są tęgie! Wyglądają jak krwiopijcy, tylko dwa razy więksi i szybcy – przerażające! Teraz jedna nadzieja: ZWEROBOJ. Może wie, jak radzić sobie z tymi potworami?</text>
+	</string>
+	<string id="dm_information_37">
+		<text>Czy słyszałeś o krwiopijcach bagiennych? Cóż, te, które były w Zatoce? Więc teraz ich tam nie ma. Mówią, że Zweroboj to uczynił. Ale nie sam: wynajął stalkerów. Mówią, że zebrał się oddział, około dziesięciu osób, przeczesał to bagno w górę iw dół, a wszystko, co podskoczyło, zostało zastrzelone. Teraz nie ma już nawet żaby.</text>
+	</string>
+	<string id="dm_information_38">
+		<text>Wiesz Ty co? Po prostu zaczęli gadać, że widzieli chimerę i że jak ktoś w mgnieniu oka rozprawił się z nią. Wygląda na to, że stalkerzy nie są już takimi leszczami! Teraz mutanci, którzy sami zabijali stada stalkerów, idą na rzeź... Chociaż, jak mówią, był to doświadczony myśliwy, ma już na swoim koncie tyle mutantów, ile myśmy komarów wytłukli.</text>
+	</string>
+	<string id="dm_information_39">
+		<text>Czy słyszałeś, jakich ludzi Swoboda rekrutuje do swoich szeregów? Był tu jeden – Flint, cały czas snujący bajki o swoich wyczynach, ale jak się okazało – łajdak, których jest niewielu! Zostawił swojego towarzysza w anomalii na śmierć, a sam uciekł po łup. A potem pojawiły się jego nowe "wyczyny": na przykład w Zatonie prawie nakarmił chimerę myśliwymi... Wcześniej miałem lepszy stosunek do Swobody... Nie... lepiej iść solo niż mieć takich przyjaciół!</text>
+	</string>
+	<string id="dm_information_4">
+		<text>No... chimerę na Zatonie załatwili: grupa Gonty pracowała razem z jakimś stalkerem... Ej! Przecież wyglądał jak Ty... to Ty, prawda? Cóż, jeśli tak to możesz opowiedzieć tą historię z "pierwszej ręki", że tak powiem... Za wszystko... dziękuję! Życie bez dodatkowego mutanta co zżerał stalkerów stało się nieco spokojniejsze.</text>
+	</string>
+	<string id="dm_information_40">
+		<text>Nic nowego, ale jest tu taki typek w wieży: Noe go przezywają. Krótko mówiąc, ten frajer w ogóle nie ma barki! Tylko tą barkę wyobraża se: siedzi tam, leży blin, krajobraz dookoła i on sam pod daszkiem! Czekaj, czekaj to nie koniec opowieści! On, jakby, zbudował to w tydzień... noo, pracownik miesiąca, kurwa go mać! Krótko mówiąc, chuj z nim.</text>
+	</string>
+	<string id="dm_information_41">
+		<text>Znasz jednego bagneta, którego zwą Żwawy? Więc z natury jest mądrym facetem. Nie tylko dostarcza towar na zamówienie, ale też jeśli go tykniesz - to przypierdoli! Spytaj gdzie możesz zanurkować po "Vintar", a powie miejsce gdzie szrot sterczy. Prawdziwy magik, ta-dam!</text>
+	</string>
+	<string id="dm_information_42">
+		<text>Ćśś!.. Jest taka chujnia, gdy Sułtan zaliczył konkretną wpadkę. Jak ojciec chrzestny chciał zgiąć pod sobą Brodę, wziął za dużo prądu... i machał łapami jak ptak do odlotu. Teraz Sułtan będzie miał problem z chłopcami: władza nie została jeszcze odebrana, ale typ już nie jest ten sam.</text>
+	</string>
+	<string id="dm_information_43">
+		<text>Maza polega na tym, że Sułtan Brodzie wszedł w interes i ma prawdziwe łupy ze swoich spraw. Krótko mówiąc, z Sułtanem wszystko jest w porządku, ma dobrą władzę, obecny główny temat jest inny: czas wdrążyć nasze prawo na Skadowsk!.. Dlaczego? Ciągle jest ochota aby tam zanurkować - albo żyj zgodnie z zasadami, albo przepadniesz.</text>
+	</string>
+	<string id="dm_information_44">
+		<text>Stary, słyszałeś o Oasis? Pomyśl tylko: miejsce, które leczy wszystkie rany i choroby! Ech, albo to jakaś sztuczka, albo prawdziwy cud, albo… jest jeszcze jedna myśl. Czy zauważyłeś, że ostatnio temat o Spełniaczu Życzeń jakoś ucichł, ale Oasis jest właśnie na gębach? Może ta Oasis jest spełnieniem czyjegoś życzenia?</text>
+	</string>
+	<string id="dm_information_45">
+		<text>Tutaj pojawiła się ciekawa informacja od naukowców: grzechotali artefaktem prosto z Oazy! Najbardziej interesujące jest jednak co innego. Jest temat, że dzięki wynikom badania tego gówna będzie można stworzyć skuteczne lekarstwo na raka... domyśliłem się, prawda?!</text>
+	</string>
+	<string id="dm_information_46">
+		<text>Nie ma nic nowego, wszystko jest stare. Teraz wszyscy pamiętają stare opowieści o centrum Zony, na przykład o Oazie - miejscu, w którym odzyskuje się siły, a rany goją się błyskawicznie. Bzdura oczywiście, ale ciekawie jest usłyszeć, zwłaszcza o tym, gdzie się znajduje... Och, gdyby tylko takie miejsce naprawdę istniało! Ile z naszych dzieci można by ocalić!</text>
+	</string>
+	<string id="dm_information_47">
+		<text>Mówią, że Oaza została faktycznie znaleziona. Nigdy bym nie pomyślał, że istnieje, ale nie można spierać się z faktami. W środku był jakiś specjalny artefakt, teraz naukowcy go badają. Wygląda na to, że na tej podstawie będą mogli zrobić urządzenie do błyskawicznego gojenia się ran... cokolwiek by nie powiedzieć, jest to przydatne dla wszystkich stron.</text>
+	</string>
+	<string id="dm_information_48">
+		<text>Kopacze! Nie jest nowe w Zonie, ale dla mnie wciąż jest świeże. Szacunek: cała wieś ze wszystkimi domami jest pogrzebana po same dachy! Dziedzictwo osiemdziesiątego szóstego: fonit w domu - horror! To inne miejsce, tak.</text>
+	</string>
+	<string id="dm_information_49">
+		<text>Czy znasz historię tego, jak wylądowaliśmy na Janowie z opancerzonymi pod tym samym dachem? To, zasługa Zulusa - był wtedy jeszcze w "Powinności" i bardzo go doceniali - szczycili się jego zasługami... Byliśmy pierwsi, którzy przybyli do Janowa, no prawda zaraz po stalkerach. Ale nawet nie zdążyliśmy zapalić papierosa, patrzymy - lecą zielone ludziki wymahując lufami!.. Generalnie ostatni raz widziałem to na wysypisku, ponad rok temu. Po obu stronach chłopaki zostali zabici - okropne! Zdjęli naszego dowódcę, świętej pamięci... A potem Zulus krzyknął – Emisja! Wszyscy się chowają! No cóż, co robić? Nie zostawisz ludzi pod drzwiami na śmierć, nawet jeśli są żołdakami Powinności?... Tak teraz żyjemy: kiedy jest spokój, kłócimy się po trochu, ale jak uderza Emisja, siedzimy obok siebie cicho, jak myszy... A Zulus przy okazji zostawił "Powinność". Teraz mieszka sam przy Janowie...</text>
+	</string>
+	<string id="dm_information_5">
+		<text>Cóż, to nie nowość i nie jest tajemnicą, że technik Kardan prawie ciągle jest pijany. Ale mówią, że kiedy po raz pierwszy przyjechał do Skadowska, pił wyłącznie w celu odkażania i podczas rocznych świąt. Długo, długo miał ten brzydki zwyczaj a jego przyjaciele odeszli ... Widzisz, pokazali jakimi są dobrymi przyjaciółmi, odkąd wpadł w taki ciąg.</text>
+	</string>
+	<string id="dm_information_50">
+		<text>Tak, ostatnio był taki żart: koleś z całą powagą powiedział, że UFO przeleciało nad Janowem. Dlatego właśnie Zona przyciąga ludzi, co? Poltergeisty z kontrolerami to za mało - cyk i UFO! Chwała Wszechmogącemu, że nikt jeszcze nie zechciał być medium, lub nikt nie próbuje ładować wódki. "Wynoś się, nieczysta moc, pozostań czystym duchem"...</text>
+	</string>
+	<string id="dm_information_51">
+		<text>Czy słyszałeś o wiosce Kopaczy? Kiedy doszło do pierwszego wypadku w elektrowni atomowej w Czarnobylu, była tak pokryta promieniowaniem, że postanowili pogrzebać całą wioskę. Z domów we wsi pozostały tylko kopce radioaktywne. Mówią, że to miejsce było straszne już wtedy i nikt tak naprawdę nie wie, co się tam teraz dzieje - starają się nie wędrować.</text>
+	</string>
+	<string id="dm_information_52">
+		<text>Nic nowego - ale może nie słyszałeś. Siedzimy tu przytuleni ze Swobodą, nie dlatego, że tak bardzo nam się to podoba: zmusiły nas okoliczności. Kiedy tu przybyliśmy, Swobodowcy natychmiast nas zaatakowali. Odpieraliśmy atak - choć oni, te ćpuny, też nieźle strzelali ale jeszcze trochę, a byśmy ich porobili! A potem, w środku bitwy, Zulus wyczuł zbliżanie się emisji – i nie mylił się. Cóż, ogólnie rzecz biorąc, nie było dokąd pójść – musieliśmy odłożyć starcie ze Swobodą. Ale nie rozumiem Zulu: dlaczego opuścił Powinność po tym bałaganie?</text>
+	</string>
+	<string id="dm_information_53">
+		<text>Niedawno nasz wywiad poinformował, że niezidentyfikowany obiekt latający przeleciał nad stacją Janow... tak, UFO! Aby uniknąć głupich pytań, od razu wyjaśnię: UFO to nie tylko spodek z Marsjanami, to każdy latający syf – nawet kawałek sklejki, nawet sonda atmosferyczna – którego obserwatorzy nie mogli zidentyfikować.</text>
+	</string>
+	<string id="dm_information_54">
+		<text>To Ty przyniosłeś Lokiemu ten PDA, prawda? Cholera, to jest bomba! Legendarny założyciel Powinności, generał Tachenko, głupio rzucił swoimi myśliwcami, popsuł radio, żeby nie dało się ich wyciągnąć, strącił z nich oddział pancernych i banalnie zaginął w przestrzennej bańce. Kaput!..</text>
+	</string>
+	<string id="dm_information_55">
+		<text>Czy widziałeś, że w Powinności pojawił się nowy oddział? Oczywiście nie posiłki z bazy: ideologia jeszcze nie powstała, by zastąpić mózgi. Boleśnie dobrze wyszkolony - raczej nie tutejsi zwerbowani stalkerzy. Diabeł wie, kim oni są... Wierzysz w plotki, że to dawne Monolity? Wydaje się, że idzie świeża krew.</text>
+	</string>
+	<string id="dm_information_56">
+		<text>Widziałeś naszych nowych wojaków? E... to Ty ich przyprowadziłeś, prawda? Punktujesz! To fajni kolesie, tylko trochę drętwi... No dobrze - spędź z nami pół roku, uwolnij swój umysł, wejdź w nasze tematy - będą na tablicy!</text>
+	</string>
+	<string id="dm_information_57">
+		<text>Mamy nowe posiłki, i to jakie! Oddział dawnych Monolitów! Nie byle początkujący żółtodziób, ale prawdziwi wojownicy. Oczywiście po Monolicie ich mózgi jeszcze do końca się nie ułożyły, ale to jest do naprawienia: nasz ksiądz... czyli zastępca komendanta ds. pracy wychowawczo-psychologicznej – on się nimi zaopiekuje.</text>
+	</string>
+	<string id="dm_information_58">
+		<text>Mówią, że Swoboda zaciągnął w swoje szeregi dawnych „monolitów”. Bzdury, plotki? Ale idźcie i zobaczcie: naprawdę mają nowy oddział i najwyraźniej nie pochodzi on z granic Strefy. Prawdopodobnie Svoboda ma się źle, a może narkotyki kompletnie powaliły ich mózgi… Kogo wezmą dalej – oddział zombie? Pluton Burera?</text>
+	</string>
+	<string id="dm_information_59">
+		<text>Wkrótce na tym terenie zostanie przywrócony porządek: Powinność zajęło kluczowe pozycje w okolicy. Dobrze okopaliśmy się w Janowie, a teraz jest nasza całodobowa ochrona w pobliżu bunkra naukowców. Czas na Swobodę, aby zebrać dobytek i się stąd wydostać. W Strefie nie ma miejsca dla anarchistów!</text>
+	</string>
+	<string id="dm_information_6">
+		<text>Nowy cud świata - trzeźwy Cardan! W ogóle nie pije, wyobrażasz sobie? Chłopaki w Skadowsku zapytali go, gdzie znalazł tak skutecznego medium, a on po prostu się śmieje: podobno wiewiórka zakodowała jakimś 62 kodem.</text>
+	</string>
+	<string id="dm_information_60">
+		<text>Ty wiesz co, pamiętam, zaaranżowałeś naszych kolesi do ochrony dla naukowców? Specjalne podziękowania dla Ciebie!.. Czy wiesz, jak miło było zwrócić się do bunkra naukowców i zobaczyć tam naszych ludzi zamiast brudnych najemników? Taki pozytyw, jak Ty!..</text>
+	</string>
+	<string id="dm_information_61">
+		<text>Z nowości - garść szumu przez smakołyki z pamięci podręcznej Powinności. Teraz użyjemy go zgodnie z jego przeznaczeniem: przycisnąć Powinnościowych więźniów, aby zdradzili swoje sekrety, hehe... I jeszcze raz dziękuję za cynk naszym! Bez posiłków, guzik byśmy walczyli.</text>
+	</string>
+	<string id="dm_information_62">
+		<text>Kolejne zwycięstwo Powinności! Anarchiści stali się dość bezczelni – cóż, zapłacili cenę za swoją arogancję. Wpadli do naszego tajnego magazynu i zdecydowali, że ujdzie im to na sucho... Ale nieważne! Nakryliśmy ich i zastrzeliliśmy wszystkich jak wściekłych tuszkanów!</text>
+	</string>
+	<string id="dm_information_63">
+		<text>Od dawna było wiadomo, że w Swobodzie są tylko szumowiny, lecz tutaj ujawniono pewne szczegóły biografii jednego z tych niedorobionych czegewarów. Głowa Swobody nazywał się Flint, ale wcześniej był znany jako stalker Soroka. Pod tym pseudonimem pojawił się na Zatonie i zagroził grupie łowców mutantów - po prostu ich wrobił. W rezultacie chłopaki zostali prawie rozerwani przez chimerę, a ten drań zabrał ich sprzęt i przybył tutaj, do Janowa. Gdy tylko włożył swój mundur Swobody, natychmiast zaczął praktykować swój nowy zawód: wrzucił swojego partnera w anomalię, aby odebrać mu artefakt. Tak wygląda Swoboda w akcji...</text>
+	</string>
+	<string id="dm_information_7">
+		<text>Nowy budynek Noego! Jest taka stara atrakcja Zatonu - stalker o imieniu Noe. Wujek jest doświadczony, konkretny i jednocześnie stuknięty. Jego ostatnim pomysłem jest uratowanie wszystkich stalkerów przed nadchodzącą apokalipsą, więc próbuje zbudować arkę ze starej barki... Jeśli chodzi o mnie, jest to jednoosobowy program o nazwie "wariatkowo". Jeśli zdecydujesz się tam zajrzeć, przede wszystkim nie drażnij Noego. Jest stuknięty, owszem, ale generalnie całkiem nieszkodliwy.</text>
+	</string>
+	<string id="dm_information_8">
+		<text>Nie spotkałeś Szustroja? Jest teraz w Skadowsku. To naprawdę ktoś wyjątkowy w swojej dziedzinie, powaga! Możesz dostać - cóż, prawie wszystko. Co prawda ostatnio nosi tylko lufy i kamizelki, ale jakie! Nowości, eksperymentalne opracowania, rękodzieła... chociaż ceny są adekwatne. Z drugiej strony, jakie niby miały być? Toż to ekskluzywne towary!</text>
+	</string>
+	<string id="dm_information_9">
+		<text>Czy wiesz, że Pilot prowadzi teraz nową trasę między Zatonem a Jupiterem? Wcześniej trzeba było długo jechać i wszystko było pod górę, no i jeszcze między anomaliami, wężykiem. A teraz - lajcik! Co więcej połowę czasu zajmuje. Pilot szczerze mówi, że to nie on znalazł trasę, ale jeden stalker pokazał mu swoje mapy. Oczywiście nie za darmo, ale szczerze nie powiedział ceny.</text>
+	</string>
+	<string id="dm_information_do_not_know_1">
+		<text>Tak, nic specjalnego.</text>
+	</string>
+	<string id="dm_information_do_not_know_2">
+		<text>Tak, w Zonie gdziekolwiek pójdziesz, wszędzie jest coś nowego!</text>
+	</string>
+	<string id="dm_information_do_not_know_3">
+		<text>Z choinki spadłeś? Czytaj wiadomości.</text>
+	</string>
+	<string id="dm_information_general">
+		<text>Co nowego w Zonie?</text>
+	</string>
+	<string id="dm_information_no_more_1">
+		<text>Nic więcej nie wiem.</text>
+	</string>
+	<string id="dm_information_no_more_2">
+		<text>Powiedziałbym, ale nic ciekawego nie słyszałem.</text>
+	</string>
+	<string id="dm_information_no_more_3">
+		<text>Co żem wiedział - tom powiedział.</text>
+	</string>
+	<string id="dm_job_1">
+		<text>Hmm... Myślę, że powinieneś zapytać Głuszca w Skadowsku. Szukał kompanów w jednej skomplikowanej sprawie: znikają stalkerzy i nikt nie wie jak i gdzie. Mówią, że później znaleziono ich wykrwawionych do cna, dlatego pojawiła się plotka, że winni są krwiopijcy. Ale kiedy stwory miałyby popełnić takie okrucieństwa?... Prawie dzień później ktoś znika, a to nie wygląda na zwykłych krwiopijców. Głuszec wynajął nawet doświadczonego myśliwego - aby dokładnie wyśledzić, skąd pochodzą.</text>
+	</string>
+	<string id="dm_job_10">
+		<text>Wiesz, kiedy staler potrzebuje pieniędzy ma dwie opcje: albo poszukać artefaktów i sprzedać je kupcom za jedną trzecią rzeczywistej ceny, albo pójść do pracy dla naukowców. Naukowcy zawsze wymyślają jakąś pracę dla stalkera: albo potrzebują rzadkiego artefaktu, albo dostarczenia zwłok mutanta, albo czegoś innego. Ale najważniejsze jest to, że jeśli dojdziesz do porozumienia z nimi, mogą wydać Ci przepustkę do Zony. Urzędasy! Tylko wyobraź sobie: przechodzisz obok wojska na Kordonie z pełnym plecakiem łupów, a oni tylko Cię pozdrawiają. Miodzio!.. Tak więc obok stacji Janów, trochę od niej na zachód, leży tylko bunkier naukowców. Na mają tylko jednego stalkera, więc może będzie dla Ciebie praca.</text>
+	</string>
+	<string id="dm_job_11">
+		<text>Zależy od tego, co chcesz zrobić. Jeśli nie masz nic przeciwko polowaniu na mutantów, zawsze będzie dla Ciebie robota. Zajrzyj do piwnicy w Janowie, tam siedzi Zweroboj. Dobrze płaci za zabijanie mutantów... Tylko nie myśl sobie, że zastrzelisz pierwszego lepszego niby-psa który się pojawi i pobiegniesz po nagrodę! Wydaje zlecenia na konkretne potwory, z których nie da się normalnie wziąć łupów - ewentualnie dla tych, które osiedlają się w pobliżu miejsc, w których stalkerzy czekają na emisje.</text>
+	</string>
+	<string id="dm_job_14">
+		<text>Taki łoś jak Ty uwielbia latać do Skadowska, do Brody, gdy rzuca kasiorę za artefakty. Tak w skrócie powiem Ci: ma układy "poważnymi" ćpunami. Nie chce podzielić się z autorytatywnymi ludźmi, dlatego wkrótce spadnie z wielkim hukiem. Czaisz?</text>
+	</string>
+	<string id="dm_job_15">
+		<text>Cóż, jeśli to konkretnie, potrzebujesz mamony, leć do Syczy na Skadowsku. Merda ogonem gdy przyniesiesz mu to czego potrzebuje prawdziwy dzieciak - informacji i broni. Jeśli te ciekawe rzeczy wpadną Ci do kieszeni - a to dokumenty, śmokumenty, czy jakieś PDA stalkera to lecisz do niego. Będziesz miał za to szmal. Krótko mówiąc, zawsze jest coś czego potrzebuje a płaci podwójnie.</text>
+	</string>
+	<string id="dm_job_2">
+		<text>Może powinieneś zapytać Gontę? Z jego grupą taka historia wyszła pewnego dnia... Ogólnie rzecz biorąc, ostatnio na Zatonie pojawiła się chimera, a za nią Gonta i jego ludzie - to znaczy myśliwi. Cóż, zaczęli polować na to stworzenie. Wytropili, a potem grupa się rozdzieliła: jeden facet został pilnie wysłany, by znaleźć legowisko krwiopijców. I okazało się, że jak zauważyli chimerę, to nie mieli wystarczającej liczby ludzi, więc zabrali ze sobą jednego stalkera, o imieniu Sroka... Nie wiem dokładnie, co się tam wydarzyło – mówią tylko, że Sroka, co poszedł z nimi, uciekł, gdy tylko zobaczył chimerę. A Gonta i jego ludzie ledwo się wybronili, bestia poważnie zraniła jednego. Więc teraz desperacko potrzebują doświadczonych ludzi: w końcu chimera krąży po okolicy.</text>
+	</string>
+	<string id="dm_job_3">
+		<text>Tutaj w skrócie równanie jest proste: jeśli chcesz mieć hajs, idź do Sułtana. Ma tu władzę, więc jeśli jesteś golasem, szybko znajdzie Ci pracę.</text>
+	</string>
+	<string id="dm_job_4">
+		<text>Cóż... jeśli jesteś inteligentnym stalkerem, wiesz jak szukać artefaktów, idź do Brody, wszyscy tutaj go szanują. Jako jedyny w Skadowsku kupuje artefakty po normalnej cenie. Mówią, że ma powiązania, by przetransportować je poza granice Zony. No, a on jest dobrym człowiekiem: potrafi pomóc radą i zaproponować dochodową pracę.</text>
+	</string>
+	<string id="dm_job_5">
+		<text>Na Skadowsku jest kupiec, nazywają go Sycz... Muszę powiedzieć, że nie jest to szczególnie przyjemny typ. Ciągle jęczy, że artefakty nie są przynoszone do niego tylko do Brody. Ale jeśli pilnie potrzebujesz pieniędzy, możesz się do niego uśmiechnąć... Ten typ jest śliski, nie tylko sprzedaje naboje i wie wiele rzeczy. Więc jeśli są pieniądze, ale brak informacji - idź do niego. Mieszka na drugim pokładzie, na rufie.</text>
+	</string>
+	<string id="dm_job_6">
+		<text>Możesz zapytać Wano: zawsze kręci się przy barze w Janowie. Wszedł w komitywę z bandytami, po raz trzeci idzie zanieść dług, a końca nie widać... Wygląda na to, że stalker jest doświadczony, może przejść przez każdą anomalię z zamkniętymi oczami, ale ciągle wpada w jakieś kłopoty. Już wielokrotnie proponowano mu odejście: Zona jest duża, nie zechcesz - nie znajdziesz... Jest dumny, nie chce uciekać i oczywiście nikt tak naprawdę nie chce mu pomóc uporać się z bandytami.</text>
+	</string>
+	<string id="dm_job_7">
+		<text>Tak, co to za praca ... Bandyci są całkowicie szaleni - złapali Mitię i zażądali okupu. A Mitia był przecież jednym z pierwszych stalkerów, którzy przybyli do Janowa, zaaranżował wszystko tutaj, aby można było ukryć się przed Emisją - a teraz okazuje się, że nie ma nikogo, kto by go uratował. Swoboda i Powinność nie mają czasu na to: jak zwykle chcą sobie nawzajem poderżnąć gardła, ale reszta... co mogę powiedzieć, jeśli grupa Mitaja nie może zdecydować, jak go uwolnić! Jeśli nagle chcesz im pomóc, znajdź Medwiediewa - był na stacji przy barze.</text>
+	</string>
+	<string id="dm_job_8">
+		<text>Azot, technik z Janowa, właśnie pytał, kto może mu dostarczyć materiały. W końcu jest nie tylko wyjątkowy w broni, ale także grzebie w elektronice! Tylko sama wiedza nie wystarczy, a on nie ma materiałów, więc pyta wszystkich... Główny problem jest taki: wszystko już dawno zostało skradzione w bezpiecznych miejscach i nikt nie chce łazić w niebezpieczne miejsca za jakimiś babelotami. Azot powiedział, że jak ktoś przyniesie mu coś odpowiedniego, to nie pozostanie dłużny.</text>
+	</string>
+	<string id="dm_job_9">
+		<text>Słyszałem, że wujek Jar ze stacji w Janowie szukał jakiegoś stalkera do interesu. Nie jest jasne, dlaczego nie chce kontaktować się ze swoimi ludźmi ze Swobody? Nie sądzę, żeby to było coś przestępczego... idź do niego jak chcesz i zapytaj go o co chodzi. Może Ci podpasuje.</text>
+	</string>
+	<string id="dm_job_do_not_know_1">
+		<text>Hmm... nie wiem.</text>
+	</string>
+	<string id="dm_job_do_not_know_2">
+		<text>Też chciałbym wiedzieć.</text>
+	</string>
+	<string id="dm_job_do_not_know_3">
+		<text>Nie mam pojęcia.</text>
+	</string>
+	<string id="dm_job_general">
+		<text>Kto mógłby zaoferować pracę?</text>
+	</string>
+	<string id="dm_job_no_more_1">
+		<text>Już pytałeś.</text>
+	</string>
+	<string id="dm_job_no_more_2">
+		<text>Nie powiem Ci nic nowego.</text>
+	</string>
+	<string id="dm_job_no_more_3">
+		<text>Już Ci mówiłem.</text>
+	</string>
+	<string id="dm_universal_actor_exit">
+		<text>Dobra, zrozumiałem.</text>
+	</string>
+	<string id="dm_universal_actor_start">
+		<text>Chciałbym Cię o coś zapytać.</text>
+	</string>
+	<string id="dm_universal_npc_start_0">
+		<text>Porozmawiajmy.</text>
+	</string>
+	<string id="dm_universal_npc_start_1">
+		<text>Cóż, mów.</text>
+	</string>
+	<string id="dm_universal_npc_start_2">
+		<text>Spadaj.</text>
+	</string>
+	<string id="dm_universal_npc_start_3">
+		<text>Słucham.</text>
+	</string>
+	<string id="dm_wounded_general">
+		<text>Pomóż!</text>
+	</string>
+	<string id="dm_wounded_medkit">
+		<text>Weź apteczkę.</text>
+	</string>
+	<string id="dm_wounded_sorry">
+		<text>Przykro mi, nic nie mam.</text>
+	</string>
+	<string id="dm_traveler_bye">
+		<text>Jasne.</text>
+	</string>
+	<string id="dm_traveler_what_are_you_doing">
+		<text>Co teraz robisz?</text>
+	</string>
+	<string id="dm_traveler_can_i_go_with_you">
+		<text>Weźmiesz mnie ze sobą?</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_yes">
+		<text>Oczywiście, we dwoje raźniej!</text>
+	</string>
+	<string id="dm_traveler_stalker_actor_companion_no">
+		<text>Nie, dzięki. Wolę iść sam.</text>
+	</string>
+	<string id="dm_traveler_actor_go_with_squad">
+		<text>Więc chodźmy.</text>
+	</string>
+	<string id="dm_traveler_take_me_to">
+		<text>Potrzebuję gdzieś iść... zaprowadzisz za opłatą?</text>
+	</string>
+	<string id="dm_traveler_stalker_where_do_you_want">
+		<text>Nie ma problemu. Gdzie Cię zabrać?</text>
+	</string>
+	<string id="dm_traveler_actor_agree">
+		<text>Dobra, chodźmy.</text>
+	</string>
+	<string id="dm_traveler_actor_refuse">
+		<text>Zmieniłem zdanie.</text>
+	</string>
+	<string id="dm_traveler_stalker_i_cant_travel">
+		<text>Nie teraz: jest dużo rzeczy do zrobienia.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_1">
+		<text>Tak tylko odpoczywam.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_2">
+		<text>Nic. Odprężam się powoli.</text>
+	</string>
+	<string id="dm_stalker_doing_nothing_3">
+		<text>A jak to wygląda? Kręcę się koło...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monster">
+		<text>Tropię mutanty.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_bandit">
+		<text>Samotnie podążam tropem szumowiny. Cwaniaczek, cholera jasna...</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_killer">
+		<text>Namierzam najemników... Te cholerne dranie!</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_monolith">
+		<text>Wpadłem na trop oddziału fanatyków... no te Monolity.</text>
+	</string>
+	<string id="dm_stalker_chasing_squad_zombied">
+		<text>Ścigam zombie. Rozprawię się z tymi biednymi ludźmi!</text>
+	</string>
+	<string id="dm_traveler_travel_cost">
+		<text>Dobrze. To będzie kosztować... </text>
+	</string>
+	<string id="dm_traveler_actor_dont_go_with_squad">
+		<text>Wiesz, zmieniłem zdanie.</text>
+	</string>
+	<string id="dm_traveler_actor_has_no_money">
+		<text>Nie mam tyle kasy.</text>
+	</string>
+	<string id="dm_freedom_doing_nothing_1">
+		<text>Tak, ogólnie nic.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monster">
+		<text>Jestem na tropie mutantów. Stały się bezczelne, trzeba by ich trochę przerzedzić.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_bandit">
+		<text>Uganiam sie za lokalną chuliganką.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_killer">
+		<text>Idę za najemnikami. Muszą zapłacić za przeszłość.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_monolith">
+		<text>Podążam za tymi Monolitycznymi schizofrenikami.</text>
+	</string>
+	<string id="dm_freedom_chasing_squad_duty">
+		<text>Gdzieś tu kręcą się Powinnościowscy, a ja ich tropię.</text>
+	</string>
+	<string id="dm_duty_doing_nothing_1">
+		<text>Teraz nic nie robię.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monster">
+		<text>Ściganie mutantów: konieczne jest oczyszczenie terenu z tych stworzeń.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_bandit">
+		<text>Mam misję - ścigam oddział bandytów.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_killer">
+		<text>Moim celem są najemnicy. Śledzę ich oddział.</text>
+	</string>
+	<string id="dm_duty_chasing_squad_monolith">
+		<text>Ścigam oddział "monolitów".</text>
+	</string>
+	<string id="dm_duty_chasing_squad_freedom">
+		<text>Ścigam tych śmieci z Wolności. Tak więc ten-tego...</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_1">
+		<text>Szukam artefaktów.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_2">
+		<text>Nie zbieram grzybów... szukam artefakty.</text>
+	</string>
+	<string id="dm_stalker_searching_artefacts_3">
+		<text>Artefakty iskam.</text>
+	</string>
+	<string id="st_stalker_zat_sim_1">
+		<text>Idę w kierunku anomalii "Kocioł". Za nią jest gaj - idę tam.</text>
+	</string>
+	<string id="st_stalker_zat_sim_2">
+		<text>Idę w kierunku jeziora północnego, tam zorganizuję postój na półwyspie.</text>
+	</string>
+	<string id="st_stalker_zat_sim_3">
+		<text>Idę za jezioro północne - jest całkiem przyzwoite miejsce na postój.</text>
+	</string>
+	<string id="st_stalker_zat_sim_4">
+		<text>Kieruję się do lasu za północnym jeziorem.</text>
+	</string>
+	<string id="st_stalker_zat_sim_5">
+		<text>Idę do pewnego lasu, na zachód od tartaku.</text>
+	</string>
+	<string id="st_stalker_zat_sim_6">
+		<text>Przenoszę się w jedno miejsce - kopiec na zachód od Bagna. Chociaż w pobliżu nie ma trucizny z bagien.</text>
+	</string>
+	<string id="st_stalker_zat_sim_7">
+		<text>Idę do WNZ. Na zachód od niej jest bardzo dobre miejsce..</text>
+	</string>
+	<string id="st_stalker_zat_sim_8">
+		<text>Idę w kierunku lasu na zachód od Sosnodub. Nie zrezygnuję z grupy!</text>
+	</string>
+	<string id="st_stalker_zat_sim_9">
+		<text>Idę do zagajnika między Żelaznym Lasem a warsztatami.</text>
+	</string>
+	<string id="st_stalker_zat_sim_10">
+		<text>Idę w kierunku wielkiego mostu. Na wschód od niego jest ustronne miejsce.</text>
+	</string>
+	<string id="st_stalker_zat_sim_11">
+		<text>Przenoszę się na jeden parking - na południe od starej barki.</text>
+	</string>
+	<string id="st_stalker_zat_sim_12">
+		<text>Nic specjalnego, po prostu pobłądzę. Zatrzymam się na wzgórzu na wschód od Skadowska.</text>
+	</string>
+	<string id="st_stalker_zat_sim_13">
+		<text>Idę do zagajnika między "Szmaragdem" a stacją benzynową.</text>
+	</string>
+	<string id="st_stalker_zat_sim_14">
+		<text>Idę do rozwidlenia przy stacji oczyszczania.</text>
+	</string>
+	<string id="st_stalker_zat_sim_15">
+		<text>Idę do anomalii "Kocioł".</text>
+	</string>
+	<string id="st_stalker_zat_sim_16">
+		<text>Idę do leśniczówki. Znasz tamten kompleks budynków? W jednym jest kilka innych piekarników... nawet nie wiem, co właściwie zrobiły.</text>
+	</string>
+	<string id="st_stalker_zat_sim_17">
+		<text>Idę do zagajnika, który znajduje się na zachód od spalonego gospodarstwa.</text>
+	</string>
+	<string id="st_stalker_zat_sim_18">
+		<text>Kieruję się do zagajnika, który jest na wschód od "Kotła".</text>
+	</string>
+	<string id="st_stalker_zat_sim_19">
+		<text>Idę na pagórek nad jeziorem północnym.</text>
+	</string>
+	<string id="st_stalker_zat_sim_20">
+		<text>Idę do zagajnika pod spalonym gospodarstwem.</text>
+	</string>
+	<string id="st_stalker_zat_sim_21">
+		<text>Jadę w jedno miejsce, na zachód od Skadowska. Tu właśnie pojawia się rurociąg.</text>
+	</string>
+	<string id="st_stalker_zat_sim_22">
+		<text>Podążam w jedno miejsce w połowie drogi ze Skadowska do pogłębiarki.</text>
+	</string>
+	<string id="st_stalker_zat_sim_23">
+		<text>Idę na rozlewiska za starą barką.</text>
+	</string>
+	<string id="st_stalker_zat_sim_24">
+		<text>Idę na kanał w pobliżu Blizny.</text>
+	</string>
+	<string id="st_stalker_zat_sim_25">
+		<text>Idę na stację benzynową.</text>
+	</string>
+	<string id="st_stalker_zat_sim_26">
+		<text>Idę do wąwozu pod Sosnodub.</text>
+	</string>
+	<string id="st_stalker_zat_b55">
+		<text>Chcę poszukać artefaktów w anomalii "Pazur".</text>
+	</string>
+	<string id="st_stalker_zat_a1">
+		<text>Kieruję się w stronę wzgórza na zachód od anomalii "Kocioł".</text>
+	</string>
+	<string id="st_stalker_zat_a23_smart_terrain">
+		<text>Idę do anomalii "Żelazny Las".</text>
+	</string>
+	<string id="st_stalker_zat_b100">
+		<text>Idę do Żelaznego Lasu szukać artefaktów.</text>
+	</string>
+	<string id="st_stalker_zat_b101">
+		<text>Idę na bagna: choć ciężko tam oddychać przez "sodę", za to można poszukać artefaktów.</text>
+	</string>
+	<string id="st_stalker_zat_b103_merc_smart">
+		<text>Kieruję się do sklepów podstacji - tam podobno można się schować przed Emisją. Więc sprawdzimy gdy nagle walnie.</text>
+	</string>
+	<string id="st_stalker_zat_b104_zombied">
+		<text>Tutaj, wiesz, jest stary tartak, więc kieruję się w jego stronę. Chcę się tam rozejrzeć - może zostało coś pożytecznego.</text>
+	</string>
+	<string id="st_stalker_zat_b106_smart_terrain">
+		<text>Tak, postanowiłem odpocząć, jadę do ośrodka rekreacyjnego „Izumrudnoe” ... Żartuję, oczywiście: teraz odpoczywają tylko mięsacze i dziki, chociaż nadal można się zatrzymać.</text>
+	</string>
+	<string id="st_stalker_zat_b12">
+		<text>Idę do tego mostu... jak mu tam... nazwany imieniem Preobrazhensky.</text>
+	</string>
+	<string id="st_stalker_zat_b14_smart_terrain">
+		<text>Idę do pogłębiarki. Mówią, że wciąż można tam znaleźć coś wartościowego.</text>
+	</string>
+	<string id="st_stalker_zat_b18">
+		<text>W kierunku starej barki.</text>
+	</string>
+	<string id="st_stalker_zat_b20_smart_terrain">
+		<text>Chcę iść na spaloną farmę. Sprawzęź, czy są artefakty.</text>
+	</string>
+	<string id="st_stalker_zat_b28">
+		<text>Kierując się w kierunku południowego płaskowyżu.</text>
+	</string>
+	<string id="st_stalker_zat_b33">
+		<text>Idę na rozłom koło stacji benzynowej.</text>
+	</string>
+	<string id="st_stalker_zat_b38">
+		<text>Idę do „Kręgu” WNZ! Miejsce do ukrycia się przed Emisją, czego więcej trzeba. To prawda, że często spotyka się tam potwory.</text>
+	</string>
+	<string id="st_stalker_zat_b38u">
+		<text>Idę do „Kręgu” WNZ! Dobre miejsce do ukrycia się przed Emisją. To prawda, że często spotyka się tam potwory.</text>
+	</string>
+	<string id="st_stalker_zat_b39">
+		<text>Poszukam artefaktów w pobliżu Sosnodub. Mam nadzieję, że psy nie staną na drodze..</text>
+	</string>
+	<string id="st_stalker_zat_b40_smart_terrain">
+		<text>Idę do odstojnika, czyli do stacji przetwarzania odpadów. Całkiem możliwe jest ukrycie się przed Emisją.</text>
+	</string>
+	<string id="st_stalker_zat_b42_smart_terrain">
+		<text>Kieruję się do przystani dla łodzi na północnym jeziorze. Dalej - w zależności od okoliczności.</text>
+	</string>
+	<string id="st_stalker_zat_b52">
+		<text>Idę na molo, gdzie są portowe dźwigi. Miejsce na postój jest bardzo dobre!</text>
+	</string>
+	<string id="st_stalker_zat_b53">
+		<text>Poszukam artefaktów w anomalii Kotła. Mam nadzieję, że mój kombinezon przetrwa tę saunę.</text>
+	</string>
+	<string id="st_stalker_zat_b54">
+		<text>Idę do anomalii "Blizna".</text>
+	</string>
+	<string id="st_stalker_zat_b56">
+		<text>Chcę sprawdzić ognioodporność mojego sprzętu w anomalii cyrkowej. No i oczywiście szukać artefaktów.</text>
+	</string>
+	<string id="st_stalker_zat_b5_smart_terrain">
+		<text>Idę do leśniczówki.</text>
+	</string>
+	<string id="st_stalker_zat_b7">
+		<text>Chcę zatrzymać się na statku Szewczenko. Tam i przed Emisją schronienie jest dobre i wygodnie jest mieć obronę przed mutantami.</text>
+	</string>
+	<string id="st_stalker_zat_b7_stalker_raider">
+		<text>Chcę zatrzymać się na statku Szewczenko. Tam i przed Emisją schronienie jest dobre i wygodnie jest mieć obronę przed mutantami.</text>
+	</string>
+	<string id="st_stalker_zat_medic_home_smart">
+		<text>Idę na molo, gdzie są portowe dźwigi. Miejsce na postój jest bardzo dobre!</text>
+	</string>
+	<string id="st_stalker_zat_stalker_base_smart">
+		<text>Chcę zrzucić łup i chlupnąć kilka kieliszków, żeby się zrelaksować, więc teraz kieruję się do Skadowska.</text>
+	</string>
+	<string id="st_stalker_jup_a10_smart_terrain">
+		<text>Kieruję się do punktu kontrolnego w pobliżu fabryki Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_a12">
+		<text>Idę do magazynu kontenerowego.</text>
+	</string>
+	<string id="st_stalker_jup_a12_merc">
+		<text>Idę w jedno niepozorne miejsce, jest między magazynem kontenerowym a południowym tunelem.</text>
+	</string>
+	<string id="st_stalker_jup_a6">
+		<text>Jadę na stację Janów. Uff, nareszcie odpocznę...</text>
+	</string>
+	<string id="st_stalker_jup_b1">
+		<text>Idę w kierunku tunelu - tego na północ od Kopaczy.</text>
+	</string>
+	<string id="st_stalker_jup_b19">
+		<text>Kieruję się do jednego przerażającego miejsca - do wioski Kopaczy. Mam nadzieję, że nabojów i antyradów wystarczy...</text>
+	</string>
+	<string id="st_stalker_jup_b200">
+		<text>Idę do budynku cementowni. Jest dobry widok, nikt nagle nie zaatakuje.</text>
+	</string>
+	<string id="st_stalker_jup_b200_tushkan_smart_terrain">
+		<text>Jadę do cementowni. Trzeba zajrzeć tam do piwnic.</text>
+	</string>
+	<string id="st_stalker_jup_b202">
+		<text>Idę na przystanek, który jest niedaleko od stacji Janów.</text>
+	</string>
+	<string id="st_stalker_jup_b203">
+		<text>Jadę w jedno miejsce, niedaleko południowego tunelu kolejowego.</text>
+	</string>
+	<string id="st_stalker_jup_b204">
+		<text>Idę do stawu chłodzącego, który znajduje się w pobliżu Jupitera.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain">
+		<text>Idę do systemu rakietowego "Wołchow" - tam drażnimy zombie.</text>
+	</string>
+	<string id="st_stalker_jup_b205_smart_terrain_tushkano">
+		<text>Kieruję się do bunkra - no, tego na terenie "Wołchowa".</text>
+	</string>
+	<string id="st_stalker_jup_b206">
+		<text>Idę do zagajnika anomalnego w pobliżu kamieniołomu. Może znajdę tam artefakt.</text>
+	</string>
+	<string id="st_stalker_jup_b207">
+		<text>Idę do "kariery". W pobliżu nadal stoją przyczepy budowlane, tam właśnie zmierzam.</text>
+	</string>
+	<string id="st_stalker_jup_b207_depot_attack">
+		<text>Myślę, że trochę poczekam w jednym miejscu między kamieniołomem a stacją Janów.</text>
+	</string>
+	<string id="st_stalker_jup_b208">
+		<text>Idę do tunelu wschodniego, który biegnie pod zakładem Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_b209">
+		<text>Jadę do anomalii „Asfalt”. Chcę sprawdzić ognioodporność mojego kombinezonu.</text>
+	</string>
+	<string id="st_stalker_jup_b211">
+		<text>Idę do anomalii "Gładki", aby poszukać artefaktów. Mam antidotum... tutaj najważniejsze jest co innego: żeby potwory nie przeszkadzały.</text>
+	</string>
+	<string id="st_stalker_jup_b212">
+		<text>Idę do kompleksu wentylacyjnego pomiędzy zakładem a magazynem kontenerowym. Tylko nie pytaj mnie, czego tam szukam - to moja sprawa.</text>
+	</string>
+	<string id="st_stalker_jup_b219">
+		<text>Idę do warsztatów fabryki Jupiter. Może dowiem się, dlaczego to miejsce ma złą reputację.</text>
+	</string>
+	<string id="st_stalker_jup_b25">
+		<text>Zejdę na dno kamieniołomu: tam, jak mówią, często znajdują się artefakty.</text>
+	</string>
+	<string id="st_stalker_jup_b32">
+		<text>Idę na parking - tam jest stary sprzęt. Poszukam artefaktów w "elektrach".</text>
+	</string>
+	<string id="st_stalker_jup_b4">
+		<text>Między systemem obrony powietrznej Wołchowa a magazynem kontenerowym jest jedno spokojne miejsce, i ja tam jadę.</text>
+	</string>
+	<string id="st_stalker_jup_b41">
+		<text>Idę do bunkra naukowców.</text>
+	</string>
+	<string id="st_stalker_jup_b46">
+		<text>Idę do chłodni kominowej, jest na północny zachód od stacji Janów.</text>
+	</string>
+	<string id="st_stalker_jup_b47">
+		<text>Kieruję się do zakładu Jupiter, ale nie mam ochoty zapuszczać się daleko na jej terytorium. Rozejrzę się na razie w pobliżu budynków administracyjnych, a potem w zależności od sytuacji.</text>
+	</string>
+	<string id="st_stalker_jup_b6_anom_2">
+		<text>Idę do anomalii „Pogorzelisko”, która jest za wioską Kopaczy.</text>
+	</string>
+	<string id="st_stalker_jup_b8_smart_terrain">
+		<text>Kieruję się do warsztatów fabryki Jupiter – podobno tam spadł helikopter... Powinienem sprawdzić to miejsce.</text>
+	</string>
+	<string id="st_stalker_jup_sim_1">
+		<text>Idę do opuszczonego pociągu, który jest między Wołchowem a parkingiem.</text>
+	</string>
+	<string id="st_stalker_jup_sim_2">
+		<text>Idę do tunelu południowego - tam można schować się przed Emisją.</text>
+	</string>
+	<string id="st_stalker_jup_sim_3">
+		<text>Idę w jedno miejsce między stacją Janów a Kopaczy.</text>
+	</string>
+	<string id="st_stalker_jup_sim_4">
+		<text>Idę w jedno miejsce - to koło kanału, na południe od cementowni.</text>
+	</string>
+	<string id="st_stalker_jup_sim_5">
+		<text>Idę w jedno miejsce w pobliżu kanału, na północ od fabryki Jupiter.</text>
+	</string>
+	<string id="st_stalker_jup_sim_6">
+		<text>Idę w stronę kamieniołomu, chcę się tam rozejrzeć.</text>
+	</string>
+	<string id="st_stalker_jup_sim_7">
+		<text>Kieruję się w stronę kamieniołomu, chcę się tam rozejrzeć.</text>
+	</string>
+	<string id="st_stalker_jup_sim_8">
+		<text>Chcę zbadać obszar na północ od Janowa.</text>
+	</string>
+	<string id="st_stalker_jup_sim_9">
+		<text>Idę w kierunku systemu obrony powietrznej Wołchow: jest dogodne miejsce na postój między tym systemem rakietowym a Kopaczi.</text>
+	</string>
+	<string id="st_stalker_jup_sim_10">
+		<text>Tak, idę... idę w kierunku magazynu kontenerowego.</text>
+	</string>
+	<string id="st_stalker_jup_sim_11">
+		<text>Przeszukuję teren. Teraz chcę się rozejrzeć, na południe od punktu kontrolnego.</text>
+	</string>
+	<string id="st_stalker_jup_sim_12">
+		<text>Idę na lądowisko dla helikopterów - na to między zakładem a magazynem kontenerowym.</text>
+	</string>
+	<string id="st_stalker_jup_sim_13">
+		<text>Przenoszę się w jedno miejsce - na południe od Janowa, niedaleko linii kolejowej.</text>
+	</string>
+	<string id="st_stalker_jup_sim_14">
+		<text>Idę w jedno miejsce - to na północ od Janowa.</text>
+	</string>
+	<string id="st_stalker_jup_sim_15">
+		<text>Idę do anomalnego gaju.</text>
+	</string>
+	<string id="st_stalker_jup_sim_16">
+		<text>Idę w jedno miejsce - na południe od kompleksu rakietowego.</text>
+	</string>
+	<string id="st_stalker_jup_sim_17">
+		<text>Do stawu chłodzącego - gdzie anomalia "Wanna betonowa".</text>
+	</string>
+	<string id="st_stalker_jup_sim_18">
+		<text>Idę do fabryki, chcę zbadać teren.</text>
+	</string>
+	<string id="st_stalker_jup_sim_19">
+		<text>Idę do fabryki, chcę zbadać teren.</text>
+	</string>
+	<string id="st_stalker_pri_a15">
+		<text>Idę na podwórko po pranie.</text>
+	</string>
+	<string id="st_stalker_pri_a16">
+		<text>Przenoszę się do pralni, to najbezpieczniejsze miejsce.</text>
+	</string>
+	<string id="st_stalker_pri_a17">
+		<text>Idę do szpitala... Mam nadzieję, że ci "monolityczni" schizofrenicy nie przyplątają się po drodze.</text>
+	</string>
+	<string id="st_stalker_pri_a18_smart_terrain">
+		<text>Idę do księgarni. Jeśli już, to tam możesz się schować przed Emisją.</text>
+	</string>
+	<string id="st_stalker_pri_a20">
+		<text>Chcę spojrzeć na lokalny punkt orientacyjny - pomnik przyjaźni narodów. Ta rzecz jest niedaleko od sklepu "Książki".</text>
+	</string>
+	<string id="st_stalker_pri_a21_smart_terrain">
+		<text>Idę do sklepu spożywczego. Nie możesz już tam kupić chleba, ale możesz ukryć się przed Emisją.</text>
+	</string>
+	<string id="st_stalker_pri_a22_smart_terrain">
+		<text>Idę do sklepu "Brzoza".</text>
+	</string>
+	<string id="st_stalker_pri_a25_smart_terrain">
+		<text>Idę do przedszkola.</text>
+	</string>
+	<string id="st_stalker_pri_a28">
+		<text>Idę na plac przy kinie. To tam jest posąg Prometeusza.</text>
+	</string>
+	<string id="st_stalker_pri_b301">
+		<text>Idę do szkoły! Tam, jak mówią, jest dużo potworów, ale możesz ukryć się przed Emisją. No i pojawiają się artefakty.</text>
+	</string>
+	<string id="st_stalker_pri_b303">
+		<text>Idę do budynku starego KBO. Widzieli tam anomalie na parterze - co oznacza, że artefakty mogą być.</text>
+	</string>
+	<string id="st_stalker_pri_b304">
+		<text>Poznałem ten obszar miasta. Teraz chcę iść do budynku galerii.</text>
+	</string>
+	<string id="st_stalker_pri_b304_monsters_smart_terrain">
+		<text>Poznałem ten obszar miasta. Teraz chcę iść do budynku galerii.</text>
+	</string>
+	<string id="st_stalker_pri_b305_dogs">
+		<text>Eksploracja okolicy! Teraz chcę zbadać jeden budynek - ten za hostelem.</text>
+	</string>
+	<string id="st_stalker_pri_b306">
+		<text>Chcę zbadać budowę domu "Jubileusz".</text>
+	</string>
+	<string id="st_stalker_pri_b307">
+		<text>Szukam anomalii w okolicy. Słyszałem, że na jakimś dziedzińcu na zachód od przedszkola jest ognista anomalia.</text>
+	</string>
+	<string id="st_stalker_pri_b35_envoy">
+		<text>Tak, włóczę się po mieście. Teraz idę do hostelu.</text>
+	</string>
+	<string id="st_stalker_pri_b35_mercs">
+		<text>Tak, podróżuję po mieście. Następny cel - hostel.</text>
+	</string>
+	<string id="st_stalker_pri_b35_military">
+		<text>Tak, sprawdzam teren. Teraz zmierzam do hostelu.</text>
+	</string>
+	<string id="st_stalker_pri_b36_smart_terrain">
+		<text>Po prostu podróżuję, teraz chcę iść do portu rzecznego ... Fajnie byłoby nie spotkać tam tych fanatyków - Monolitów.</text>
+	</string>
+	<string id="st_stalker_pri_b302">
+		<text>Chcę znaleźć miejsce w Prypeci, gdzie są artefakty i nie ma potworów ani "monolitów". A konkretnie na południe od portu rzecznego jest anomalia, więc kieruję się w jej stronę.</text>
+	</string>
+	<string id="st_stalker_pri_sim_1">
+		<text>Jadę w kierunku kina "Prometeusz".</text>
+	</string>
+	<string id="st_stalker_pri_sim_2">
+		<text>Idę na plac przy kinie. Tam jest posąg Prometeusza.</text>
+	</string>
+	<string id="st_stalker_pri_sim_3">
+		<text>Chcę trochę posiedzieć: na dziedzińcu na północ od przedszkola jest zaciszne miejsce.</text>
+	</string>
+	<string id="st_stalker_pri_sim_4">
+		<text>Idę w miejsce na południe od hostelu.</text>
+	</string>
+	<string id="st_stalker_pri_sim_5">
+		<text>Jadę w jedno miejsce pomiędzy przedszkolem a hostelem.</text>
+	</string>
+	<string id="dm_anomalies_8">
+		<text>Otóż jest miejsce, w którym ziemia została przecięta jak nóż - "Blizna". Artefakty znaleziono tam więcej niż raz lub dwa razy, ale coś dziwnego dzieje się z tymi, którzy tam zachodzą. To coś uderza w mózg z taką siłą, że nie tylko nie wiadomo jak wyjść - często zapominają, by zrobić wdech i wydech.</text>
+	</string>
+	<string id="dm_anomalies_1">
+		<text>Czy wiesz, gdzie jest pogłębiarka? Został okaleczony przez grawi-anomalie, ale dla doświadczonego stalkera nie jest to zbyt trudne, pamiętaj tylko o wyrzutach. Dodatkowo promieniowanie jest wewnątrz i na zewnątrz... Fonit to kawałek wzbogaconego uranu jest wprost dla Ciebie!</text>
+	</string>
+	<string id="dm_anomalies_4">
+		<text>Znajduje się tu stara podstacja, zwana też Żelaznym Lasem. Jeśli tam jesteś, zrozumiesz dlaczego. Mówią więc, że po Emisji znaleziono tam kilka artefaktów. Pod względem niebezpieczeństwa miejsce jest takie sobie - no cóż, "elektry" mogą troche porazić no i... To prawda, że wciąż są poltergeisty. Jeśli nie miałeś czasu się schować, obsypią Cię różnego rodzaju śmieciami.</text>
+	</string>
+	<string id="dm_job_12">
+		<text>Roboty? Szczerze mówiąc, nie wiem. Ale jeśli masz szansę jakoś pomóc Swobodzie, leć do naszego szefa w Janowie. W południowym skrzydle znajdziesz Lokiego - tam właśnie będzie. Ogólnie rzecz biorąc, jeśli wierzysz w postęp ludzkości, w jej świadomość, w wartość darów Zony, to będzie Twój dobry wybór.</text>
+	</string>
+	<string id="dm_job_13">
+		<text>Nie wiem. Jeśli jednak znajdziesz coś, co może nam pomóc w walce z Zoną lub naszymi wrogami, skontaktuj się z dowódcą oddziału ekspedycyjnego "Powinności" podpułkownikiem Szulga. Dowodzi Stacją Janowa, znajdziesz go w północnym skrzydle. Mogę powiedzieć na pewno: każdy cywil, który przyczyni się do sprawy "Powinności" na pewno zostanie nagrodzony.</text>
+	</string>
+	<string id="dm_information_19">
+		<text>Plotka głosi, że wokół starej wieży chłodniczej dzieje się piekło. Włączasz częstotliwość ogólną i pojawiają się fragmenty próśb o pomoc: ktoś nie może wyjść z anomalii. Oczywiście prosisz o współrzędne, a w odpowiedzi - cisza... A najdziwniejszą rzeczą jest tutaj dźwięk próśb: takich zniekształceń nie można wytłumaczyć samym hałasem.</text>
+	</string>
+	<string id="st_stalker_zat_sim_27">
+		<text>Idę do miejsca w połowie drogi między Skadowskiem a "Szewczenką".</text>
+	</string>
+	<string id="st_stalker_jup_a9">
+		<text>Idę do Jupitera. Głębiej pewnie nie podążę.</text>
+	</string>
+</string_table>

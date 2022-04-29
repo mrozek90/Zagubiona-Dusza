@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+    <string id="anaconda_first_dialog_end_0">
+        <text>Świetna robota! Jeśli chcesz zarobić dodatkowe pieniądze, udaj się do Zapomnianych Ziem po kontrakt. W bunkrze niedaleko stąd porozmawiaj z profesorem, on tam kieruje całą pracą.</text>
+    </string>
+    <string id="shved_first_dialog_end_0">
+        <text>Dziękuję za pomoc. Po prostu nigdy nie chodziłem w kierunku szpitala, ale myślę że tam przycupnę i zastanowię się dokąd iść dalej. Może nie jest za późno... Wiesz dokąd poszedł ten najemnik?</text>
+    </string>
+    <string id="shved_first_dialog_end_1">
+        <text>Tak.</text>
+    </string>
+    <string id="shved_first_dialog_end_2">
+        <text>Pozwól, że zaznaczę Ci na mapie kierunek, w którym poszedł.</text>
+    </string>
+    <string id="shved_first_dialog_end_3">
+        <text>[Dalej...]</text>
+    </string>
+    <string id="shved_first_dialog_end_4">
+        <text>O tu, gdzieś tam... Może jest tam jakaś ścieżka, nie wiem, przepraszam.</text>
+    </string>
+    <string id="shved_first_dialog_end_5">
+        <text>Dzięki i za to.</text>
+    </string>
+    <string id="shved_first_dialog_end_6">
+        <text>Powodzenia.</text>
+    </string>
+</string_table>

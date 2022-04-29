@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+    <string id="anaconda_first_dialog_end_0">
+        <text>Cóż, w końcu się wydostaliśmy! Już nigdy w życiu nie będę tu chodzić sam. Teraz jesteśmy kwita - pójdę własną drogą.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_0">
+        <text>Kto tu jest?!</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_1">
+        <text>Szukam jednego stalkera. Jego pseudonim to Fraktor.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_2">
+        <text>Co?! Więc Ty też przyszedłeś do mojej duszy?! Zostawcie mnie w spokoju wy pieprzeni zabójcy!</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_3">
+        <text>Czekaj, to Ty jesteś Fraktor? Nie zrobię Ci krzywdy, posłuchaj mnie.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_0">
+        <text>Nie zbliżaj się do mnie, padlino Monolitu! Zostaw mnie w spokoju!</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_1">
+        <text>Nie zamierzam Cię zabić. Nie jestem monolitem.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_10">
+        <text>Kto na mnie czeka?! Chcesz mnie oszukać?! Czy nadal jesteś jednym z Monolitów?! Nie dotykaj mnie! Nie chcę ponownie słyszeć tego głosu!!</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_11">
+        <text>Jaki głos? Czy kompletnie postradałeś zmysły, Monolicie? Mówię Ci jeszcze raz - szukałem Cię na prośbę Infernisa.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_12">
+        <text>Skąd w ogóle wiedziałeś o Infernis i naszej starej grupie?</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_13">
+        <text>Spójrz tutaj. Nie Twoje przypadkiem?</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_14">
+        <text>To... To mój wisiorek... Ale...</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_15">
+        <text>Czy teraz mi wierzysz??</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_16">
+        <text>Jak Ty... Gdzie byłeś wtedy...</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_17">
+        <text>Infernis powiedział, że już w styczniu 2010 roku postanowił zatrzymać wszystkie amulety do ostatniego spotkania. Poprosił również o zwrot tego Tobie, jeśli oczywiście Cię znajdę..</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_18">
+        <text>Tylko ja jakoś wszystko źle pamiętam... Mózg mi pływa.. Muszę wstać...</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_19">
+        <text>Chodź, pomogę Ci wstać. Idź za mną, zabiorę Cię do bazy.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_2">
+        <text>Kim jesteś?! Skąd znasz moje imie?!</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_20">
+        <text>Uspokój się. Do niczego nie będę Cię zmuszać. Powtarzam - Infernis poprosił mnie, abym Cię odnalazł.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_3">
+        <text>Zamknij się. Teraz Twoje życie jest w moich rękach, a to, czy strzelę, zależy od Twoich odpowiedzi.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_4">
+        <text>Jakoś sobie radziłem.. A czego ode mnie chcesz?</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_5">
+        <text>Infernis przysłał mnie po Ciebie. Jestem jego przyjacielem.</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_6">
+        <text>Cholera.. Dawno nie słyszałem tego imienia... Skąd je znasz?</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_7">
+        <text>Poprosił, żebym Cię odnalazł. Opowiedział mi historię o zmarłych duszach i o tym, jak dawno przepadłeś bez wieści..</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_8">
+        <text>Nigdy Cię nigdzie nie widziałem.. Chociaż.. Nie widziałem nikogo poza Monolitami tak długo ...</text>
+    </string>
+    <string id="lim_fraktor_first_dialog_end_9">
+        <text>Chodź ze mną. Niedaleko stąd znajduje się baza, w której wszyscy na Ciebie czekają.</text>
+    </string>
+    <string id="shved_first_dialog_0">
+        <text>Stalker? Jaki wiatr Cię tu przywiódł?</text>
+    </string>
+    <string id="shved_first_dialog_1">
+        <text>Mam do Ciebie to samo pytanie.</text>
+    </string>
+    <string id="shved_first_dialog_2">
+        <text>Zostałem w tyle za moim oddziałem, kiedy przebiliśmy się do szpitala. Teraz nie wiem co robić. PDA uszkodzony, karta nie działa.</text>
+    </string>
+    <string id="shved_first_dialog_3">
+        <text>Szpital? Więc nie jest daleko stąd, możemy Cię zabrać.</text>
+    </string>
+    <string id="shved_first_dialog_4">
+        <text>Byłoby miło. Co chcesz za to?</text>
+    </string>
+    <string id="shved_first_dialog_5">
+        <text>Szukam najemnika. Być może jest z oddziałem stalkerów w nieznanych kamizelkach kuloodpornych, których nikt wcześniej nie miał. Widziałeś ich?</text>
+    </string>
+    <string id="shved_first_dialog_6">
+        <text>Tak. Zabierz mnie do szpitala, a powiem Ci, dokąd poszli.</text>
+    </string>
+    <string id="shved_first_dialog_7">
+        <text>Anakonda i ja idziemy tam. Nie zostawiaj w tyle.</text>
+    </string>
+</string_table>
