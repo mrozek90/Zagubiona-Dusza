@@ -1,81 +1,81 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_wpn_ak74_trailer">
-		<text>АКМ-74/2 «Трейлер»</text>
+		<text>AKM-74/2 Trailer</text>
 	</string>
 	<string id="st_wpn_ak74_descr">
-		<text>Уникальная модификация автомата АКМ-74/2 с особым окрасом. Неизвестно, кто был первоначальным владельцем, но известно, что большинство деталей были заменены на новейшие, не используемые странами СНГ. За счёт этого возрасла скорость полёта пули и соответственно пробивная способность.</text>
+		<text>Unikalna modyfikacja karabinu szturmowego AKM-74/2 w specjalnym kolorze. Nie wiadomo kto byі pierwotnym wіaњcicielem, ale wiadomo, їe wiкkszoњж czкњci wymieniono na najnowsze, nieuїywane przez kraje WNP. Z tego powodu zwiкkszyіa siк prкdkoњж pocisku i odpowiednio zdolnoњж penetracji.</text>
 	</string>
 	<string id="st_grenade_gravi">
-		<text>Гравитационная граната</text>
+		<text>Granat Grawitacyjny</text>
 	</string>
 	<string id="st_grenade_gravi_descr">
-		<text>Особая граната, использующая энергию гравитационного артефакта.</text>
+		<text>Specjalny granat wykorzystuj№cy energiк artefaktu grawitacyjnego.</text>
 	</string>
 	<string id="st_grenade_electra">
-		<text>Электрическая граната</text>
+		<text>Granat Elektryczny</text>
 	</string>
 	<string id="st_grenade_electra_descr">
-		<text>Особая граната, использующая энергию электростатического артефакта.</text>
+		<text>Specjalny granat wykorzystuj№cy energiк artefaktu elektrostatycznego.</text>
 	</string>
 	<string id="st_grenade_chemi">
-		<text>Химическая граната</text>
+		<text>Granat Chemiczny</text>
 	</string>
 	<string id="st_grenade_chemi_descr">
-		<text>Особая граната, использующая энергию кислотного артефакта.</text>
+		<text>Specjalny granat wykorzystuj№cy energiк toksycznego artefaktu.</text>
 	</string>
 	<string id="st_grenade_fire">
-		<text>Огненная граната</text>
+		<text>Granat Їarowy</text>
 	</string>
 	<string id="st_grenade_fire_descr">
-		<text>Особая граната, использующая энергию огненного артефакта.</text>
+		<text>Specjalny granat wykorzystuj№cy energiк ognistego artefaktu.</text>
 	</string>
 	<string id="st_wpn_sig220_infernis">
-		<text>«Аргумент Анархиста»</text>
+		<text>"Argument Anarchisty"</text>
 	</string>
 	<string id="st_wpn_sig220_infernis_descr">
-		<text>Именной пистолет сталкера по кличке Инфернис. Практически все детали заменены на более новые. За счёт них был создан специальный магазин под 8 патронов калибра .45 ACP. Так же за счёт новых деталей была увеличена надёжность, однако вероятность осечки оружия в поломанном состоянии значительно выше, чем раньше. Но главное отличие пистолета от оригинального «P220» - за счёт замены пружин, была увеличена скорость полёта пули, что даже в какой-то степени увеличивает и дальность попадания, и даже урон по слабо защищённым противникам.</text>
+		<text>Pistolet stalkera o imieniu Infernis. Prawie wszystkie czкњci zostaіy wymienione na nowsze. Dziкki nim powstaі specjalny magazynek na 8 naboi kalibru .45 ACP. Rуwnieї dziкki nowym czкњciom zwiкkszono niezawodnoњж, ale prawdopodobieсstwo niewypaіu broni jest znacznie wyїsze niї wczeњniej. Gіуwna rуїnica miкdzy pistoletem a oryginalnym "P220" polega na tym, їe dziкki wymianie sprкїyn zwiкkszono prкdkoњж pocisku, co nawet w pewnym stopniu zwiкksza zasiкg uderzenia, a nawet obraїenia sіabo chronionych przeciwnikуw.</text>
 	</string>
 	<string id="st_wpn_sig550_infernis">
-		<text>«Император»</text>
+		<text>"Imperator"</text>
 	</string>
 	<string id="st_wpn_sig550_infernis_descr">
-		<text>Именная винтовка сталкера по кличке Инфернис. Практически все детали заменены на более новые. За счёт новых деталей увеличены практически все составляющие винтовки. Имеет встроенный прицел и подствольный гранатомёт. Возможно крепление глушителя.</text>
+		<text>Karabin stalkera o imieniu Infernis. Prawie wszystkie czкњci zostaіy wymienione na nowsze. Dziкki nowym czкњciom ulepszono prawie wszystkie elementy karabinu. Posiada wbudowany celownik i podlufowy granatnik. Moїliwy montaї tіumika.</text>
 	</string>
 	<string id="st_wpn_gauss_forgotten">
-		<text>«Le Deux»</text>
+		<text>"Le Deux"</text>
 	</string>
 	<string id="st_wpn_gauss_forgotten_descr">
-		<text>Видоизменённая электромагнитная винтовка, созданная на основе "Ружья ЭМ1", имеющего неизвестные ранее характеристики. За счёт модификации путём внедрения в оружие энергии артефакта "Ядро", заряд имеет невероятно высокую силу, способен деформировать и пробить железо, никель и любые лёгкие металлы. Оружие не поддерживает ни один из видов ранее доступных аккумуляторов и не имеет своего калибра, ведь для создания начальной версии использовалась неизвестная профессору схема создания.</text>
+		<text>Zmodyfikowany karabin elektromagnetyczny stworzony na bazie pistoletu EM1 Gun, ktуry ma nieznane wczeњniej wіaњciwoњci. Dziкki modyfikacji polegaj№cej na wprowadzeniu do broni energii artefaktu „Rdzenia”, іadunek ma niewiarygodnie duї№ moc, jest w stanie odksztaіcaж i przebijaж їelazo, nikiel oraz dowolne metale lekkie. Broс nie obsіuguje їadnego z dotychczas dostкpnych rodzajуw baterii i posiada nieznany kaliber, poniewaї do stworzenia pierwotnej wersji wykorzystano nieznany profesorowi schemat tworzenia.</text>
 	</string>
 	<string id="st_ammo_gauss_forgotten">
-		<text>Энергетические заряды</text>
+		<text>Nabуj energetyczny</text>
 	</string>
 	<string id="st_ammo_gauss_forgotten_short">
-		<text>[undefined anomal ammo]</text>
+		<text>[nieznana amunicja]</text>
 	</string>
 	<string id="st_ammo_gauss_forgotten_descr">
-		<text>Аккумулятор для видоизменённой энергетической винтовки, созданной на основе "Ружья ЭМ-1". Так же, как и оригинал, аккумулятор имеет возможность истощаться, но, к сожалению, не имеет возможности восполняться ввиду отсутствия соответствующей модифицированной машины. Сама же батарея была подвевргнута изменению прямо внутри оружия, поэтому не имеет копий.</text>
+		<text>Bateria do zmodyfikowanego karabinu energetycznego opartego na EM-1 Gun. Podobnie jak w oryginale, akumulator ma zdolnoњж do wyczerpania, ale niestety nie moїna go uzupeіniж ze wzglкdu na brak odpowiedniej zmodyfikowanej maszyny. Sama bateria podlegaіa zmianom bezpoњrednio w broni, dlatego nie ma kopii.</text>
 	</string>
 	<string id="st_wpn_lr300_sektor">
-		<text>ТРс-301 «Яд»</text>
+		<text>TPc-301 Jad</text>
 	</string>
 	<string id="st_wpn_lr300_sektor_descr">
-		<text>Особая модификация уже модифицированной до этого линейки оружия. Трс-301 «Яд» за счёт изменения практически всех механизмов, обрёл новые характеристики, в связи с чем уменьшилась скорострельность оружия, однако кручение пули увеличилось практически в полтора раза. Винтовка имеет более вместительный магазин, встроенный глушитель а так же новый окрас ствола и самого магазина.</text>
+		<text>Specjalna modyfikacja juї zmodyfikowanej linii broni. Trs-301 Jad, dziкki zmianom w prawie wszystkich mechanizmach, uzyskaі nowe cechy, w zwi№zku z czym zmniejszyіa siк szybkostrzelnoњж broni, ale rotacja pocisku wzrosіo prawie pуіtora raza. Karabin posiada pojemniejszy magazynek, wbudowany tіumik, a takїe nowy kolor lufy i samego magazynka.</text>
 	</string>
 	<string id="st_wpn_ak74u_nikson">
-		<text>АКМ-74/2У «Угроза»</text>
+		<text>AKM-74/2U "Groџba"</text>
 	</string>
 	<string id="st_wpn_ak74u_nikson_descr">
-		<text>Специальная модификация автомата АКМ-74/2У, предназначенная для элитных подразделений штурмовых отрядов наёмников. Как она оказалась у сталкера по кличке Хруст - неизвестно. Однако известно, что ему удалось дополнительно улучшить её характеристики, присоединив увеличенный магазин на 45 патронов, и добавив возможность крепления глушителя.</text>
+		<text>Specjalna modyfikacja karabinu szturmowego AKM-74/2U, przeznaczona dla elitarnych jednostek najemnych oddziaіуw szturmowych. Nie wiadomo, w jaki sposуb trafiіa do stalkera o imieniu Chrust. Wiadomo jednak, їe udaіo mu siк jeszcze bardziej poprawiж jego wіaњciwoњci, doі№czaj№c powiкkszony magazynek na 45 nabojуw i dodaj№c moїliwoњж zamontowania tіumika.</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison">
-		<text>Патроны 5.56x45 «Отрава»</text>
+		<text>Naboje 5,56x45 Trucizna</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison_s">
-		<text>5.56x45 «Отрава»</text>
+		<text>5,56x45 Trucizna</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison_descr">
-		<text>Бронебойные патроны 5.56x45, пропитанные специальной отравой. Главная особенность яда - трансмутация лейкоцитов с последующим их вымиранием. Яд способен вызвать лейкемию, а в большом количестве приводит к моментальной смерти.</text>
+		<text>Naboje przeciwpancerne 5,56x45 impregnowane specjaln№ trucizn№. Gіуwn№ cech№ trucizny jest transmutacja leukocytуw z ich pуџniejszym wyginiкciem. Trucizna moїe powodowaж biaіaczkк, aw duїych iloњciach prowadzi do natychmiastowej њmierci.</text>
 	</string>
 </string_table>
