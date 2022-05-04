@@ -1,315 +1,315 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="gone_soul">
-		<text>«Ушедшая Душа»</text>
+		<text>Zagubiona Dusza</text>
 	</string>
 	<string id="forgotten_dream">
-		<text>Неизвестно</text>
+		<text>Nieznane</text>
 	</string>
 	<string id="forgotten_laboratory">
-		<text>Забытая Лаборатория</text>
+		<text>Zapomniane Laboratorium</text>
 	</string>
 	<string id="forgotten">
-		<text>«Забытые Края»</text>
+		<text>Zapomniane Miejsce</text>
 	</string>
 	<string id="hospital">
-		<text>Госпиталь</text>
+		<text>Szpital</text>
 	</string>
 	<string id="limansk">
-		<text>Лиманск</text>
+		<text>Limaсsk</text>
 	</string>
 	<string id="agroprom_underground">
-		<text>Подземелья НИИ Агропрома</text>
+		<text>Podziemia Agropromu</text>
 	</string>
 	<string id="agroprom">
-		<text>НИИ Агропром</text>
+		<text>Agroprom</text>
 	</string>
 	<string id="red_forest">
-		<text>Рыжий Лес</text>
+		<text>Czerwony Las</text>
 	</string>
 	<string id="Time">
-		<text>Время</text>
+		<text>Czas</text>
 	</string>
 	<string id="actor">
-		<text>Наёмник</text>
+		<text>Najemnik</text>
 	</string>
 	<string id="army">
-		<text>Военный</text>
+		<text>Wojskowy</text>
 	</string>
 	<string id="bandit">
-		<text>Бандит</text>
+		<text>Bandyta</text>
 	</string>
 	<string id="hunter">
-		<text>Бандит</text>
+		<text>Bandyta</text>
 	</string>
 	<string id="renegade">
-		<text>Ренегат</text>
+		<text>Renegat</text>
 	</string>
 	<string id="csky">
-		<text>«Чистое Небо»</text>
+		<text>Czyste Niebo</text>
 	</string>
 	<string id="dolg">
-		<text>«Долг»</text>
+		<text>Powinnoњж</text>
 	</string>
 	<string id="ecolog">
-		<text>Учёный</text>
+		<text>Naukowiec</text>
 	</string>
 	<string id="filter_secondary_tasks_text">
-		<text>Попутные задания</text>
+		<text>Zadania poboczne</text>
 	</string>
 	<string id="filter_treasures_text">
-		<text>Тайники</text>
+		<text>Schowki</text>
 	</string>
 	<string id="freedom">
-		<text>«Свобода»</text>
+		<text>Swoboda</text>
 	</string>
 	<string id="killer">
-		<text>Наёмник</text>
+		<text>Najemnik</text>
 	</string>
 	<string id="missions_list">
-		<text>Список заданий</text>
+		<text>Lista Zadaс</text>
 	</string>
 	<string id="monolith">
-		<text>«Монолит»</text>
+		<text>Monolit</text>
 	</string>
 	<string id="monster">
-		<text>Мутант</text>
+		<text>Mutant</text>
 	</string>
 	<string id="month_april">
-		<text>Апрель</text>
+		<text>Kwiecieс</text>
 	</string>
 	<string id="month_august">
-		<text>Август</text>
+		<text>Sierpieс</text>
 	</string>
 	<string id="month_december">
-		<text>Декабрь</text>
+		<text>Grudzieс</text>
 	</string>
 	<string id="month_february">
-		<text>Февраль</text>
+		<text>Luty</text>
 	</string>
 	<string id="month_january">
-		<text>Январь</text>
+		<text>Styczeс</text>
 	</string>
 	<string id="month_july">
-		<text>Июль</text>
+		<text>Lipiec</text>
 	</string>
 	<string id="month_june">
-		<text>Июнь</text>
+		<text>Czerwiec</text>
 	</string>
 	<string id="month_march">
-		<text>Март</text>
+		<text>Marzec</text>
 	</string>
 	<string id="month_may">
-		<text>Май</text>
+		<text>Maj</text>
 	</string>
 	<string id="month_november">
-		<text>Ноябрь</text>
+		<text>Listopad</text>
 	</string>
 	<string id="month_october">
-		<text>Октябрь</text>
+		<text>Paџdziernik</text>
 	</string>
 	<string id="month_september">
-		<text>Сентябрь</text>
+		<text>Wrzesieс</text>
 	</string>
 	<string id="pda_btn_close">
-		<text>Выключить КПК</text>
+		<text>Wyі№cz PDA</text>
 	</string>
 	<string id="pda_btn_logs">
-		<text>История сообщений</text>
+		<text>Historia wiadomoњci</text>
 	</string>
 	<string id="pda_btn_logs_hint">
-		<text>Показать историю сообщений</text>
+		<text>Pokaї historiк wiadomoњci</text>
 	</string>
 	<string id="pda_btn_quests">
-		<text>Карта местности</text>
+		<text>Mapa okolicy</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Показать карту Зоны и список заданий</text>
+		<text>Pokaї mapк strefy i listк zadaс</text>
 	</string>
 	<string id="pda_btn_ranking">
-		<text>Статистика</text>
+		<text>Statystyki</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Показать личную статистику</text>
+		<text>Pokaї statystyki postaci</text>
 	</string>
 	<string id="pda_cur_time">
-		<text>Текущее время:</text>
+		<text>Aktualny czas:</text>
 	</string>
 	<string id="pda_date_filter">
-		<text>Фильтр даты</text>
+		<text>Filtr daty</text>
 	</string>
 	<string id="pda_filter_news">
-		<text>Показать новости</text>
+		<text>Pokaї wiadomoњci</text>
 	</string>
 	<string id="pda_filter_talk">
-		<text>Показать диалоги</text>
+		<text>Pokaї dialogi</text>
 	</string>
 	<string id="pda_legend_caption">
-		<text>Условные обозначения</text>
+		<text>Legenda</text>
 	</string>
 	<string id="pda_stat_1">
-		<text>Время в зоне:</text>
+		<text>Czas w Zonie:</text>
 	</string>
 	<string id="pda_stat_2">
-		<text>Пережито выбросов:</text>
+		<text>Przeїyte Emisje:</text>
 	</string>
 	<string id="pda_stat_3">
-		<text>Выполнено заданий:</text>
+		<text>Ukoсczone zadania:</text>
 	</string>
 	<string id="pda_stat_4">
-		<text>Убито мутантов:</text>
+		<text>Zabite mutanty:</text>
 	</string>
 	<string id="pda_stat_5">
-		<text>Убито сталкеров:</text>
+		<text>Zabici stalkerzy:</text>
 	</string>
 	<string id="pda_stat_6">
-		<text>Найдено артефактов:</text>
+		<text>Znalezione artefakty:</text>
 	</string>
 	<string id="pda_stat_7">
-		<text>Найдено тайников:</text>
+		<text>Znalezione schowki:</text>
 	</string>
 	<string id="pda_stat_favorite_weapon">
-		<text>Любимое оружие</text>
+		<text>Ulubiona broс</text>
 	</string>
 	<string id="pda_stat_mutant_killed">
-		<text>Самый сильный убитый мутант</text>
+		<text>Najpotкїniejszy zabity mutant</text>
 	</string>
 	<string id="st_location">
-		<text>Местонахождение:</text>
+		<text>Lokalizacja:</text>
 	</string>
 	<string id="st_target">
-		<text>Цель</text>
+		<text>Cel</text>
 	</string>
 	<string id="st_ui_pda_legend_additional_task">
-		<text>Побочное задание</text>
+		<text>Zadanie poboczne</text>
 	</string>
 	<string id="st_ui_pda_legend_enemies">
-		<text>Враги</text>
+		<text>Wrogowie</text>
 	</string>
 	<string id="st_ui_pda_legend_friends">
-		<text>Друзья</text>
+		<text>Przyjaciele</text>
 	</string>
 	<string id="st_ui_pda_legend_leader">
-		<text>Лидер группировки</text>
+		<text>Lider grupy</text>
 	</string>
 	<string id="st_ui_pda_legend_main_task">
-		<text>Основное задание</text>
+		<text>Gіуwne zadanie</text>
 	</string>
 	<string id="st_ui_pda_legend_neutrals">
-		<text>Нейтралы</text>
+		<text>Neutralni</text>
 	</string>
 	<string id="st_ui_pda_legend_scout">
-		<text>Проводник</text>
+		<text>Przewdonik</text>
 	</string>
 	<string id="st_ui_pda_legend_secrets">
-		<text>Тайники</text>
+		<text>Schowki</text>
 	</string>
 	<string id="st_ui_pda_legend_squad">
-		<text>Командир отряда</text>
+		<text>Dowуdca druїyny</text>
 	</string>
 	<string id="st_ui_pda_legend_trader">
-		<text>Торговец</text>
+		<text>Handlarz</text>
 	</string>
 	<string id="stalker">
-		<text>Вольный сталкер</text>
+		<text>Wolny Stalker</text>
 	</string>
 	<string id="ui_logs_center_caption">
-		<text>История сообщений</text>
+		<text>Historia wiadomoњci</text>
 	</string>
 	<string id="ui_map_btn_center">
-		<text>Центрировать на игроке</text>
+		<text>Wyњrodkuj na Sektorze</text>
 	</string>
 	<string id="ui_map_btn_down">
-		<text>Переместить вниз</text>
+		<text>Przesuс w dуі</text>
 	</string>
 	<string id="ui_map_btn_left">
-		<text>Переместить влево</text>
+		<text>Przesuс w lewo</text>
 	</string>
 	<string id="ui_map_btn_legend">
-		<text>Показать легенду</text>
+		<text>Pokaї legendк</text>
 	</string>
 	<string id="ui_map_btn_right">
-		<text>Переместить вправо</text>
+		<text>Przesuс w prawo</text>
 	</string>
 	<string id="ui_map_btn_up">
-		<text>Переместить вверх</text>
+		<text>Przesuс w gуrк</text>
 	</string>
 	<string id="ui_map_btn_zmreset">
-		<text>Максимальное отдаление</text>
+		<text>Oddal maksymalnie</text>
 	</string>
 	<string id="ui_map_btn_zoom_in">
-		<text>Приблизить</text>
+		<text>Przybliї</text>
 	</string>
 	<string id="ui_map_btn_zoom_out">
-		<text>Отдалить</text>
+		<text>Oddal</text>
 	</string>
 	<string id="ui_ranking_center_caption">
-		<text>Заметки и записи</text>
+		<text>Notatki i zapiski</text>
 	</string>
 	<string id="ui_task_btn_focus_center">
-		<text>Центрировать карту на задании</text>
+		<text>Wyњrodkuj mapк na zadaniu</text>
 	</string>
 	<string id="ui_task_btn_focus_center2">
-		<text>Центрировать карту на задании</text>
+		<text>Wyњrodkuj mapк na zadaniu</text>
 	</string>
 	<string id="zombied">
-		<text>Зомбированный</text>
+		<text>Zombie</text>
 	</string>
 	<string id="zoom_in_btn_hint">
-		<text>масштаб +</text>
+		<text>skala +</text>
 	</string>
 	<string id="zoom_out_btn_hint">
-		<text>масштаб -</text>
+		<text>skala -</text>
 	</string>
 	<string id="st_ui_pda_legend_mechanic">
-		<text>Техник</text>
+		<text>Technik</text>
 	</string>
 	<string id="st_ui_pda_legend_medic">
-		<text>Медик</text>
+		<text>Medyk</text>
 	</string>
 	<string id="ui_pda_secondary_task">
-		<text>Текущие задания</text>
+		<text>Bieї№ce zadania</text>
 	</string>
 	<string id="ui_show_second_task_wnd">
-		<text>Скрыть или отобразить список заданий</text>
+		<text>Ukryj lub pokaї listк zadaс</text>
 	</string>
 	<string id="st_ui_pda_actor_box">
-		<text>Личный ящик</text>
+		<text>Schowek osobisty</text>
 	</string>
 	<string id="zaton">
-		<text>Затон</text>
+		<text>Zaton</text>
 	</string>
 	<string id="jupiter">
-		<text>Окрестности «Юпитера»</text>
+		<text>Okolice Jupitera</text>
 	</string>
 	<string id="pripyat">
-		<text>Припять</text>
+		<text>Prypeж</text>
 	</string>
 	<string id="jupiter_underground">
-		<text>Путепровод «Припять-1»</text>
+		<text>Wiadukt Prypeж-1</text>
 	</string>
 	<string id="labx8">
-		<text>Лаборатория X8</text>
+		<text>Laboratorium X8</text>
 	</string>
 	<string id="filter_primary_objects_text">
-		<text>Локации</text>
+		<text>Lokalizacje</text>
 	</string>
 	<string id="filter_quest_npcs_text">
-		<text>Важные объекты</text>
+		<text>Waїne przedmioty</text>
 	</string>
 	<string id="st_ui_pda_legend_primary_objects">
-		<text>Локация</text>
+		<text>Lokalizacja</text>
 	</string>
 	<string id="st_jup_b32_has_af">
-		<text>Сканеры регистрируют присутствие артефактов:</text>
+		<text>Skanery rejestruj№ obecnoњж artefaktуw:</text>
 	</string>
 	<string id="st_jup_b32_no_af">
-		<text>Согласно данным сканеров, артефакты отсутствуют</text>
+		<text>Wedіug skanerуw nie ma artefaktуw</text>
 	</string>
 	<string id="st_ui_pda_secret">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="st_ui_pda_sleep_place">
-		<text>Место сна</text>
+		<text>Miejsce snu</text>
 	</string>
 </string_table>

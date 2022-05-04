@@ -1,315 +1,315 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="af_gone_soul_name">
-		<text>«Ушедшая Душа»</text>
+		<text>Zaginiona Dusza</text>
 	</string>
 	<string id="af_gone_soul_descr">
-		<text>Много историй ходило насчёт артефакта подобной внешности. Поговариают, что носитель этого артефакта обретает свою судьбу, которую он заслужил по поступкам. И что найти его могут лишь единицы на всю Зону.</text>
+		<text>O artefakcie o podobnym wygl№dzie kr№їyіo wiele opowieњci. Plotka gіosi, їe posiadacz tego artefaktu odnajduje swуj los, na ktуry zasіuїyі swoimi dziaіaniami. I їe tylko nieliczni w caіej Strefie potrafi№ go znaleџж.</text>
 	</string>
 	<string id="st_af_nemo_name">
-		<text>«Немо»</text>
+		<text>Nemo</text>
 	</string>
 	<string id="st_af_nemo_descr">
-		<text>Кристаллизированный минерал уникальной породы. Один из тех артефактов, которые ещё не были найдены сталкерами, соответственно их местоположение (как и существование) никому неизвестно. А потому ношение их на поясе в качестве артефактов - довольно рискованное дело.</text>
+		<text>Skrystalizowany mineraі wyj№tkowej jakoњci. Jeden z tych artefaktуw, ktуre nie zostaіy jeszcze znalezione przez stalkerуw, ich lokalizacja (a takїe istnienie) jest nikomu nieznane. Dlatego noszenie ich na pasku do artefaktуw jest doњж ryzykownym zajкciem.</text>
 	</string>
 	<string id="st_af_stronglaw_heart_descr">
-		<text>Важнейший орган любого живого существа, в данном случае - древнейшего кровососа, имеет способность пульсировать даже находясь вне тела самого Стронглава. Неизвестный материал, удивительные способности к регенерации, а так же исключительная радиоактивность.</text>
+		<text>Najwaїniejszy organ kaїdej їywej istoty, w tym przypadku najstarszy krwiopijca, ma zdolnoњж pulsowania nawet poza ciaіem samego Stronglawa. Nieznany materiaі, niesamowite zdolnoњci regeneracyjne, a takїe wyj№tkowa radioaktywnoњж.</text>
 	</string>
 	<string id="st_af_stronglaw_heart_name">
-		<text>«Сердце Стронглава»</text>
+		<text>Serce Stronglawa</text>
 	</string>
 	<string id="st_af_forgotten_descr">
-		<text>Один из самых редких артефактов, в данный момент найденный лишь в одном месте - лаборатории «Y-13». Про свойства артефакта ничего неизвестно, как и то, когда он появился на свет.</text>
+		<text>Jeden z najrzadszych artefaktуw, obecnie znaleziony tylko w jednym miejscu - laboratorium "Y-13". Nic nie wiadomo o wіaњciwoњciach artefaktu, ani o tym, kiedy siк narodziі.</text>
 	</string>
 	<string id="st_af_forgotten_name">
-		<text>«Забытый»</text>
+		<text>Zapomniany</text>
 	</string>
 	<string id="st_af_neo_descr">
-		<text>Яркое аномальное растение, обладающее свойствами артефакта гравитационной породы. Имеет ряд положительных свойств, среди которых уменьшение веса предметов в рюкзаке, что позволяет увеличить выносливость носителя, но сам артефакт очень радиоактивен.</text>
+		<text>Jasna, anomalna roњlina, ktуra ma wіaњciwoњci artefaktu grawitacyjnego. Posiada szereg pozytywnych wіaњciwoњci, w tym zmniejszenie wagi przedmiotуw w plecaku, co pozwala na zwiкkszenie wytrzymaіoњci nosz№cego, ale sam artefakt jest bardzo radioaktywny.</text>
 	</string>
 	<string id="st_af_neo_name">
-		<text>«Нео»</text>
+		<text>Neo</text>
 	</string>
 	<string id="st_af_cristall_heart_descr">
-		<text>Самый большой артефакт в Зоне. Можно найти только в огненных аномалиях, он имеет самую большую защиту от огня среди всех артефактов, ускоряет заживление ран. Радиоактивен.</text>
+		<text>Najwiкkszy artefakt w Strefie. Wystкpuje tylko w anomaliach ogniowych, ma najwyїsz№ spoњrуd wszystkich artefaktуw odpornoњж na ogieс, przyspiesza gojenie ran. Radioaktywny.</text>
 	</string>
 	<string id="st_af_cristall_heart_name">
-		<text>«Кристалльное сердце»</text>
+		<text>Krysztaіowe Serce</text>
 	</string>
 	<string id="st_af_blowball_descr">
-		<text>Аномальное растение, которое обладает свойствами артефактов. Обладает отличной возможностью повышать физическую имунность носителя, однако негативно сказывается на защите от внешних раздражителей.</text>
+		<text>Anomalna roњlina o wіaњciwoњciach artefaktуw. Ma doskonaі№ zdolnoњж do zwiкkszania odpornoњci fizycznej osoby nosz№cej, ale negatywnie wpіywa na ochronк przed bodџcami zewnкtrznymi.</text>
 	</string>
 	<string id="st_af_blowball_name">
-		<text>«Одуванчик»</text>
+		<text>Dmuchawiec</text>
 	</string>
 	<string id="st_af_discharge_descr">
-		<text>Редкий артефакт электрической породы, повышает защиту от пси-воздействия и электрических аномалий, восстанавливает силы. Радиоактивен.</text>
+		<text>Rzadki artefakt rasy elektrycznej, zwiкksza ochronк przed uderzeniami PSI i anomaliami elektrycznymi, przywraca siік. Radioaktywny.</text>
 	</string>
 	<string id="st_af_discharge_name">
-		<text>«Разряд»</text>
+		<text>Wyіadowanie</text>
 	</string>
 	<string id="st_af_kerosene_name">
-		<text>«Керосин»</text>
+		<text>Nafta</text>
 	</string>
 	<string id="st_af_kerosene_descr">
-		<text>Яркий артефакт уникальной породы, который образует светло-синее свечение, из-за чего можно подумать, что артефакт образуется в электрических аномалиях. Однако там его ещё никто не находил.</text>
+		<text>Jasny artefakt unikalnej rasy, ktуry tworzy jasnoniebiesk№ poњwiatк, co pozwala s№dziж, їe artefakt powstaje w anomaliach elektrycznych. Jednak nikt go tam jeszcze nie znalazі.</text>
 	</string>
 	<string id="st_af_deathstar_name">
-		<text>«Звезда Смерти»</text>
+		<text>Gwiazda Њmierci</text>
 	</string>
 	<string id="st_af_deathstar_descr">
-		<text>Происхождение данного артефакта неизвестно. Форма артефакта напоминает форму «Батарейки», однако свойства полностью отличаются от схожей с артефактом «Батарейки». Очень высокий уровень радиоактивного излучения.</text>
+		<text>Pochodzenie tego artefaktu nie jest znane. Ksztaіt artefaktu przypomina ksztaіtem "Baterie", ale wіaњciwoњci s№ zupeіnie inne od tych podobnych do tego artefaktu. Bardzo wysoki poziom promieniowania radioaktywnego.</text>
 	</string>
 	<string id="st_af_stardust_name">
-		<text>«Звёздная Пыль»</text>
+		<text>Gwiezdny Pyі</text>
 	</string>
 	<string id="st_af_stardust_descr">
-		<text>Происхождение данного артефакта неизвестно. Учёные лишь строят догадки из того, что, возможно, артефакт - это гибрид «Золотой рыбки» и «Бенгальского огня». Владеет защитой от электрических и гравитационных аномалий. Крайне радиоактивен.</text>
+		<text>Pochodzenie tego artefaktu nie jest znane. Naukowcy tylko spekuluj№ na podstawie faktu, їe byж moїe artefakt jest hybryd№ "zіotej rybki" i "ognia bengalskiego". Posiada ochronк przed anomaliami elektrycznymi i grawitacyjnymi. Niezwykle radioaktywny.</text>
 	</string>
 	<string id="st_af_hyper_moonlight_name">
-		<text>«Исполнитель Желаний»</text>
+		<text>Twуrca Їyczeс</text>
 	</string>
 	<string id="st_af_hyper_moonlight_descr">
-		<text>Судя по всему, этот артефакт является "зеркальной" версией артефакта «Монолит», который имеет много положительных свойств, среди которых так-же есть снижение радиации в крови.</text>
+		<text>Najwyraџniej ten artefakt jest "lustrzan№" wersj№ artefaktu Monolitu, ktуry ma wiele pozytywnych wіaњciwoњci, wњrуd ktуrych jest rуwnieї zmniejszenie promieniowania we krwi.</text>
 	</string>
 	<string id="st_af_energy_name">
-		<text>«Энергия»</text>
+		<text>Energia</text>
 	</string>
 	<string id="st_af_energy_descr">
-		<text>Артефакт, появляющийся исключительно в химических и огненных аномалиях. Является гибридом артефактов «Пузырь» и «Пламя», из-за чего владеет положительными свойствами защиты как от огненных, так и от химических аномалий.</text>
+		<text>Artefakt, ktуry pojawia siк wyі№cznie w anomaliach chemicznych i poїarowych. Jest hybryd№ artefaktуw "Baсka" i "Pіomieс", dlatego posiada pozytywne wіaњciwoњci ochrony zarуwno przed anomaliami ogniowymi, jak i chemicznymi.</text>
 	</string>
 	<string id="st_af_mandragora_name">
-		<text>«Мандрагора»</text>
+		<text>Mandragora</text>
 	</string>
 	<string id="st_af_mandragora_descr">
-		<text>Аномальное растение, исцеляющее свего носителя. Много кто может спутать его с обычными растениями возле аномальных рощ, поэтому попадаются они чаще других артефактов.</text>
+		<text>Anomalna roњlina, ktуra leczy swojego їywiciela. Wiele osуb moїe pomyliж go ze zwykіymi roњlinami w pobliїu anomalnych gajуw, wiкc spotykaj№ siк czкњciej niї inne artefakty.</text>
 	</string>
 	<string id="st_af_arrow_name">
-		<text>«Стрела Востока»</text>
+		<text>Strzaіa Wschodu</text>
 	</string>
 	<string id="st_af_arrow_descr">
-		<text>Красивый артефакт, который является гибридом артефактов «Душа» и «Пузырь». Помимо защиты от радиации, может исцелить своего носителя. Пользуется огромной ценностью для торговцев и купцов на Большой земле.</text>
+		<text>Piкkny artefakt bкd№cy hybryd№ artefaktуw "Dusza" i "Baсka". Oprуcz ochrony przed promieniowaniem moїe leczyж swojego nosiciela. Cieszy siк wysok№ wartoњci№ dla handlowcуw i kupcуw na kontynencie.</text>
 	</string>
 	<string id="st_af_bomb_name">
-		<text>«Бомба Семецкого»</text>
+		<text>Bomba Semetskiego</text>
 	</string>
 	<string id="st_af_bomb_descr">
-		<text>Аномальное образование, похожее по внешности на уникальный и редкий артефакт «Компас». Это один из тех новых артефактов, которые изучены меньше всех.</text>
+		<text>Anomalna formacja podobna z wygl№du do unikalnego i rzadkiego artefaktu Kompasu. To jeden z tych nowych artefaktуw, ktуry jest najmniej zbadany.</text>
 	</string>
 	<string id="st_af_ultra_oasis_name">
-		<text>«Хрусталь»</text>
+		<text>Krysztaі</text>
 	</string>
 	<string id="st_af_ultra_oasis_descr">
-		<text>Артефакт с невероятно красивой формой, имеющий возможность поднимать иммунитет своего носителя и исцелять от разных болезней. Но его единственным и довольно значимым минусом является сильное воздействие на аномалии, "притягивающиеся" к самому аретфакту, в связи с чем защита от них падает на ноль.</text>
+		<text>Artefakt o niesamowicie piкknym ksztaіcie, ktуry ma zdolnoњж podnoszenia odpornoњci nosz№cego go i leczenia rуїnych chorуb. Jednak jego jedyn№ i doњж istotn№ wad№ jest silny wpіyw na anomalie, ktуre "przyci№ga" sam artefakt, w zwi№zku z czym ochrona przed nimi spada do zera.</text>
 	</string>
 	<string id="st_af_bloody_name">
-		<text>«Кровавый шар»</text>
+		<text>Krwawa Kula</text>
 	</string>
 	<string id="st_af_bloody_descr">
-		<text>Гибрид артефактов «Огненный шар» и «Душа», с виду действительно напоминающий шар, который наполнен артериальной и венозной кровью. И получил он своё название не только из-за вшешнего вида - артефакт постепенно пополняет человеческий организм необходимой кровью, при этом, заражая её.</text>
+		<text>Hybryda artefaktуw "Kula Ogniowa" i "Dusza" z wygl№du naprawdк przypomina kulк wypeіnion№ krwi№ tкtnicz№ i їyln№. A swoj№ nazwк zawdziкcza nie tylko swojemu wygl№dowi - artefakt stopniowo uzupeіnia ludzkie ciaіo niezbкdn№ krwi№, jednoczeњnie go zaraїaj№c.</text>
 	</string>
 	<string id="st_af_dragon_eye_name">
-		<text>«Глаз дракона»</text>
+		<text>Oko Smoka</text>
 	</string>
 	<string id="st_af_dragon_eye_descr">
-		<text>Очень существенно уменьшает вес рюкзака, а также обладает хорошими восстановительными характеристиками. Ввиду чрезвычайной редкости и высокой эффективности пользуется огромным спросом.</text>
+		<text>Znacz№co zmniejsza wagк plecaka, a takїe ma dobre wіaњciwoњci regeneracyjne. Ze wzglкdu na swoj№ ekstremaln№ rzadkoњж i wysok№ wydajnoњж jest bardzo poszukiwany.</text>
 	</string>
 	<string id="st_af_monolith_name">
-		<text>«Монолит»</text>
+		<text>Monolit</text>
 	</string>
 	<string id="st_af_monolith_descr">
-		<text>Артефакт многократно увеличивает общую скорость регенерации тканей организма после травм любой природы. Генерирует вокруг себя мощнейшее гравитационное поле, которое локально снижает воздействие силы тяжести. Крайне радиоактивен. Происхождение артефакта окутано тайной.</text>
+		<text>Artefakt znacznie zwiкksza ogуlne tempo regeneracji tkanek organizmu po wszelkiego rodzaju urazach. Generuje wokуі siebie silne pole grawitacyjne, ktуre lokalnie zmniejsza wpіyw grawitacji. Niezwykle radioaktywny. Pochodzenie artefaktu owiane jest tajemnic№.</text>
 	</string>
 	<string id="st_af_vaselisk_name">
-		<text>«Василиск»</text>
+		<text>Bazyliszek</text>
 	</string>
 	<string id="st_af_vaselisk_descr">
-		<text>Один из немногих артефактов в Зоне, который хорошо справляется со всеми видами физических воздействий на своего владельца.</text>
+		<text>Jeden z niewielu artefaktуw w Strefie, ktуry dobrze radzi sobie z wszelkiego rodzaju fizycznymi uderzeniami wіaњciciela.</text>
 	</string>
 	<string id="st_af_geliy_name">
-		<text>«Гелий»</text>
+		<text>Hel</text>
 	</string>
 	<string id="st_af_geliy_descr">
-		<text>Яркий (в буквальном смысле слова) представитель семейства электростатических артефактов. Выделяет газообразное вещество, благотворно влияющее на организм. Ввиду высокой эффективности пользуется огромным спросом.</text>
-	</string>	
+		<text>Jasny (w dosіownym tego sіowa znaczeniu) przedstawiciel rodziny artefaktуw elektrostatycznych. Uwalnia substancjк gazow№, ktуra ma korzystny wpіyw na organizm. Ze wzglкdu na wysok№ wydajnoњж jest bardzo poszukiwany.</text>
+	</string>
 	<string id="st_af_kropiva_descr">
-		<text>Артефакт не зря получил такое название - при долгом держании артефакта в руках вызывает боль, схожую с "жалом" кропивы, однако если положить его в контейнер для артефактов, он будет восстанавливать здоровье и силы.</text>
+		<text>Artefakt ma swoj№ nazwк nie bez powodu - trzymanie artefaktu przez dіugi czas powoduje bуl podobny do "uї№dlenia" pokrzywy, ale jeњli umieњcisz go w pojemniku na artefakty, przywrуci zdrowie i siік.</text>
 	</string>
 	<string id="st_af_kropiva_name">
-		<text>«Крапива»</text>
+		<text>Pokrzywa</text>
 	</string>
 	<string id="st_af_corre_descr">
-		<text>Одна из непредсказуемых модификаций артефактов, созданной профессором в «Забытых Краях».  Функционирует аналогично артефакту «Глаз Дракона».</text>
+		<text>Jedna z nieprzewidywalnych modyfikacji artefaktуw stworzonych przez profesora w Zapomnianych Ziemiach. Dziaіa podobnie do artefaktu Smocze Oko.</text>
 	</string>
 	<string id="st_af_corre_name">
-		<text>«Ядро»</text>
+		<text>Rdzeс</text>
 	</string>
 	<string id="st_af_thorn_descr">
-		<text>Одна из непредсказуемых модификаций артефактов, созданной профессором в «Забытых Краях».  Функционирует аналогично артефакту «Василиск».</text>
+		<text>Jedna z nieprzewidywalnych modyfikacji artefaktуw stworzonych przez profesora w Zapomnianych Ziemiach. Dziaіa podobnie do artefaktu Bazyliszek.</text>
 	</string>
 	<string id="st_af_thorn_name">
-		<text>«Торн»</text>
+		<text>Cierс</text>
 	</string>
 	<string id="st_af_gall_descr">
-		<text>Одна из непредсказуемых модификаций артефактов, созданной профессором в «Забытых Краях».  Функционирует аналогично артефакту «Монолит».</text>
+		<text>Jedna z nieprzewidywalnych modyfikacji artefaktуw stworzonych przez profesora w Zapomnianych Ziemiach. Dziaіa podobnie do artefaktu Monolith.</text>
 	</string>
 	<string id="st_af_gall_name">
-		<text>«Желчь»</text>
+		<text>Їуіж</text>
 	</string>
 	<string id="st_af_dragon_descr">
-		<text>Одна из непредсказуемых модификаций артефактов, созданной профессором в «Забытых Краях». Функционирует аналогично артефакту «Гелий».</text>
+		<text>Jedna z nieprzewidywalnych modyfikacji artefaktуw stworzonych przez profesora w Zapomnianych Ziemiach. Dziaіa podobnie do artefaktu Hel.</text>
 	</string>
 	<string id="st_af_dragon_name">
-		<text>«Сердце Дракона»</text>
+		<text>Smocze serce</text>
 	</string>
 	<string id="st_af_baloon_descr">
-		<text>Артефакт представляет собой несколько полых образований органической природы, соединённых между собой. Выделяет газообразное вещество, способное нейтрализовать радиоактивные частицы в организме человека; какого-либо вредоносного воздействия вещества на организм человека не выявлено. Ввиду высокой эффективности пользуется огромным спросом.</text>
+		<text>Artefakt to kilka poі№czonych ze sob№ pustych formacji o charakterze organicznym. Uwalnia gazow№ substancjк zdoln№ do neutralizacji cz№stek radioaktywnych w ludzkim ciele. Nie stwierdzono szkodliwego wpіywu substancji na organizm czіowieka. Ze wzglкdu na wysok№ wydajnoњж jest bardzo poszukiwany.</text>
 	</string>
 	<string id="st_af_baloon_name">
-		<text>«Пузырь»</text>
+		<text>Baсka</text>
 	</string>
 	<string id="st_af_blood_descr">
-		<text>Представляет собой красноватое образование из спрессованных и окаменевших остатков растений, почвы и останков животных. Обладает способностью частично нейтрализовать вредные для человека химические вещества. Радиоактивен.</text>
+		<text>Jest to czerwonawa formacja skompresowanych i skamieniaіych szcz№tkуw roњlin, gleby i zwierz№t. Posiada zdolnoњж do czкњciowej neutralizacji substancji chemicznych szkodliwych dla czіowieka. Radioaktywny.</text>
 	</string>
 	<string id="st_af_blood_name">
-		<text>«Кровь камня»</text>
+		<text>Krew Kamienia</text>
 	</string>
 	<string id="st_af_cristall_descr">
-		<text>Артефакт возникает в аномальных зонах под воздействием высоких температур. Активно поглощает избыточное тепло из пространства вокруг себя, при этом оставаясь прохладным на ощупь. Радиоактивен.</text>
+		<text>Artefakt pojawia siк w strefach anomalnych pod wpіywem wysokich temperatur. Aktywnie pochіania nadmiar ciepіa z otaczaj№cej go przestrzeni, pozostaj№c chіodny w dotyku. Radioaktywny.</text>
 	</string>
 	<string id="st_af_cristall_flower_descr">
-		<text>Артефакт представляет собой камень, близкий по своим характеристикам к гранитам. Возникает при воздействии гравитационного поля огромной интенсивности. Способен полностью или частично защищать рассудок владельца от пси-воздействия. Радиоактивен.</text>
+		<text>Artefaktem jest kamieс, podobny w swoich wіaњciwoњciach do granitуw. Wystкpuje pod wpіywem pola grawitacyjnego o duїym natкїeniu. Potrafi caіkowicie lub czкњciowo chroniж umysі wіaњciciela przed uderzeniem PSI. Radioaktywny.</text>
 	</string>
 	<string id="st_af_cristall_flower_name">
-		<text>«Каменный цветок»</text>
+		<text>Kamienny Kwiat</text>
 	</string>
 	<string id="st_af_cristall_name">
-		<text>«Кристалл»</text>
+		<text>Krysztaі</text>
 	</string>
 	<string id="st_af_dummy_battery_descr">
-		<text>Известно, что в состав этого артефакта входят электростатические элементы, однако в каких именно условиях он формируется, науке пока не известно. Ценится среди жителей и гостей Зоны за способность оказывать на организм человека тонизирующее воздействие. При слишком длительном воздействии истощает организм. Радиоактивен.</text>
+		<text>Wiadomo, їe w skіad tego artefaktu wchodz№ elementy elektrostatyczne, ale w jakich warunkach powstaje, nauka nie jeszcze nie poznaіa. Ceniony jest wњrуd mieszkaсcуw i goњci Strefy za tonizuj№cy wpіyw na organizm czіowieka. Nadmierna ekspozycja wyczerpuje organizm. Radioaktywny.</text>
 	</string>
 	<string id="st_af_dummy_battery_name">
-		<text>«Батарейка»</text>
+		<text>Bateryjka</text>
 	</string>
 	<string id="st_af_dummy_dummy_descr">
-		<text>Ранее этот артефакт считался хламом, лишённым каких-либо полезных свойств. Однако некоторое время назад выяснилось, что при постоянном контакте с телом человека данный артефакт оказывает позитивное стимулирующее воздействие на нервную систему. Радиоактивен.</text>
+		<text>Wczeњniej ten artefakt byі uwaїany za њmieci, pozbawiony jakichkolwiek przydatnych wіaњciwoњci. Jednak jakiњ czas temu okazaіo siк, їe przy staіym kontakcie z ludzkim ciaіem artefakt ten ma pozytywny wpіyw stymuluj№cy na ukіad nerwowy. Radioaktywny.</text>
 	</string>
 	<string id="st_af_dummy_dummy_name">
-		<text>«Пустышка»</text>
+		<text>Pusty</text>
 	</string>
 	<string id="st_af_dummy_glassbeads_descr">
-		<text>Многое в этом артефакте остаётся загадкой. Впрочем, точно установлено, что излучение, возникающее при пульсации утолщений «Маминых бус», заставляет кровь в открытых ранах очень быстро сворачиваться. Радиоактивен.</text>
+		<text>Wiele z tego artefaktu pozostaje tajemnic№. Wiadomo jednak, їe promieniowanie generowane przez pulsacjк zgrubieс "pereіek matki" powoduje bardzo szybk№ koagulacjк krwi w otwartych ranach. Radioaktywny.</text>
 	</string>
 	<string id="st_af_dummy_glassbeads_name">
-		<text>«Мамины бусы»</text>
+		<text>Koraliki Mamy</text>
 	</string>
 	<string id="st_af_electra_flash_descr">
-		<text>Артефакт электростатической природы. Демонстрирует удивительную способность к поглощению электрических зарядов и последующему их рассеиванию. Способен защитить организм человека от воздействия электротоков большой силы и высокого напряжения. Радиоактивен.</text>
+		<text>Artefakt o charakterze elektrostatycznym. Wykazuje niesamowit№ zdolnoњж pochіaniania іadunkуw elektrycznych, a nastкpnie ich rozpraszania. Potrafi chroniж ludzkie ciaіo przed skutkami pr№dуw elektrycznych o duїej sile i wysokim napiкciu. Radioaktywny.</text>
 	</string>
 	<string id="st_af_electra_flash_name">
-		<text>«Вспышка»</text>
+		<text>Bіysk</text>
 	</string>
 	<string id="st_af_electra_moonlight_descr">
-		<text>Данный артефакт электростатической природы демонстрирует способность к резонансу под воздействием пси-волн. Со временем сталкеры научились подстраивать «Лунный свет» таким образом, чтобы тот резонировал в фазе с основным источником излучения, тем самым полностью или в значительной степени нейтрализуя пси-воздействие. Радиоактивен.</text>
+		<text>Ten artefakt natury elektrostatycznej demonstruje zdolnoњж do rezonowania pod wpіywem fal PSI. Z biegiem czasu stalkerzy nauczyli siк dostosowywaж "њwiatіo ksiкїyca" w taki sposуb, aby rezonowaіo ono w fazie z gіуwnym џrуdіem promieniowania, tym samym caіkowicie lub w duїym stopniu neutralizuj№c efekt PSI. Radioaktywny.</text>
 	</string>
 	<string id="st_af_electra_moonlight_name">
-		<text>«Лунный свет»</text>
+		<text>Њwiatіo Ksiкїyca</text>
 	</string>
 	<string id="st_af_electra_sparkler_descr">
-		<text>Представитель семейства электростатических артефактов, получивший название за свою яркость. Обладает способностью сглаживать перепады напряжённости электрического поля. Радиоактивен.</text>
+		<text>Czіonek rodziny artefaktуw elektrostatycznych, ktуrych nazwa pochodzi od jasnoњci. Posiada zdolnoњж wygіadzania wahaс natкїenia pola elektrycznego. Radioaktywny.</text>
 	</string>
 	<string id="st_af_electra_sparkler_name">
-		<text>«Бенгальский огонь»</text>
+		<text>Brylant</text>
 	</string>
 	<string id="st_af_eye_descr">
-		<text>Этот артефакт внешне действительно напоминает орган зрения. При травмах он ускоряет процессы обмена веществ, что способствует скорому заживлению ран. Кроме того, среди бывалых сталкеров бытует поверье, будто «Глаз» способен приносить удачу. Радиоактивен.</text>
+		<text>Ten artefakt zewnкtrznie naprawdк przypomina narz№d wzroku. W przypadku kontuzji przyspiesza procesy metaboliczne, co przyczynia siк do szybkiego gojenia siк ran. Ponadto wњrуd doњwiadczonych stalkerуw panuje przekonanie, їe "Oko" jest w stanie przynieњж szczкњcie. Radioaktywny.</text>
 	</string>
 	<string id="st_af_eye_name">
-		<text>«Глаз»</text>
+		<text>Oko</text>
 	</string>
 	<string id="st_af_fire_descr">
-		<text>Образуется в зонах повышенной термальной активности. Характерен сильным инфракрасным излучением, под воздействием которого ускоряется процесс сворачивания крови в открытых ранах носителя. Ввиду большой редкости данного артефакта его стоимость крайне высока. Радиоактивен.</text>
+		<text>Powstaj№ na obszarach o podwyїszonej aktywnoњci termicznej. Charakteryzuje siк silnym promieniowaniem podczerwonym, pod wpіywem ktуrego przyspiesza siк proces krzepniкcia krwi w otwartych ranach nosz№cego. Ze wzglкdu na rzadkoњж wystкpowania tego artefaktu jego wartoњж jest niezwykle wysoka. Radioaktywny.</text>
 	</string>
 	<string id="st_af_fire_name">
-		<text>«Пламя»</text>
+		<text>Pіomieс</text>
 	</string>
 	<string id="st_af_fireball_descr">
-		<text>Несмотря на название, которое вполне отражает природу данного артефакта, «Огненный шар» легко можно держать в руках, не опасаясь ожогов. Он ценится за способность поддерживать в небольшом радиусе вокруг себя постоянную температуру около +24 градусов Цельсия вне зависимости от условий окружающей среды. Радиоактивен.</text>
+		<text>Pomimo nazwy, ktуra w peіni oddaje charakter tego artefaktu, "Pіomieс" moїna z іatwoњci№ trzymaж w dіoniach bez obawy o poparzenia. Ceniony jest za zdolnoњж do utrzymywania staіej temperatury okoіo +24 stopni Celsjusza w niewielkim promieniu wokуі niego, niezaleїnie od warunkуw њrodowiskowych. Radioaktywny.</text>
 	</string>
 	<string id="st_af_fireball_name">
-		<text>«Огненный шар»</text>
+		<text>Kula Ognia</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_descr">
-		<text>Довольно редкий артефакт, образующийся в зонах сильного химического загрязнения. Весьма ценится за способность «подстегнуть» организм так, чтобы тот в считанные минуты восстановился после травм любой степени тяжести. Учёные распространяют информацию о воздействии артефакта на генетический материал владельца; впрочем, подтверждения этому пока нет. Радиоактивен.</text>
+		<text>Doњж rzadki artefakt, powstaіy na terenach o silnym zanieczyszczeniu chemicznym. Jest wysoko ceniony ze wzglкdu na zdolnoњж "popкdzania" ciaіa, dziкki czemu w ci№gu kilku minut powraca do zdrowia po urazach o dowolnym nasileniu. Naukowcy rozpowszechniaj№ informacje o wpіywie artefaktu na materiaі genetyczny wіaњciciela. Jednak nie ma jeszcze potwierdzenia tego. Radioaktywny.</text>
 	</string>
 	<string id="st_af_fuzz_kolobok_name">
-		<text>«Колобок»</text>
+		<text>Koіobok</text>
 	</string>
 	<string id="st_af_glass_name">
-		<text>«Светляк»</text>
+		<text>Њwietlik</text>
 	</string>
 	<string id="st_af_gold_fish_descr">
-		<text>Артефакт образуется в местах взаимодействия множества гравитационных полей. Генерирует вокруг себя сферу направленного гравитационного поля. Снижает вес содержимого рюкзака носителя намного эффективнее, чем остальные артефакты подобного рода; в связи с этим пользуется огромным спросом среди сталкеров. Радиоактивен.</text>
+		<text>Artefakt powstaje w miejscach oddziaіywania wielu pуl grawitacyjnych. Generuje wokуі siebie sferк skierowanego pola grawitacyjnego. Zmniejsza wagк zawartoњci plecaka znacznie skuteczniej niї inne tego typu artefakty. W zwi№zku z tym jest bardzo poszukiwany wњrуd stalkerуw. Radioaktywny.</text>
 	</string>
 	<string id="st_af_gold_fish_name">
-		<text>«Золотая рыбка»</text>
+		<text>Zіota Rybka</text>
 	</string>
 	<string id="st_af_gravi_descr">
-		<text>Артефакт образуется при длительном гравитационном воздействии на металлосодержащие вещества. Способен поддерживать небольшое антигравитационное поле вокруг себя. Многие сталкеры используют его, чтобы значительно уменьшить вес своего рюкзака. Радиоактивен.</text>
+		<text>Artefakt powstaje podczas dіugotrwaіego oddziaіywania grawitacyjnego na substancje zawieraj№ce metal. Potrafi utrzymaж wokуі siebie maіe pole antygrawitacyjne. Wielu stalkerуw uїywa go, aby znacznie zmniejszyж wagк swojego plecaka. Radioaktywny.</text>
 	</string>
 	<string id="st_af_gravi_name">
-		<text>«Грави»</text>
+		<text>Grawi</text>
 	</string>
 	<string id="st_af_ice_descr">
-		<text>Внешне артефакт похож на «Колобок»; бытует мнение, что это и есть «Колобок», но только после попадания в мощное электрическое поле. Способен резко увеличивать мышечный тонус носителя. Радиоактивен.</text>
+		<text>Zewnкtrznie artefakt jest podobny do "Koіoboka". Istnieje opinia,їe to „Kolobok”, ale po wejњciu w silne pole elektryczne. Potrafi radykalnie zwiкkszyж napiкcie miкњniowe nosz№cego. Radioaktywny.</text>
 	</string>
 	<string id="st_af_ice_name">
-		<text>«Снежинка»</text>
+		<text>Њnieїynka</text>
 	</string>
 	<string id="st_af_medusa_descr">
-		<text>Артефакт гравитационной природы, обладающий способностью активно притягивать и поглощать радиоактивные частицы, тем самым уменьшая облучённость организма. Широко распространён в Зоне; за её пределами широко, хотя и негласно, используется при лечении острой лучевой болезни.</text>
+		<text>Artefakt o charakterze grawitacyjnym, ktуry ma zdolnoњж aktywnego przyci№gania i pochіaniania cz№stek radioaktywnych, zmniejszaj№c w ten sposуb ekspozycjк organizmu. Rozpowszechniony w Strefie. Poza tym jest szeroko, choж milcz№co, stosowany w leczeniu ostrej choroby popromiennej.</text>
 	</string>
 	<string id="st_af_medusa_name">
-		<text>«Медуза»</text>
+		<text>Meduza</text>
 	</string>
 	<string id="st_af_mincer_meat_descr">
-		<text>Артефакт органической природы. Состоит из деформированных тканей животного происхождения. При попадании в зону химического загрязнения начинает «вытягивать» химикалии из воздуха, преобразуя их в густую вязкую массу. Радиоактивен.</text>
+		<text>Artefakt natury organicznej. Skіada siк ze zdeformowanych tkanek pochodzenia zwierzкcego. Kiedy wejdzie w strefк zanieczyszczenia chemicznego, zaczyna "wyci№gaж" chemikalia z powietrza, zamieniaj№c je w gкst№ lepk№ masк. Radioaktywny.</text>
 	</string>
 	<string id="st_af_mincer_meat_name">
-		<text>«Ломоть мяса»</text>
+		<text>Јomot Miкsa</text>
 	</string>
 	<string id="st_af_night_star_descr">
-		<text>Светящийся артефакт, способный генерировать вокруг себя гравитационное поле, которое локально снижает воздействие силы притяжения. Широко применяется сталкерами для снижения веса переносимого в рюкзаке груза. Радиоактивен.</text>
+		<text>Њwiec№cy artefakt zdolny do generowania wokуі siebie pola grawitacyjnego, ktуre lokalnie zmniejsza efekt grawitacji. Jest szeroko stosowany przez stalkerуw w celu zmniejszenia wagi іadunku przenosz№cego w plecaku. Radioaktywny.</text>
 	</string>
 	<string id="st_af_night_star_name">
-		<text>«Ночная звезда»</text>
+		<text>Nocna Gwiazda</text>
 	</string>
 	<string id="st_af_soul_descr">
-		<text>Органический артефакт с уникальными свойствами. Неизвестным пока образом увеличивает общую скорость восстановления организма после травм любой природы, не ускоряя накопление токсинов. Из-за приятного внешнего вида представляет особый интерес для коллекционеров. Радиоактивен.</text>
+		<text>Organiczny artefakt o wyj№tkowych wіaњciwoњciach. W niewiadomy sposуb zwiкksza ogуln№ szybkoњж regeneracji organizmu po wszelkiego rodzaju urazach, nie przyspieszaj№c akumulacji toksyn. Ze wzglкdu na przyjemny wygl№d jest szczegуlnie interesuj№cy dla kolekcjonerуw. Radioaktywny.</text>
 	</string>
 	<string id="st_af_soul_name">
-		<text>«Душа»</text>
+		<text>Dusza</text>
 	</string>
 	<string id="st_af_vyvert_descr">
-		<text>Артефакт причудливой формы, возникающий в местах повышенной гравитационной активности. Представляет собой своего рода губку, которая поглощает радиоактивные элементы. В равной степени успешно защищает своего носителя как от воздействия радиации извне, так и от уже попавших в организм радиоактивных частиц.</text>
+		<text>Artefakt o dziwnym ksztaіcie, ktуry pojawia siк w miejscach o zwiкkszonej aktywnoњci grawitacyjnej. Jest to rodzaj g№bki, ktуra pochіania pierwiastki promieniotwуrcze. Rуwnie skutecznie chroni swojego nosiciela zarуwno przed skutkami promieniowania z zewn№trz, jak i przed cz№steczkami radioaktywnymi, ktуre juї dostaіy siк do organizmu.</text>
 	</string>
 	<string id="st_af_vyvert_name">
-		<text>«Выверт»</text>
+		<text>Skrкtak</text>
 	</string>
 	<string id="st_compass">
-		<text>«Компас»</text>
+		<text>Kompas</text>
 	</string>
 	<string id="st_compass_descr">
-		<text>Редкий артефакт - последний раз его находили много месяцев назад. Обладает способностью показывать разрывы в аномальных полях. Говорят, с его помощью можно без малейшего риска пройти мимо самых сложных аномалий, однако очень мало кто знает, как с ним обращаться.</text>
+		<text>Rzadki artefakt - ostatnio znaleziono go wiele miesiкcy temu. Posiada umiejкtnoњж pokazywania luk w polach anomalnych. Mуwi№, їe z jego pomoc№ moїna bezpiecznie omin№ж najbardziej zіoїone anomalie, ale bardzo niewiele osуb wie, jak z niego korzystaж.</text>
 	</string>
 	<string id="st_oasis_heart">
-		<text>«Сердце Оазиса»</text>
+		<text>Serce Oazy</text>
 	</string>
 	<string id="st_oasis_heart_descr">
-		<text>Артефакт из центра легендарного Оазиса. Судя по всему, представляет собой кристаллизовавшееся растение,  которое переняло присущее Оазису свойство благотворно влиять на организм в целом. В отличие от Оазиса, артефакт исключительно радиоактивен.</text>
+		<text>Artefakt z centrum legendarnej Oazy. Najwyraџniej jest to skrystalizowana roњlina, ktуra zaadoptowaіa wrodzon№ wіaњciwoњж Oazy, aby mieж korzystny wpіyw na organizm jako caіoњж. W przeciwieсstwie do Oazy artefakt jest wyj№tkowo radioaktywny.</text>
 	</string>
 	<string id="st_af_glass_descr">
-		<text>«Светляк» работает с недоступными науке полями, ускоряя регенерацию тканей и органов живых существ, а также нормализуя метаболические процессы. Способен буквально на глазах поставить на ноги тяжелораненного. К сожалению артефакт встречается крайне редко. Радиоактивен.</text>
+		<text>"Skrкtak" dziaіa na polach niedostкpnych nauce, przyspieszaj№c regeneracjк tkanek i narz№dуw istot їywych, a takїe normalizuj№c procesy metaboliczne. Potrafi dosіownie postawiж na nogi ciкїko rannego mкїczyznк. Niestety artefakt jest niezwykle rzadki. Radioaktywny.</text>
 	</string>
 </string_table>

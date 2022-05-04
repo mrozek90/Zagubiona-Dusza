@@ -1,507 +1,507 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="Btn_Cancel">
-		<text>Отменить</text>
+		<text>Anuluj</text>
 	</string>
 	<string id="Btn_No">
-		<text>Нет</text>
+		<text>Nie</text>
 	</string>
 	<string id="Btn_OK">
 		<text>OK</text>
 	</string>
 	<string id="Btn_Yes">
-		<text>Да</text>
+		<text>Tak</text>
 	</string>
 	<string id="bad">
-		<text>Плохо</text>
+		<text>Zіy</text>
 	</string>
 	<string id="enemy">
-		<text>Враг</text>
+		<text>Wrуg</text>
 	</string>
 	<string id="excellent">
-		<text>Отлично</text>
+		<text>Wspaniale</text>
 	</string>
 	<string id="experienced">
-		<text>Опытный</text>
+		<text>Doњwiadczony</text>
 	</string>
 	<string id="friendly">
-		<text>Друг</text>
+		<text>Przyjazny</text>
 	</string>
 	<string id="global_map">
-		<text>Карта Зоны</text>
+		<text>Mapa Zony</text>
 	</string>
 	<string id="good">
-		<text>Хорошо</text>
+		<text>Dobry</text>
 	</string>
 	<string id="indifferent">
-		<text>Безразлично</text>
+		<text>Obojкtny</text>
 	</string>
 	<string id="master">
-		<text>Мастер</text>
+		<text>Mistrz</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Бонус за КПК</text>
+		<text>Premia za PDA</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Разрешено только одно активное голосование</text>
+		<text>Dozwolony tylko jeden aktywny gіos</text>
 	</string>
 	<string id="neutral">
-		<text>Нейтрал</text>
+		<text>Neutralny</text>
 	</string>
 	<string id="novice">
-		<text>Новичок</text>
+		<text>Nowicjusz</text>
 	</string>
 	<string id="st_game">
-		<text>Игра</text>
+		<text>Gra</text>
 	</string>
 	<string id="st_item_used">
-		<text>Использовано</text>
+		<text>Uїyto</text>
 	</string>
 	<string id="st_level">
-		<text>Уровень</text>
+		<text>Miejsce</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Загрузка ИИ объектов</text>
+		<text>Јadowanie obiektуw AI</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>Сервер: Загрузка симуляции жизни</text>
+		<text>Serwer: іadowanie symulacji їycia</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Загрузка формы объектов</text>
+		<text>Јadowanie ksztaіtu obiektуw</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Загрузка детальных объектов</text>
+		<text>Јadowanie szczegуіowych obiektуw</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Загрузка геометрии</text>
+		<text>Јadowanie geometrii</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Загрузка игры</text>
+		<text>Wczytywanie gry</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Загрузка секторов и порталов</text>
+		<text>Јadowanie sektorуw i portali</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Загрузка шейдеров</text>
+		<text>Јadowanie shaderуw</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Загрузка базы пространств</text>
+		<text>Wczytujк bazк danych przestrzeni</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Загрузка текстур</text>
+		<text>Јadowanie tekstur</text>
 	</string>
 	<string id="st_mp_direct_ip">
-		<text>Прямой IP</text>
+		<text>Bezpoњredni adres IP</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>Нет активного задания</text>
+		<text>Brak aktywnego zadania</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Недостаточно денег</text>
+		<text>Za maіo pieniкdzy</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>У NPC недостаточно денег</text>
+		<text>NPC nie ma wystarczaj№cej iloњci pieniкdzy</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Открытие потока</text>
+		<text>Otwarcie strumienia</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Кэширование объектов</text>
+		<text>Buforowanie obiektуw</text>
 	</string>
 	<string id="st_rubles">
-		<text>гривен.</text>
+		<text>RU</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>Сервер: Соединение</text>
+		<text>Serwer: Poі№czenie...</text>
 	</string>
 	<string id="st_server_starting">
-		<text>Сервер: Старт</text>
+		<text>Serwer: Start!</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Проверка ключа</text>
+		<text>Weryfikacja klucza</text>
 	</string>
 	<string id="st_video">
-		<text>Видео</text>
+		<text>Obraz</text>
 	</string>
 	<string id="terrible">
-		<text>Ужасно</text>
+		<text>Przeraџliwy</text>
 	</string>
 	<string id="ui_inv_repair">
-		<text>Починить</text>
+		<text>Napraw</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Вы не можете запустить второй рендер на вашем компьютере</text>
+		<text>Nie moїesz uruchomiж drugiego renderowania na swoim komputerze</text>
 	</string>
 	<string id="ui_st_community">
-		<text>Группировка</text>
+		<text>Spoіecznoњж</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Ошибка соединения: Ваш CD-key заблокирован. Свяжитесь со службой поддержки.</text>
+		<text>Bі№d poі№czenia: Twуj klucz CD jest zablokowany. Skontaktuj siк z pomoc№ techniczn№.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Ошибка соединения: такой CD-key уже используется</text>
+		<text>Bі№d poі№czenia: ten klucz CD jest juї uїywany</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Ошибка соединения: неверный CD-key</text>
+		<text>Bі№d poі№czenia: nieprawidіowy klucz CD</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Ошибка соединения: неверный хост</text>
+		<text>Bі№d poі№czenia: nieprawidіowy host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Ошибка соединения: неверный пароль</text>
+		<text>Bі№d poі№czenia: nieprawidіowe hasіo</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Доступен новый патч. \n Версия: %s\n %s\n Хотите загрузить его сейчас?</text>
+		<text>Dostкpna jest nowa aktualizacja. \n Wersja: %s\n %s\n Czy chcesz teraz pobraж?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Нет новых патчей</text>
+		<text>Brak aktualizacji.</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Ошибка соединения: соединение прервано сервером</text>
+		<text>Bі№d poі№czenia: poі№czenie przerwane przez serwer</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Ошибка соединения: сервер заполнен</text>
+		<text>Bі№d poі№czenia: serwer jest peіny</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Ошибка соединения: различные версии</text>
+		<text>Bі№d poі№czenia: rуїne wersje</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Соединение с мастер-сервером</text>
+		<text>Poі№czenie z serwerem gіуwnym</text>
 	</string>
 	<string id="ui_st_days">
-		<text>дн.</text>
+		<text>dni</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Ошибка</text>
+		<text>Bі№d</text>
 	</string>
 	<string id="ui_st_error_loading">
-		<text>Ошибка загрузки</text>
+		<text>Bі№d іadowania</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Файл с таким именем уже существует. Перезаписать?</text>
+		<text>Plik o tej nazwie juї istnieje. Nadpisaж?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Имя файла пустое</text>
+		<text>Nazwa pliku jest pusta.</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>час.</text>
+		<text>godz.</text>
 	</string>
 	<string id="ui_st_kicked_by_battleye">
-		<text>был отключён защитой BattlEye:</text>
+		<text>zostaі wyі№czony przez ochronк BattlEye:</text>
 	</string>
 	<string id="ui_st_kicked_by_server">
-		<text>Отключён. Причина - </text>
+		<text>Wyrzucony. Przyczyna - </text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Уйти</text>
+		<text>Wyjdџ</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Загрузка игры приведёт к потере несохраненных данных. Желаете продолжить?</text>
+		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Na pewno chcesz kontynuowaж?</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>мин.</text>
+		<text>min.</text>
 	</string>
 	<string id="ui_st_months">
-		<text>мес.</text>
+		<text>mies.</text>
 	</string>
 	<string id="ui_st_opponent_items">
-		<text>Рюкзак</text>
+		<text>Plecak</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Параметры</text>
+		<text>Opcje</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Невозможно загрузить патч.</text>
+		<text>Nie moїna pobraж aktualizacji.</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Патч успешно загружен. Желаете установить?</text>
+		<text>Aktualizacja zostaіa pomyњlnie pobrana. Chcesz zainstalowaж?</text>
 	</string>
 	<string id="ui_st_price">
-		<text>Цена</text>
+		<text>Cena</text>
 	</string>
 	<string id="ui_st_rank">
-		<text>Ранг</text>
+		<text>Ranking</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>Отношение</text>
+		<text>Relacje</text>
 	</string>
 	<string id="ui_st_reputation">
-		<text>Репутация</text>
+		<text>Reputacja</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>сек.</text>
+		<text>sek.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Пожалуйста, выберите хотя бы одну карту</text>
+		<text>Wybierz co najmniej jedn№ mapк</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Взять всё</text>
+		<text>Weџ wszystko</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Осталось</text>
+		<text>Pozostaіo</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Голосование отключено</text>
+		<text>Gіosowanie wyі№czone</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Вы действительно хотите покинуть игру?</text>
+		<text>Czy na pewno chcesz opuњciж grк?</text>
 	</string>
 	<string id="ui_total_price">
-		<text>Всего</text>
+		<text>Razem</text>
 	</string>
 	<string id="very_bad">
-		<text>оч. плохо</text>
+		<text>b. zіy</text>
 	</string>
 	<string id="very_good">
-		<text>оч. хорошо</text>
+		<text>b. dobry</text>
 	</string>
 	<string id="veteran">
-		<text>Ветеран</text>
+		<text>Weteran</text>
 	</string>
 	<string id="ui_st_inv_repair">
-		<text>Ремонт</text>
+		<text>Naprawa</text>
 	</string>
 	<string id="ui_repair_button_hint">
-		<text>Починить выбранную вещь</text>
+		<text>Napraw wybrany przedmiot</text>
 	</string>
 	<string id="st_key_notbinded">
 		<text>...</text>
 	</string>
 	<string id="st_save_uni_travel_generic">
-		<text>переход по локации</text>
+		<text>nawigacja wedіug lokalizacji</text>
 	</string>
 	<string id="st_save_uni_travel_zat_to_jup">
-		<text>переход с Затона на «Янов»</text>
+		<text>przejњcie z Zatonu do Janуw</text>
 	</string>
 	<string id="st_save_uni_travel_zat_to_pri">
-		<text>переход с Затона в Припять</text>
+		<text>przejњcie z Zatonu do Prypeci</text>
 	</string>
 	<string id="st_save_uni_travel_jup_to_zat">
-		<text>переход с «Янова» на Затон</text>
+		<text>przejњcie z Janowa do Zatonu</text>
 	</string>
 	<string id="st_save_uni_travel_jup_to_pri">
-		<text>переход с «Янова» в Припять</text>
+		<text>przejњcie z Janowa do Prypeci</text>
 	</string>
 	<string id="st_save_uni_travel_pri_to_zat">
-		<text>переход из Припяти на Затон</text>
+		<text>przejњcie z Prypeci do Zatonu</text>
 	</string>
 	<string id="st_save_uni_travel_pri_to_jup">
-		<text>переход из Припяти на «Янов»</text>
+		<text>przejњcie z Prypeci do Janowa</text>
 	</string>
 	<string id="st_save_uni_pri_to_labx8">
-		<text>переход из Припяти в X8</text>
+		<text>przejњcie z Prypeci do X8</text>
 	</string>
 	<string id="st_save_uni_labx8_to_pri">
-		<text>переход из X8 в Припять</text>
+		<text>przejњcie z X8 do Prypeci</text>
 	</string>
 	<string id="st_save_uni_surge_start">
-		<text>выброс</text>
+		<text>Emisja</text>
 	</string>
 	<string id="st_save_zat_a1_game_start">
-		<text>начало игры</text>
+		<text>Pocz№tek Gry</text>
 	</string>
 	<string id="st_save_zat_a2_reached_skadovsk">
-		<text>прибытие на «Скадовск»</text>
+		<text>Przybycie na Skadowsk</text>
 	</string>
 	<string id="st_save_jup_b9_searched_heli_1">
-		<text>исследован «Скат-1»</text>
+		<text>Odkrycie Skat-1</text>
 	</string>
 	<string id="st_save_zat_b100_searched_heli_2">
-		<text>исследован «Скат-2»</text>
+		<text>Odkrycie Skat-2</text>
 	</string>
 	<string id="st_save_zat_b28_searched_heli_3">
-		<text>исследован «Скат-3»</text>
+		<text>Odkrycie Skat-3</text>
 	</string>
 	<string id="st_save_jup_b8_searched_heli_4">
-		<text>исследован «Скат-4»</text>
+		<text>Odkrycie Skat-4</text>
 	</string>
 	<string id="st_save_zat_b101_searched_heli_5">
-		<text>исследован «Скат-5»</text>
+		<text>Odkrycie Skat-5</text>
 	</string>
 	<string id="st_save_zat_b18_noah_showed_teleport">
-		<text>путь на плато</text>
+		<text>Њcieїka na Pіaskowyї</text>
 	</string>
 	<string id="st_save_jup_b217_arrived_to_jup">
-		<text>прибытие на «Янов»</text>
+		<text>Przybycie do Janowa</text>
 	</string>
 	<string id="st_save_jup_a9_got_underpass_docs">
-		<text>найден путь в Припять</text>
+		<text>Znalezienie drogi do Prypeci</text>
 	</string>
 	<string id="st_save_jup_b15_drunk_with_zulu">
-		<text>к отряду примкнул Зулус</text>
+		<text>Zulus doі№czyі do grupy</text>
 	</string>
 	<string id="st_save_jup_a10_gonna_return_debt">
-		<text>возврат долга Вано</text>
+		<text>Zwrot dіugu Wano</text>
 	</string>
 	<string id="st_save_jup_b218_vano_in_squad">
-		<text>к отряду примкнул Вано</text>
+		<text>Wano doі№czyі do grupy</text>
 	</string>
 	<string id="st_save_jup_b206_got_anomalous_plant">
-		<text>взято аномальное растение</text>
+		<text>Wziкta roњlina anomalna</text>
 	</string>
 	<string id="st_save_jup_b218_sokolov_in_squad">
-		<text>к отряду примкнул Соколов</text>
+		<text>Sokoіow doі№czyі do grupy</text>
 	</string>
 	<string id="st_save_jup_b218_strider_in_squad">
-		<text>к отряду примкнул Бродяга</text>
+		<text>Tramp doі№czyі do grupy</text>
 	</string>
 	<string id="st_save_jup_b218_travel_jup_to_pas">
-		<text>отряд собран</text>
+		<text>Grupa utworzona</text>
 	</string>
 	<string id="st_save_pas_b400_underpass_start">
-		<text>прибытие в путепровод</text>
+		<text>Przybycie na Wiadukt</text>
 	</string>
 	<string id="st_save_uni_travel_pas_to_pri">
-		<text>выход в Припять</text>
+		<text>Wyjњcie do Prypeci</text>
 	</string>
 	<string id="st_save_pri_a16_arrived_to_pri">
-		<text>найдены военные</text>
+		<text>Znaleziono wojsko</text>
 	</string>
 	<string id="st_save_pri_a17_hospital_start">
-		<text>захват неизвестного оружия</text>
+		<text>Przechwycenie nieznanej broni</text>
 	</string>
 	<string id="st_save_pri_a20_found_dead_recon">
-		<text>найдена разведгруппа</text>
+		<text>Znaleziono grupк rozpoznawcz№</text>
 	</string>
 	<string id="st_save_pri_a18_met_reinforcement">
-		<text>прибыло подкрепление</text>
+		<text>Przybycie posiіkуw</text>
 	</string>
 	<string id="st_save_pri_a18_searched_antenna">
-		<text>исследована «антенна»</text>
+		<text>Badanie Anteny</text>
 	</string>
 	<string id="st_save_pri_a21_approached_mad_sentry">
-		<text>найден пропавший часовой</text>
+		<text>Znaleziono zaginiony wartownik</text>
 	</string>
 	<string id="st_save_pri_a21_killed_controller">
-		<text>убит контролёр возле часового</text>
+		<text>Kontroler w pobliїu wartownika zostaі zabity</text>
 	</string>
 	<string id="st_save_zat_a23_entered_test_center">
-		<text>вход в испытательный цех</text>
+		<text>Wejњcie do sali testowej</text>
 	</string>
 	<string id="st_save_zat_a23_got_gauss_docs">
-		<text>найдена документация на гаусс-пушку</text>
+		<text>Znaleziono dokumentacjк pistoletu Gaussa</text>
 	</string>
 	<string id="st_save_pri_a22_found_dead_squad">
-		<text>найден погибший боец</text>
+		<text>Znaleziono martwego їoіnierza</text>
 	</string>
 	<string id="st_save_pri_a25_gonna_place_explosive">
-		<text>вход в детский сад</text>
+		<text>Wejњcie do przedszkola</text>
 	</string>
 	<string id="st_save_pri_a25_freed_medic">
-		<text>спасён военный медик</text>
+		<text>Sanitariusz uratowany</text>
 	</string>
 	<string id="st_save_pri_a28_talked_with_ssu">
-		<text>установлена связь с командованием</text>
+		<text>Kontakt z dowуdztwem</text>
 	</string>
 	<string id="st_save_pri_a28_evacutaion_start">
-		<text>начало эвакуации из Припяти</text>
+		<text>Rozpoczкcie ewakuacji z Prypeci</text>
 	</string>
 	<string id="st_save_pri_a28_evacuation_end">
-		<text>достигнуты вертолёты эвакуации</text>
+		<text>Њmigіowce ewakuacyjne dotarіy</text>
 	</string>
 	<string id="st_save_uni_zone_to_reality">
-		<text>уход из Зоны</text>
+		<text>Ucieczka z Zony</text>
 	</string>
 	<string id="st_save_jup_b209_placed_mutant_scanner">
-		<text>датчик присутствия мутантов</text>
+		<text>Czujnik obecnoњci mutantуw</text>
 	</string>
 	<string id="st_save_jup_a12_gave_artefact_for_hostage">
-		<text>выкуплен заложник</text>
+		<text>Wykupiony zakіadnik</text>
 	</string>
 	<string id="st_save_jup_a12_met_with_liberators">
-		<text>освобождение заложника</text>
+		<text>Uwolnienie zakіadnikуw</text>
 	</string>
 	<string id="st_save_jup_b6_arrived_to_ash_heap">
-		<text>замеры аномалии «Пепелище»</text>
+		<text>Pomiary anomalii Pogoїelisko</text>
 	</string>
 	<string id="st_save_jup_b6_arrived_to_fen">
-		<text>замеры аномалии «Плавни»</text>
+		<text>pomiary anomalii Pіynnej</text>
 	</string>
 	<string id="st_save_zat_b38_met_with_grouse">
-		<text>логово кровососов</text>
+		<text>Legowisko krwiopijcуw</text>
 	</string>
 	<string id="st_save_jup_b19_arrived_to_kopachy">
-		<text>отправка в Копачи</text>
+		<text>Przybycie do Kopaczi</text>
 	</string>
 	<string id="st_save_zat_b40_warned_by_mercs">
-		<text>подход к станции переработки отходов</text>
+		<text>Przybycie do punktu recyklingu</text>
 	</string>
 	<string id="st_save_zat_b7_met_with_robbers">
-		<text>наезд на сталкеров</text>
+		<text>Atak na stalkerуw</text>
 	</string>
 	<string id="st_save_zat_b33_got_container">
-		<text>найден контейнер в тайнике</text>
+		<text>Zalezienie pojemnika w schowku</text>
 	</string>
 	<string id="st_save_zat_b106_arrived_to_chimera_lair">
-		<text>охота на химеру</text>
+		<text>Polowanie na chimerк</text>
 	</string>
 	<string id="st_save_jup_b16_passed_labyrinth">
-		<text>найден «Оазис»</text>
+		<text>Znaleziono "Oazк"</text>
 	</string>
 	<string id="st_save_pri_b35_ready_to_snipe">
-		<text>начало операции «Один выстрел»</text>
+		<text>Rozpoczкcie operacji Jeden Strzaі</text>
 	</string>
 	<string id="st_save_jup_b1_entered_railroad_tunnel">
-		<text>поиск источника пси-излучения</text>
+		<text>Poszukiwania џrуdіa promieniowania PSI</text>
 	</string>
 	<string id="st_save_jup_b47_got_admin_docs">
-		<text>административные документы</text>
+		<text>Dokumenty administracyjne</text>
 	</string>
 	<string id="st_save_zat_b103_warned_by_mercs">
-		<text>подход к цехам подстанции</text>
+		<text>Przybycie do warsztatуw podstacyjnych</text>
 	</string>
 	<string id="st_save_zat_b5_met_with_others">
-		<text>сделка возле лесничества</text>
+		<text>Zadanie w pobliїu leњnictwa</text>
 	</string>
 	<string id="st_save_jup_b207_arrived_to_duty_depot">
-		<text>склад «Долга»</text>
+		<text>Magazyn Powinnoњж</text>
 	</string>
 	<string id="st_save_zat_b14_got_altered_wheel">
-		<text>найден источник странного свечения</text>
+		<text>Znalezienie џrуdіa dziwnego blasku</text>
 	</string>
 	<string id="st_save_pri_b301_arrived_to_help_zulu">
-		<text>найден Зулус</text>
+		<text>Znalezienie Zulusa</text>
 	</string>
 	<string id="st_save_zat_b42_arrived_to_controler_lair">
-		<text>опасная пещера</text>
+		<text>Niebezpieczna jaskinia</text>
 	</string>
 	<string id="ui_st_upgrade">
-		<text>Ремонт/модификация</text>
+		<text>Naprawa / Modyfikacja</text>
 	</string>
 	<string id="ui_st_buy">
-		<text>Купить</text>
+		<text>Kup</text>
 	</string>
 	<string id="ui_st_sell">
-		<text>Продать</text>
+		<text>Sprzedaj</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Торговля</text>
+		<text>Handel</text>
 	</string>
 	<string id="ui_st_exit_hint">
-		<text>Закрыть окно ($$ACTION_USE$$)</text>
+		<text>Zamknij okno ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_st_trade_hint">
-		<text>Открыть окно торговли ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Otwуrz okno handlu ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_upgrade_hint">
-		<text>Открыть окно ремонта и модификации ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Otwуrz okno naprawy i modyfikacji ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_take_all_hint">
-		<text>Переместить все вещи в свой рюкзак ($$ACTION_SPRINT_TOGGLE$$)</text>
+		<text>Przenieњ wszystkie przedmioty do plecaka ($$ACTION_SPRINT_TOGGLE$$)</text>
 	</string>
 	<string id="ui_st_buy_hint">
-		<text>Купить выбранные вещи</text>
+		<text>Kup wybrane przedmioty</text>
 	</string>
 	<string id="ui_st_sell_hint">
-		<text>Продать выбранные вещи</text>
+		<text>Sprzedaj wybrane przedmioty</text>
 	</string>
 	<string id="st_save_pri_a28_evacuation_heli">
-		<text>отлёт вертолётов эвакуации</text>
+		<text>Odlot њmigіowcуw ewakuacyjnych</text>
 	</string>
 	<string id="tip_gate_close">
-		<text>Закрыть ворота ($$ACTION_USE$$)</text>
+		<text>Zamknij bramк ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_gate_open">
-		<text>Открыть ворота ($$ACTION_USE$$)</text>
+		<text>otwуrz bramк ($$ACTION_USE$$)</text>
 	</string>
 </string_table>

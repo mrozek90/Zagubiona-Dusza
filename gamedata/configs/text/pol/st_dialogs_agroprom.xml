@@ -1,882 +1,882 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="agr_base_mayor_z_last_ge_dialog_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк, їe zgodziіeњ siк pomуc. Nie zrobiіbym tego bez Ciebie.</text>
     </string>
     <string id="agr_base_mayor_z_last_ge_dialog_1">
-        <text>Без меня? Ты шутишь? Эти отморозки стреляли так, что ты бы и в одиночку их положил. А вот поддержка - это да. Тут всем спасибо надо сказать, все постарались. Я даже и не думал, что среди сталкеров действительно могут быть люди.</text>
+        <text>Beze mnie? Їartujesz? Te szumowiny strzelaіy tak, їe byњ sam ich poіoїyі. Ale wsparcie jest to super. Dziкkujк wszystkim tutaj, wszyscy dawali z siebie wszystko. Nawet nie s№dziіem, їe wњrуd stalkerуw naprawdк mog№ byж ludzie.</text>
     </string>
     <string id="agr_inquisitor_good_dialog_0">
-        <text>Инквизитор, мне нужна помощь...</text>
+        <text>Inkwizytor, potrzebujк pomocy...</text>
     </string>
     <string id="agr_inquisitor_good_dialog_1">
-        <text>Да да, я уже слышал. Мне всё равно нечего делать в этом лагере. Я тоже иду с тобой.</text>
+        <text>Tak, tak... juї sіyszaіem. W tym obozie nadal nie mam nic do roboty. Ja teї z Tob№ pуjdк.</text>
     </string>
     <string id="agr_inquisitor_good_dialog_2">
-        <text>Спасибо.</text>
+        <text>Dziкkujк.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк їe zgodziіeњ siк pomуc. Nie zrobiіbym tego bez Ciebie.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_1">
-        <text>Так ты тоже мне помог, наёмник.</text>
+        <text>Teї mi pomogіeњ, Najemniku.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_2">
-        <text>В чём?</text>
+        <text>W czym?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_3">
-        <text>Когда согласился отправиться со мной за Орестом. Думаешь, было бы всё так радужно?</text>
+        <text>Kiedy zgodziіeњ siк pojechaж ze mn№ do Orestesa. Czy myњlisz, їe byіoby tak rуїowo?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_4">
-        <text>Ну тогда мы в расчёте.</text>
+        <text>No to jesteњmy kwita.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк їe zgodziіeњ siк pomуc. Nie zrobiіbym tego bez Ciebie.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_1">
-        <text>Так ты тоже мне помог, наёмник.</text>
+        <text>Teї mi pomogіeњ, Najemniku.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_2">
-        <text>В чём?</text>
+        <text>W czym?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_3">
-        <text>Когда согласился отправиться со мной за Орестом. Думаешь, было бы всё так радужно?</text>
+        <text>Kiedy zgodziіeњ siк pojechaж ze mn№ do Orestesa. Czy myњlisz, їe byіoby tak rуїowo?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_4">
-        <text>Ну тогда мы в расчёте.</text>
+        <text>No to jesteњmy kwita.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_5">
-        <text>Не совсем. Помнишь, ты отдал мне артефакт? Я хотел отдать его Крылову на исследование. Но так, как он не в живых, можешь забрать этот артефакт. Он мне не нужен.</text>
+        <text>Nie bardzo. Pamiкtasz, їe daіeњ mi artefakt? Chciaіem daж go Kryіowowi do badaс. Ale poniewaї nie їyje, moїesz go zabraж. Nie potrzebujк go juї.</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_6">
-        <text>Удачи.</text>
+        <text>Powodzenia.</text>
     </string>
     <string id="agr_karas_good_dialog_0">
-        <text>Лучше, чем было. Я смогу за себя постоять, Сектор. Бери всех, кого посчитаешь нужным.</text>
+        <text>Lepiej niї byіo. Sam sobie poradzк, Sektor. Weџ kogo chcesz.</text>
     </string>
     <string id="agr_karas_good_dialog_1">
-        <text>Хорошо..</text>
+        <text>W porz№dku..</text>
     </string>
     <string id="agr_mayor_z_good_dialog_0">
-        <text>Майор, ты с нами?</text>
+        <text>Major, idziesz z nami?</text>
     </string>
     <string id="agr_mayor_z_good_dialog_1">
-        <text>Хм... Карасю точно не нужна помощь?</text>
+        <text>Hmm... Karasie nie potrzebuj№ pomocy?</text>
     </string>
     <string id="agr_mayor_z_good_dialog_2">
-        <text>Точно.</text>
+        <text>Dokіadnie.</text>
     </string>
     <string id="agr_mayor_z_good_dialog_3">
-        <text>Ладно.. Не нравится мне эта затея, но раз все идут, пойду и я с вами.</text>
+        <text>Dobra... Nie podoba mi siк ten pomysі, ale skoro wszyscy id№, ja teї pуjdк z Tob№.</text>
     </string>
     <string id="agr_mayor_z_good_dialog_4">
-        <text>Отлично!</text>
+        <text>Piкknie!</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_0">
-        <text>Ребята, я нашёл у этой мрази КПК с записью. Шкир послал их чтобы убить оставшихся наёмников, меня в том числе.</text>
+        <text>Chіopaki, znalazіem PDA z zapisem tej szumowiny. Szkir wysіaі ich, by zabili pozostaіych najemnikуw, w tym mnie.</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_1">
-        <text>Хм.. Ожидаемо. И что теперь делать?</text>
+        <text>Hm.. Byіo do przewidzenia. I co teraz zrobisz?</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_2">
-        <text>Тут так же указано шесть координат. Это могут быть возможные местонахождения Ситха. Конечно, вряд-ли, но всё возможно. Вы поможете мне?</text>
+        <text>Istnieje rуwnieї szeњж wspуіrzкdnych. Mog№ to byж moїliwe lokalizacje Sitha. Oczywiњcie jest to maіo prawdopodobne, ale wszystko jest moїliwe. Pomoїesz mi?</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_3">
-        <text>Конечно, наёмник. Сталкеры стараются помогать своим друзьям. Руководи, ты неплохо справляешься с ролью лидера.</text>
+        <text>Oczywiњcie, Najemniku. Stalkerzy staraj№ siк pomуc swoim przyjacioіom. Jesteњ dobry w byciu przywуdc№.</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_4">
-        <text>Спасибо.. Значит так, Орест отправляется к координате №1, Инквизитор - к координате №2, Винт - к координате №3, Звягинцев - к координате №4, Смирнов - к координате №5. Координата №6 - моя. Я уже скинул их на ваши КПК. Если кто-то найдёт что-то интересное, отправьте всем остальным сигналы, чтобы они не продолжали поиски. Я же в любом случае отправлю вам сигнал с сообщением - нашёл я что-то, или нет. Если спустя два часа вы не получите моего сообщения, считайте, что подох я. Всё, вперёд!</text>
+        <text>Dziкkujк... Tak wiкc Orest pуjdzie do wspуіrzкdnych nr 1, Inkwizytor - do wspуіrzкdnych nr 2, Wint - do wspуіrzкdnych nr 3, Zwiagincew - do wspуіrzкdnych nr 4, Smirnow - do wspуіrzкdnych nr 5. Wspуіrzкdna numer 6 jest moja. Juї rzuciіem je na wasze PDA. Jeњli ktoњ znajdzie coњ interesuj№cego, wyњlij wszystkim innym cynk, by nie szukali dalej. W kaїdym razie wyњlк Ci sygnaі z wiadomoњci№ - coњ znalazіem, czy nie. Jeњli po dwуch godzinach nie otrzymasz mojej wiadomoњci, uznaj, їe nie їyjк. To wszystko, naprzуd!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_0">
-        <text>Чёрт, они держут там Ситха! Нельзя терять ни секунды, ребята!</text>
+        <text>Cholera, chіopaki. Trzymaj№ tam Sitha! Nie ma czasu do stracenia!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_1">
-        <text>Быстро обсудим план?</text>
+        <text>Obmуwmy plan na prкdce</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_2">
-        <text>Нас - шестеро, их - трое. Всё очевидно.</text>
+        <text>Jest nas szeњciu, ich - trzech. Wszystko jest oczywiste.</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_3">
-        <text>Штурм, значит.. Раз это единственное, что остаётся, начнём?</text>
+        <text>Wiкc szturmujemy... Jeњli to wszystko to pora zaczynaж.</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_4">
-        <text>Отлично! Вперёд, парни!</text>
+        <text>W porz№dku! Њmiaіo chіopaki!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_start_0">
-        <text>На месте координаты №6 я нашёл сталкера, который практически полностью видел нападение и сказал, что Ситха повели в сторону Янтаря, как раз недалеко отсюда...</text>
+        <text>Na wspуіrzкdnych #6 znalazіem stalkera, ktуry byі њwiadkiem ataku i powiedziaі, їe Sith zostaі zabrany w kierunku Jantaru, niedaleko st№d...</text>
     </string>
     <string id="agr_orest_bad_dialog_0">
-        <text>Орест, мне нужна помощь.</text>
+        <text>Orest, potrzebujк pomocy.</text>
     </string>
     <string id="agr_orest_bad_dialog_1">
-        <text>Что стряслось, дружище?</text>
+        <text>Co siк staіo, kolego?</text>
     </string>
     <string id="agr_orest_bad_dialog_2">
-        <text>Моего напарника, похоже, держат в плену. Я собираю отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+        <text>Wygl№da na to, їe mуj partner jest przetrzymywany w niewoli. Zbieram oddziaі, z ktуrym chcк go uwolniж. Idziesz ze mn№?</text>
     </string>
     <string id="agr_orest_bad_dialog_3">
-        <text>Даже не знаю.. Нужно на кого-то оставить эту базу.</text>
+        <text>Nie wiem... Muszк pilnowaж t№ bazк.</text>
     </string>
     <string id="agr_orest_bad_dialog_4">
-        <text>Не хочешь - как хочешь.</text>
+        <text>Jeњli nie chcesz to nie.</text>
     </string>
     <string id="agr_orest_bad_dialog_5">
-        <text>Инквизитор мог бы присмотреть за лагерем.</text>
+        <text>Inkwizytor mуgіby zaopiekowaж siк obozem.</text>
     </string>
     <string id="agr_orest_bad_dialog_6">
-        <text>Действительно. А ты, как никак, очень много сделал для меня и одиночек в целом. Я просто не могу тебе отказать.</text>
+        <text>Istotnie. A Ty przecieї zrobiіeњ duїo dla mnie i samotnikуw w ogуle. Po prostu nie moїe Ci odmуwiж.</text>
     </string>
     <string id="agr_orest_bad_dialog_7">
-        <text>Спасибо.</text>
+        <text>Dziкkujк.</text>
     </string>
     <string id="agr_orest_good_dialog_0">
-        <text>Орест, мне нужна помощь.</text>
+        <text>Orest, potrzebujк pomocy.</text>
     </string>
     <string id="agr_orest_good_dialog_1">
-        <text>Что стряслось, дружище?</text>
+        <text>Co jest, kolego?</text>
     </string>
     <string id="agr_orest_good_dialog_2">
-        <text>Моего напарника, похоже, держат в плену. Я собираю отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+        <text>Wygl№da na to, їe mуj partner jest przetrzymywany w niewoli. Zbieram oddziaі, z ktуrym chcк go uwolniж. Idziesz ze mn№?</text>
     </string>
     <string id="agr_orest_good_dialog_3">
-        <text>Хм.. Надо подумать на кого остаивть эту базу..</text>
+        <text>Hmm.. Muszк siк zastanowiж, kto bкdzie pilnowaж t№ bazк...</text>
     </string>
     <string id="agr_orest_good_dialog_4">
-        <text>[Молчание]</text>
+        <text>[Cisza]</text>
     </string>
     <string id="agr_orest_good_dialog_5">
-        <text>А впрочем, они сами могут за себя постоять. А ты, как никак, очень много сделал для меня и одиночек в целом. Я просто не могу тебе отказать.</text>
+        <text>Potrafi№ jednak o siebie zadbaж. A Ty przecieї zrobiіeњ duїo dla mnie i samotnikуw w ogуle. Po prostu nie mogк Ci odmуwiж.</text>
     </string>
     <string id="agr_orest_good_dialog_6">
-        <text>Спасибо.</text>
+        <text>Dziкkujк.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк їe zgodziіeњ siк pomуc. Nie zrobiіbym tego bez Ciebie.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_1">
-        <text>Не за что. Это вам с Инквизитором спасибо за то, что спасли меня. Так бы я сейчас с вами не разговаривал.</text>
+        <text>Caіa przyjemnoњж po mojej stronie. Dziкkujк Tobie i Inkwizytorowi za uratowanie mnie. Inaczej nie rozmawiaіbym teraz z Tob№.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_2">
-        <text>Ну тогда выходит, что мы в расчёте.</text>
+        <text>No to okazuje siк, їe jesteњmy kwita.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_0">
-        <text>Мы с Ситхом хотим присоединиться к вашему клану.</text>
+        <text>Sith i ja chcemy doі№czyж do Twojego klanu..</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_1">
-        <text>Отличное решение! На самом деле всё просто. Быть сталкером - значит, быть человеком. Помочь товарищу в тяжёлую минуту, не крысятничать, не совершать подлости, поделиться аптечкой или куском хлеба, прикрыть спину в бою, разделить ночлег у костра..</text>
+        <text>Idealne rozwi№zanie! W rzeczywistoњci wszystko jest proste. Bycie stalkerem oznacza bycie czіowiekiem. Pomуї towarzyszowi w trudnym momencie, nie zdradzaj, nie popeіniaj podіoњci, podziel siк apteczk№ lub kawaіkiem chleba, osіaniaj plecy w walce, podziel siк noclegiem przy ognisku..</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_2">
-        <text>Я понял, надо просто быть нормальным человеком. Я со всем согласен.</text>
+        <text>Zdaіem sobie sprawк, їe po prostu trzeba byж normaln№ osob№. Zgadzam siк ze wszystkim.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_3">
-        <text>Добро пожаловать в клан "Одиночки", друг! Снаряжение, думаю, вам уже не нужно, поэтому можешь идти. Если будет желание, можешь зайти ко мне за заданиями.</text>
+        <text>Witaj w klanie Samotnikуw, przyjacielu! Myњlк, їe nie potrzebujesz juї sprzкtu, wiкc moїesz iњж. Jeњli chcesz, moїesz przyjњж do mnie po zadania.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_4">
-        <text>Спасибо. Я пойду.</text>
+        <text>Dziкkujк. Pуjdк.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_0">
-        <text>Это мне пришло твоё сообщение.</text>
+        <text>Dostaіem Twojego SMS.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_1">
-        <text>Мы - старые кореша Шкира. Надеюсь, память не отшибло; не забыл, кто это?</text>
+        <text>Jesteњmy starymi pomocnikami Szkira. Mam nadziejк, їe nie zabrakіo Ci pamiкci... Zapomniaіeњ, kto to jest?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_2">
-        <text>Что?..</text>
+        <text>Co?..</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_3">
-        <text>Короче, он нам сказал, чтобы мы твою псину повязали и выманили ваш остальной отряд на расстрел. Но у меня другие планы. Сечёшь, о чём я?</text>
+        <text>Krуtko mуwi№c, kazaі nam zwi№zaж psa i zwabiж resztк druїyny na rozstrzelanie. Ale mam inne plany. Wiesz, o czym mуwiк?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_4">
-        <text>Не особо. Говори, что тебе нужно?</text>
+        <text>Nie bardzo. Powiedz, o co chodzi?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_5">
-        <text>Не любишь пустой трёп? Тогда вот тебе задача - в тоннеле, где мы и нашли твоего кореша.. Короче, мне шепнули, что там арты новые находятся. Побегай там, поищи чё-нибудь. Как найдёшь - сразу притарань мне, мы тебе твоего кореша вернём, а Шкиру скажем, что терпила сбежать успел.</text>
+        <text>Nie lubisz pustej paplaniny? A oto Twoje zadanie - w tunelu, w ktуrym znaleџliњmy Twojego pomocnika... Krуtko mуwi№c, szeptali mi, їe tam znajduje siк nowy artefakt. Leж i go poszukaj. Jak tylko go znajdziesz, uderz mnie od razu, zwrуcimy Ci Twojego pomocnika i powiemy Szkirowi, їe zdoіaі uciec.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_6">
-        <text>А если я ничего не найду в тоннеле?</text>
+        <text>Co jeњli nie znajdк niczego w tunelu?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_7">
-        <text>Если ты нихера не найдёшь, мы сделаем то, что нам сказал Шкир. И даже не пытайся меня пристрелить - тебя всё время наша снайпа на мушке держит. Всё, вали отсюда, я всё сказал.</text>
+        <text>Jeњli gуwno znajdziesz to zrobimy to, co powiedziaі nam Szkir. I nawet nie prуbuj mnie zastrzeliж - nasz snajper caіy czas trzyma Ciк na muszce. To wszystko, wynoњ siк st№d. Sio!</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_0">
-        <text>Это мне пришло твоё сообщение.</text>
+        <text>Dostaіem Twуj SMS.</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_1">
-        <text>Мы - старые кореша Шкира. Надеюсь, память не отшибло; не забыл, кто это?</text>
+        <text>Jesteњmy starymi pomocnikami Szkira. Mam nadziejк, їe nie zabrakіo Ci pamiкci... Zapomniaіeњ, kto to jest?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_2">
-        <text>Ну и?</text>
+        <text>No i?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_3">
-        <text>Короче, он нам сказал, чтобы мы твою псину повязали и выманили ваш остальной отряд на расстрел. Но у меня другие планы. Сечёшь, о чём я?</text>
+        <text>Krуtko mуwi№c, kazaі nam zwi№zaж psa i zwabiж resztк druїyny na rozstrzelanie. Ale mam inne plany. Wiesz, o czym mуwiк?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_4">
-        <text>Не особо. Говори, что тебе нужно?</text>
+        <text>Nie bardzo. Powiedz, czego potrzebujesz?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_5">
-        <text>Не любишь пустой трёп? Хорошо, но сначала выведи своих псов метров на 20, это - личный базар.</text>
+        <text>Nie lubisz pustej paplaniny? Dobra, ale najpierw zabierz swoje psy na 20 metrуw, to jest osobisty bazar.</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_6">
-        <text>Хорошо, но тогда пусть твои ребята тоже отойдут.</text>
+        <text>No dobrze, ale niech Twoi faceci teї odejd№.</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_7">
-        <text>Ты мля не указывай мне! Мы щас тебя и твоих терпил на жопу посадим, сечёшь? Башляй то, что я тебе говорю, и пасть заткни!</text>
+        <text>Nie rozkazuj mi! Moїemy w sekundzie pozbyж siк Ciebie i Twoich przydupasуw, czaisz? Zamknij siк i sіuchaj co Ci mуwiк!</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_8">
-        <text>Пасть свою зарой, чепуха. Или хочешь, чтобы я выбил из тебя всё сам?</text>
+        <text>Pilnuj swojej japy, durniu. A moїe chcesz, їebym skopaі Ciк razem ze wszystkimi?</text>
     </string>
     <string id="agr_sith_last_ge_dialog_0">
-        <text>Что ты планируешь делать после того, как мы прикончим Шкира?</text>
+        <text>Co planujesz zrobiж po wykoсczeniu Szira?</text>
     </string>
     <string id="agr_sith_last_ge_dialog_1">
-        <text>Немного подзаработаю и свалю отсюда. А ты?</text>
+        <text>Zarobiк trochк pieniкdzy i ulotniк siк. A Ty?</text>
     </string>
     <string id="agr_sith_last_ge_dialog_2">
-        <text>Наверное, то же самое.</text>
+        <text>Prawdopodobnie to samo.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_3">
-        <text>Завтра утром надо будет отправляться на поиски Шкира, у нас почти каждая минута на счету.</text>
+        <text>Jutro rano bкdziemy musieli wyruszyж na poszukiwanie Szkira, liczy siк kaїda minuta.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_4">
-        <text>Я хочу присоединиться к Одиночкам. Ты со мной?</text>
+        <text>Chcк doі№czyж do Samotnikуw. Jesteњ ze mn№?</text>
     </string>
     <string id="agr_sith_last_ge_dialog_5">
-        <text>От наёмников у меня только убитые товарищи... Наверное, да, я с тобой. Конечно, если нас возьмут.</text>
+        <text>Od najemnikуw mam tylko martwych towarzyszy... Prawdopodobnie tak, jestem z Tob№. Oczywiњcie, jeњli nas przyjm№.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_6">
-        <text>Нас возьмут. Я пойду поговорю с Орестом.</text>
+        <text>Zostaniemy przyjкci. Pуjdк porozmawiaж z Orestem.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_end_0">
-        <text>Орест принял нас в группировку Сталкеров.</text>
+        <text>Orest przyj№і nas do grona Stalkerуw.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_end_1">
-        <text>Я слышал. Что теперь?</text>
+        <text>Sіyszaіem. Co teraz?</text>
     </string>
     <string id="agr_sith_last_ge_dialog_end_2">
-        <text>Отправимся на поиски Шкира.</text>
+        <text>Chodџmy na poszukiwanie Szkira.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_end_3">
-        <text>Я ещё побуду на Агропроме. Ещё не всё я там осмотрел.</text>
+        <text>Zostanк w Agropromie. Jeszcze nie wszystko widziaіem.</text>
     </string>
     <string id="agr_sith_last_ge_dialog_end_end_0">
-        <text>Пора отправляться.</text>
+        <text>Czas ruszaж.</text>
     </string>
     <string id="agr_smirnow_last_ge_dialog_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк, їe zgodziіeњ siк na pomoc. Nie daіbym rady bez Ciebie.</text>
     </string>
     <string id="agr_smirnow_last_ge_dialog_1">
-        <text>Справился бы. У тебя был такой отряд, что любой обзавидуется. Но главное - что сейчас мы все живы.</text>
+        <text>Daіbyњ sobie radк. Miaіeњ taki skіad, ktуrego zazdroњciіby kaїdy. Ale najwaїniejsze jest to, їe wszyscy їyjemy.</text>
     </string>
     <string id="agr_vint_good_dialog_0">
-        <text>Винт, тут Ситха, походу, в плен взяли. Я отряд собираю чтобы освободить его. Пойдёшь со мной?</text>
+        <text>Wint, wydaje mi siк, їe Sith zostaі wziкty do niewoli. Zbieram oddziaі, їeby go uwolniж. Idziesz ze mn№?</text>
     </string>
     <string id="agr_vint_good_dialog_1">
-        <text>Да от меня пользы не особо много, как от стрелка.</text>
+        <text>Tak, nie ma ze mnie wiкcej poїytku niї ze strzelca.</text>
     </string>
     <string id="agr_vint_good_dialog_2">
-        <text>Это тебе Шкир сказал?</text>
+        <text>Czy Szkir Ci to powiedziaі?</text>
     </string>
     <string id="agr_vint_good_dialog_3">
-        <text>Ну..</text>
+        <text>Taa..</text>
     </string>
     <string id="agr_vint_good_dialog_4">
-        <text>В себя надо верить, а не гнид слушать. Ладно, как хочешь.</text>
+        <text>Musisz wierzyж w siebie i nie sіuchaж gnid. Dobra, jak chcesz.</text>
     </string>
     <string id="agr_vint_good_dialog_5">
-        <text>Погоди. Может, ты действительно прав. Давай я хоть для численности там постою. Орест не будет против?</text>
+        <text>Poczekaj chwilк. Moїe naprawdк masz racjк. Pozwуl mi przynajmniej staж tam ze wzglкdu na liczby. Orest nie bкdzie miaі nic przeciwko?</text>
     </string>
     <string id="agr_vint_good_dialog_6">
-        <text>Орест тоже согласился участвовать.</text>
+        <text>Orest rуwnieї zgodziі siк na udziaі.</text>
     </string>
     <string id="agr_vint_good_dialog_7">
-        <text>Тогда я с вами.</text>
+        <text>W takim razie ja z wami.</text>
     </string>
     <string id="agr_vint_good_dialog_8">
-        <text>Карась, как ты себя чувствуешь?</text>
+        <text>Karaњ, jak siк czujesz?</text>
     </string>
     <string id="agr_vint_last_ge_dialog_0">
-        <text>Ещё раз спасибо за то, что согласился помочь. Без тебя я бы не справился.</text>
+        <text>Jeszcze raz dziкkujк za pomoc. Nie dam rady bez Ciebie.</text>
     </string>
     <string id="agr_vint_last_ge_dialog_1">
-        <text>Это тебе спасибо, за то, что вытащил меня на базу сталкеров. И за слова, про Шкира. Ты всегда был прав насчёт него - он никогда не ценил командную работу.</text>
+        <text>Dziкkujк za doprowadzenie mnie do bazy stalkerуw. I za sіowa o Szkirze. Miaіeњ racjк – nigdy nie doceniaі pracy zespoіowej...</text>
     </string>
     <string id="infernis_return_dialog_0">
-        <text>Рад, что нашёл тебя. У меня к тебе есть несколько вопросов.</text>
+        <text>Cieszк siк, їe Ciк znalazіem. Mam do Ciebie kilka pytaс.</text>
     </string>
     <string id="infernis_return_dialog_1">
-        <text>Я могу попытаться на них ответить, но сначала - верни записку, которую взял здесь. Тебе то она уже не нужна, а мне потом отчитываться перед Доктором.</text>
+        <text>Mogк sprуbowaж na nie odpowiedzieж, ale najpierw oddaj notatkк, ktуr№ tu zabraіeњ. Juї jej nie potrzebujesz, a potem muszк zgіosiж siк do Doktora.</text>
     </string>
     <string id="infernis_return_dialog_2">
-        <text>Держи.</text>
+        <text>Bierz.</text>
     </string>
     <string id="infernis_return_dialog_3">
-        <text>Теперь я готов тебя выслушать.</text>
+        <text>Teraz jestem gotуw Ciк wysіuchaж.</text>
     </string>
     <string id="infernis_return_dialog_4">
-        <text>Тот наёмник, который напал на других наемников с долговцами.. Ты не видел, куда он ушёл?</text>
+        <text>Ten najemnik, ktуry zaatakowaі innych najemnikуw z powinnoњciowcami.. Widziaіeњ, gdzie poszedі?</text>
     </string>
     <string id="infernis_return_dialog_5">
-        <text>Ммм.. Вроде бы он направился в сторону складов. Кстати, я видел сталкеров, которые были с комбезами прихвостней того наёмника. Они куда-то тащили твоего кореша, я проследил за ними. Хотел рассказать тебе, но ты сам меня нашёл.</text>
+        <text>Mmm.. Wygl№da na to, їe skierowaі siк w stronк magazynуw. Swoj№ drog№ widziaіem stalkerуw, ktуrzy byli w kombinezonach poplecznikуw tego najemnika. Ci№gnкli gdzieњ Twojego kumpla, poszedіem za nimi. Chciaіem Ci o tym powiedzieж, ale sam mnie znalazіeњ.</text>
     </string>
     <string id="infernis_return_dialog_6">
-        <text>Что?! Куда они его вели?</text>
+        <text>Їe co?! Gdzie go zabrali?</text>
     </string>
     <string id="infernis_return_dialog_7">
-        <text>В сторону Янтаря. Меня заметили и я смылся. Ещё вопросы?</text>
+        <text>w kierunku Jantaru. Zostaіem zauwaїony i uciekіem. Wiкcej pytaс?</text>
     </string>
     <string id="infernis_return_dialog_8">
-        <text>Нет, это всё. Спасибо за ответы, мне пора.</text>
+        <text>Nie, to wszystko. Dziкki za odpowiedzi, juї idк.</text>
     </string>
     <string id="infernis_return_dialog_9">
-        <text>Удачи, мститель!</text>
+        <text>Powodzenia mњcicielu</text>
     </string>
     <string id="inquisitor_quest_dialog_0">
-        <text>Крутая броня. Где достал?</text>
+        <text>Fajna zbrojka. Sk№d to masz?</text>
     </string>
     <string id="inquisitor_quest_dialog_1">
-        <text>Не достал - награда за задание. Я тут особо опасные миссии выполняю, этот экзоскелет как раз для них подходит.</text>
+        <text>No fajna, nagroda za zadanie. Robiк tutaj szczegуlnie niebezpieczne misje, ten egzoszkielet jest wіaњnie dla nich.</text>
     </string>
     <string id="inquisitor_quest_dialog_10">
-        <text>Ничего особенного, просто наведаться в то место, найти Ореста. Или если его там не будет, попробовать поискать неподалёку. Если он там будет лежать мёртвым, попытаться понять причину смерти.</text>
+        <text>Nic specjalnego, po prostu odwiedџ to miejsce, znajdџ Oresta. A jeњli go tam nie ma, sprуbuj siк rozejrzeж. Jeњli leїy tam martwy, sprуbuj poznaж przyczynк њmierci.</text>
     </string>
     <string id="inquisitor_quest_dialog_11">
-        <text>Причину смерти? Ты же говорил, что там пси-излучение.</text>
+        <text>Przyczynк њmierci? Powiedziaіeњ, їe istnieje promieniowanie PSI.</text>
     </string>
     <string id="inquisitor_quest_dialog_12">
-        <text>Скорее всего, он уже погиб, но нельзя терять надежды. Если он правда погиб, просто вытащим его оттуда. Ну так ты ещё не передумал?</text>
+        <text>Najprawdopodobniej juї umarі, ale nie moїemy traciж nadziei. Jeњli naprawdк nie їyje, po prostu go stamt№d wyci№gniemy. Nie zmieniіeњ jeszcze zdania?</text>
     </string>
     <string id="inquisitor_quest_dialog_13">
-        <text>Передумал.</text>
+        <text>Jednak zmieniіem zdanie.</text>
     </string>
     <string id="inquisitor_quest_dialog_14">
-        <text>Ни в коем случае.</text>
+        <text>W їadnym wypadku.</text>
     </string>
     <string id="inquisitor_quest_dialog_15">
-        <text>Отлично, ты мне уже нравишься, наёмник! Следуй за мной.</text>
+        <text>Њwietnie, juї Ciк lubiк, najemniku! Chodџ za mn№.</text>
     </string>
     <string id="inquisitor_quest_dialog_16">
-        <text>[Далее...]</text>
+        <text>[Dalej...]</text>
     </string>
     <string id="inquisitor_quest_dialog_2">
-        <text>И что же за задания ты выполняешь?</text>
+        <text>A jakie zadania wykonujesz?</text>
     </string>
     <string id="inquisitor_quest_dialog_3">
-        <text>Хочешь присоединиться? Мне как раз для одного задания напарник нужен.</text>
+        <text>Chciaіbyњ doі№czyж? Potrzebujк partnera do jednego z nich.</text>
     </string>
     <string id="inquisitor_quest_dialog_4">
-        <text>А что хоть за задание?</text>
+        <text>Czym wіaњciwie ono polega?</text>
     </string>
     <string id="inquisitor_quest_dialog_5">
-        <text>Не, мне жизнь дороже.</text>
+        <text>Nie, їycie jest dla mnie cenniejsze.</text>
     </string>
     <string id="inquisitor_quest_dialog_6">
-        <text>В соседнем здании - на заводе "Агропром", пропал лидер Одиночек - Орестом кличут. Я разузнал у местных - кто-то ему наплёл про новые артефакты в тоннеле неподалёку, он и попёрся.. Уже как два дня не вышел оттуда, а сталкеры туда идти боятся - излучением там бьёт. Они то без защиты особой, а мы с тобой нормально экипированы. Пройдёмся, найдём его, доведём до базы, и всё. Или хотя бы то, что от него осталось...</text>
+        <text>W s№siednim budynku - w zakіadzie "Agroprom" znikn№і przywуdca Samotnikуw - nazywa siк Orest. Dowiedziaіem siк od miejscowych - ktoњ powiedziaі mu o nowych artefaktach w pobliskim tunelu, a on podeptaі. Nie miaі specjalnej ochrony, ale Ty i ja jesteњmy normalnie wyposaїeni. Wszystko co musimy zrobiж to pуjњж, znaleџж go, zabraж do bazy. A przynajmniej to, co z niego zostaіo...</text>
     </string>
     <string id="inquisitor_quest_dialog_7">
-        <text>Интересно. Я в деле.</text>
+        <text>Interesuj№ce. Wchodzк w to.</text>
     </string>
     <string id="inquisitor_quest_dialog_8">
-        <text>Интересно. Но я пас.</text>
+        <text>Ciekawe, ale to nie dla mnie.</text>
     </string>
     <string id="inquisitor_quest_dialog_9">
-        <text>Ну как знаешь. Если что - я всегда тут.</text>
+        <text>Jak chcesz. Jakby co - zawsze tu jestem.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_0">
-        <text>Я возвращаюсь на базу. Будешь со мной идти?</text>
+        <text>Wracam do bazy. Pуjdziesz ze mn№?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_1">
-        <text>Нет, я немного тут передохну, позже пойду. А сам как, узнал что-то у Ореста?</text>
+        <text>Nie, trochк tu odpocznк, pуjdк pуџniej. A Ty jak dowiedziaіeњ siк czegoњ od Oresta?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_10">
-        <text>Да, наверное, ничего. Я и правда, лучше его себе оставлю.</text>
+        <text>Tak, ale nic szczegуlnego. Wіaњciwie wolк zostawiж to dla siebie.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_11">
-        <text>Ммм.. Нет, я ничего о нём не знаю.</text>
+        <text>Mmm.. Nie, nic o nim nie wiem.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_12">
-        <text>У меня нет такой суммы.</text>
+        <text>Nie mam takiej kwoty.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_13">
-        <text>Вот именно. Ну что?</text>
+        <text>Dokіadnie. Co Ty na to?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_14">
-        <text>Держи.</text>
+        <text>Trzymaj.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_2">
-        <text>Да. Орест действительно нашёл там новый артефакт. Он отдал его мне. Взглянешь?</text>
+        <text>Tak. Orest rzeczywiњcie znalazі tam nowy artefakt. On mi to daі. Rzucisz okiem?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_3">
-        <text>Да нет, ничего особенного. Ну ладно, я пойду.</text>
+        <text>Nie, nic specjalnego. Dobra, pуjdк juї.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_4">
-        <text>А чего бы не взглянуть.. Да, действительно, я таких артефактов ещё не видел. Слушай, может отдашь его мне? Наши как раз сейчас изучают их чтобы лучше знать, как Зона устроена.</text>
+        <text>A dlaczego nie spojrzeж... Tak, rzeczywiњcie, nie widziaіem jeszcze takiego artefaktu. Posіuchaj, czy moїesz mi go daж? Nasi wіaњnie je badaj№, aby lepiej wiedzieж, jak dziaіa Zona.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_5">
-        <text>А может, лучше мне будет его у себя оставить? Вдруг это он помог Оресту так долго под пси-полем выстоять.</text>
+        <text>A moїe lepiej byіoby, gdybym zostawiі to sobie? Nagle to on pomуgі Orestowi tak dіugo przetrwaж pod polem PSI..</text>
     </string>
     <string id="inquisitor_quest_dialog_end_6">
-        <text>Что ты хочешь за этот артефакт?</text>
+        <text>Co chcesz za ten artefakt?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_7">
-        <text>Информацию о Стрелке. Где он сейчас находится?</text>
+        <text>Informacje o Strieіoku. Gdzie on teraz jest?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_8">
-        <text>150.000 гривен.</text>
+        <text>150.000 RU.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_9">
-        <text>Ладно, забирай. Не факт, что у него положительные свойства.</text>
+        <text>Dobra, weџ. To nic, їe ma pozytywne wіaњciwoњci.</text>
     </string>
     <string id="karas_end_dialog_0">
-        <text>Сектор... Подойди сюда..</text>
+        <text>Sektor... Podejdџ tu...</text>
     </string>
     <string id="karas_end_dialog_1">
-        <text>Карась?! Что произошло?</text>
+        <text>Karaњ?! Co siк staіo?</text>
     </string>
     <string id="karas_end_dialog_2">
-        <text>Кто-то.. Устроил засаду.. Всех убили.. Я выжил.. Но ненадолго...</text>
+        <text>Ktoњ... zrobiі zasadzkк... zabili wszystkich... przeїyіem... ale nie na dіugo...</text>
     </string>
     <string id="karas_end_dialog_3">
-        <text>Тебе нужна помощь, идём на базу сталкеров!</text>
+        <text>Potrzebujesz pomocy, chodџmy do bazy stalkerуw!</text>
     </string>
     <string id="karas_end_dialog_4">
-        <text>Поздно.. Ты слишком долго был в лаборатории... Отправляйся к Ситху.. Он тоже выжил... Он отправился в сторону тоннеля с пси-излучением...</text>
+        <text>Za pуџno... Za dіugo przebywaіeњ w laboratorium... Idџ do Sitha... On teї przeїyі... Poszedі w kierunku tunelu z promieniowaniem PSI...</text>
     </string>
     <string id="karas_end_dialog_5">
-        <text>Откуда ты знаешь про тоннель?</text>
+        <text>Sk№d wiesz o tunelu?</text>
     </string>
     <string id="karas_end_dialog_6">
-        <text>Инквизитор рассказывал, просил помочь.. Надо было соглашаться... А сейчас иди к Ситху..</text>
+        <text>Inkwizytor powiedziaі mi, poprosiі o pomoc.. Musiaіem siк zgodziж... A teraz idџ do Sitha..</text>
     </string>
     <string id="karas_end_dialog_7">
-        <text>Я вернусь, и мы быстро доведём тебя до базы. Ты, главное - держись!</text>
+        <text>Wrуcк i szybko zabierzemy Ciк do bazy. Trzymaj siк!</text>
     </string>
     <string id="karas_mayor_z_first_dialog_0">
-        <text>Что тут произошло? Как Карась тут оказался?</text>
+        <text>Co tu siк staіo? Jak Karaњ siк tu dostaі?</text>
     </string>
     <string id="karas_mayor_z_first_dialog_1">
-        <text>Какой-то свободовец принёс его сюда. Пришёл и ушёл. Не стрелял, ничего не объяснил, молча ушёл.</text>
+        <text>Jakiњ bojownik wolnoњci przyniуsі go tutaj. Przyszedі i poszedі. Nie strzelaі, niczego nie wyjaњniaі, poszedі bez sіowa.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_2">
-        <text>Свободовец?</text>
+        <text>Swobodowiec?</text>
     </string>
     <string id="karas_mayor_z_first_dialog_3">
-        <text>Да. В каком-то перекрашенном сталкерском комбезе.</text>
+        <text>Tak. W jakimњ przemalowanym kombinezonie stalkera.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_4">
-        <text>Ладно, это сейчас неважно. Как Карась?</text>
+        <text>Dobra, teraz to nie ma znaczenia. Jak siк miewa Karaњ?</text>
     </string>
     <string id="karas_mayor_z_first_dialog_end_0">
-        <text>Со мной всё в порядке. Раны скоро заживут. Тот свободовец поставил меня на ноги. Сейчас я просто хочу отдохнуть.</text>
+        <text>U mnie wszystko w porz№dku. Rany wkrуtce siк zagoj№. Ten swobodowiec postawiі mnie na nogi. Teraz chcк tylko odpocz№ж.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_end_1">
-        <text>Понятно.</text>
+        <text>Rozumiem.</text>
     </string>
     <string id="kilorik_first_dialog_0">
-        <text>Приветствую.</text>
+        <text>Dzieс dobry.</text>
     </string>
     <string id="kilorik_first_dialog_1">
-        <text>Я тебя раньше здесь не видел. Ты учёный?</text>
+        <text>Nie widziaіem Ciк tu wczeњniej. Jesteњ naukowcem?</text>
     </string>
     <string id="kilorik_first_dialog_10">
-        <text>Я был в тоннеле. За крайним вагоном я нашёл странное растение, похожее на цветок. Странно, как оно могло вырасти без солнца..</text>
+        <text>Byіem w tunelu. Za ostatnim samochodem znalazіem dziwn№ roњlinк, ktуra wygl№daіa jak kwiat. Dziwne, jak mogіa rosn№ж bez sіoсca..</text>
     </string>
     <string id="kilorik_first_dialog_11">
-        <text>Ты пытался сорвать растение?</text>
+        <text>Czy prуbowaіeњ j№ zerwaж?</text>
     </string>
     <string id="kilorik_first_dialog_12">
-        <text>Бывай.</text>
+        <text>Bywaj.</text>
     </string>
     <string id="kilorik_first_dialog_13">
-        <text>Хорошо, я посмотрю, что в том тоннеле. Я в нём был недавно, думаю, особо ничего не поменялось.</text>
+        <text>Dobra, zobaczк, co jest w tym tunelu. Byіem w nim ostatnio, chyba niewiele siк zmieniіo.</text>
     </string>
     <string id="kilorik_first_dialog_14">
-        <text>Удачи, наёмник.</text>
+        <text>Powodzenia, Najemniku.</text>
     </string>
     <string id="kilorik_first_dialog_15">
-        <text>Да. Оно бьёт током, когда я к нему касаюсь. Его невозможно сорвать.</text>
+        <text>Tak. Drga, gdy prуbuje dotkn№ж ale nie da siк zerwaж.</text>
     </string>
     <string id="kilorik_first_dialog_16">
-        <text>А вот это уже интересно. Некое "аномальное растение", которое не подпускает никого к себе. Надо будет сообщить об этом профессору. Ах да, я так же сообщу ему о том, что ты помог мне найти его. Спасибо, наёмник. Давай я отмечу тебе наш бункер в ПДА. Таак.. Вот, всё, там находится наша база. Скажешь ему, что ты от меня и получишь свою награду. Ещё раз спасибо и до встречи.</text>
+        <text>O, to juї jest interesuj№ce. Jakaњ "anomalna roњlina", ktуra nie pozwala nikomu siк do niej zbliїyж. Muszк o tym powiedzieж profesorowi. O tak, dam mu teї znaж, їe pomogіeњ mi j№ znaleџж. Dziкki, Najemniku. Pozwуl, їe oznaczк dla Ciebie w PDA nasz bunkier.  Taak... To wszystko, tam znajduje siк nasza baza. Powiedz mu, їe jesteњ ode mnie, a otrzymasz swoj№ nagrodк. Jeszcze raz dziкkujк i do zobaczenia wkrуtce.</text>
     </string>
     <string id="kilorik_first_dialog_2">
-        <text>Скажем так, я - ассистент, который исследую различные аномалии, осматриваю и ищу новые тропы для перехода в те места, куда ещё не ступала нога сталкерская.</text>
+        <text>Powiedzmy tylko, їe jestem asystentem, ktуry bada rуїne anomalie. Bada i szuka nowych њcieїek, aby dotrzeж do tych miejsc, w ktуrych jeszcze їaden stalker nie postawiі stopy.</text>
     </string>
     <string id="kilorik_first_dialog_3">
-        <text>И как результаты?</text>
+        <text>I jakie s№ rezultaty?</text>
     </string>
     <string id="kilorik_first_dialog_4">
-        <text>Да пока никак. Я ещё занимаюсь торговлей различного оружия, которое я нахожу в тайниках. Вряд ли ты когда-нибудь найдёшь или купишь такой ассортимент.</text>
+        <text>Aj, nijakie... Zajmujк siк rуwnieї handlem rуїnorodn№ broni№, ktуr№ znajdujк w skrytkach. Jest maіo prawdopodobne, abyњ kiedykolwiek znalazі lub kupiі taki asortyment.</text>
     </string>
     <string id="kilorik_first_dialog_5">
-        <text>Есть для меня какая-нибудь работа?</text>
+        <text>Znajdzie siк jakaњ robota?</text>
     </string>
     <string id="kilorik_first_dialog_6">
-        <text>Я работаю на одного профессора, который помешан на исследовании артефактов. Недавно по Зоне пошла молва, что в тоннеле возле Агропрома появились новые артефакты. Меня на всех парах отправили сюда чтобы я обшмонал тот тоннель. А я даже не знаю, что меня там ждёт. Сталкеры говорили, что там обитал контролёр, да и сам тоннель покрыт излучением. Ты ведь наёмник, да? Не мог бы ты за некоторую плату, осмотреть туннель, после чего сообщить мне насчёт того, есть ли что-то, ради чего стоит туда переться.</text>
+        <text>Pracujк dla profesora, ktуry ma obsesjк na punkcie badania artefaktуw. Ostatnio po Strefie rozeszіa siк plotka, їe w tunelu niedaleko Agropromu pojawiіy siк nowe artefakty. Zostaіem wysіany tu, їebym przeszukaі ten tunel. I nawet nie wiem, co tam na mnie czeka. Stalkerzy powiedzieli, їe mieszkaі tam kontroler, a sam tunel byі pokryty promieniowaniem. Jesteњ najemnikiem, prawda? Czy mуgіbyњ za pewn№ opіat№ zbadaж ten tunel, a potem daж mi znaж, czy jest coњ, po co warto siк tam udaж?</text>
     </string>
     <string id="kilorik_first_dialog_7">
-        <text>О какой сумме идёт речь?</text>
+        <text>O jakiej kwocie mуwimy?</text>
     </string>
     <string id="kilorik_first_dialog_8">
-        <text>Я сообщу профессору о том, что ты помог мне с исследованием, после чего ты получишь от него свою часть награды и, если захочешь, контракт на более хорошие вещи.</text>
+        <text>Poinformujк profesora, їe pomogіeњ mi w badaniach, po czym otrzymasz od niego czкњж nagrody oraz jeњli zechcesz, kontrakt na lepsze przedmioty.</text>
     </string>
     <string id="kilorik_first_dialog_9">
-        <text>Отправили тебя, значит разбирайся сам.</text>
+        <text>Wysіali Ciк, wiкc radџ sobie sam.</text>
     </string>
     <string id="krilow_first_dialog_0">
-        <text>Нас интересуют Ваши бойцы.</text>
+        <text>Interesuj№ nas Twoi їoіnierze.</text>
     </string>
     <string id="krilow_first_dialog_1">
-        <text>У меня сейчас нет бойцов, ничем не можем помочь.</text>
+        <text>Nie mam w tej chwili їadnych їoіlnierzy, nie mogк pomуc.</text>
     </string>
     <string id="krilow_first_dialog_10">
-        <text>text in default(Бодян красавчик)</text>
+        <text>text in default(przystojny Adrian)</text>
     </string>
     <string id="krilow_first_dialog_11">
-        <text>[Показать фотографию]</text>
+        <text>[Pokaї zdjкcie]</text>
     </string>
     <string id="krilow_first_dialog_12">
-        <text>Да, знаю одного. Но должен ли я тебе рассказывать о нём?</text>
+        <text>Tak, znam jednego. Ale czy powinienem Ci o nim powiedzieж?</text>
     </string>
     <string id="krilow_first_dialog_13">
-        <text>Сколько?</text>
+        <text>Ile?</text>
     </string>
     <string id="krilow_first_dialog_14">
-        <text>Услуга за услугу.</text>
+        <text>Przysіuga za przysіugк.</text>
     </string>
     <string id="krilow_first_dialog_15">
-        <text>Идёт.</text>
+        <text>Stoi.</text>
     </string>
     <string id="krilow_first_dialog_16">
-        <text>На болотах неподалёку отсюда есть один домик. Вокруг него идёт химическое облако. Возможно, поэтому мои ребята видели там каких-то сумасшедших в долговских комбинезонах, наверное галлюцинации. Может, это друзья нападавших на вас. Во всяком случае, тебе нужно обчистить этот дом. Обо всём, что ты там найдёшь, расскажешь мне, а я решу, есть ли смысл это забирать. Одному тебе идти туда необязательно - можешь взять с собой своих приятелей.</text>
+        <text>Niedaleko st№d na bagnach stoi dom. Wokуі niego jest chmura chemiczna. Moїe dlatego moi ludzie widzieli tam jakichњ wariatуw w kombinezonach Powinnoњci, prawdopodobnie halucynacje. Moїe s№ przyjaciуіmi Twoich napastnikуw. W kaїdym razie musisz posprz№taж ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujк, czy jest to warte. Nie musisz iњж tam sam - moїesz zabraж kogoњ ze sob№.</text>
     </string>
     <string id="krilow_first_dialog_17">
-        <text>Сам справлюсь. Давай координаты.</text>
+        <text>Sam sobie poradzк. Podaj mi wspуіrzкdne.</text>
     </string>
     <string id="krilow_first_dialog_2">
-        <text>Да мы, собственно, по другому вопросу. Что вы можете сказать за бойцов в Рыжем лесу?</text>
+        <text>Wіaњciwie mam inn№ sprawк. Co moїesz powiedzieж o bojownikach w Czerwonym Lesie?</text>
     </string>
     <string id="krilow_first_dialog_3">
-        <text>Что они успели натворить? Они недавно погибли в аномалии, жаль ребят.</text>
+        <text>Co oni byli w stanie zrobiж? Niedawno zginкli w anomalii, їal chіopakуw.</text>
     </string>
     <string id="krilow_first_dialog_4">
-        <text>В аномалии? Похоже, мы говорим не об одних и тех же людях, сколько было в твоём отряде бойцов?</text>
+        <text>W anomalii? Wygl№da na to, їe nie mуwimy o tych samych ludziach, ilu byіo w Twoim skіadzie?</text>
     </string>
     <string id="krilow_first_dialog_5">
-        <text>Человека три, не больше.</text>
+        <text>Trzech ludzi, nie wiкcej.</text>
     </string>
     <string id="krilow_first_dialog_6">
-        <text>На нас напало порядка 10-ти бойцов в общем.</text>
+        <text>W sumie zaatakowaіo nas okoіo 10 chіopa.</text>
     </string>
     <string id="krilow_first_dialog_7">
-        <text>Это - подстава, я не отправлял своих бойцов на уничтожение наёмников, тем более - десяток.</text>
+        <text>Ktoњ prуbuje nas wrobiж, nie wysіaіem їolnierzy do zniszczenia najemnikуw, zwіaszcza kilkunastu.</text>
     </string>
     <string id="krilow_first_dialog_8">
-        <text>Значит, загадка... Ладно, ещё хотел кое-что спросить. Я тебе сейчас покажу фотографию, хотелось-бы попросить тебя рассказать всё, что знаешь об этих бойцах.</text>
+        <text>Wiкc mamy zagadkк... Dobra, chciaіem zapytaж o coњ innego. Pokaїк Ci teraz zdjкcie, chciaіbym prosiж o opowiedzenie wszystkiego, co wiesz o tych ludziach.</text>
     </string>
     <string id="krilow_first_dialog_9">
-        <text>Давай гляну.</text>
+        <text>Sprawdџmy.</text>
     </string>
     <string id="krilow_first_dialog_end_0">
-        <text>Докладываю: в том доме действительно были, судя по всему, бывшие долговцы.</text>
+        <text>Juї mуwiк: w tym domu faktycznie najwyraџniej byli dawni powinnoњciowscy.</text>
     </string>
     <string id="krilow_first_dialog_end_1">
-        <text>"Бывшие"? Но что они там забыли?</text>
+        <text>"Dawni"? Co oni tam robili?</text>
     </string>
     <string id="krilow_first_dialog_end_2">
-        <text>У одного из них я нашёл КПК, где говорится про какого-то Миротворца, который активно сливал им инфу с вашей базы, видимо, тоже один из них. Вот КПК, почитай.</text>
+        <text>U jednego z nich znalazіem PDA, ktуry mуwi o jakimњ Mirotworcu, ktуry aktywnie przekazywaі im informacje z Twojej bazy, najwyraџniej byі jednym z nich. Oto PDA, przeczytaj.</text>
     </string>
     <string id="krilow_first_dialog_end_end_0">
-        <text>Ты в порядке, генерал?</text>
+        <text>Wszystko w porz№dku, generale?</text>
     </string>
     <string id="krilow_first_dialog_end_end_1">
-        <text>Да, наверное.. Спасибо за помощь. Держи, хоть как-то тебя отблагодарю.</text>
+        <text>Tak, chyba.. Dziкki za pomoc. Trzymaj siк, jakoњ Ci podziкkujк.</text>
     </string>
     <string id="krilow_first_dialog_end_end_2">
-        <text>Как насчёт информации?</text>
+        <text>A co z informacjami?</text>
     </string>
     <string id="krilow_first_dialog_end_end_3">
-        <text>Конечно, да... В общем, знаю одного из этих сталкеров, его наёмник искал... Шрам, точно! Он нам помог подземелье зачистить, там он и нашёл информацию об этом же сталкере. Думаю тебе стоит туда пойти. За казармами есть люк, тебе его найти не составит труда.</text>
+        <text>Oczywiњcie, tak... Generalnie znam jednego z tych stalkerуw, jeden najemnik go szukaі... "Blizna", na pewno! Pomуgі nam oczyњciж loch i tam znalazі informacje o tym wіaњnie stalkerze. Myњlк, їe powinieneњ tam iњж. Za koszarami znajduje siк wіaz, nie bкdzie Ci trudno go znaleџж...</text>
     </string>
     <string id="krilow_first_dialog_end_end_4">
-        <text>Хорошо, спасибо.</text>
+        <text>Dobrze, dziкkujк.</text>
     </string>
     <string id="mayor_z_first_dialog_bad_0">
-        <text>Мне нужна помощь.</text>
+        <text>Potrzebujк pomocy.</text>
     </string>
     <string id="mayor_z_first_dialog_bad_1">
-        <text>В чём проблема?</text>
+        <text>W czym problem?</text>
     </string>
     <string id="mayor_z_first_dialog_bad_2">
-        <text>Мой напарник пропал. Сейчас мне пришло сообщение от какого-то сталкера, что он, предположительно, знает его местонахождение. Но что-то не верится мне. Возможно, это люди Шкира организовали мне засаду. Не мог бы ты составить мне компанию?</text>
+        <text>Zagin№і mуj partner. Teraz otrzymaіem wiadomoњж od jakiegoњ stalkera, їe podobno zna jego miejsce pobytu. Ale jest coњ, co mnie niepokoi. Moїe to ludzie Szkira zasadzaj№ siк na mnie. Czy mуgіbyњ dotrzymaж mi towarzystwa?</text>
     </string>
     <string id="mayor_z_first_dialog_bad_3">
-        <text>Слушай, я не особо разбираюсь в ваших Шкирах, напарниках, засадах... Я устал после всего, что произошло и сейчас просто хочу спокойствия. Поэтому извини, но я - пас.</text>
+        <text>Sіuchaj, niewiele wiem o Twoich Szkirach, partnerach, zasadzkach... Jestem zmкczony tym, co siк wydarzyіo, a teraz chcк siк tylko uspokoiж. Wiкc przepraszam, ale - nie obchodzi mnie to.</text>
     </string>
     <string id="orest_first_dialog_0">
-        <text>А-ах, да когда же это всё закончится.... А-аа, кто вы?!</text>
+        <text>Ahh... kiedy to wszystko siк skoсczy... A-aa, kim jesteњ?!</text>
     </string>
     <string id="orest_first_dialog_1">
-        <text>Мы - твоя скорая помощь. Это тебя Орестом кличут?</text>
+        <text>My? Twoj№ pomoc№. Ciebie nazywaj№ Orest?</text>
     </string>
     <string id="orest_first_dialog_2">
-        <text>А-аа, что? Орест? Да, я.. А вы кто?.. Скора-ая по-омощь?</text>
+        <text>Aaa... co? Orest? Tak, to ja.. A kim jesteњcie?.. Po... Pomoc№?</text>
     </string>
     <string id="orest_first_dialog_3">
-        <text>Да. Мы выведем тебя отсюда.</text>
+        <text>Tak. Wyci№gniemy Ciк st№d.</text>
     </string>
     <string id="orest_first_dialog_4">
-        <text>ААА-А-А-А-ААААААААААА!</text>
+        <text>AAA-A-A-A-AAAAAAAAAAAA!</text>
     </string>
     <string id="orest_first_dialog_5">
-        <text>Что с тобой?</text>
+        <text>Co z Tob№?</text>
     </string>
     <string id="orest_first_dialog_end_0">
-        <text>Ну как ты, парень?</text>
+        <text>Jak siк masz chіopie?</text>
     </string>
     <string id="orest_first_dialog_end_1">
-        <text>Вы спасли мне жизнь! Огромное спасибо. Я не знаю, сколько бы я ещё пробыл там, и в кого бы превратился. Остальные сталкеры тоже вам благодарны, я уверен, у Дрозда найдётся кое-что интересное для вас.</text>
+        <text>Uratowaіeњ mi їycie! Wielkie dziкki. Nie wiem, jak dіugo bym tam zostaі i w kogo bym siк zmieniі. Reszta stalkerуw teї jest Ci wdziкczna, na pewno Drozd ma dla Ciebie coњ ciekawego.</text>
     </string>
     <string id="orest_first_dialog_end_10">
-        <text>Ага, спасибо.</text>
+        <text>Aha, dziкki.</text>
     </string>
     <string id="orest_first_dialog_end_2">
-        <text>Дрозд?</text>
+        <text>Drozd?</text>
     </string>
     <string id="orest_first_dialog_end_3">
-        <text>Торговец на нашей базе. Итак, чем я могу быть вам полезен?</text>
+        <text>Handlarz w naszej bazie. Wiкc, co mogк jeszcze dla Ciebie zrobiж?</text>
     </string>
     <string id="orest_first_dialog_end_4">
-        <text>Меня интересует сталкер по кличке Стрелок. А ещё больше меня инетресует его примерное местоположение. Что можешь сказать по этому поводу?</text>
+        <text>Interesuje mnie stalker o imieniu Streіok. A jeszcze bardziej interesuje mnie jego przybliїona lokalizacja. Co mi moїesz o tym powiedzieж?</text>
     </string>
     <string id="orest_first_dialog_end_5">
-        <text>Стрелок... Стрелок... А, вспомнил! Он со своей группой к центру Зоны ходил. Может, сгинул где-то там. Тут недавно один из ваших тоже Стрелком интересовался.</text>
+        <text>Strieіok... Strieіok... Ach, pamiкtam! On i jego grupa udali siк do centrum Strefy. Moїe gdzieњ padі. Tutaj ostatnio jeden z Was rуwnieї zainteresowaі siк Strieіokiem.</text>
     </string>
     <string id="orest_first_dialog_end_6">
-        <text>"Один из наших"?</text>
+        <text>"Jeden z nas"?</text>
     </string>
     <string id="orest_first_dialog_end_7">
-        <text>Да. Наёмник какой-то со шрамом на лице.</text>
+        <text>Tak. Jakiњ najemnik z blizn№ na twarzy.</text>
     </string>
     <string id="orest_first_dialog_end_8">
-        <text>Понятно. Ну я пойду тогда.</text>
+        <text>Jasne. Cуї, pora na mnie.</text>
     </string>
     <string id="orest_first_dialog_end_9">
-        <text>Погоди! Тот сталкер, который мне про артефакты наплёл, прав оказался - в том тоннеле действительно новые артефакты были. Я нашёл один, можешь забрать его себе. Всё таки, ты мне жизнь спас, а если бы вы опоздали, вы бы всё равно этот артефакт забрали. А так, скажем, в награду за то, что рисковали своей жизнью ради другого.</text>
+        <text>Poczekaj chwilк! Ten stalker, ktуry powiedziaі mi o artefaktach, miaі racjк - w tym tunelu naprawdк byіy nowe artefakty. Znalazіem jeden, moїesz go wzi№ж dla siebie. Mimo wszystko uratowaіeњ mi їycie, a gdybyњ siк spуџniі, i tak zabraіbyњ go. A wiкc powiedzmy, їe w nagrodк za zaryzykowanie wіasnego їycia dla dobra drugiego.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_0">
-        <text>Вам нужна какая-то помощь?</text>
+        <text>Czy potrzebujesz pomocy?</text>
     </string>
     <string id="orest_vint_stalkers_dialog_1">
-        <text>Хорошо, что ты спросил. У нас ведь на базе тоже был техник, как на базе Долга, только сейчас он с некоторыми сталкерами отправился в Рыжий Лес на рейд. Я, конечно, уверен в Айдаре, но нужно готовить себя ко всему. Если вдруг он не вернётся, многим на нашей базе будет туго, добираться до долговского блокпоста, чтобы тебе ремонтировали вещи по завышенной цене, а потом возвращаться обратно на базу - не очень приятно, согласись. А Крылов своего техника не хочет отдавать, ну оно то и понятно. Я это к чему - может, у тебя есть знакомые люди, которые более-менее разбираются в оружии, или броне? Не мог бы кого-нибудь найти?</text>
+        <text>Dobrze, їe pytasz. W koсcu teї mieliњmy technika w bazie, podobnie jak w bazie Powinnoњci, tylko teraz on i kilku stalkerуw pojechali do Czerwonego Lasu na nalot. Oczywiњcie ufam Aidarowi, ale na wszystko trzeba siк przygotowaж. Jeњli nagle nie wrуci, wielu w naszej bazie bкdzie trudno, dostaж siк do punktu kontrolnego Powinnoњci, їeby rzeczy byіy dla Was naprawione po zawyїonej cenie, a potem powrуt do bazy nie jest zbyt przyjemny. Tak to wygl№da. Ale Kryіow nie chce zrezygnowaж ze swojej techniki, cуї, to zrozumiaіe. O czym ja mуwiк - moїe masz ludzi, ktуrych znasz, ktуrzy s№ mniej lub bardziej zaznajomieni z broni№ lub zbroj№? Czy mуgіbyњ kogoњ takiego znaleџж?</text>
     </string>
     <string id="orest_vint_stalkers_dialog_2">
-        <text>Хм.. Да, есть один. Попробую его уговорить.</text>
+        <text>Hmm.. Tak, jest jeden. Sprуbujк go przekonaж.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_3">
-        <text>Хм.. Да, есть один. Но он на такое никогда не согласится.</text>
+        <text>Hmm.. Tak, jest jeden. Ale nigdy siк na to nie zgodzi.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_4">
-        <text>Ничем не могу помочь.</text>
+        <text>Nie mogк pomуc.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_5">
-        <text>Может, всё-таки спросишь? Мало ли, вдруг ему денег заработать надо.</text>
+        <text>Moїe sprуbuj zapytaж? Nigdy nie wiadomo, moїe potrzebuje pracy.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_6">
-        <text>Ну хорошо, спрошу.</text>
+        <text>Dobra, zapytam.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_7">
-        <text>Сказал же - не согласится. Я его хорошо знаю.</text>
+        <text>Powiedziaі, їe siк nie zgadza. Znam go dobrze.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_0">
-        <text>Вот вам новый техник, Винтом кличут.</text>
+        <text>Oto nowy technik dla Ciebie, nazywa siк Wint.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_1">
-        <text>Спасибо тебе, Сектор, ты уже в какой раз нас выручаешь. Если хочешь, я всегда согласен принять тебя в Одиночки.</text>
+        <text>Dziкkujк, Sektorze, juї tyle razy nam pomagaіeњ. Jeњli chcesz, zawsze chкtnie przyjmк Ciк w Samotnoњci.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_2">
-        <text>Посмотрим.</text>
+        <text>Zobaczymy.</text>
     </string>
     <string id="shkir_gg_first_dialog_0">
-        <text>Почему ты выбрал именно Агропром?</text>
+        <text>Dlaczego wybraіeњ Agroprom?</text>
     </string>
     <string id="shkir_gg_first_dialog_1">
-        <text>Потому что тут находится главная база Долга. Они знают нашу цель, возможно, им так-же нужна группа Стрелка. Мы можем объединиться дабы быстрее найти его.</text>
+        <text>Poniewaї tutaj jest gіуwna baza Powinnoњci. Znaj№ nasz cel, byж moїe poszukuj№ teї grupy Strieіki. Moїemy poі№czyж siіy, by szybciej go znaleџж.</text>
     </string>
     <string id="shkir_gg_first_dialog_2">
-        <text>Объединиться с теми, кто убили Кейна с Фобосом, и почти убили Ситха?</text>
+        <text>Poі№czyж siіy z tymi, ktуrzy zabili Kane'a i Fobosa i prawie zabili Sitha?</text>
     </string>
     <string id="shkir_gg_first_dialog_3">
-        <text>Да. Я не думаю, что между наёмниками и долговцами будут плохие отношения из-за четырёх идиотов. Всё, у меня нет времени на разговоры. Если тебе так интересно узнать, зачем они убили тех бестолочей, спроси сам у Крылова.</text>
+        <text>Tak. Nie s№dzк, їeby byіy zіe stosunki miкdzy najemnikami a powinnoњciowcami z powodu paru idiotуw. Cуї, nie mam czasu na rozmowк. Jeњli tak Ciк interesuje, dlaczego zabili tych idiotуw, sam zapytaj Kryіowa.</text>
     </string>
     <string id="shkir_gg_first_dialog_4">
-        <text>Как скажешь.</text>
+        <text>Skoro tak mуwisz.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_0">
-        <text>Судя по всему, те долговцы в Рыжем Лесу были фанатиками.</text>
+        <text>Podobno ci z Powinnoњci w Czerwonym Lesie byli fanatykami.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_1">
-        <text>Да? И как ты это понял?</text>
+        <text>Tak? A jak to zrozumiaіeњ?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_2">
-        <text>Крылов рассказал, что он посылал лишь троих бойцов, которые погибли в аномалии. Так же я узнал, что часть долговцев, что на Агропроме, что в Рыжем лесу - были монолитовцы, которым не составило труда влиться в их ряды. С ними уже покончено.</text>
+        <text>Kryіow powiedziaі, їe wysіaі tylko trzech bojownikуw, ktуrzy zginкli w anomalii. Dowiedziaіem siк rуwnieї, їe czкњж Powinnoњciowcуw, zarуwno w Agropromie, jak i w Czerwonym Lesie, to Monolity, ktуrzy bez trudnoњci wst№pili w ich szeregi. Oni juї s№ skoсczeni.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_3">
-        <text>Запутанно.. Ладно, что-то о Группе Стрелка узнал?</text>
+        <text>Skomplikowane... Dobra, dowiedziaіeњ siк czegoњ o Grupie Streіka?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_4">
-        <text>Да, узнал. Того наёмника, который так же охотился за Стрелком, звали Шрамом. Он помог долговцам зачистить подземелья НИИ от мутантов, в которых он и нашёл документы, связанные со Стрелком. Я собираюсь спуститься в подземелья Агропрома с целью найти информацию. В конце я расскажу тебе обо всём.</text>
+        <text>Tak, dowiedziaіem siк. Najemnik, ktуry rуwnieї polowaі na Streіoka, nazywaі siк Szrama. Pomуgі powinnoњci oczyњciж z mutantуw lochy instytutu badawczego, w ktуrych znalazі dokumenty zwi№zane ze Streіokiem. Zamierzam zejњж do lochуw Agropromu w poszukiwaniu informacji. W koсcu wszystko Ci opowiem.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_5">
-        <text>Ты один туда собираешься спускаться?</text>
+        <text>Idziesz tam sam?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_6">
-        <text>Да, от тебя ведь нормальных приказов не дождёшься.</text>
+        <text>Tak, nie oczekujк od Ciebie normalnych rozkazуw.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_7">
-        <text>Отлично, мне даже не пришлось тебе сопли вытирать. Ну что могу сказать, отправляйся.</text>
+        <text>Њwietnie, nie bкdк musiaі wycieraж Ci smarka. Cуї mogк powiedzieж, idџ.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_0">
-        <text>Шкир, разговор к тебе есть.</text>
+        <text>Szkir, jest temat do Ciebie.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_1">
-        <text>Чё тебе надо?</text>
+        <text>Czego chcesz?</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_2">
-        <text>У сталкеров временно отсутствует техник. Мы могли бы отдать им Винта на то время, пока мы на базе Долга.</text>
+        <text>Stalkerzy chwilowo nie maj№ technika. Moglibyњmy daж im Winta, kiedy bкdziemy w bazie Powinnoњci.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_3">
-        <text>С какой это радости?</text>
+        <text>Cуї to za "dzieс dziecka"?</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_4">
-        <text>Ну подумай. Сегодня мы вотрёмся в их доверие, а завтра они могут нам рассказать за группу Стрелка.</text>
+        <text>Pomyњl. Dziњ zdobкdziemy ich zaufanie, a jutro mog№ nam powiedzieж o grupie Streіka.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_5">
-        <text>Хм... Ладно. Всё равно от Винта толку - ноль, как от бойца. В руках - Винторез, а пользоваться им не умеет.</text>
+        <text>Hmm... Dobrze. Mimo wszystko Wint jest bezuїyteczny - zero, jak їoіnierz. W rкkach - Vintorez, ale nie wie, jak go wykorzystaж.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_6">
-        <text>Ну нет, так нет.</text>
+        <text>Cуї, nie ma mowy.</text>
     </string>
     <string id="sith_genesis_dialog_0">
-        <text>Ситх, это ты?</text>
+        <text>Sith, to Ty?</text>
     </string>
     <string id="sith_genesis_dialog_1">
-        <text>Как видишь..</text>
+        <text>Jak widzisz...</text>
     </string>
     <string id="sith_genesis_dialog_2">
-        <text>Так значит, это всё устроил Шкир?</text>
+        <text>Czyli to znaczy, їe Szkir to wszystko zaaranїowaі?</text>
     </string>
     <string id="sith_genesis_dialog_3">
-        <text>Да.. Он вдруг вышел из базы, я - за ним незаметно. С другого холма посмотрел, он позвал кого-то по рации. Я предупредил всех, кто был на базе, что что-то не так. Потом вернулся - наблюдать, и помогать в случае чего.. Высадился вертолёт с вооружёнными головорезами. Конкретно кто это были - я не понял, по комбинезонам было не понять, ибо я таких не видел ещё. Это было поражение, меня заметили в последний момент, когда я уже начал бежать. Кто эти сталкеры - я не знаю, скорее всего, его сообщники. Возможно, контракт - это было лишь прикрытие. А настоящие его планы никто не знает..</text>
+        <text>Tak.. Nagle opuњciі bazк, szedіem za nim niepostrzeїenie. Spojrzaіem z innego wzgуrza, wezwaі kogoњ przez radio. Ostrzegіem wszystkich w bazie, їe coњ jest nie tak. Potem wrуciі – obserwowaж, a w razie potrzeby pomуc.. Helikopter wyl№dowaі z uzbrojonymi bandytami. A konkretnie kim byli – nie mam bladego pojкcia, kombinezony byіy nijakie. Takich ludzi jeszcze nie widziaіem. To byіa poraїka, zauwaїyli mnie w ostatniej chwili, kiedy juї zacz№іem biec. Kim s№ ci stalkerzy - najprawdopodobniej nie znam jego wspуlnikуw. Byж moїe kontrakt byі tylko przykrywk№. Nikt nie zna jego prawdziwych planуw.</text>
     </string>
     <string id="sith_genesis_dialog_4">
-        <text>И куда они ушли - ты, как я понимаю, тоже не знаешь..?</text>
+        <text>A gdzie oni poszli - tego, jak rozumiem, teї nie wiesz..?</text>
     </string>
     <string id="sith_genesis_dialog_5">
-        <text>Нет, не знаю.</text>
+        <text>Bladego pojкcia nie mam.</text>
     </string>
     <string id="sith_genesis_dialog_6">
-        <text>Ситх, помнится, ты говорил мне, что поможешь мне, когда я попрошу? Так вот, сейчас я хочу найти и уничтожить Шкира, любой ценой. У меня давно руки чешутся его завалить, но теперь...</text>
+        <text>Sith, pamiкtasz, jak mуwiіeњ mi, їe mi pomoїesz, kiedy o to poproszк? Wiкc teraz chcк znaleџж i zniszczyж Szkira za wszelk№ cenк. Rкce mnie њwieїbiaіy їeby mu jebn№ж, ale teraz to miarka siк przebraіa...</text>
     </string>
     <string id="sith_genesis_dialog_7">
-        <text>Я рад, что наши дорожки сошлись. Я помогу тебе, это не обсуждается. Кстати, ты был в лаборатории? Что ты там нашёл?</text>
+        <text>Cieszк siк, їe nasze њcieїki siк zbiegіy. Pomogк Ci bez dwуch zdaс. A propos, byіeњ w laboratorium? Co tam znalazіeњ?</text>
     </string>
     <string id="sith_genesis_dialog_8">
-        <text>Нашёл записку.. Погоди, точно! В подземельях я нашёл сталкера, который в точности видел всю засаду. Он мог видеть, куда после этого ушёл Шкир. Я сейчас вернусь.</text>
+        <text>Znalazіem notatkк... Czekaj, zgadza siк! W lochach znalazіem stalkera, ktуry dokіadnie widziaі caі№ zasadzkк. Widziaі, dok№d poszedі po tym Szkir. Zaraz wracam.</text>
     </string>
-    <string id="sith_resсue_dialog_0">
-        <text>Спасибо, брат, ты в очередной раз спас мне жизнь.</text>
+    <string id="sith_rescue_dialog_0">
+        <text>Dziкkujк bracie, po raz kolejny uratowaіeњ mi їycie.</text>
     </string>
-    <string id="sith_resсue_dialog_1">
-        <text>Тут была не только моя заслуга. Ещё этих ребят, и ещё одного человека... Если бы не он, я бы вряд-ли узнал о том, что тебя тут держат.</text>
+    <string id="sith_rescue_dialog_1">
+        <text>To byіa nie tylko moja zasіuga. To dziкki tym facetom i jeszcze jedna osoba... Gdyby nie on, nie wiedziaі bym, їe jesteњ tutaj przetrzymywany.</text>
     </string>
-    <string id="sith_resсue_dialog_2">
-        <text>Я могу знать этого человека?</text>
+    <string id="sith_rescue_dialog_2">
+        <text>Czy mogк poznaж tк osobк?</text>
     </string>
-    <string id="sith_resсue_dialog_3">
-        <text>Возможно.</text>
+    <string id="sith_rescue_dialog_3">
+        <text>Byж moїe.</text>
     </string>
-    <string id="sith_resсue_dialog_4">
-        <text>Ладно, с этим потом разберёмся. Ты узнал что-нибудь о Шкире?</text>
+    <string id="sith_rescue_dialog_4">
+        <text>Dobra, zajmiemy siк tym pуџniej. Dowiedziaіeњ siк czegoњ o Szkirze?</text>
     </string>
-    <string id="sith_resсue_dialog_5">
-        <text>Да. Эти твари, которые тебя взяли в плен, являются кем-то вроде его шестёрок. Их было несколько и, скорее всего, где-то они ещё остались. Ещё я узнал, что Шкир, предположительно, отправился в сторону Армейских складов, а уже оттуда - в Рыжий Лес.</text>
+    <string id="sith_rescue_dialog_5">
+        <text>Tak. Te stworzenia, ktуre wziкіy Ciк do niewoli, s№ czymњ w rodzaju jego roboli. Byіo ich kilku i najprawdopodobniej gdzieњ jeszcze s№. Dowiedziaіem siк rуwnieї, їe Szkir prawdopodobnie udaі siк w kierunku magazynуw wojskowych, a stamt№d - do Czerwonego Lasu.</text>
     </string>
-    <string id="sith_resсue_dialog_6">
-        <text>Понятно. Значит, у нас есть место, где можно начать поиски?</text>
+    <string id="sith_rescue_dialog_6">
+        <text>Jasne. Wiкc mamy gdzie zacz№ж szukaж?</text>
     </string>
-    <string id="sith_resсue_dialog_7">
-        <text>Верно.</text>
+    <string id="sith_rescue_dialog_7">
+        <text>Zgadza siк.</text>
     </string>
-    <string id="sith_resсue_dialog_8">
-        <text>Это хорошо. Но я думаю, что сейчас самое время отдохнуть.</text>
+    <string id="sith_rescue_dialog_8">
+        <text>To w porz№dku. Ale myњlк, їe teraz jest czas na odpoczynek.</text>
     </string>
-    <string id="sith_resсue_dialog_9">
-        <text>Да...</text>
+    <string id="sith_rescue_dialog_9">
+        <text>Tak...</text>
     </string>
     <string id="smirnow_good_dialog_0">
-        <text>Как ты сюда попал?</text>
+        <text>Jak siк tu dostaіeњ?</text>
     </string>
     <string id="smirnow_good_dialog_1">
-        <text>Когда вы ушли, я сбежал оттуда, ведь был уверен, что в доме, который раньше принадлежал Леснику, ещё кто-нибудь засядет. Я подумал, что база Одиночек на Агропроме будет безопасным местом, где я смогу отдохнуть.</text>
+        <text>Kiedy wyszedіeњ, uciekіem stamt№d, bo byіem pewien, їe ktoњ inny bкdzie siedziaі w domu po Leњniku. Pomyњlaіem, їe baza Samotnikуw na Agropromie bкdzie bezpiecznym miejscem do odpoczynku..</text>
     </string>
     <string id="smirnow_good_dialog_2">
-        <text>Понятно.</text>
+        <text>Rozumiem.</text>
     </string>
     <string id="smirnow_good_dialog_3">
-        <text>Хорошо, что оставили меня в живых в своё время. А что вы все тут собрались, на охоту что ли?</text>
+        <text>Dobrze, їe pozwolili mi їyж. Po co tu wszyscy jesteњcie, polowanie?</text>
     </string>
     <string id="smirnow_good_dialog_4">
-        <text>Моего напарника, похоже, держат в плену. Я собрал отряд, с которым хочу его освободить. Пойдёшь со мной?</text>
+        <text>Wygl№da na to, їe mуj partner jest przetrzymywany w niewoli. Zebraіem oddziaі, z ktуrym chcк go uwolniж. Idziesz ze mn№?</text>
     </string>
     <string id="smirnow_good_dialog_5">
-        <text>Пойду. Отдохнуть ещё успею.</text>
+        <text>Pуjdк. Zd№їк jeszcze odpocz№ж.</text>
     </string>
     <string id="smirnow_good_dialog_6">
-        <text>Замечательно.</text>
+        <text>Fantastycznie.</text>
     </string>
     <string id="vint_stalkers_dialog_0">
-        <text>Есть желание дополнительно подзаработать?</text>
+        <text>Chcesz zarobiж dodatkowe pieni№dze?</text>
     </string>
     <string id="vint_stalkers_dialog_1">
-        <text>Что тебе нужно, Сектор?</text>
+        <text>Co chcesz, Sektor?</text>
     </string>
     <string id="vint_stalkers_dialog_2">
-        <text>У сталкеров на базе техник временно отсутствует. Лидер лично попросил меня найти ему временную замену. Если ты согласишься, я проведу тебя на базу сталкеров, а когда наш отряд будет собираться уходить, ты уйдёшь вместе с нами.</text>
+        <text>U stalkerуw technik chwilowo zagin№і. Lider osobiњcie poprosiі mnie o znalezienie dla niego tymczasowego zastкpstwa. Jeњli siк zgodzisz, zaprowadzк Ciк do bazy stalkerуw, a gdy nasz oddziaі bкdzie miaі odejњж, Ty odejdziesz z nami..</text>
     </string>
     <string id="vint_stalkers_dialog_3">
-        <text>Возможно, это неплохая идея. Пока все отдыхают, я смогу нормально подзаработать, ибо в отряде мне редко что чинить приходится.</text>
+        <text>Byж moїe to dobry pomysі. Podczas gdy wszyscy odpoczywaj№, mogк dorobiж, bo w oddziale rzadko muszк coњ naprawiaж.</text>
     </string>
     <string id="vint_stalkers_dialog_4">
-        <text>Ну?</text>
+        <text>Wiкc?</text>
     </string>
     <string id="vint_stalkers_dialog_5">
-        <text>Что по этому поводу думает Шкир?</text>
+        <text>Co myњli o tym Szkir?</text>
     </string>
     <string id="vint_stalkers_dialog_6">
-        <text>Он не против.</text>
+        <text>Nie ma nic przeciw.</text>
     </string>
     <string id="vint_stalkers_dialog_7">
-        <text>Хорошо. Выдвигаемся?</text>
+        <text>Dobra. Wyruszamy?</text>
     </string>
     <string id="vint_stalkers_dialog_8">
-        <text>Вперёд.</text>
+        <text>Naprzуd.</text>
     </string>
     <string id="vitaliy_start_dialog_0">
-        <text>Приветствую.</text>
+        <text>Dzieс dobry.</text>
     </string>
     <string id="vitaliy_start_dialog_1">
-        <text>Я тебя раньше тут не видел. Перестрелка была, ты откуда?</text>
+        <text>Nie widziaіem Ciк tu wczeњniej. Byіa strzelanina, sk№d jesteњ?</text>
     </string>
     <string id="vitaliy_start_dialog_2">
-        <text>Я с Болот. Меня сюда отправили разведать обстановку. Прости, это всё, что я могу тебе сказать.</text>
+        <text>Jestem z bagien. Zostaіem wysіany tutaj, aby zbadaж sprawк. Przepraszam, to wszystko co mogк Ci powiedzieж.</text>
     </string>
     <string id="vitaliy_start_dialog_3">
-        <text>Что можешь интересного рассказать?</text>
+        <text>Co ciekawego moїesz powiedzieж?</text>
     </string>
     <string id="vitaliy_start_dialog_4">
-        <text>Недавно выбили Ренегатов с Болот. Наконец-то теперь зажить можно в тех местах! Один наёмник со шрамом на лице помог нам. Если-бы не он, вряд-ли бы я вообще тут находился. Главное - чтобы на Болота сейчас какая-нибудь другая тварь не полезла.</text>
+        <text>Niedawno znokautowaіem wyrodkуw z Bagien. Nareszcie moїna mieszkaж w tych miejscach! Pomуgі nam jeden najemnik z blizn№ na twarzy. Gdyby nie on, pewnie by mnie tu w ogуle nie byіo. Najwaїniejsze jest to, їeby jakaњ inna istota nie wlazіa teraz na bagna.</text>
     </string>
     <string id="vitaliy_start_dialog_5">
-        <text>Бывай.</text>
+        <text>Їegnaj.</text>
     </string>
 </string_table>
