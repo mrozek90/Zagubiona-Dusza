@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="st_activate_artefact">
+		<text>Użyj artefaktu</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>Przyczep granatnik do karabinu</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>Przyczep celownik do pistoletu</text>
+	</string>
+	<string id="st_attach_scope_to_rifle">
+		<text>Przyczep celownik do karabinu</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>Przyczep tłumik do pistoletu</text>
+	</string>
+	<string id="st_attach_silencer_to_rifle">
+		<text>Przyczep tłumik do karabinu</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Cena</text>
+	</string>
+	<string id="st_condition">
+		<text>Stan</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>Odczep granatnik</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>Odczep celownik</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>Odczep tłumik</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>Załóż kombinezon</text>
+	</string>
+	<string id="st_drop">
+		<text>Wyrzuć</text>
+	</string>
+	<string id="st_drop_all">
+		<text>Wyrzuć wszystko</text>
+	</string>
+	<string id="st_eat">
+		<text>Zjedz</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>Przymocuj do pasa</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>Przenieś do plecaka</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>Przenieś do okienka</text>
+	</string>
+	<string id="st_sell_item">
+		<text>Sprzedaj przedmiot</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>Zdejmij kombinezon</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>Rozładuj</text>
+	</string>
+	<string id="st_use">
+		<text>Użyj</text>
+	</string>
+	<string id="st_weight">
+		<text>Waga</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>CELNOŚĆ</text>
+	</string>
+	<string id="ui_inv_bag">
+		<text>Plecak</text>
+	</string>
+	<string id="ui_inv_belt">
+		<text>Pas</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="ui_inv_clear">
+		<text>Wyczyść</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>OBRAŻENIA</text>
+	</string>
+	<string id="ui_inv_description">
+		<text>Opis</text>
+	</string>
+	<string id="ui_inv_drop">
+		<text>Radioskaner</text>
+	</string>
+	<string id="ui_inv_equipment">
+		<text>Sprzęt</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Wyjście</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Kup granaty do granatnika (E)</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>OBSŁUGA</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Ciężkie</text>
+	</string>
+	<string id="ui_inv_items_list">
+		<text>Lista przedmiotów</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Pieniądze</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Oparzenie</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Oparzenie chemiczne</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Wybuch</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Kuloodporność</text>
+	</string>
+	<string id="ui_inv_outfit_params">
+		<text>Parametry pancerza</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Radiacja</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Elektroszok</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Uderzenie</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Psionika.</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Rozerwanie</text>
+	</string>
+	<string id="ui_inv_outfits">
+		<text>Pancerze</text>
+	</string>
+	<string id="ui_inv_personal">
+		<text>Pancerz</text>
+	</string>
+	<string id="ui_inv_pistols">
+		<text>Pistolety</text>
+	</string>
+	<string id="ui_inv_primary_weapons">
+		<text>Podstawowa</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>SZYBKOSTRZELNOŚĆ</text>
+	</string>
+	<string id="ui_inv_rest">
+		<text>Odpoczynek</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Karabiny</text>
+	</string>
+	<string id="ui_inv_shop">
+		<text>Sklep</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Strzelby</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Snajperki</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Czas</text>
+	</string>
+	<string id="ui_inv_total_money">
+		<text>Suma pieniędzy</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Ciężar</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>Kup podstawową amunicję do pistoletu  (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Kup amunicję do karabinu (W)</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Kup granatnik do karabinu  (D)</text>
+	</string>
+	<string id="ui_inv_granades">
+		<text>Granaty</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Kup celownik optyczny do karabinu (S)</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Kup tłumik do pistoletu (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Kup tłumik do karabinu (F)</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Kup poprzedni zestaw</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Sprzedaj wszystkie przedmioty z plecaka  (X)</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Zakupiony zestaw zapisany jako</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Zestaw 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Zestaw 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Zestaw 3 (F3)</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Ostatnie przedmioty  (F4)</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Domyślne przedmioty  (F5)</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Zestaw startowy</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Zresetuj przedmioty (C)</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Nie możesz kupić broni</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Ograniczenie rangi</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Za mało pieniędzy</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Ograniczenie ilości</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Teraz</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Wymagane</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Masz już</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Usługi online dla gry "S.T.A.L.K.E.R." nie są dostępne.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Nie udało się połączyć z głównym serwerem</text>
+	</string>
+<string id="ui_st_sleep_dialog">
+		<text>Na pewno chcesz iść spać?</text>
+	</string>
+</string_table>
