@@ -1,87 +1,78 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="mutant_boar_leg">
-		<text>Копыто кабана</text>
+		<text>Kopyto Dzika</text>
 	</string>
 	<string id="mutant_boar_leg_description">
-		<text>Копыто кабана используется учеными для изготовления ряда лекарств, самым распространенным из которых является противорадиационная сыворотка.</text>
+		<text>Kopyto dzika jest wykorzystywane przez naukowcуw do produkcji szeregu lekуw, z ktуrych najpowszechniejszym jest serum antyradiacyjne.</text>
 	</string>
 	<string id="mutant_dog_tail">
-		<text>Хвост собаки</text>
+		<text>Ogon Psa</text>
 	</string>
 	<string id="mutant_dog_tail_description">
-		<text>Устойчивость кожи мутировавших собак к химическому и электрическому воздействую давно обратила на себя внимание ученых. Из-за отсутствия жировых отложений хвосты собак наиболее подходят для лабораторных исследований.</text>
+		<text>Odpornoњж skуry zmutowanych psуw na dziaіanie chemiczne i elektryczne od dawna przyci№ga uwagк naukowcуw. Ze wzglкdu na brak zіogуw tіuszczowych, psie ogony najlepiej nadaj№ siк do badaс laboratoryjnych..</text>
 	</string>
 	<string id="mutant_flesh_eye">
-		<text>Глаз плоти</text>
+		<text>Oko Miкsacza</text>
 	</string>
 	<string id="mutant_flesh_eye_description">
-		<text>После мутации увеличенный глаз плоти приобрел ряд свойств, самым полезным из которых является способность к регенерации хрусталика. Детали этого механизма точно неизвестны, но это открытие обещает революцию в медицине. Вы можете внести свой вклад в науку, продав глаз плоти ученым для исследований.</text>
+		<text>Po mutacji powiкkszone oko nabraіo szeregu wіaњciwoњci, z ktуrych najbardziej uїyteczn№ jest zdolnoњж do regeneracji soczewki. Szczegуіy tego mechanizmu nie s№ dokіadnie znane, ale odkrycie to zapowiada rewolucjк w medycynie. Moїesz przyczyniж siк do rozwoju nauki, sprzedaj№c Oko Miкsacza naukowcom do badaс.</text>
 	</string>
 	<string id="mutant_krovosos_jaw">
-		<text>Щупальца кровососа</text>
+		<text>Macki Krwiopijcy</text>
 	</string>
 	<string id="mutant_krovosos_jaw_description">
-		<text>Щупальца кровососа содержат особую железу: она выделяет фермент, растворяющий кожу жертвы, и одновременно препятствующий сворачиванию крови. Если ученым удастся определить структуру фермента, это поможет осуществить прорыв в медицине.</text>
+		<text>Macki krwiopijcy zawieraj№ specjalny gruczoі: wydziela enzym, ktуry rozpuszcza skуrк ofiary, a jednoczeњnie zapobiega krzepniкciu krwi. Jeњli naukowcy bкd№ w stanie okreњliж strukturк enzymu, pomoїe to dokonaж przeіomu w medycynie.</text>
 	</string>
 	<string id="mutant_psevdodog_tail">
-		<text>Хвост псевдособаки</text>
+		<text>Ogon Nibypsa</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>Устойчивость кожи мутировавших собак к химическому и электрическому воздействую давно обратила на себя внимание ученых. Из-за отсутствия жировых отложений хвосты собак наиболее подходят для лабораторных исследований.</text>
+		<text>Odpornoњж skуry zmutowanych psуw na dziaіanie chemiczne i elektryczne od dawna przyci№ga uwagк naukowcуw. Ze wzglкdu na brak zіogуw tіuszczowych, psie ogony najlepiej nadaj№ siк do badaс laboratoryjnych.</text>
 	</string>
 	<string id="mutant_snork_leg">
-		<text>Стопа снорка</text>
+		<text>Stopa Snorka</text>
 	</string>
 	<string id="mutant_snork_leg_description">
-		<text>Стопа снорка в отличие от человеческой содержит большее количество сухожилий, обладающих потрясающей эластичностью. Этим объясняется способность снорков совершать невероятные прыжки.</text>
+		<text>Stopa Snorka, w przeciwieсstwie do ludzkiej, zawiera wiкksz№ liczbк њciкgien o niesamowitej elastycznoњci. To wyjaњnia zdolnoњж snorkуw do wykonywania niesamowitych skokуw.</text>
 	</string>
-	
+
 	<string id="mutant_rotan_meat">
-		<text>Филе ротана</text>
+		<text>Filet z Rotanu</text>
 	</string>
 	<string id="mutant_rotan_meat_description">
-		<text>Мясо водных мутантов, встречающиеся только на «Забытых Краях», имеют на удивление очень полезные свойства, среди которых особо выделяется рост мышечных тканей. На основе такого мяса могли бы выйти отличные витамины, но, увы, этот вид мутантов ещё недостаточно изучен для точных выводов.</text>
+		<text>Znalezione tylko w Zapomnianych Ziemiach miкso mutantуw wodnych ma zaskakuj№co korzystne wіaњciwoњci, w szczegуlnoњci wzrost miкњni. Na podstawie takiego miкsa mog№ powstaж doskonaіe witaminy, ale niestety ten typ mutanta nie zostaі jeszcze wystarczaj№co zbadany, aby uzyskaж dokіadne wnioski.</text>
 	</string>
 	<string id="mutant_rotan_caviar">
-		<text>Икра ротана</text>
+		<text>Ikra Rotana</text>
 	</string>
 	<string id="mutant_rotan_caviar_description">
-		<text>Самки ротанов, как и их незаражённые предшественники, откладывают икру. Однако мутация повлияла и на половую железу монстров - откладываемая икра пропитана сильными ферментами, положительно влияющими на нервную систему. Именно из этой икры создаются уникальные антидепрессанты, распространённые среди сталкеров на «Забытых Краях». Такой полезный материал лучше сохранить в какую-нибудь прочную банку, чтобы не вытек.</text>
+		<text>Samice Rotanуw, podobnie jak ich niezainfekowani poprzednicy, skіadaj№ jaja. Jednak mutacja wpіynкіa rуwnieї na gruczoі pіciowy potworуw - zіoїone jaja s№ nasycone silnymi enzymami, ktуre maj№ pozytywny wpіyw na ukіad nerwowy. To wіaњnie z tego kawioru powstaj№ unikalne antydepresanty, powszechne wњrуd stalkerуw w Zapomnianych Ziemiach. Lepiej jest zachowaж taki przydatny materiaі w jakimњ trwaіym sіoiku, aby nie wyciekі.</text>
 	</string>
 	<string id="mutant_krovosos_black_jaw">
-		<text>Щупальца чёрного кровососа</text>
+		<text>Czarne Macki Krwiopijcy</text>
 	</string>
 	<string id="mutant_krovosos_black_jaw_description">
-		<text>У этого кровососа, по сравнению с его ровесниками, более острые и твёрдые тёмные щупальца. Убить его значительно сложнее, чем остальных.</text>
+		<text>Ten krwiopijca, w porуwnaniu do swoich rуwieњnikуw, ma ostrzejsze i twardsze ciemne macki. Zabicie go jest znacznie trudniejsze niї pozostaіych.</text>
 	</string>
-	
+
 	<string id="boar_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать копыта кабана.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж kopyta dzika.</text>	</string>
 	<string id="krovosos_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать щупальца кровососа.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж macki krwiopijcy.</text>	</string>
 	<string id="dog_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать хвост собаки.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж psi ogon.</text>	</string>
 	<string id="psevdodog_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать хвост псевдособаки.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж ogon nibypsa.</text>	</string>
 	<string id="flesh_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать глаз плоти.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж oko miкsacza.</text>	</string>
 	<string id="snork_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать стопы снорка.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж stopy snorka.</text>	</string>
 	<string id="monstr_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы отрезать часть монстра.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby odci№ж czкњж potwora.</text>	</string>
 	<string id="phantom_character_use">
-		<text>Нажмите ($$ACTION_USE$$), чтобы осмотреть фантома.</text>
-	</string>
+<text>Naciњnij ($$ACTION_USE$$), aby sprawdziж upiora.</text>	</string>
 	<string id="stronglaw_character_use">
-		<text>Нажмите ($$ACTION_USE$$) чтобы осмотреть тело кровососа.</text>
-	</string>
-	
+<text>Naciњnij ($$ACTION_USE$$), aby sprawdziж ciaіo krwiopijcy.</text>	</string>
+
 </string_table>

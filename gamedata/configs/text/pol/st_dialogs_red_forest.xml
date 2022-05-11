@@ -1,918 +1,918 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="anaconda_first_dialog_0">
-        <text>Спасибо за помощь. Кто ты?</text>
+        <text>Dziкki za pomoc. Kim jesteњ?</text>
     </string>
     <string id="anaconda_first_dialog_1">
-        <text>Меня Анакондой кличут. Но чё-то я сомневаюсь, что тебе именно это от меня интересно.</text>
+        <text>Nazywaj№ mnie Anakonda. Ale coњ w№tpiк, їe jesteњ tym zainteresowany.</text>
     </string>
     <string id="anaconda_first_dialog_10">
-        <text>Пошли.</text>
+        <text>Chodџmy.</text>
     </string>
     <string id="anaconda_first_dialog_11">
-        <text>Это где?</text>
+        <text>Gdzie?</text>
     </string>
     <string id="anaconda_first_dialog_12">
-        <text>Я отмечу тебе на карте в ПДА это место. Погнали?</text>
+        <text>Zaznaczк to miejsce na Twoim PDA. Idziemy?</text>
     </string>
     <string id="anaconda_first_dialog_13">
-        <text>Хорошо.</text>
+        <text>W porz№dku.</text>
     </string>
     <string id="anaconda_first_dialog_14">
-        <text>Нет, я тороплюсь. К сожалению, нам не по пути.</text>
+        <text>Nie, spieszк siк. Niestety nie jest mi to po drodze.</text>
     </string>
     <string id="anaconda_first_dialog_2">
-        <text>Что здесь произошло?</text>
+        <text>Co tu siк staіo?</text>
     </string>
     <string id="anaconda_first_dialog_3">
-        <text>А вы кто такие? Вы этих жмуров искали?</text>
+        <text>I kim jesteњcie? Szukacie tych њcierw?</text>
     </string>
     <string id="anaconda_first_dialog_4">
-        <text>Нет, не совсем. А ты что-то знаешь о том, что с ними произошло?</text>
+        <text>Niekoniecznie. Czy wiesz coњ o tym, co siк z nimi staіo?</text>
     </string>
     <string id="anaconda_first_dialog_5">
-        <text>Пальба тут была, при чём конкретная. Ошивалась тут сталкерня и мужик один.. Лысый какой-то, в комбезе наёмников.</text>
+        <text>Strzelanka byіa tutaj, a co konkretna. Wokуі krкciі siк stalker i jeden czіowiek... Jakiњ іysy mкїczyzna w kombinezonie najemnika.</text>
     </string>
     <string id="anaconda_first_dialog_6">
-        <text>Понятно... Куда он направился?</text>
+        <text>Rozumiem... Gdzie on poszedі?</text>
     </string>
     <string id="anaconda_first_dialog_7">
-        <text>Да в сторону Лиманска вроде. Слушай, сталкер, раз ты в Лиманск двигаешь, может поможешь мне кое с чем?</text>
+        <text>Raczej w kierunku Limaсska. Sіuchaj stalkerze, skoro pod№їasz do Limaсska, moїesz mi w czymњ pomуc?</text>
     </string>
     <string id="anaconda_first_dialog_8">
-        <text>С чем?</text>
+        <text>Z czym?</text>
     </string>
     <string id="anaconda_first_dialog_9">
-        <text>Мне нужно в «Забытые Края». Составишь компанию?</text>
+        <text>Muszк udaж siк do Zapomnianych Ziem. Mogк siк zabraж?</text>
     </string>
     <string id="dolg_first_dialog_0">
-        <text>Очнулся... Ну, давай, поговорим, урод.</text>
+        <text>Obudziі siк... No dawaj, pogadamy pokrako.</text>
     </string>
     <string id="dolg_first_dialog_1">
-        <text>Какого... Хрена... Ты кто?!</text>
+        <text>Co... Kurwa... Kim jesteњ?!</text>
     </string>
     <string id="dolg_first_dialog_10">
-        <text>Ах, рисковать он любит.. В таком случае - отряд! Убить его!</text>
+        <text>Ach, lubi ryzykowaж... W tym przypadku - oddziaі! Zabiж go!</text>
     </string>
     <string id="dolg_first_dialog_11">
-        <text>Ну, поехали.</text>
+        <text>Chodџmy.</text>
     </string>
     <string id="dolg_first_dialog_2">
-        <text>Вопросы здесь задаю я... А теперь отвечай, скотина. Твоё прозвище?</text>
+        <text>To ja zadajк tutaj zadaje pytania... A teraz odpowiedz mi, draniu. Jaki jest Twуj pseudonim?</text>
     </string>
     <string id="dolg_first_dialog_3">
-        <text>Ээ.. Сектор, вольный сталкер...</text>
+        <text>Uh.. Sektor, wolny stalker...</text>
     </string>
     <string id="dolg_first_dialog_4">
-        <text>Ага, вольный сталкер. Так я тебе и поверил. Видели мы, что вы сделали... То, как вы, мать вашу, неверн.. Невинных сталкеров убили... Я знаю много чего о тебе, Сектор. Так же мы знаем немало о вашей шайке... Нет смысла врать мне.</text>
+        <text>Aha, wolny stalker. A ja Tobie zaufaіem. Widzieliњmy, co zrobiіeњ... Nie sposуb Ci wierzyж... Zabiіeњ niewinnych stalkerуw... Duїo o Tobie wiem, Sektorze. Wiemy teї duїo o Twojej grupie... Nie ma sensu mnie okіamywaж...</text>
     </string>
     <string id="dolg_first_dialog_5">
-        <text>Ну и чё ты тогда лирику строишь?</text>
+        <text>Wiкc po co ta paplanina?</text>
     </string>
     <string id="dolg_first_dialog_6">
-        <text>Закрой рот, пока не забил его свинцом. Значит так, Сектор, теперь ты рассказываешь нам о своём заказчике, и своей группе. Усёк?</text>
+        <text>Zamknij gкbк, zanim napeіnisz j№ oіowiem. A wiкc, Sektorze, teraz opowiadasz nam o swoim kliencie i swojej grupie. Zrozumiano?</text>
     </string>
     <string id="dolg_first_dialog_7">
-        <text>Ты же сказал, что знаешь всё о нас. Зачем тебе информация о группе?</text>
+        <text>Mуwiіeњ, їe wiesz o nas wszystko. Dlaczego potrzebujesz informacji o grupie?</text>
     </string>
     <string id="dolg_first_dialog_8">
-        <text>Повторяю, мразь, вопросы здесь задаю только я. Подумай, сколько ты можешь потерять, если сдохнешь здесь и сейчас? Никто не придёт похоронить тебя, ты просто сгниёшь в этой шахте. Поэтому не рискуй и просто расскажи нам о цели ваших отрядов..</text>
+        <text>Wybacz, szumowino, tylko ja zadajк pytania. Zastanуw siк, ile moїesz straciж, jeњli umrzesz tu i teraz? Nikt nie przyjdzie Ciк pochowaж, po prostu zgnijesz w tej kopalni. Wiкc zachowaj ostroїnoњж i po prostu powiedz nam, jakie zadania maj№ Twoje jednostki...</text>
     </string>
     <string id="dolg_first_dialog_9">
-        <text>Интересно закрутил. Только вот нечего мне терять. А рисковать я люблю. Сёчешь?</text>
+        <text>Ciekawie pokrкcone. Po prostu nie mam nic do stracenia. I uwielbiam podejmowaж ryzyko. Kapujesz?</text>
     </string>
     <string id="leshiy_first_dialog_0">
-        <text>Группа "Альфа"? Почему только 4 человека, вас же было больше?</text>
+        <text>Grupa alfa? Dlaczego tylko 4 osoby, nie byіo was wiкcej?</text>
     </string>
     <string id="leshiy_first_dialog_1">
-        <text>Тебе-то какое дело, Сектор? Неужели помочь кому-то хочешь?</text>
+        <text>Co ciк to obchodzi, Sektorze? Czy naprawdк chcesz komuњ pomуc?</text>
     </string>
     <string id="leshiy_first_dialog_2">
-        <text>Если я спрашиваю, значит есть дело.</text>
+        <text>Jeњli o coњ pytam, znaczy mam w tym cel.</text>
     </string>
     <string id="leshiy_first_dialog_3">
-        <text>В лесу на нас напала какая-то гигантская уродина и порвала половину нашей группы как тузик грелку. Я такого ещё не видел никогда... В общем, тут все, кто успели сбежать. Ну так что, есть тебе до этого дело?</text>
+        <text>W lesie zaatakowaі nas jakiњ gigantyczny њwir i rozerwaі poіowк naszej grupy na strzкpy. Nigdy wczeњniej czegoњ takiego nie widziaіem... Generalnie wszyscy, ktуrym udaіo siк uciec, s№ tutaj. To juї wiesz wszystko, jaki masz w tym cel?</text>
     </string>
     <string id="leshiy_first_dialog_4">
-        <text>Есть. Давай координаты, где вы были.</text>
+        <text>A no mam. Dawaj wspуіrzкdne, gdzie to siк staіo.</text>
     </string>
     <string id="leshiy_first_dialog_5">
-        <text>Да, было дело. Шкиру доложить насчёт вашей группы. Ну, теперь пора мне.</text>
+        <text>Tak, byі cel. Zdaj raport Szkirowi o swojej grupie. Cуї, teraz pora na mnie.</text>
     </string>
     <string id="leshiy_first_dialog_end_0">
-        <text>Нашёл я твоих приятелей и того монстра. Еле уложил падлу.</text>
+        <text>Znalazіem Twoich kumpli i tego potwora. Ledwo poіoїyіem drania.</text>
     </string>
     <string id="leshiy_first_dialog_end_1">
-        <text>Ты.. Разобрался с ним? Похоже, я тебя сильно недооценивал. Спасибо тебе, Сектор. Мне приятно на душе, зная, что ребята отмщены.</text>
+        <text>Czy... co zrobiіeњ?? Wygl№da na to, їe Ciк nie doceniіem. Dziкkujк Sektorze. Cieszy moj№ duszк, wiedz№c, їe chіopaki s№ pomszczeni.</text>
     </string>
     <string id="leshiy_first_dialog_end_2">
-        <text>Да, теперь всё в порядке.</text>
+        <text>Tak, wszystko jest juї w porz№dku.</text>
     </string>
     <string id="leshiy_first_dialog_end_3">
-        <text>Возьми. Это часть от моего прошлого контракта, пусть будет у тебя. Будем считать, что твой новый заказ выполнен.</text>
+        <text>Weџ to. To czкњж mojego ostatniego zlecenia, niech bкdzie z Tob№. Zakіadam, їe Twoje nowe zamуwienie zostaіo zrealizowane.</text>
     </string>
     <string id="noname_dialog_0">
         <text>...</text>
     </string>
     <string id="red_bridge_bridge_move_down_0">
-        <text>Можешь опустить мост?</text>
+        <text>Moїesz opuњciж most</text>
     </string>
     <string id="red_bridge_bridge_move_up_0">
-        <text>Можешь поднять мост?</text>
+        <text>Moїesz podnieњж most?</text>
     </string>
     <string id="red_infernis_first_dialog_0">
-        <text>Я не опоздал?</text>
+        <text>Nie spуџniіem siк?</text>
     </string>
     <string id="red_infernis_first_dialog_1">
-        <text>В самый раз. Я так понимаю, ты тоже вертушку видел?</text>
+        <text>W sam№ porк. Rozumiem, їe teї widziaіeњ helikopter?</text>
     </string>
     <string id="red_infernis_first_dialog_10">
-        <text>Профессор уже достаточно о ней рассказал. Он как раз отправлял туда Шкира со своей группой на зачистку. Сейчас он ищет способы уничтожить особую броню Шкира, которую пулями не взять.</text>
+        <text>Profesor juї o niej wystarczaj№co duїo opowiedziaі. Wіaњnie wysyіaі tam Szkira ze swoj№ grup№, їeby posprz№taі. Teraz szuka sposobуw na zniszczenie jego specjalnej zbroi, ktуrej nie mog№ przebiж kule.</text>
     </string>
     <string id="red_infernis_first_dialog_11">
-        <text>Так она всё-таки существует? Чертовщина продолжается, видимо. Ну что поделать, тогда вернёмся к Ворону. Где ты его видел?</text>
+        <text>Wiкc jednak nadal istnieje? Wygl№da na to, їe dzieje siк piekіo. Cуї, co robiж, potem wrуж do Kruka. Gdzie go widziaіeњ?</text>
     </string>
     <string id="red_infernis_first_dialog_12">
-        <text>На остановке возле моста в Лиманск. К слову, у моста долговцы сейчас, не попадись.</text>
+        <text>Na przystanku przy moњcie do Limaсska. Przy okazji, ludzie z powinnoњci s№ teraz na moњcie, nie daj siк zіapaж.</text>
     </string>
     <string id="red_infernis_first_dialog_13">
-        <text>Знаю, мне пришлось долго искать обход моста. Да, кстати, раз уж ты здесь - возьми вот это.</text>
+        <text>Wiem, znalezienie obejњcia mostu zajкіo mi duїo czasu. Przy okazji, skoro tu jesteњ, weџ to...</text>
     </string>
     <string id="red_infernis_first_dialog_14">
-        <text>Что это такое? Ты где вообще это нашёл?</text>
+        <text>Co to jest? Gdzie to w ogуle znalazіeњ?</text>
     </string>
     <string id="red_infernis_first_dialog_15">
-        <text>У одного из этих проходимцев она была. По-моему, как раз из неё в ту вертушку и стреляли. Поразили с первого же выстрела, но мне вот почему-то выстрелить ни разу не удалось. Так что мне она не нужна, а вот тебе может пригодиться, если хочешь найти способ пробить ту броню, о которой говорил. Я тут ещё некоторое время побуду, если что нужно будет - говори.</text>
+        <text>Jeden z tych oszustуw to miaі. Moim zdaniem to z niej strzelali w ten helikopter. Zestrzelili go jednym strzaіem, ale mnie z jakiegoњ powodu nie udaіo siк strzeliж z tego ani razu. Wiкc nie potrzebujк go, ale Tobie moїe siк przydaж, jeњli chcesz znaleџж sposуb na przebicie siк przez wspomnian№ zbrojк. Bкdк tu przez chwilк, jeњli bкdziesz czegoњ potrzebowaі, po prostu daj mi znaж.</text>
     </string>
     <string id="red_infernis_first_dialog_2">
-        <text>Я точно не понял, что произошло. Вертолёт резко загорелся, начал падать. Кстати, на заправке выжившего нашёл. Говорит, что тебя знает.</text>
+        <text>Nie zrozumiaіem dokіadnie, co siк staіo. Helikopter zapaliі siк gwaіtownie, zacz№і spadaж. Swoj№ drog№, na stacji benzynowej znalazіem ocalaіego. Mуwi, їe Ciк zna.</text>
     </string>
     <string id="red_infernis_first_dialog_3">
-        <text>Вот как? И как же звать этого выжившего?</text>
+        <text>Jak to? A jak nazywa siк ten ocalaіy?</text>
     </string>
     <string id="red_infernis_first_dialog_4">
-        <text>Ворон, если мне память не изменяет.</text>
+        <text>Kruk, jeњli mnie pamiкж nie myli.</text>
     </string>
     <string id="red_infernis_first_dialog_5">
-        <text>..Чего? Ты хочешь сказать, что эти паскуды сбили вертолёт наёмников?</text>
+        <text>..Co? Chcesz powiedzieж, їe ci dranie zestrzelili helikopter najemnikуw?</text>
     </string>
     <string id="red_infernis_first_dialog_6">
-        <text>Уроды в таких комбезах, вместе со Шкиром участвовали в нападении на наши группы на Агропроме. Долгое время не объявлялись, и тут я снова их вижу. В лаборатории, они тоже были.</text>
+        <text>Dziwaki w takich kombinezonach razem ze Szkirem brali udziaі w ataku na nasze grupy na Agropromie. Przez dіugi czas nie rzucaіy mi siк w oczy, a teraz znowu je widzк. W laboratorium teї.</text>
     </string>
     <string id="red_infernis_first_dialog_7">
-        <text>Я вообще сюда пришёл чтобы тайник проверить - в итоге вижу в шахте левых типов, вынюхивающих что-то. Потом слышу издалека вертолёт гудеть начинает, "военные что ли куда-то летят?" - подумал я. И вижу, что эти уроды начинают по нему стрелять. С чего бы это какой-то мусор будет ломать крылышки нашим воякам? Ну я и решил показать, где их место. А теперь оказывается, что там наёмники.. Ладно, насчёт лаборатории. Ты про ту, в которой мы были недавно?</text>
+        <text>Wіaњciwie przyjechaіem tutaj, aby sprawdziж schowek - w rezultacie widzк w kopalni lewicowcуw, ktуrzy coњ wyw№chuj№. Potem sіyszк z daleka, jak helikopter zaczyna huczeж, „czy wojsko gdzieњ leci?” - myњlaіem. I widzк, їe ci dziwacy zaczynaj№ do niego strzelaж. Dlaczego tego rodzaju њmieci miaіyby іamaж skrzydіa naszym wojownikom? Cуї, postanowiіem pokazaж, gdzie jest ich miejsce. A teraz okazuje siк, їe to s№ najemnicy.. Dobra, jeњli chodzi o laboratorium. Mуwisz o tym, w ktуrym byliњmy niedawno?</text>
     </string>
     <string id="red_infernis_first_dialog_8">
-        <text>Да, про неё. Ты что-то вспомнил?</text>
+        <text>Tak, o tym. Co nie co pamiкtasz?</text>
     </string>
     <string id="red_infernis_first_dialog_9">
-        <text>Вообще ничего. Но если эта лаборатория действительно существует и находится недалеко от «Забытых Краёв», тебе бы не помешало узнать о ней от профессора.</text>
+        <text>Zupeіnie nic. Ale jeњli to laboratorium naprawdк istnieje i znajduje siк w pobliїu Zapomnianych Ziem, nie zaszkodzi dowiedzieж siк o nim od profesora.</text>
     </string>
     <string id="red_infernis_first_dialog_end_0">
-        <text>Сектор, на тебе рожи нет. Чё стряслось?</text>
+        <text>Sektor, coњ Ci mina zbladіa. Co siк staіo?</text>
     </string>
     <string id="red_infernis_first_dialog_end_1">
-        <text>...Посмотри сюда...</text>
+        <text>...Popatrz tutaj...</text>
     </string>
     <string id="red_infernis_first_dialog_end_2">
-        <text>Ёб твою.. Это что, голова твоего кореша?</text>
+        <text>Pierdole... Czy to gіowa Twojego kompana?</text>
     </string>
     <string id="red_infernis_first_dialog_end_3">
-        <text>Как так то... Он же..</text>
+        <text>To jest on...</text>
     </string>
     <string id="red_infernis_first_dialog_end_4">
-        <text>Так, Сектор, спокойно. Мысли правильно - я безусловно уверен, что эти ребята отбитые вкрай. Но не настолько, чтобы как грешники - головы рубить.</text>
+        <text>Wiкc, Sektorze, uspokуj siк. Myњl logicznie – jestem pewien, їe ci faceci co najwyїej mog№ pobiж do nieprzytomnoњci. W№tpiк, їeby ucinali gіowy jak heretykom.</text>
     </string>
     <string id="red_infernis_first_dialog_end_5">
-        <text>К чему ты клонишь?</text>
+        <text>Co masz na myњli?</text>
     </string>
     <string id="red_infernis_first_dialog_end_6">
-        <text>Подумай хорошо. Ты уверен, что это его голова?</text>
+        <text>Pomyњl dobrze. Jesteњ pewien, їe to jego gіowa?</text>
     </string>
     <string id="red_infernis_first_dialog_end_7">
-        <text>А чья же ещё? Теперь я понимаю, почему связь пропала.. Хотя...</text>
+        <text>A czyja jeszcze? Teraz rozumiem, dlaczego poі№czenie zostaіo utracone.. Chociaї...</text>
     </string>
     <string id="red_raven_first_dialog_0">
-        <text>Сталкер! А-аай, м-мать.. Сталкер! Подойди сюда..</text>
+        <text>Stalkerze! Ach, m-maж... Stalkerze! Chodџ tu...</text>
     </string>
     <string id="red_raven_first_dialog_1">
-        <text>Наёмник? Ты из того вертолёта?</text>
+        <text>Najemnik? Jesteњ z tego helikoptera?</text>
     </string>
     <string id="red_raven_first_dialog_10">
-        <text>Да не этим, млять, дослушай! У меня особый КПК, модифицированный. Он позволяет смотреть не только группировки поблизости; но и показывает, какие сталкеры вообще из живых находятся в округе. Включаешь режим поиска, и оно идентифицирует каждый по кличкам, установленным в КПК вместе. Ты так сможешь проверить, есть ли кто ещё живой из моей компании.. А-ай, мля.. Поможешь?</text>
+        <text>Nie, sіuchaj uwaїnie! Mam specjalny PDA, zmodyfikowany. Pozwala ogl№daж nie tylko grupy w pobliїu, ale pokazuje rуwnieї, їywych stalkerуw w okolicy. Wі№czasz tryb wyszukiwania, ktуry identyfikuje wszystkich wedіug pseudonimуw ustawionych w PDA. W ten sposуb moїesz sprawdziж, czy ktoњ z mojej grupy jeszcze їyje... Grr...err.. Moїesz pomуc?</text>
     </string>
     <string id="red_raven_first_dialog_11">
-        <text>Ну давай, посмотрим, что там найдёт.</text>
+        <text>Chodџ, zobaczmy, co tam znajdziesz..</text>
     </string>
     <string id="red_raven_first_dialog_2">
-        <text>Ты нас видел?!..</text>
+        <text>Widziaіeњ nas?!..</text>
     </string>
     <string id="red_raven_first_dialog_3">
-        <text>А есть разница? Взрыв на весь Рыжий лес был слышен.</text>
+        <text>Czy jest jakaњ rуїnica? Rozlegіa siк eksplozja po caіym Czerwonym Lesie.</text>
     </string>
     <string id="red_raven_first_dialog_4">
-        <text>Ч-чёрт, ребята.. Смогли ли они.. А-аа!</text>
+        <text>D-do diabіa chіopaki.. Czy mogliby.. Ahhh!</text>
     </string>
     <string id="red_raven_first_dialog_5">
-        <text>Ты давай не надрывайся, лучше расскажи что произошло. И в темпе.</text>
+        <text>Nie panikuj, powiedz mi, co siк staіo. I w migiem.</text>
     </string>
     <string id="red_raven_first_dialog_6">
-        <text>Мы летели на.. Да неважно, куда. Летели мы короче. Как вдруг - управление вертолёта всё током бьёт, мы ничего сделать не могли, он падать начал! Я еле успел выпрыгнуть оттуда.. Ноги не выдержали такой нагрузки...</text>
+        <text>Polecieliњmy do... Tak, nie ma znaczenia gdzie. Lecieliњmy krуtko. Nagle sterowanie helikopterem padіo, nie mogliњmy nic zrobiж, zacz№і spadaж! Ledwo zd№їyіem stamt№d wyskoczyж.. Nogi nie wytrzymaіy takiego obci№їenia...</text>
     </string>
     <string id="red_raven_first_dialog_7">
-        <text>С вами ещё кто-то был?</text>
+        <text>Czy byі z Tob№ ktoњ jeszcze?</text>
     </string>
     <string id="red_raven_first_dialog_8">
-        <text>Да, было три человека. Не знаю, выжил ли кто-то из них.. Слышь, сталкер, может поможешь?</text>
+        <text>Tak, byіy trzy osoby. Nie wiem, czy ktуryњ z nich przeїyі. Hej, stalkerze, moїesz pomуc?</text>
     </string>
     <string id="red_raven_first_dialog_9">
-        <text>Чем? Аптечкой что ли поделиться? Да тут разве поможет такое?</text>
+        <text>Jak? Apteczk№ poratowaж? Czy czegoњ wiкcej potrzebujesz?</text>
     </string>
     <string id="red_raven_first_dialog_end_0">
-        <text>Ну, что там?</text>
+        <text>No, co tam?</text>
     </string>
     <string id="red_raven_first_dialog_end_1">
-        <text>Почти все КПК зашифрованы. Но пару человек нашло.</text>
+        <text>Prawie wszystkie urz№dzenia PDA s№ szyfrowane. Ale znalazіo siк kilka osуb.</text>
     </string>
     <string id="red_raven_first_dialog_end_2">
-        <text>Кого? Были там кто-то из отряда?</text>
+        <text>Kogo? Czy byli jacyњ czіonkowie oddziaіu?</text>
     </string>
     <string id="red_raven_first_dialog_end_3">
-        <text>Я не знаю членов твоего отряда, но единственные, кого распознало - один из долговцев, старший сержант Скрябин, и Инфернис.</text>
+        <text>Nie znam czіonkуw Twojego oddziaіu, ale rozpoznaіem tylko jednego z Powinnoњci, starszego sierїanta Skriabina i Infernisa.</text>
     </string>
     <string id="red_raven_first_dialog_end_4">
-        <text>Твою дивизию.. Меня сейчас сердечный приступ схватит..</text>
+        <text>Twoja dywizja.. zaraz dostanк zawaіu..</text>
     </string>
     <string id="red_raven_first_dialog_end_5">
-        <text>Что такое? Ты кого-то из них знаешь?</text>
+        <text>Co? Znasz kogoњ z nich?</text>
     </string>
     <string id="red_raven_first_dialog_end_6">
-        <text>Обоих...</text>
+        <text>Obydwu...</text>
     </string>
     <string id="red_raven_first_dialog_end_7">
-        <text>Так в чём проблема?</text>
+        <text>Wiкc w czym problem?</text>
     </string>
     <string id="red_raven_first_dialog_end_8">
-        <text>Это долго рассказывать.. Чёрт, я теперь не удивлён, что никого из членов отряда не осталось в живых..</text>
+        <text>To dіuga historia.. Cholera, nie dziwiк siк, їe їaden z czіonkуw oddziaіu nie pozostaі przy їyciu.</text>
     </string>
     <string id="red_raven_first_dialog_end_9">
-        <text>Ладно, видимо, мне ничего не остаётся, как поискать твой отряд в лесу.</text>
+        <text>W porz№dku, najwyraџniej nie mam innego wyjњcia, jak szukaж swojego oddziaіu w lesie.</text>
     </string>
     <string id="red_shkir_last_dialog_0">
-        <text>Да, Сектор, не думал, что ты сможешь так далеко зайти! Пройти через толпы моих ребят, разобраться с вертолётами, и всё это в одиночку? Сколько раз за это время ты молился, чтобы всё получилось? Сколько раз был готов с жизнью распрощаться? И всё ради чего? Ради мести? Ради чести, про которую наёмники и не знают? Ты долбоёб, Сектор! На твоём месте я бы со всех ног упёрдывал куда подальше, но теперь ты не сбежишь...</text>
+        <text>Tak, Sektorze, nie s№dziіem, їe moїesz zajњж tak daleko! Przedzieraж siк przez tіumy moich chіopakуw, radziж sobie z helikopterami i to wszystko sam? Ile razy w tym czasie modliіeњ siк, aby to siк udaіo? Ile razy byіeњ gotowy poїegnaж siк z їyciem? A wszystko po co? Dla zemsty? Ze wzglкdu na honor, o czym najemnicy nie wiedz№? Jesteњ dupkiem, Sektorze! Na Twoim miejscu spieprzaі bym tak szybko, jak tylko potrafiк, ale teraz nie moїesz uciec...</text>
     </string>
     <string id="red_shkir_last_dialog_1">
-        <text>А мне и не нужно убегать. Я пришёл по твою душу, Шкир!</text>
+        <text>I nie muszк uciekaж. Przyszedіem po Twoj№ duszк, Szkir!</text>
     </string>
     <string id="red_shkir_last_dialog_2">
-        <text>Ты даже не представляешь, на что нарвался. Этот Рыжий Лес станет твоей могилой, жалкое ничтожество!</text>
+        <text>Nawet nie wiesz, na co wpadіeњ. Ten Czerwony Las bкdzie Twoim grobem, nкdzna istoto!</text>
     </string>
     <string id="red_shkir_last_dialog_3">
-        <text>[Далее...]</text>
+        <text>[Dalej...]</text>
     </string>
     <string id="red_shkir_last_dialog_end_0">
-        <text>К-ха.. Я и не думал... Что всё так выйдет...</text>
+        <text>K-ha.. nie myњlaіam... їe tak siк wszystko potoczy...</text>
     </string>
     <string id="red_shkir_last_dialog_end_1">
-        <text>Будто у тебя были мозги, чтобы думать. Чтобы убивать своих же людей.. Не думал, что кто-нибудь выживет?</text>
+        <text>Jakbyњ miaі rozum, їeby myњleж. Zabiіeњ wіasnych ludzi... Nie s№dziіeњ, їe ktokolwiek przeїyje?</text>
     </string>
     <string id="red_shkir_last_dialog_end_10">
-        <text>Знаю, знаю, не переживай. И всё-таки, не говори, что ты об этом ни разу не задумывался. Кому эта группа Стрелка так могла насолить, что для её убийства отправили четыре отряда опытных наёмников?</text>
+        <text>Wiem, wiem, nie martw siк. A jednak nie mуw, їe nigdy o tym nie myњlaіeњ. Kogo ta grupa Streіki mogіa tak draїniж, їe cztery oddziaіy doњwiadczonych najemnikуw zostaіy wysіane, by j№ zabiж?</text>
     </string>
     <string id="red_shkir_last_dialog_end_11">
-        <text>Об этом я задумался ещё в самом начале контракта. Но особого значения я этому не придал, всё-таки не моё дело.</text>
+        <text>Myњlaіem o tym na samym pocz№tku zlecenia. Ale nie przywi№zywaіem do tego duїej wagi, w koсcu to nie moja sprawa..</text>
     </string>
     <string id="red_shkir_last_dialog_end_12">
-        <text>Не придал... А стоило бы... Тогда, может, всё и было бы иначе..</text>
+        <text>Nie daіem.. Ale byіoby warto.. Wtedy moїe wszystko byіoby inaczej..</text>
     </string>
     <string id="red_shkir_last_dialog_end_13">
-        <text>Не тяни. Кто заказал группу Стрелка?</text>
+        <text>Nie przeci№gaj. Kto daі zlecenie na grupк Streіoka?</text>
     </string>
     <string id="red_shkir_last_dialog_end_14">
-        <text>%c[1,1,255,1]О-Сознание.</text>
+        <text>%c[1,1,255,1]O-Њwiadomoњж.</text>
     </string>
     <string id="red_shkir_last_dialog_end_15">
-        <text>Мне это должно о чём-то говорить?</text>
+        <text>Czy powinno mi coњ mуwiж?</text>
     </string>
     <string id="red_shkir_last_dialog_end_16">
-        <text>Ну, я, по крайней мере, ответил на вопрос, который тебя интересовал.</text>
+        <text>Cуї, przynajmniej odpowiedziaіem na pytanie, nad ktуrym siк zastanawiaіeњ.</text>
     </string>
     <string id="red_shkir_last_dialog_end_17">
-        <text>Вроде на волосок от смерти, а шутишь больше, чем во время контрактов. Время для этого появилось что ли? Рассказывай, что за О-Сознание.</text>
+        <text>Wydaje siк, їe jest na skraju њmierci, ale їartujesz bardziej niї podczas kontraktуw. Czy jest na to czas? Powiedz mi, czym jest O-Њwiadomoњж.</text>
     </string>
     <string id="red_shkir_last_dialog_end_18">
-        <text>С чего бы начать... О-Сознание - это группа учёных, находящихся в Саркофаге ЧАЭС. После аварии в 1986 году, были возведены лаборатории с индексами "X" и "Y" для секретных исследований всего, что осталось в округе. Эта группа учёных управляет всем, что тут происходит.. Или, если говорить точнее, пытается управлять. Тебя когда-нибудь интересовало, как появилось то, что вы, сталкеры, называете Зоной - мутанты, аномалии, выбросы, даже артефакты?</text>
+        <text>Od czego zacz№ж... O-Њwiadomoњж to grupa naukowcуw zlokalizowana w Sarkofagu Czarnobyla. Po wypadku w 1986 r. wybudowano laboratoria o indeksach „X” i „Y” do tajnych badaс wszystkiego, co pozostaіo w dzielnicy. Ta grupa naukowcуw kontroluje wszystko, co siк tu dzieje.. A dokіadniej, prуbuje kontrolowaж. Czy kiedykolwiek zastanawialiњcie siк, jak pojawiіo siк to, co stalkery nazywaj№ Zon№ – mutanty, anomalie, Emisje, a nawet artefakty?</text>
     </string>
     <string id="red_shkir_last_dialog_end_19">
-        <text>Допустим.</text>
+        <text>Powiedzmy.</text>
     </string>
     <string id="red_shkir_last_dialog_end_2">
-        <text>Думал. Поэтому и решил оставить на Агропроме тех ребят..</text>
+        <text>Myњlaіem. Dlatego postanowiіem zostawiж tych chіopakуw w Agropromie..</text>
     </string>
     <string id="red_shkir_last_dialog_end_20">
-        <text>У Земли есть ещё одна оболочка, которая связана со всеми разумными существами на Земле - Ноосфера. Изначально О-Сознание хотело получить контроль над ней, и как итог - над всем человечеством. Но в результате, только сделала хуже - Ноосфера прорвалась в материальный мир, и так образовалось всё, что ты теперь видишь. Большинство мутантов, артефактов, аномалий и прочее - первоначально неудавшийся результат экспериментов О-Сознания.</text>
+        <text>Ziemia ma inn№ powіokк, ktуra jest poі№czona ze wszystkimi inteligentnymi istotami na Ziemi - Noosfer№. Pocz№tkowo C-Њwiadomoњж chciaіa przej№ж kontrolк nad ni№, a co za tym idzie - nad caі№ ludzkoњci№. Ale w rezultacie to tylko pogorszyіo - Noosfera wdarіa siк do њwiata materialnego i wszystko, co teraz widzisz, powstaіo w ten sposуb. Wiкkszoњж mutantуw, artefaktуw, anomalii itp. jest pocz№tkowo nieudanym wynikiem eksperymentуw O-Њwiadomoњci..</text>
     </string>
     <string id="red_shkir_last_dialog_end_21">
-        <text>Шкир, я понимаю, это глупый вопрос, но ты точно в последнее время ничего не принимал?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_22">
-        <text>Пользуешься тем, что я тебе по роже дать не могу?..</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_23">
-        <text>Ладно, допустим, я тебе поверил. Но как это всё связано со Стрелком и его группой?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_24">
-        <text>Группа Стрелка смогла добраться до ЧАЭС, и как итог - они бы смогли разгадать тайну возникновения Зоны, при этом прорвавшись через отряды монолитовцев, что охраняли саркофаг.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_25">
-        <text>Расскажи мне о группировке "Монолит". Я встречал её представителей, но знаю о них немного.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_26">
-        <text>Это зомби, созданные О-Сознанием с целью защиты центра Зоны от посторонних. Люди, которыми управляет голос, и которому они подчиняются. Проблема в том, что они атакуют всех, кого увидят, считая их неверными. Представляешь, как сильно им промыли мозги?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_27">
-        <text>Так вот, что было с Фрактором.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_28">
-        <text>Я продолжу. Группа Стрелка смогла пробраться в энергоблок, но в последний момент они отступили от Севера, что дало О-Сознанию время на подготовку плана по их уничтожению. Для этого их люди, влившиеся в ряды сталкеров, подталкивали других на действия, связанные с поисками и нападением на группу Стрелка. В том числе, они отправили специальные наёмные отряды для устранения такой же цели. Только вот загвоздка в том, что часть из этих отрядов были не наёмники - это были монолитовцы.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_29">
-        <text>Ты хочешь сказать..</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_3">
-        <text>И зачем это всё нужно было?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_30">
-        <text>Да, ты всё правильно понял. В отрядах "альфа", "бета" и "гамма" были люди, которые относились к группировке "Монолит". Думаю, для чего это было, ты и сам понимаешь - О-Сознание должно было контролировать ситуацию, поэтому в отряды были отправлены свои люди. Только вот группа "дельта" не поддавалась контролю - в их отряде членов "Монолита" не было, поэтому руководство приняло решение их ликвидировать.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_31">
-        <text>Помнится мне, на Ситха, Кейна и Фобоса, напали долговцы ещё в начале контракта. Как-то не сходится с этим твоё враньё.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_32">
-        <text>Да? Ты правда думаешь, что это были долговцы? А почему тогда Крылов всё это отрицал? И что за отряд был на Агропроме? А кто чуть генерала не прибил, пока ты с ним языком чесал?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_33">
-        <text>Хочешь сказать, что это были монолитовцы?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_34">
-        <text>А у тебя есть другие объяснения этому? Нет, конечно, верить мне или нет - дело твоё.. Но зачем мне, перед смертью, теперь тебе брехать? Тем более, ты сам начал этим интересоваться.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_35">
-        <text>Тоже верно. Но откуда ты столько знаешь про это О-Сознание и "Монолит"?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_36">
-        <text>Я - один из представителей О-Сознания.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_37">
-        <text>..Что?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_38">
-        <text>Когда я подрос немного, узнал, что мой батя всю мою жизнь был в саркофаге - ставил эксперименты. Вот я и решил последовать его примеру. Но со временем, я стал осознавать, что эта вся клоунада с попытками захватить человечество - не больше, чем зомбирование людей в своих целях, и среди этих "людей" был и мой батька. Так что я решил пойти против задания и голоса, который так тщательно пытались мне внедрить, и в тайне от всех, после получения контракта на убийство Стрелка, уничтожить представителей О-Сознания дабы спасти от этого своего отца. Матушка волновалась за него, да и мне стало интересно, на что он наши слезливые дни променял.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_39">
-        <text>Зачем тебе нужно было убивать других наёмников?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_4">
-        <text>Зачем? Ты правда хочешь это знать? Ладно, будем считать, что ты заслужил знать всю правду. Как-никак, пробить непробиваемую броню... Чёртов профессор...</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_40">
-        <text>Ты что, вообще меня не слушал? Среди людей в отрядах были монолитовцы! Как, по-твоему, они бы отреагировали, если бы я начал всем рассказывать, что теперь мы идём на ЧАЭС за О-Сознанием? Или если бы я один ушёл туда? Самое ужасное в этом - то, что из монолитовцев никто не знал, где находятся их товарищи. И даже мне не было известно, кто на задании, а кто - обычный наёмник, хотевший подзаработать.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_41">
-        <text>Для чего это нужно было делать?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_42">
-        <text>Наверное, чтобы не допустить предательства с моей стороны, или чьей-то ещё. Поэтому я и составил план, по которому можно избавиться от нежелательного хвоста. Я знал, что Стрелок будет идти к Центру Зоны, поэтому всячески пытался отвести от него все отряды, дабы он смог туда добраться, а сам я тем временем направил на Агропром вертолёты с отрядами сталкеров в комбинезонах, которых в Зоне ещё не было. Это - мои связи, про которые я тебе рассказывал ещё в начале контракта. Ребята работают на меня, но не на О-Сознание. Нападение было неожиданно для всех, кроме Ситха, который сразу всё вкурил и скрылся. Поэтому я и отправлял за ним и тобой парочку отрядов - чтобы вы не смогли пойти за мной.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_43">
-        <text>Выходит, ты сомневался, что мы с Ситхом могли быть монолитовцами?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_44">
-        <text>Именно. И если тебе интересно, те долговцы в Рыжем лесу, которые повели тебя в шахту - тоже были монолитовцами. Видишь ли, из всех наёмников ты выделялся опытом, тягой к делам и умением выкручиваться из трудных ситуаций. Банальный пример - все только начали осваиваться в лесу, а ты сразу расспрашивал про задание, тем самым вызывая к себе подозрение. Поэтому я отправил тебя в шахту, чтобы мои ребята взяли тебя в плен и допросили. Я хотел проверить тебя на вшивость, сдашь ли ты наши группы. А если не сдашь - то сможешь ли выжить и выбраться, когда в тебя стреляет несколько человек. Узнав о твоих умениях, хоть виду не подавал, но я начал относиться к тебе очень серьёзно - и чувство меня не подвело. Именно тебе удалось, самому того не подозревая, раскрыть тайну Зоны и О-Сознания. Ну что, вытекло из меня уже много крови... Ещё какие-то вопросы остались?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_45">
-        <text>Да, последний.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_46">
-        <text>Задавай.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_47">
-        <text>Где сейчас Ситх?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_48">
-        <text>Там же, где и начинался наш контракт - дом Лесника. Раз уж ты пойдёшь за ним, могу я тебя кое о чём попросить?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_49">
-        <text>Забавно это слышать, и о чём же?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_5">
-        <text>Какую ещё правду? Ты, наверное, хотел сам группу Стрелка замочить, чтобы всю сумму за контракт срубить, не иначе.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_50">
-        <text>Пристрели меня. Я устал мучиться в размышлениях, что всё так мерзко происходит, но теперь и от этой боли. Избавь меня от этого чувства. Я ведь всё равно тут подохну.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_51">
-        <text>С удовольствием. Знаешь, Шкир, я даже тебе сочувствую. Но простить за всё пережитое не могу, сам понимаешь.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_52">
-        <text>По крайней мере, после того, как я рассказал всё накопленное за это время, теперь мне на душе стало легче. Прощай, Сектор.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_53">
-        <text>Прощай, Шкир.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_54">
-        <text>Жалко на тварь вроде тебя пули тратить. Лучше я тебя в аномалию сброшу. Вот как раз одна из них позади тебя.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_55">
-        <text>Даже предсмертную просьбу выполнить не хочешь? А мне ведь хотелось умереть красиво...</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_56">
-        <text>Собаке - собачья смерть.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_6">
-        <text>Вроде бы взрослый парень, через столько прошёл, а мыслишь как 15-летка.. Не злись, шучу я.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_7">
-        <text>Ты действуешь мне на нервы.</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_8">
-        <text>Как, наверное, на протяжении всего контракта. А знаешь ли ты, кто этот контракт устроил? Кто заказал Группу Стрелка?</text>
-    </string>
-    <string id="red_shkir_last_dialog_end_9">
-        <text>Наёмника такие вещи интересовать не должны - лучше меня это знаешь.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_0">
-        <text>Стоять! Это место сейчас под контролем Долга. Назовись, из какой ты группировки?</text>
-    </string>
-    <string id="red_skryabin_first_dialog_1">
-        <text>А в ПДА не видно? Одиночка я, кличка - Сектор.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_10">
-        <text>Вот как? Ну хорошо, будем считать, что я тебе поверил. Вертолёт, к слову, уже сбили - не мы, сразу говорю. Он упал где-то в районе леса, но вроде бы кто-то оттуда выпрыгнул и упал в районе остановки.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_2">
-        <text>Сектор.. Хм, знакомая кличка. Кажется, это он неделю назад на базе отсиживался.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_3">
-        <text>Вы сейчас о чём?</text>
-    </string>
-    <string id="red_skryabin_first_dialog_4">
-        <text>Под дурачка косишь? Кто-то напал на нашу базу на Агропроме. Некоторые погибли, а некоторые скрылись, как ты сейчас. Может мне тебя в каталажку отправить? Там тебе быстро память починят.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_5">
-        <text>Постой-постой, я не причастен к тому, что там было. Я в это время искал документы в подземельях.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_6">
-        <text>Агропромовских подземельях? Так их же Шрам затопил, другой наёмник. Хотя это было уже давно...</text>
-    </string>
-    <string id="red_skryabin_first_dialog_7">
-        <text>Не знаю, кто там что затопил, но в подземельях я был. И не один, как потом оказалось. А до и после этого, я в рыжем лесу встречал подставных долговцев, которые меня атаковали. Это мог бы подтвердить генерал Крылов.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_8">
-        <text>Генерал Крылов мёртв, как и все, кто были на базе. А про «подставных долговцев» я впервые слышу. Долг сейчас ищет тех, кто причастен к этим убийствам. И тут я встречаю одного из выживших, который определённо пытается «съехать», рассказывая мне всякие небылицы. Придётся тебе посидеть у нас, Сектор, и поотвечать на наши вопросы.</text>
-    </string>
-    <string id="red_skryabin_first_dialog_9">
-        <text>Ты идиот что ли?! Я сейчас ищу человека, который скорее всего замешан в геноциде ваших людей - отступника нашего отряда, который с ними ещё и наших наёмников захватил. Я сейчас пытаюсь его найти. Ты вертолёт видел, пролетел только что? Там вполне мог быть и он. Если тебе действительно интересно найти причастных - ищи вместе со мной, а не мешай мне. Дай дорогу, чёрт возьми!</text>
-    </string>
-    <string id="red_skryabin_last_dialog_0">
-        <text>Твою же..</text>
-    </string>
-    <string id="red_skryabin_last_dialog_1">
-        <text>Что тут произошло?</text>
-    </string>
-    <string id="red_skryabin_last_dialog_2">
-        <text>Вертолёты.. Как на Агропроме.. Ты был прав...</text>
-    </string>
-    <string id="red_skryabin_last_dialog_3">
-        <text>Куда улетели вертолёты? С ними кто-то ещё был?</text>
-    </string>
-    <string id="red_skryabin_last_dialog_4">
-        <text>В голубом.. Экзоскелете.. Они улетели... М-мать.. Как же так... Я же ещё столько хотел..</text>
-    </string>
-    <string id="red_skryabin_last_dialog_5">
-        <text>Куда они улетели? Стой, Чиж, не умирай! Слышишь меня?</text>
-    </string>
-    <string id="shkir_first_dialog_0">
-        <text>[Начало сюжета]</text>
-    </string>
-    <string id="shkir_first_dialog_1">
-        <text>Вот мы и на месте. Заказчик отвалил нехилую сумму за головы некой "Группы Стрелка". Пока освоимся здесь.</text>
-    </string>
-    <string id="shkir_first_dialog_2">
-        <text>Чего мне следует ожидать от этой группы?</text>
-    </string>
-    <string id="shkir_first_dialog_3">
-        <text>Да то же, что и от остальных - группа опытных сталкеров, которые кому-то зачем-то насолили. Ты наёмник, или детектив? Вот что, дуй сейчас к группе "Альфа" и разведай обстановку. Они находятся на стоянке на юг отсюда и прибыли сюда раньше нас - может кто-то что-то и узнал. А я пока разузнаю, что случилось с отрядом "Дельта".</text>
-    </string>
-    <string id="shkir_first_dialog_4">
-        <text>Как скажешь.</text>
-    </string>
-    <string id="shkir_first_dialog_end_0">
-        <text>"Альфа" тоже решили осмотреть местность, но наткнулись в лесу на огромного монстра, который растерзал половину всей группы. Леший выжил. Сейчас они на той же стоянке.</text>
-    </string>
-    <string id="shkir_first_dialog_end_1">
-        <text>Шикарно, мля! Этот леший придурок хоть что-то может нормально сделать? Самый бесполезный отряд из всех, сука.</text>
-    </string>
-    <string id="shkir_first_dialog_end_2">
-        <text>Ладно, проехали. Как там "Дельта"?</text>
-    </string>
-    <string id="shkir_first_dialog_end_3">
-        <text>Ты бы на себя посмотрел, Шкир. У Альфы хоть мозги есть, чтобы местность осмотреть и подготовиться к мутантским нападениям.</text>
-    </string>
-    <string id="shkir_first_dialog_end_4">
-        <text>Какой ты шустрый. Смотри, чтобы крылышки не подрезали тебе, птенцу-то.</text>
-    </string>
-    <string id="shkir_first_dialog_end_5">
-        <text>Знаешь, ты прав. Если бы я не "отсиживался", козлы вроде тебя тоже сгнили бы в том лесу, подобно отряду Лешего. И сейчас мне бы не приходилось выслушивать твоё нытьё.</text>
-    </string>
-    <string id="shkir_first_dialog_end_6">
-        <text>[Далее...]</text>
-    </string>
-    <string id="shkir_first_dialog_end_7">
-        <text>А, да, насчёт "Дельты". Ситх, лидер отряда, говорит, что в лесу нашел капер, и у него обосновался отряд сталкеров. Возможно, от них мы сможем выяснить какую-нибудь информацию. Выдвигайся к нему.</text>
-    </string>
-    <string id="shkir_strelok_dialog_0">
-        <text>Я вернулся.</text>
-    </string>
-    <string id="shkir_strelok_dialog_1">
-        <text>Узнал что-нибудь?</text>
-    </string>
-    <string id="shkir_strelok_dialog_2">
-        <text>Стрелок здесь был. Он бежал к тоннелю неподалёку отсюда, который сам и завалил. А так-же здесь был наемник со шрамом на лице, он следовал за ним.</text>
-    </string>
-    <string id="shkir_strelok_dialog_3">
-        <text>Хм… Значит нам нужно ещё найти этого наёмника, он точно что-то знает. Ладно, ребята приглядывают за крысой, да и возможно туда кто-то вёрнется. Ситх сказал, что тут есть заброшенная шахта, в ней какая-то аппаратура ещё осталась. Так, как ты у нас самый любопытный, поручаю это задание тебе. Доберись туда и попробуй найти там что-нибудь интересное, возможно в ней есть обходной путь.</text>
-    </string>
-    <string id="shkir_strelok_dialog_4">
-        <text>Хм... Одному идти туда - опаснее, чем просто прогуляться к Ситху. Мне нужен напарник.</text>
-    </string>
-    <string id="shkir_strelok_dialog_5">
-        <text>Я неясно выразился? Вали к шахте, дятел!</text>
-    </string>
-    <string id="shkir_strelok_dialog_6">
-        <text>Я тебе повторяю - одному туда идти опасно и ты это прекрасно понимаешь. В чём проблема послать со мной кого-то?</text>
-    </string>
-    <string id="shkir_strelok_dialog_7">
-        <text>В том, что я сказал тебе выполнять приказ, а ты вместо того, чтобы ответить "выполняю" - стоишь выёживаешься тут! Ты забыл, кто в отряде лидер? Или ты хочешь поговорить с заказчиком насчёт того, что не хочешь выполнять контракт? Я повторяю тебе - отправляйся к шахте.</text>
-    </string>
-    <string id="shkir_strelok_dialog_8">
-        <text>Ладно, успокойся... Выполняю.</text>
-    </string>
-    <string id="sith_first_dialog_0">
-        <text>Каков план?</text>
-    </string>
-    <string id="sith_first_dialog_1">
-        <text>Как ты знаешь, мы должны узнать, где находится группа Стрелка. Эти сталкеры не просто так обосновались в месте, где раньше находился Лесник, который, по словам очевидцев, достаточно тесно был связан с их группой. Конечно, не факт, что эти вообще знают, кто это, но..</text>
-    </string>
-    <string id="sith_first_dialog_2">
-        <text>Но выбора особого у нас нет, да?</text>
-    </string>
-    <string id="sith_first_dialog_3">
-        <text>Вот именно. К слову, куда пропал сам Лесник - я без понятия. Я предлагаю штурмовать лагерь, взяв одного или нескольких в плен - тут уже как получится. А на допросе всё станет ясно.</text>
-    </string>
-    <string id="sith_first_dialog_4">
-        <text>Поддерживаю. Выдвигаемся.</text>
-    </string>
-    <string id="sith_first_dialog_end_0">
-        <text>И куда ты теперь?</text>
-    </string>
-    <string id="sith_first_dialog_end_1">
-        <text>Тут останусь. Подождём часик-два, потом прикончим крысу.</text>
-    </string>
-    <string id="sith_first_dialog_end_2">
-        <text>Может, лучше оставить в живых?</text>
-    </string>
-    <string id="sith_first_dialog_end_3">
-        <text>Что такое, Сектор? Человечность просыпается? Поздновато что-то, раз в наёмники припёрся.</text>
-    </string>
-    <string id="sith_first_dialog_end_4">
-        <text>Может, и проснулась. Когда я приставил к нему пистолет и пригрозил расправой, он рассказал всё, что знал. Мы добились чего хотели, смысл добивать? Пусть живёт.</text>
-    </string>
-    <string id="sith_first_dialog_end_5">
-        <text>Не ожидал этих слов. Ладно, что-нибудь придумаем. Если не будет рыпаться, останется в живых. Тут уже главное, чтобы Шкир не узнал, а то будет визжать как сучка, которой хвост прищемили.</text>
-    </string>
-    <string id="sith_first_dialog_end_6">
-        <text>Да нет, просто он явно что-то не договаривает. Вряд-ли кто-то вернётся через пару часов, а вот через день или два - вполне вероятно. Он ещё может пригодиться.</text>
-    </string>
-    <string id="sith_first_dialog_end_7">
-        <text>Может ты и прав. Ладно, пусть живёт пока.</text>
-    </string>
-    <string id="sith_last_dialog_0">
-        <text>Опять ты? Я же тебе сказал - ничего ты от меня не узнаешь. Можешь хоть до смерти забить, гнида...</text>
-    </string>
-    <string id="sith_last_dialog_1">
-        <text>Ситх, братишка, это я.</text>
-    </string>
-    <string id="sith_last_dialog_10">
-        <text>Спасибо. Теперь мне стало несколько легче. А сейчас расскажи-ка мне лучше, как там Шкир поживает?</text>
-    </string>
-    <string id="sith_last_dialog_11">
-        <text>С ним покончено. Вот его ПДА. И заодно - ПДА Топора. Нашёл в одной из лабораторий.</text>
-    </string>
-    <string id="sith_last_dialog_12">
-        <text>Да, Топора, конечно, жаль. Нормальный мужик был. Ладно, перейдём к.. Ого, сколько записей!</text>
-    </string>
-    <string id="sith_last_dialog_13">
-        <text>Можешь почитать.</text>
-    </string>
-    <string id="sith_last_dialog_14">
-        <text>Надо же, выходит, он не таким уж плохим человеком был? Но за Фобоса я его никогда не прощу. И О-Сознание это чёртово, тоже.</text>
-    </string>
-    <string id="sith_last_dialog_15">
-        <text>Кстати, забери свою маску.</text>
-    </string>
-    <string id="sith_last_dialog_16">
-        <text>Забираю.. Погоди, Сектор, а что это у тебя за артефакт такой красивый?</text>
-    </string>
-    <string id="sith_last_dialog_17">
-        <text>Этот? А, его я у Шкира нашёл. Когда тот перестал дышать - артефакт выскочил из его рюкзака.</text>
-    </string>
-    <string id="sith_last_dialog_18">
-        <text>Ну теперь всё сходится..</text>
-    </string>
-    <string id="sith_last_dialog_19">
-        <text>Что именно?</text>
-    </string>
-    <string id="sith_last_dialog_2">
-        <text>..Сектор? Ты, что ли?</text>
-    </string>
-    <string id="sith_last_dialog_20">
-        <text>Я слышал об этом артефакте. Говорят, что ведёт своего хозяина к судьбе, в зависимости от совершённых им поступков. И если ему суждено будет умереть завтра, то пусть он хоть где спрячется - умрёт. А если суждено жить - значит будет жить.</text>
-    </string>
-    <string id="sith_last_dialog_21">
-        <text>Вот и верь после такого в эти мифы. Кстати Ситх, не передумал ещё сваливать из Зоны?</text>
-    </string>
-    <string id="sith_last_dialog_22">
-        <text>Даже не знаю. Вроде бы, на Большой земле меня ничего не держит. Но и это место оставило за собой неприятный след. А ты, Сектор?</text>
-    </string>
-    <string id="sith_last_dialog_23">
-        <text>Посмотрим. Во всяком случае, теперь меня ничего не держит.</text>
-    </string>
-    <string id="sith_last_dialog_3">
-        <text>Да, это я. Я вернулся.</text>
-    </string>
-    <string id="sith_last_dialog_4">
-        <text>Слава Богу. А то я уже думал, подохну здесь. Хотя в принципе ещё не вечер..</text>
-    </string>
-    <string id="sith_last_dialog_5">
-        <text>Дошутишься сейчас. Рад я тебя видеть, после всего, что произошло.</text>
-    </string>
-    <string id="sith_last_dialog_6">
-        <text>И я рад тебя видеть, брат. Ты извиняй, рацию я так и не починил - паскуды эти нашли меня раньше.</text>
-    </string>
-    <string id="sith_last_dialog_7">
-        <text>Да чёрт с ней, с рацией - ты лучше скажи, сильно ли ты ранен?</text>
-    </string>
-    <string id="sith_last_dialog_8">
-        <text>Ну, дышать пока могу, значит всё путём будет. Думаю, пока аптечкой обойдусь.</text>
-    </string>
-    <string id="sith_last_dialog_9">
-        <text>Вот, держи.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_0">
-        <text>Весь отряд "Гамма" уничтожен...</text>
-    </string>
-    <string id="sith_return_gamma_dialog_1">
-        <text>Это сделал Шкир... Я не могу в это поверить! Тварь, какая же тварь!</text>
-    </string>
-    <string id="sith_return_gamma_dialog_10">
-        <text>Нет, это слишком долго. Я справлюсь, ты же сам говорил, что нам нужно выиграть время.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_11">
-        <text>Будь наготове, Ситх.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_12">
-        <text>Отличный план, я тоже подумал об этом.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_13">
-        <text>Значит, с маршрутом мы разобрались.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_14">
-        <text>Осталось ещё две вещи..</text>
-    </string>
-    <string id="sith_return_gamma_dialog_15">
-        <text>Слушаю.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_16">
-        <text>Связь. У меня есть два датчика связи, проще говоря - прототипы раций. Я чувствовал, что рано или поздно их придётся задействовать. Вот тебе одна, если мы сможем что-либо разузнать - мы свяжемся друг с другом.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_17">
-        <text>Отлично!</text>
-    </string>
-    <string id="sith_return_gamma_dialog_18">
-        <text>И последнее..</text>
-    </string>
-    <string id="sith_return_gamma_dialog_19">
-        <text>Да?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2">
-        <text>Ожидаемо.. Есть два предположительных варианта, куда он мог направиться. Хотя нет, три варианта.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_20">
-        <text>Мост поднят, а пульты были только у Топора и Шкира. На обратной стороне ещё есть переключатель, но до него ещё нужно добраться.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_21">
-        <text>Топор был с вами когда я был в подземельях?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_22">
-        <text>Да, более того - он сбежал, как и я. Куда он направился - не знаю, но точно не в Лиманск..</text>
-    </string>
-    <string id="sith_return_gamma_dialog_23">
-        <text>Откуда такая уверенность?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_24">
-        <text>Он сам мне сказал.. А ещё отдал свой пульт "на случай, если Сектор уцелеет". Короче, всё как в сказке - "не спасай меня, отомсти за всех" и всё такое.. Так что, мост мы сейчас поднимем без проблем.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_25">
-        <text>[Далее...]</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2_0">
-        <text>Я так понимаю, что-то пошло не так?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2_1">
-        <text>Похоже, заклинило. Наверное, Шкир постарался, чтобы мы не добрались до Лиманска. А возможно он это специально подстроил, чтобы мы подумали, что он пойдёт в Лиманск - а сам скроется в совершенно другом направлении.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2_2">
-        <text>Так мы разделяемся, или нет?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2_3">
-        <text>Не знаю... Как же ты через речку будешь переходить без моста? Не прыгать же.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_2_4">
-        <text>Н-да, задачка не из лёгких. Надо подумать...</text>
-    </string>
-    <string id="sith_return_gamma_dialog_3">
-        <text>Лиманск и склады?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_4">
-        <text>Да. И заброшенная шахта, где тебя вроде как ушатали "долговцы". . У меня есть одна идея, как это всё можно провернуть. Но я готов выслушать тебя, если есть план.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_5">
-        <text>У меня есть одна идея. Но я готов выслушать тебя, если есть план.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_6">
-        <text>Предлагай, у меня нет идей.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_7">
-        <text>Я лучше знаю дорогу в Лиманске, поэтому я отправлюсь в сторону Лиманска и проверю госпиталь, а ты займёшься шахтой и складами.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_8">
-        <text>Я могу отправиться в сторону шахты, и если я никого там не найду, я отправлюсь на склады. Ты же отправишься в Лиманск и, возможно, в Госпиталь, а дальше госпиталя Шкир вряд-ли смог уйти. Он ссыкует за Выжигатель выбираться.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_9">
-        <text>Тебе нужна будет помощь в шахте, вдруг там ещё одна засада?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_end_0">
-        <text>Слушай, я придумал. Ты не знаешь, в этих проводах ещё осталось электричество?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_end_1">
-        <text>Сектор, что ты задумал? Я понимаю, что у нас нет особого выбора...</text>
-    </string>
-    <string id="sith_return_gamma_dialog_end_2">
-        <text>Да у нас вообще выбора нет. Не через речку же ядовитую плыть. Придётся лезть через провода.</text>
-    </string>
-    <string id="sith_return_gamma_dialog_end_3">
-        <text>Постой, давай обсудим детали? Может, есть другой способ?</text>
-    </string>
-    <string id="sith_return_gamma_dialog_end_4">
-        <text>Подожди, я что-то слышу...</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_0">
-        <text>Ну как ты, цел?</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_1">
-        <text>Ты спас мне жизнь. Кажется, теперь у тебя в долгу.</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_2">
-        <text>Что вообще произошло?</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_3">
-        <text>На нас напали долговцы, Кейн и Фобос погибли, я один еле-еле держался, ещё бы немного и...\nЭх, Фобос... Сколько же мы с ним знакомы... Были.</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_4">
-        <text>Ты просил подкрепление у Шкира?</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_5">
-        <text>Да. Нихера этот чёрт не сделал, и не собирался делать. Бесит меня эта тварь, не жалеет никого. Сам всё время жопу просиживает на базе, "лидер" херов... Лидеры ведь всё время должны на базе просиживаться, а не возглавлять атаки, да? Как думаешь?</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_6">
-        <text>Ладно, мы тут лишнее болтаем. Я, пожалуй, пойду.</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_7">
-        <text>Погоди. Ты - единственный, кто откликнулся на мою просьбу о помощи. Поэтому если будет какая-нибудь просьба, обращайся.</text>
-    </string>
-    <string id="sith_shkir_dialog_1_end_8">
-        <text>Хорошо.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_0">
-        <text>[Молчание]</text>
-    </string>
-    <string id="sith_shkir_dialog_2_1">
-        <text>Ты где пропадал всё это время, чёрт подери?</text>
-    </string>
-    <string id="sith_shkir_dialog_2_10">
-        <text>Они поволокли меня на другой конец Рыжего Леса, где начали допрашивать. Мне повезло выйти оттуда. Вторая группа долговцев засела в доме, в котором раньше находились сталкеры. Уже не засела.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_11">
-        <text>Крысу в том доме прикончили?</text>
-    </string>
-    <string id="sith_shkir_dialog_2_12">
-        <text>Да.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_13">
-        <text>Хорошо. Смысла тут оставаться больше нет. Сейчас каждая собака знает цель нашего задания. Дальше путь будет у нас в сторону НИИ Агропрома. Охрана у входа в Лиманск останется там же, где и была и, в случае чего, будет докладывать нам информацию отсюда. Мне осталось свзяться с Лешим. Как будешь готов - скажешь, только долго не задерживайся.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_14">
-        <text>Нет.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_15">
-        <text>Вы из жалости не можете убить крысу, но уже собирались руководить отрядом? Смешно. Ладно, это уже неважно. Смысла тут оставаться больше нет. Сейчас каждая собака знает цель нашего задания. Дальше путь будет у нас в сторону НИИ Агропрома. Охрана у входа в Лиманск останется там же, где и была и, в случае чего, будет докладывать нам информацию отсюда. Мне осталось свзяться с Лешим. Как будешь готов - скажешь, только долго не задерживайся.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_2">
-        <text>Это не имеет значения. Какого чёрта ты не послал Топора или Карася, на помощь Ситху? Кейн и Фобос погибли из-за тебя, крыса ты гнилая!</text>
-    </string>
-    <string id="sith_shkir_dialog_2_3">
-        <text>Спокойно, деточка. Если я решил, что оно так будет, то значит так и будет. Я тебе уже говорил, что тут главный я - не ты, не Ситх, никто другой. Связи только у меня. Ты здесь пустое место, обычная шавка, которая выполняет мои приказы.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_4">
-        <text>Болт я клал на связи твои. Если ты - бесполезный кусок говна, то что мне мешает сейчас тебя прихлопнуть?</text>
-    </string>
-    <string id="sith_shkir_dialog_2_5">
-        <text>Вот как? Прикончить меня вздумал? И что же после? Кто из вас всех станет лидером отряда? Ты? Карась? Винт? Может, Ситх или Топор? У вас всех нет никаких планов на то, что делать дальше и как искать Стрелка. Сейчас нет смысла спорить или стреляться. Пока-что мы союзники, зачем усложнять нам обоим работу? После выполнения контракта - вали на все четыре стороны.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_6">
-        <text>Я что-то не видел, чтобы ты что-то делал, а не рыдал здесь насчёт своих связей и поста лидера.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_7">
-        <text>Всё, успокойся. Докладывай, что ты откопал в той шахте?</text>
-    </string>
-    <string id="sith_shkir_dialog_2_8">
-        <text>Долговцев.. Только я подошёл к шахте, как меня вырубили.</text>
-    </string>
-    <string id="sith_shkir_dialog_2_9">
-        <text>Дальше?</text>
-    </string>
-    <string id="sith_shkir_dialog_3_0">
-        <text>Лучше бы со мной пошёл. Понимаю, тебе обидно, но...</text>
-    </string>
-    <string id="sith_shkir_dialog_3_1">
-        <text>Да. Парней жалко. Фобоса давно знал, практически с детства. Если бы Шкир отправил подкрепление, всё было бы совсем по-другому. Столько плодов размышлений появилось..</text>
-    </string>
-    <string id="sith_shkir_dialog_3_2">
-        <text>Шкир сказал выдвигаться в сторону НИИ, после того, как свяжется с "Альфой".</text>
-    </string>
-    <string id="sith_shkir_dialog_3_3">
-        <text>Хорошо, я понял.</text>
-    </string>
-    <string id="sith_shkir_dialog_3_4">
-        <text>[Далее...]</text>
-    </string>
-    <string id="smirnow_dopros_0">
-        <text>Сдаюсь. Да, это я занимался контрабандой. Поймали, готов понести наказание.</text>
-    </string>
-    <string id="smirnow_dopros_1">
-        <text>Чё? Какой ещё контрабандой?</text>
-    </string>
-    <string id="smirnow_dopros_10">
-        <text>Да, не припоминаю, как звали, у него шрам был на лице.</text>
-    </string>
-    <string id="smirnow_dopros_11">
-        <text>Продолжай.</text>
-    </string>
-    <string id="smirnow_dopros_12">
-        <text>Зовут сталкера Стрелок. Бежал он от наёмника в туннель, который ведёт в Лиманск - там он и подорвал проход, чтобы тот не достал его.</text>
-    </string>
-    <string id="smirnow_dopros_13">
-        <text>Ещё что-то знаешь?</text>
-    </string>
-    <string id="smirnow_dopros_14">
-        <text>Это всё, я больше ничего не знаю. Пожалуйста, оставьте меня в живых.</text>
-    </string>
-    <string id="smirnow_dopros_15">
-        <text>Если кто-то узнает, о том, здесь было, твоя пуля тебя долго ждать не заставит.</text>
-    </string>
-    <string id="smirnow_dopros_2">
-        <text>Так а.. Вы не за этим пришли?</text>
-    </string>
-    <string id="smirnow_dopros_3">
-        <text>Я сюда пришёл за информацией. И от тебя сейчас зависит, будешь жить, или нет.</text>
-    </string>
-    <string id="smirnow_dopros_4">
-        <text>Понял, тогда лишние вопросы не задаю.</text>
-    </string>
-    <string id="smirnow_dopros_5">
-        <text>Вот так. Что тебе известно об этих сталкерах? [Показать фото группы Стрелка]</text>
-    </string>
-    <string id="smirnow_dopros_6">
-        <text>Так.. Одного узнаю.</text>
-    </string>
-    <string id="smirnow_dopros_7">
-        <text>Кого именно?</text>
-    </string>
-    <string id="smirnow_dopros_8">
-        <text>Он недавно был здесь, за ним наёмник гнался.</text>
-    </string>
-    <string id="smirnow_dopros_9">
-        <text>Наёмник?</text>
-    </string>
+      <text>Szkir, rozumiem, їe to gіupie pytanie, ale czy jesteњ pewien, їe ostatnio nic nie wzi№іeњ?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_22">
+      <text>Czy czegoњ nie wzi№іeњ... a czego nie mogк Ci daж w pysk?..</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_23">
+      <text>Ok, powiedzmy, їe Ci wierzк. Ale co to wszystko ma wspуlnego ze Strieіokiem i jego grup№?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_24">
+      <text>Grupie Streіka udaіo siк dostaж do elektrowni j№drowej w Czarnobylu, dziкki czemu bкd№ mogli rozwikіaж zagadkк powstania Zony, jednoczeњnie przebijaj№c siк przez oddziaіy Monolitуw, ktуre strzegіy sarkofagu.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_25">
+      <text>Opowiedz mi o frakcji Monolitu. Poznaіem jej przedstawicieli, ale niewiele o nich wiem.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_26">
+      <text>S№ to zombie stworzone przez O-Њwiadomoњж w celu ochrony centrum Zony przed obcymi. Ludzie, ktуrymi steruje gіos ktуrym s№ posіuszne. Problem polega na tym, їe atakuj№ kaїdego, kogo widz№, uwaїaj№c ich za niewiernych. Czy moїesz sobie wyobraziж, jak strasznie wyprano im mуzgi?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_27">
+      <text>Wiкc co siк staіo z Fraktorem?.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_28">
+      <text>Juї mуwiк. Grupie Streіki udaіo siк dostaж do bloku energetycznego, ale ostatecznie wycofali siк na Pуіnoc, co daіo O-Њwiadomoњci czas na przygotowanie planu ich zniszczenia. W tym celu ich ludzie, ktуrzy doі№czyli do szeregуw stalkerуw, popychali innych do podjкcia dziaіaс zwi№zanych z poszukiwaniem i atakiem na grupк Streіka. W szczegуlnoњci wysіali specjalne jednostki najemnikуw, aby wyeliminowaж ten sam cel. Jedynym haczykiem jest to, їe niektуre z tych oddziaіуw nie byіy najemnikami – byіy to Monolity.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_29">
+      <text>Chcesz powiedzieж..</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_3">
+      <text>I dlaczego to wszystko byіo konieczne?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_30">
+      <text>Tak, masz racjк. W oddziaіach "alfa", "beta" i "gamma" byli ludzie naleї№cy do grupy "Monolitu". Myњlк, їe po co to byіo, sam rozumiesz - O-Њwiadomoњж musiaіa kontrolowaж sytuacjк, wiкc ich wіasnych ludzi wysіano do oddziaіуw. Dopiero teraz grupa "delta" nie mogіa byж kontrolowana - w ich oddziale nie byіo czіonkуw "Monolitu", wiкc kierownictwo postanowiіo ich wyeliminowaж.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_31">
+      <text>Pamiкtam, їe Sith, Kane i Phobos zostali zaatakowani przez powinnoњж na pocz№tku kontraktu. Jakoњ Twoje kіamstwa nie pasuj№.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_32">
+      <text>Tak? Czy naprawdк myњlisz, їe byli z powinnoњci? I dlaczego Kryіow temu zaprzeczyі? A jaki oddziaі byі w Agropromie? A kto prawie przybiі generaіa, kiedy paplaliњcie sobie jкzykami?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_33">
+      <text>Mуwisz, їe byli Monolitami?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_34">
+      <text>Czy masz inne wyjaњnienie? Nie, oczywiњcie, czy mi wierzysz, czy nie, zaleїy od Ciebie.. Ale dlaczego miaіbym przed њmierci№ Ci kіamaж? Co wiкcej, sam zacz№іeњ siк tym interesowaж.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_35">
+      <text>To teї jest prawda. Ale sk№d tyle wiesz o tej O-Њwiadomoњci i "Monolicie"?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_36">
+      <text>Jestem jednym z przedstawicieli O-Њwiadomoњci.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_37">
+      <text>..Coo?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_38">
+      <text>Kiedy trochк podrosіem, dowiedziaіem siк, їe tata caіe moje їycie byі w sarkofagu - eksperymentowaі. Postanowiіem wiкc pуjњж za jego przykіadem. Ale z biegiem czasu zacz№іem zdawaж sobie sprawк, їe caіe to pajacowanie z prуbami uchwycenia ludzkoњci to nic innego jak zombie dla ich wіasnych celуw, a wњrуd tych "ludzi" byі mуj tata. Postanowiіem wiкc przeciwstawiж siк zadaniu i gіosowi, ktуry tak ostroїnie prуbowali mi wpoiж, i potajemnie przed wszystkimi, po otrzymaniu kontraktu na zabicie Stieіoka, zniszczyж przedstawicieli O-Њwiadomoњci, aby uratowaж od tego mojego ojca . Matka martwiіa siк o niego i zaciekawiіo mnie, na co zamieniі nasze peіne іez dni..</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_39">
+      <text>Dlaczego musiaіeњ zabijaж innych najemnikуw?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_4">
+      <text>Po co? Czy naprawdк chcesz wiedzieж? Ok, zaіуїmy, їe zasіugujesz na poznanie caіej prawdy. W koсcu przebiж siк przez nieprzeniknion№ zbrojк.. Cholerny profesor...</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_40">
+      <text>Czy w ogуle mnie nie sіuchaіeњ? Wњrуd ludzi w oddziaіach byli Monolici! Jak myњlisz, jak zareagowaliby, gdybym zacz№і mуwiж wszystkim, їe teraz jedziemy do elektrowni j№drowej w Czarnobylu po O-Њwiadomoњж? Lub gdybym pojechaі tam sam? Najstraszniejsze w tym wszystkim jest to, їe їaden z Monolitуw nie wiedziaі, gdzie s№ ich towarzysze. I nawet ja nie wiedziaіem, kto byі na misji, a kto byі zwykіym najemnikiem, ktуry chciaі zarobiж dodatkowe pieni№dze.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_41">
+      <text>Dlaczego trzeba byіo to zrobiж?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_42">
+      <text>Zapewne po to, by nie dopuњciж do zdrady z mojej strony lub kogoњ innego. Dlatego przygotowaіem plan, dziкki ktуremu moїna pozbyж siк niechcianego ogona. Wiedziaіem, їe Strieіok pуjdzie do Centrum Strefy, wiкc staraіem siк w kaїdy moїliwy sposуb wycofaж od niego wszystkie oddziaіy, aby mуgі siк tam dostaж, a w miкdzyczasie sam wysіaіem helikoptery na Agroprom z oddziaіami stalkerуw w kombinezony, ktуrych jeszcze w Strefie nie byіo. To s№ moje powi№zania, o ktуrych mуwiіem na pocz№tku kontraktu. Chіopaki pracuj№ dla mnie, ale nie dla O-Њwiadomoњci. Atak byі nieoczekiwany dla wszystkich, z wyj№tkiem Sitha, ktуry natychmiast wszystko wypaliі i znikn№і. Dlatego wysіaіem za nim i za Tob№ kilka oddziaіуw - їebyњcie nie mogli mnie њledziж.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_43">
+      <text>Wiкc w№tpiіeњ, їe Sith i ja moїemy byж Monolitami?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_44">
+      <text>Dokіadnie tak. A jeњli siк zastanawiasz, ci powinnoњciowcy z Czerwonego Lasu, ktуrzy zabrali Ciк do kopalni, rуwnieї byli Monolitami. Widzisz, spoњrуd wszystkich najemnikуw wyrуїniaіeњ siк swoim doњwiadczeniem, pragnieniem biznesu i umiejкtnoњci№ wyjњcia z trudnych sytuacji. Banalny przykіad – wszyscy dopiero zaczкli przyzwyczajaж siк do lasu, a Ty od razu pytaіeњ o zadanie, tym samym wzbudzaj№c podejrzenia. Dlatego wysіaіem Ciк do kopalni, їeby moi ludzie wziкli Ciк do niewoli i przesіuchali. Chciaіem Ciк przetestowaж na wszawicк, czy poddasz siк naszej grupy. A jeњli tego nie zrobisz, czy moїesz przeїyж i wydostaж siк, gdy kilka osуb do Ciebie strzela. Po zapoznaniu siк z Twoimi umiejкtnoњciami, chociaї tego nie pokazaіem, zacz№іem traktowaж Ciк bardzo powaїnie - i przeczucie mnie nie zawiodіo. To Tobie udaіo siк, nie podejrzewaj№c tego, odkryж sekret Strefy i O-Њwiadomoњci. Cуї... wypіynкіo juї ze mnie duїo krwi... Masz jeszcze pytania?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_45">
+      <text>Tak, ostatnie.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_46">
+      <text>Pytaj.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_47">
+      <text>Gdzie jest teraz Sith?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_48">
+      <text>W tym samym miejscu, w ktуrym zaczynaі siк nasz kontrakt - w domu Leњnika. Skoro idziesz za nim, mogк Ciк o coњ zapytaж?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_49">
+      <text>Zabawnie to sіyszeж, ale o co chodzi?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_5">
+      <text>Jaka jest prawda? Zapewne chciaіeњ sam zabiж grupк Streіka, їeby obci№ж caі№ kwotк za kontrakt, a nie inaczej.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_50">
+      <text>Zastrzel mnie. Jestem zmкczony drкczeniem siк myњl№c, їe wszystko jest tak№ podіoњci№, aї sprawia mi bуl wewn№trz. Oszczкdџ mi tego uczucia. Tak czy siak tu umrк.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_51">
+      <text>Z przyjemnoњci№. Wiesz, Szkir, nawet Ci wspуіczujк. Ale nie mogк wybaczyж wszystkiego, czego doњwiadczyіem, wiesz.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_52">
+      <text>Przynajmniej po tym, jak powiedziaіem, o wszystkim co zgromadziіo siк w tym czasie, teraz moja dusza staіa siк lїejsza. Їegnaj, Sektor.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_53">
+      <text>Їegnaj, Szkir.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_54">
+      <text>Szkoda marnowaж kule na stworzenie takie jak Ty. Wolaіbym wrzuciж Ciк w anomaliк. Na przykіad w jeden z tych za Tob№.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_55">
+      <text>Nie chcesz nawet speіniж proњby umieraj№cego? Chciaіem piкknie umrzeж...</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_56">
+      <text>Zwierz zdycha jak zwierz.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_6">
+      <text>Wydaje siк byж dorosіym facetem, tyle przeszedі, ale rozum masz jak 15-latek.. Nie gniewaj siк, їartujк.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_7">
+      <text>Dziaіasz mi na nerwy.</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_8">
+      <text>Jak pewnie przez caіy kontrakt. Czy wiesz, kto zaaranїowaі ten kontrakt? Kto zamуwiі Grupк Streіka?</text>
+  </string>
+  <string id="red_shkir_last_dialog_end_9">
+      <text>Najemnik nie powinien interesowaж siк takimi rzeczami - wiesz o tym lepiej ode mnie.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_0">
+      <text>Stуj! To miejsce jest teraz pod kontrol№ Powinnoњci. Powiedz mi, z jakiej grupy jesteњ?</text>
+  </string>
+  <string id="red_skryabin_first_dialog_1">
+      <text>Czy to nie jest widoczne w PDA? Jestem samotnikiem, pseudonim - Sektor.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_10">
+      <text>Oto jak? Ok, zaіуїmy, їe Ci wierzк. Nawiasem mуwi№c, helikopter zostaі zestrzelony - nie przez nas, mуwiк od razu. Upadі gdzieњ w okolicy lasu, ale wygl№da na to, їe ktoњ stamt№d wyskoczyі i spadі w okolicy przystanku.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_2">
+      <text>Sektor.. Hmm, znajoma ksywa. Wygl№da na to, їe tydzieс temu siedziaі w bazie.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_3">
+      <text>O czym teraz mуwisz?</text>
+  </string>
+  <string id="red_skryabin_first_dialog_4">
+      <text>Durnia udajesz? Ktoњ zaatakowaі nasz№ bazк na Agropromie. Niektуrzy zginкli, a niektуrzy zniknкli, tak jak Ty teraz. Mogк wysіaж Ciк do wiкzienia? Tam odњwieї№ Twoj№ pamiкж.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_5">
+      <text>Czekaj, czekaj, nie jestem zamieszany w to, co siк tam staіo. W tym czasie szukaіem dokumentуw w podziemiach.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_6">
+      <text>Podziemia Agropromu? Jak zalaі je Szram, najemnik. Chociaї minкіo duїo czasu...</text>
+  </string>
+  <string id="red_skryabin_first_dialog_7">
+      <text>Nie wiem kto co tam zalaі, ale byіem w lochach. I nie sam, jak siк okazaіo. A przed i po tym, w czerwonym lesie, spotkaіem fikcyjnych powinnoњciowcуw, ktуrzy mnie zaatakowali. Moїe to potwierdziж generaі Kryіow.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_8">
+      <text>Generaі Kryіow nie їyje, jak wszyscy w bazie. I to pierwszy raz, kiedy sіyszк o "fikcyjnych dіuїnikach". Powinnoњж teraz szuka osуb zamieszanych w te morderstwa. A potem spotykam jednego z ocalaіych, ktуry zdecydowanie prуbuje siк "ulotniж", opowiadaj№c mi rуїne bajki. Bкdziesz musiaі usi№њж z nami, Sektorze i odpowiedzieж na nasze pytania.</text>
+  </string>
+  <string id="red_skryabin_first_dialog_9">
+      <text>Jesteњ idiot№? Teraz szukam osoby, ktуra najprawdopodobniej jest zamieszana w ludobуjstwo Twoich ziomkуw - odstкpcy naszego oddziaіu, ktуry pojmaі takїe naszych najemnikуw. Prуbujк go teraz znaleџж. Widziaіeњ helikopter, wіaњnie przeleciaі? Rуwnie dobrze mуgі tam byж. Jeњli naprawdк jesteњ zainteresowany znalezieniem osуb zaangaїowanych, szukaj ze mn№ i nie przeszkadzaj mi. Ust№p, do cholery!</text>
+  </string>
+  <string id="red_skryabin_last_dialog_0">
+      <text>Cholera jasna...</text>
+  </string>
+  <string id="red_skryabin_last_dialog_1">
+      <text>Co tu siк staіo?</text>
+  </string>
+  <string id="red_skryabin_last_dialog_2">
+      <text>Helikoptery.. Jak na Agropromie.. Miaіeњ racjк...</text>
+  </string>
+  <string id="red_skryabin_last_dialog_3">
+      <text>Gdzie poleciaіy helikoptery? Czy byі z nimi ktoњ jeszcze?</text>
+  </string>
+  <string id="red_skryabin_last_dialog_4">
+      <text>Na niebiesko.. Egzoszkielety.. Odlecieli... M-maж.. Jak to jest... Chciaіam o wiele wiкcej..</text>
+  </string>
+  <string id="red_skryabin_last_dialog_5">
+      <text>Dok№d polecieli? Przestaс, Cziї, nie umieraj! Sіyszysz mnie?</text>
+  </string>
+  <string id="shkir_first_dialog_0">
+      <text>[Pocz№tek fabuіy]</text>
+  </string>
+  <string id="shkir_first_dialog_1">
+      <text>Jesteњmy na miejscu. Klient zapіaciі pokaџn№ kwotк za szefуw pewnej grupy Streіka. Na razie musimy siк tutaj zadomowiж.</text>
+  </string>
+  <string id="shkir_first_dialog_2">
+      <text>Czego powinienem oczekiwaж od tej grupy?</text>
+  </string>
+  <string id="shkir_first_dialog_3">
+      <text>Tego samego co od reszty - grupa doњwiadczonych stalkerуw, ktуrzy z jakiegoњ powodu kogoњ zdenerwowali. Jesteњ najemnikiem czy detektywem? To co, goс do grupy "Alfa" i rozeznaj siк w sytuacji. S№ na parkingu na poіudnie st№d i dotarli tu przed nami - moїe ktoњ siк czegoњ dowiedziaі. W miкdzyczasie dowiem siк, co siк staіo z "Delt№".</text>
+  </string>
+  <string id="shkir_first_dialog_4">
+      <text>Jak rozkarzesz.</text>
+  </string>
+  <string id="shkir_first_dialog_end_0">
+      <text>"Alfa" rуwnieї postanowili zbadaж okolicк, ale natknкli siк na ogromnego potwora w lesie, ktуry rozerwaі na kawaіki poіowк caіej grupy. Leszy przeїyі. Teraz s№ na tym samym parkingu.</text>
+  </string>
+  <string id="shkir_first_dialog_end_1">
+      <text>Elegancko, kurwa! Czy jest coњ, co ten gіupi dupek moїe zrobiж? Najbardziej bezuїyteczny skіad w historii, kurwa maж.</text>
+  </string>
+  <string id="shkir_first_dialog_end_2">
+      <text>Dobra, niewaїne. Jak tam "Delta"?</text>
+  </string>
+  <string id="shkir_first_dialog_end_3">
+      <text>Powinieneњ spojrzeж na siebie, Szkir. Przynajmniej "Alpha" ma mуzg, by zbadaж okolicк i przygotowaж siк na ataki mutantуw.</text>
+  </string>
+  <string id="shkir_first_dialog_end_4">
+      <text>O jaki przem№drzaіy siк znalazі. Nie b№dџ hej do przodu bo Ci z tyіu wystaje.</text>
+  </string>
+  <string id="shkir_first_dialog_end_5">
+      <text>Wiesz, masz racjк. Gdybym siк nie "ukryі", dupki takie jak Ty teї zgniіyby w tym lesie, jak oddziaі Leszego. Przynajmniej nie musiaі bym sіuchaж Twojego jкczenia.</text>
+  </string>
+  <string id="shkir_first_dialog_end_6">
+      <text>[Dalej...]</text>
+  </string>
+  <string id="shkir_first_dialog_end_7">
+      <text>Ach tak, odnoњnie "Delty". Sith, przywуdca oddziaіu, mуwi, їe znalazі w lesie renegata, a wraz z nim osiedliі siк oddziaі stalkerуw. Byж moїe uda nam siк uzyskaж od nich jakieњ informacje. Ruszaj do niego.</text>
+  </string>
+  <string id="shkir_strelok_dialog_0">
+      <text>Wrуciіem.</text>
+  </string>
+  <string id="shkir_strelok_dialog_1">
+      <text>Dowiedziaіeњ siк czegoњ?</text>
+  </string>
+  <string id="shkir_strelok_dialog_2">
+      <text>Strieіok byі tutaj. Pobiegі do tunelu niedaleko st№d, ktуry za sob№ zasypaі. A takїe byі najemnik z blizn№ na twarzy, szedі za nim.</text>
+  </string>
+  <string id="shkir_strelok_dialog_3">
+      <text>Hmm... Wiкc nadal musimy znaleџж tego najemnika, on na pewno coњ wie. Dobra, chіopaki stoj№ na szpicy, moїe ktoњ tam wrуci. Sith powiedziaі, їe jest tu opuszczona kopalnia, pozostaіo w niej trochк sprzкtu. Poniewaї jesteњ z nas najbardziej ciekawski, powierzam to zadanie Tobie. Dotrzyj tam i sprуbuj znaleџж tam coњ interesuj№cego, moїe jest w tam jakieњ obejњcie.</text>
+  </string>
+  <string id="shkir_strelok_dialog_4">
+      <text>Hmm... Przyjњcie tu samemu jest niebezpieczne, pуjњcie do Sitha - tym bardziej. Potrzebujк towarzysza.</text>
+  </string>
+  <string id="shkir_strelok_dialog_5">
+      <text>Czy nie wyraziіem siк jasno?! Idџ do kopalni dziкciole!</text>
+  </string>
+  <string id="shkir_strelok_dialog_6">
+      <text>Powtarzam – niebezpiecznie jest iњж tam samemu i bardzo dobrze o tym wiesz. Jaki jest problem z wysіaniem kogoњ ze mn№?</text>
+  </string>
+  <string id="shkir_strelok_dialog_7">
+      <text>Taki, їe kazaіem Ci postкpowaж zgodnie z rozkazem, a zamiast odpowiedzieж "zrobiк to" – stoisz i jкczysz tu! Zapomniaіeњ, kto jest liderem w druїynie? A moїe chcesz porozmawiaж z klientem o tym, їe nie chcesz realizowaж umowy? Powtarzam - idџ do kopalni.</text>
+  </string>
+  <string id="shkir_strelok_dialog_8">
+      <text>Dobra, uspokуj siк... juї to robiк.</text>
+  </string>
+  <string id="sith_first_dialog_0">
+      <text>Jaki jest plan?</text>
+  </string>
+  <string id="sith_first_dialog_1">
+      <text>Jak wiesz, musimy dowiedzieж siк, gdzie jest grupa Streіki. Ci stalkerzy nie osiedlili siк tylko w miejscu, gdzie kiedyњ byі Leњnik, ktуry wedіug naocznych њwiadkуw byі њciњle zwi№zany z ich grup№. Oczywiњcie nie jest faktem, їe ci ludzie wiedz№, kto to jest, ale...</text>
+  </string>
+  <string id="sith_first_dialog_2">
+      <text>Ale nie mamy wielkiego wyboru, prawda?</text>
+  </string>
+  <string id="sith_first_dialog_3">
+      <text>Otуї to. Swoj№ drog№, gdzie znikn№і sam Leњnik – nie mam pojкcia. Proponujк szturmowaж obуz, bior№c jednego lub wiкcej jeсcуw - cуї poradziж. A na przesіuchaniu wszystko stanie siк jasne.</text>
+  </string>
+  <string id="sith_first_dialog_4">
+      <text>Popieram. Ruszajmy.</text>
+  </string>
+  <string id="sith_first_dialog_end_0">
+      <text>Dok№d teraz pуjdziesz?</text>
+  </string>
+  <string id="sith_first_dialog_end_1">
+      <text>Zostanк tutaj. Poczekam godzinк lub dwie, potem zabijк szpicla.</text>
+  </string>
+  <string id="sith_first_dialog_end_2">
+      <text>Moїe lepiej daж mu їyж?</text>
+  </string>
+  <string id="sith_first_dialog_end_3">
+      <text>Co jest Sektor? Gryzie Ciк sumienie? Trochк za pуџno, jak juї zostaіeњ najemnikiem.</text>
+  </string>
+  <string id="sith_first_dialog_end_4">
+      <text>Moїe i gryzie. Kiedy wycelowaіem w niego broс i zagroziіem, їe go zabijк, powiedziaі mi wszystko, co wiedziaі. Osi№gnкliњmy to, co chcieliњmy, jaki jest sens likwidacji? Niech sobie їyje.</text>
+  </string>
+  <string id="sith_first_dialog_end_5">
+      <text>Nie spodziewaіem siк takich sіуw. Dobra, wymyњlimy coњ. Jeњli siк nie poruszy - przeїyje. Najwaїniejsze, їeby Szkir nie dowiedziaі siк, w przeciwnym razie bкdziemy piszczeж jak suczki, ktуrej ogon zostaі uszczypniкty.</text>
+  </string>
+  <string id="sith_first_dialog_end_6">
+      <text>Nie, po prostu najwyraџniej czegoњ nie dopowiedziaі. Jest maіo prawdopodobne, їe ktoњ wrуci za kilka godzin, ale za dzieс lub dwa jest to caіkiem prawdopodobne. Nadal moїe siк przydaж.</text>
+  </string>
+  <string id="sith_first_dialog_end_7">
+      <text>Moїe masz racjк. Dobra, niech їyje sobie.</text>
+  </string>
+  <string id="sith_last_dialog_0">
+      <text>Znowu Ty? Mуwiіem Ci, niczego siк ode mnie nie dowiesz. Moїesz mnie  pobiж i na њmierж, gnido...</text>
+  </string>
+  <string id="sith_last_dialog_1">
+      <text>Sith bracie to ja.</text>
+  </string>
+  <string id="sith_last_dialog_10">
+      <text>Dziкkujк Ci. Teraz czujк siк trochк lepiej. A teraz powiedz mi lepiej, jak tam Szkir sobie radzi?</text>
+  </string>
+  <string id="sith_last_dialog_11">
+      <text>Koniec z nim. Oto jego PDA. A jednoczeњnie - PDA Topora. Znaleziony w jednym z laboratoriуw.</text>
+  </string>
+  <string id="sith_last_dialog_12">
+      <text>Tak, Topor... szkoda. To byі normalny facet. Dobra, przejdџmy do... Wow, tyle zapiskуw!</text>
+  </string>
+  <string id="sith_last_dialog_13">
+      <text>Moїesz poczytaж.</text>
+  </string>
+  <string id="sith_last_dialog_14">
+      <text>Okazuje siк, їe nie byі tak№ zі№ osob№, prawda? Ale nigdy nie wybaczк mu Phobosa. I O-Њwiadomoњжi, cholera - teї.</text>
+  </string>
+  <string id="sith_last_dialog_15">
+      <text>Przy okazji, weџ swoj№ maskк.</text>
+  </string>
+  <string id="sith_last_dialog_16">
+      <text>Biorк to... Czekaj, Sektor, co masz za artefakt - taki piкkny?</text>
+  </string>
+  <string id="sith_last_dialog_17">
+      <text>Ten? Ach, znalazіem to u Szkira. Jak przestaі oddychaж, artefakt wyskoczyі z jego plecaka.</text>
+  </string>
+  <string id="sith_last_dialog_18">
+      <text>Cуї, teraz wszystko pasuje..</text>
+  </string>
+  <string id="sith_last_dialog_19">
+      <text>Co takiego?</text>
+  </string>
+  <string id="sith_last_dialog_2">
+      <text>..Sektor? Czy Ty jesteњ?...</text>
+  </string>
+  <string id="sith_last_dialog_20">
+      <text>Sіyszaіem o tym artefakcie. Mуwi№, їe prowadzi swojego wіaњciciela do losu, w zaleїnoњci od dziaіaс, ktуre popeіniі. A jeњli jutro ma umrzeж to nawet jeњli schowa siк - umrze. A jeњli Twoim przeznaczeniem jest їyж, bкdziesz їyж.</text>
+  </string>
+  <string id="sith_last_dialog_21">
+      <text>Wierz sobie w te mity. A tak przy okazji, Sith, nie zmieniіeњ jeszcze zdania, їeby spadaж ze Strefy?</text>
+  </string>
+  <string id="sith_last_dialog_22">
+      <text>Nawet nie wiem. Wygl№da na to, їe nic nie trzyma mnie na Wielkiej Ziemi. Ale to miejsce rуwnieї pozostawiіo nieprzyjemny њlad. A Ty, Sektorze?</text>
+  </string>
+  <string id="sith_last_dialog_23">
+      <text>Zobaczymy. W kaїdym razie nic mnie teraz nie powstrzymuje.</text>
+  </string>
+  <string id="sith_last_dialog_3">
+      <text>Tak to ja. Wrуciіem.</text>
+  </string>
+  <string id="sith_last_dialog_4">
+      <text>Dziкki Bogu. Myњlaіem, їe dziњ tutaj umrк. Chociaї w zasadzie nie jest jeszcze wieczуr..</text>
+  </string>
+  <string id="sith_last_dialog_5">
+      <text>Їartujesz teraz. Cieszк siк, їe Ciк widzк po tym wszystkim, co siк wydarzyіo.</text>
+  </string>
+  <string id="sith_last_dialog_6">
+      <text>Teї cieszк siк, їe Ciк widzк, bracie. Przepraszam, nie naprawiіem krуtkofalуwki - ci dranie znaleџli mnie wczeњniej.</text>
+  </string>
+  <string id="sith_last_dialog_7">
+      <text>Do diabіa z ni№, z krуtkofalуwk№ - lepiej powiedz mi, czy jesteњ ciкїko ranny?</text>
+  </string>
+  <string id="sith_last_dialog_8">
+      <text>Cуї, tak dіugo jak bкdк mуgі oddychaж, to wszystko bкdzie dobrze. Myњlк, їe potrzebujк apteczki.</text>
+  </string>
+  <string id="sith_last_dialog_9">
+      <text>Proszк, apteczka.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_0">
+      <text>Caіy oddziaі "Gamma" zniszczony...</text>
+  </string>
+  <string id="sith_return_gamma_dialog_1">
+      <text>Szkir to zrobiі... Nie mogк w to uwierzyж! Monstrum, co za stworzenie!</text>
+  </string>
+  <string id="sith_return_gamma_dialog_10">
+      <text>Nie, to za dіugo. Poradzк sobie, sam powiedziaіeњ, їe musimy kupiж czas.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_11">
+      <text>Przygotuj siк, Sith.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_12">
+      <text>Њwietny plan, teї o tym pomyњlaіem.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_13">
+      <text>Wiкc ustaliliњmy trasк.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_14">
+      <text>Zostaіy jeszcze dwie rzeczy...</text>
+  </string>
+  <string id="sith_return_gamma_dialog_15">
+      <text>Sіucham.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_16">
+      <text>Poі№czenie. Mam dwa czujniki komunikacji, czyli prototypy krуtkofalуwek. Czuіem, їe prкdzej czy pуџniej trzeba bкdzie ich uїyж. Oto jeden dla Ciebie, jeњli uda nam siк czegoњ dowiedzieж - skontaktujemy siк ze sob№.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_17">
+      <text>Oczywiњcie!</text>
+  </string>
+  <string id="sith_return_gamma_dialog_18">
+      <text>Poza tym..</text>
+  </string>
+  <string id="sith_return_gamma_dialog_19">
+      <text>Tak?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2">
+      <text>Przewiduj№c.. Istniej№ dwie hipotetyczne opcje, dok№d mуgіby siк udaж. Nie... s№ trzy opcje.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_20">
+      <text>Most zostaі podniesiony i tylko Topor i Szkir mieli konsole. Z tyіu jest teї przeі№cznik, ale trzeba siк do niego dostaж.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_21">
+      <text>Czy Topуr byі z Tob№, kiedy byіem w podziemiach?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_22">
+      <text>Tak, co wiкcej - uciekі, tak jak ja. Dok№d poszedі - nie wiem, ale wygl№da їe do Limaсska..</text>
+  </string>
+  <string id="sith_return_gamma_dialog_23">
+      <text>Sk№d ta pewnoњж?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_24">
+      <text>Sam mi powiedziaі.. Daі teї swojego pilota "na wypadek, gdyby Sektor przeїyі". Krуtko mуwi№c wszystko jest jak w bajce – "nie ratuj mnie, pomњcij wszystkich" i tak dalej.. Wiкc teraz bez problemu podniesiemy most.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_25">
+      <text>[Dalej...]</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2_0">
+      <text>Rozumiem, їe coњ poszіo nie tak?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2_1">
+      <text>Wygl№da na to, їe siк zaci№і. Prawdopodobnie Szkir prуbowaі uniemoїliwiж nam dotarcie do Limaсska. A moїe celowo tak to zaaranїowaі, їe myњleliњmy, їe pojedzie do Limaсska - a ukryje siк w zupeіnie innym kierunku.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2_2">
+      <text>To rozdzielamy siк czy nie?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2_3">
+      <text>Nie wiem... Jak przeprawisz siк przez rzekк bez mostu? Nie skacz chociaї.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_2_4">
+      <text>Nie, to nie jest іatwe zadanie. Muszк pomyњleж...</text>
+  </string>
+  <string id="sith_return_gamma_dialog_3">
+      <text>Limaсsk i magazyny?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_4">
+      <text>Tak. I opuszczona kopalnia, w ktуrej "Powinnoњж" Ciк Porwali.. Mam pomysі, jak to zrobiж. Ale chкtnie Ciк wysіucham, jeњli masz jakiњ plan.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_5">
+      <text>Mam jeden pomysі. Ale chкtnie Ciк wysіucham, jeњli masz jakiњ plan.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_6">
+      <text>Powiedz, mi skoсczyіy siк pomysіy.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_7">
+      <text>Ja lepiej znam drogк do Limaсska, wiкc pojadк w tym kierunku i sprawdzк szpital, a Ty zajmiesz siк kopalni№ i magazynami.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_8">
+      <text>Mogк iњж w do kopalni, a jeњli nikogo tam nie znajdк, przejdк siк do magazynуw. Pojedziesz do Limaсska i do szpitala. Szkir nie mуgі posun№ж siк dalej niї do szpitala. Pewnie wybiera siк za Ocalaіym.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_9">
+      <text>Bкdziesz potrzebowaж pomocy w kopalni, a co jeњli to kolejna zasadzka?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_end_0">
+      <text>Sіuchaj, mam pomysі. Czy wiesz, czy w tych przewodach jest jeszcze pr№d?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_end_1">
+      <text>Sektor, co kombinujesz? Rozumiem, їe nie mamy wielkiego wyboru...</text>
+  </string>
+  <string id="sith_return_gamma_dialog_end_2">
+      <text>Tak, nie mamy wyboru. Nie moїna przepіyn№ж przez truj№c№ rzekк. Muszк wspinaж siк po drutach.</text>
+  </string>
+  <string id="sith_return_gamma_dialog_end_3">
+      <text>Poczekaj, przegadajmy to, dobrze? Moїe jest inny sposуb?</text>
+  </string>
+  <string id="sith_return_gamma_dialog_end_4">
+      <text>Czekaj, sіyszк coњ...</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_0">
+      <text>Jak tam, caіy jesteњ?</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_1">
+      <text>Uratowaіeњ mi їycie. Wygl№da na to, їe mam teraz dіug.</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_2">
+      <text>Co siк wіaњciwie staіo?</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_3">
+      <text>Zostaliњmy zaatakowani przez Powinnoњж. Kane i Fobos zginкli, ledwo mogіem wytrzymaж sam, jeszcze moment i...\nOch, Fobos... Tak dіugo przyjaciуіmi... byliњmy.</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_4">
+      <text>Poprosiіeњ Szkira o posiіki?</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_5">
+      <text>Tak. Ten chujek dup№ nie ruszyі i nie zamierzaі tego zrobiж. Ten stwуr mnie rozwњciecza, nikogo nie oszczкdza. On sam caіy czas siedzi na dupie w bazie, "lider" z gуwna... Przecieї przywуdcy powinni caіy czas siedzieж w bazie, a nie prowadziж atakуw, prawda? Co myњlisz?</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_6">
+      <text>Dobra, za duїo tu rozmawiamy. Myњlк, їe pora na mnie.</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_7">
+      <text>Poczekaj chwilк. Jesteњ jedyn№ osob№, ktуra odpowiedziaіa na moj№ proњbк o pomoc. Dlatego w razie czego - daj znaж.</text>
+  </string>
+  <string id="sith_shkir_dialog_1_end_8">
+      <text>Dobrze.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_0">
+      <text>[Milcz]</text>
+  </string>
+  <string id="sith_shkir_dialog_2_1">
+      <text>Gdzie do cholery byіeњ przez caіy ten czas?</text>
+  </string>
+  <string id="sith_shkir_dialog_2_10">
+      <text>Zaci№gnкli mnie na drugi koniec Czerwonego Lasu, gdzie zaczкli mnie przesіuchiwaж. Miaіem szczкњcie, їe siк stamt№d wydostaіem. Druga grupa Powinnoњci osiedliіa siк w domu, w ktуrym byli stalkerzy. Tym opuszczonym.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_11">
+      <text>Czy zabili szpicla w tym domu?</text>
+  </string>
+  <string id="sith_shkir_dialog_2_12">
+      <text>Tak.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_13">
+      <text>Dobra. Nie ma sensu tu dіuїej zostawaж. Teraz kaїdy pies zna cel naszego zadania. Teraz mamy drogк do Instytutu Badawczego Agropromu. Straїnicy przy wjeџdzie do Limaсska pozostan№ tam, gdzie byli i w takim przypadku przeњl№ nam st№d informacje. Pozostaje mi skontaktowaж siк z Lesz№. Powiedz kiedy bкdziesz gotowy, tylko nie zwlekaj zbyt dіugo.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_14">
+      <text>Nie.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_15">
+      <text>Ty z litoњci nie moїesz zabiж szpica, czy planujesz zostawiж to їoіnierzom? Zabawne. Dobra, to juї nie ma znaczenia. Nie ma sensu tu dіuїej zostawaж. Teraz kaїdy pies zna cel naszego zadania. Teraz mamy drogк do Instytutu Badawczego Agropromu. Straїnicy przy wjeџdzie do Limaсska pozostan№ tam, gdzie byli i w razie czego przeњl№ nam st№d informacje. Pozostaje mi kontakt z Lesz№. Kiedy bкdziesz gotowy - powiedz mi, tylko nie zwlekaj dіugo.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_2">
+      <text>Nie waїne. Dlaczego, do cholery, nie wysіaіeњ Topora lub Karpia, їeby pomogli Sithowi? Kane i Fobos zginкli przez Ciebie, zgniіy szczurze!</text>
+  </string>
+  <string id="sith_shkir_dialog_2_3">
+      <text>Uspokуj siк kochanienki. Jeњli uznam, їe tak bкdzie, to tak bкdzie. Juї Ci mуwiіem, їe ja tu rz№dzк – nie Ty, nie Sith, nikt inny. Mam kontakty. Jesteњ tu pustym pionkiem, zwykіym kundlem, ktуry wykonuje moje rozkazy.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_4">
+      <text>Bolt, ja liczк na Twуj ukіad. Jeњli jesteњ bezuїyteczn№ kup№ gуwna, to co powstrzyma mnie przed walniкciem Ciк teraz?</text>
+  </string>
+  <string id="sith_shkir_dialog_2_5">
+      <text>Co takiego? Chcesz mnie wykoсczyж? A co potem? Ktуry z was bкdzie liderem druїyny? Ty? Karp? Wint? Moїe Sith lub Topуr? Nie macie їadnych planуw co dalej i jak szukaж Streіoka. Teraz nie ma sensu siк kіуciж ani strzelaж. Dopуki jesteњmy sojusznikami, po co utrudniaж nam obojgu sprawк? Po wykonaniu kontraktu rozejdziemy siк na wszystkie cztery strony.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_6">
+      <text>Nie widziaіem, їebyњ cokolwiek robiі. Nie szlochaj tutaj z powodu swoich powi№zaс i pozycji lidera.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_7">
+      <text>Uspokуj siк. Raportuj, co wykopaіeњ w tej kopalni?</text>
+  </string>
+  <string id="sith_shkir_dialog_2_8">
+      <text>Powinnoњж... Gdy tylko zbliїyіem siк to mnie powalili.</text>
+  </string>
+  <string id="sith_shkir_dialog_2_9">
+      <text>Dalej?</text>
+  </string>
+  <string id="sith_shkir_dialog_3_0">
+      <text>Lepiej chodџ ze mn№. Wiem, їe jesteњ obraїony, ale.....</text>
+  </string>
+  <string id="sith_shkir_dialog_3_1">
+      <text>Tak. Przepraszam chіopaki. Fobos znaі go od dawna, prawie od dzieciсstwa. Gdyby Szkir wysіaі posiіki, sprawy potoczyіyby siк zupeіnie inaczej. Pojawiіo siк tyle myњli...</text>
+  </string>
+  <string id="sith_shkir_dialog_3_2">
+      <text>Szkir powiedziaі w kontakcie z "Alpha" їe rusza w kierunku instytutu badawczego.</text>
+  </string>
+  <string id="sith_shkir_dialog_3_3">
+      <text>Dobrze, zrozumiaіem.</text>
+  </string>
+  <string id="sith_shkir_dialog_3_4">
+      <text>[Dalej...]</text>
+  </string>
+  <string id="smirnow_dopros_0">
+      <text>Poddajк siк. Tak, jestem przemytnikiem. Zіapany, gotowy na karк.</text>
+  </string>
+  <string id="smirnow_dopros_1">
+      <text>Co? Jaki znowu przemyt?</text>
+  </string>
+  <string id="smirnow_dopros_10">
+      <text>Tak, nie pamiкtam jego imienia, miaі bliznк na twarzy.</text>
+  </string>
+  <string id="smirnow_dopros_11">
+      <text>Kontyntynuj.</text>
+  </string>
+  <string id="smirnow_dopros_12">
+      <text>Stalker nazywaі siк Streіok. Uciekaі przed najemnikiem do tunelu prowadz№cego do Limaсska - tam wysadziі przejњcie, їeby go nie dorwaж.</text>
+  </string>
+  <string id="smirnow_dopros_13">
+      <text>Czy wiesz coњ jeszcze?</text>
+  </string>
+  <string id="smirnow_dopros_14">
+      <text>To wszystko, nic wiкcej nie wiem. Proszк, nie zabijaj mnie.</text>
+  </string>
+  <string id="smirnow_dopros_15">
+      <text>Jeњli ktoњ dowie siк, їe tu byі, kula nie bкdzie dіugo czekaж..</text>
+  </string>
+  <string id="smirnow_dopros_2">
+      <text>Wiкc nie po to przyszedіeњ?</text>
+  </string>
+  <string id="smirnow_dopros_3">
+      <text>Przyszedіem tu po informacje. A teraz od Ciebie zaleїy, czy przeїyjesz, czy nie.</text>
+  </string>
+  <string id="smirnow_dopros_4">
+      <text>Rozumiem, wiкc nie zadajк zbyt wielu pytaс..</text>
+  </string>
+  <string id="smirnow_dopros_5">
+      <text>Podobasz mi siк. Co wiesz o tych stalkerach? [Pokaї zdjкcie grupy Streіka]</text>
+  </string>
+  <string id="smirnow_dopros_6">
+      <text>Tak... rozpoznajк jednego.</text>
+  </string>
+  <string id="smirnow_dopros_7">
+      <text>Kto dokіadnie?</text>
+  </string>
+  <string id="smirnow_dopros_8">
+      <text>Byі tu niedawno, goniі go najemnik.</text>
+  </string>
+  <string id="smirnow_dopros_9">
+      <text>Najemnik?</text>
+  </string>
 </string_table>

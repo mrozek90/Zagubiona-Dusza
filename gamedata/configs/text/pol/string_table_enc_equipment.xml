@@ -1,152 +1,152 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 <string id="mre">
-<text>Сухой паёк (Не открытый, 3 порции)</text>
+<text>Sucha racja їywnoњciowa (nieotwarte, 3 porcje)</text>
 </string>
 <string id="mre2">
-<text>Сухой паёк (осталось 2 порции)</text>
+<text>Sucha racja їywnoњciowa (nieotwarte, 2 porcje)</text>
 </string>
 <string id="mre3">
-<text>Сухой паёк (осталась 1 порция)</text>
+<text>Sucha racja їywnoњciowa (nieotwarte, 1 porcja)</text>
 </string>
 <string id="mre_descr">
-<text>Сухой паёк, готовый к употреблению (известный, как MRE) является автономным, индивидуальным рационом питания вооруженных сил Соединенных Штатов в полевых условиях, при проведении боевых операций или при других сложных условиях, когда нет поблизости источников нормальной пищи. Один сухой паёк может быть использован один раз. Посуда для сухих пайков разработана так, что бы противостоять сложным и тяжелым условиям эксплуатации и защитить содержимое от внешнего воздействия окружающей среды. Одна упаковка содержит: первое блюдо и целый ряд других продуктов питания. Хотя всё это можно употреблять холодным, но в каждую пачку входит Беспламенный Нагреватель (устройство водоактивируемой экзотермической реакции, которая излучает тепло), который помогает разогреть пищу, что делает её намного вкуснее.</text>
+<text>Gotowe do spoїycia racje їywnoњciowe (znane jako MRE) to samodzielne, spersonalizowane racje їywnoњciowe dla wojska Stanуw Zjednoczonych w terenie, podczas operacji bojowych lub w innych trudnych warunkach, gdy w pobliїu nie ma normalnych џrуdeі їywnoњci. Jedna sucha racja їywnoњciowa moїe byж uїyta jednorazowo. Przybory do suchej racji їywnoњciowej s№ zaprojektowane tak, aby wytrzymaж trudne i surowe warunki pracy oraz chroniж zawartoњж przed zewnкtrznymi wpіywami њrodowiska. Jedno opakowanie zawiera: pierwsze danie oraz szereg innych produktуw spoїywczych. Chociaї wszystkie moїna spoїywaж na zimno, kaїde opakowanie zawiera bezpіomieniow№ grzaіkк (aktywowane wod№ urz№dzenie do reakcji egzotermicznej, ktуre emituje ciepіo), ktуre pomaga podgrzaж jedzenie, dziкki czemu jest znacznie smaczniejsze.</text>
 </string>
 <string id="water_drink">
-<text>Газированная вода (350 мл)</text>
+<text>Woda Gazowana (350 ml)</text>
 </string>
 <string id="water_drink_descr">
-<text>Газированная вода для утоления жажды сталкера. Немного взбодрит и придаст сил при сильной усталости.</text>
+<text>Woda gazowana, aby ugasiж pragnienie stalkerуw. Trochк rozweseli i doda siіy w przypadku silnego zmкczenia.</text>
 </string>
 <string id="caffeine">
-<text>Таблетки кофеина  (10 таблеток)</text>
+<text>Tabletki z kofein№ (10 tabletek)</text>
 </string>
 <string id="caffeine2">
-<text>Таблетки кофеина  (осталось 8 таблеток)</text>
+<text>Tabletki z kofein№ (8 tabletek)</text>
 </string>
 <string id="caffeine3">
-<text>Таблетки кофеина  (осталось 6 таблеток)</text>
+<text>Tabletki z kofein№ (6 tabletek)</text>
 </string>
 <string id="caffeine4">
-<text>Таблетки кофеина  (осталось 4 таблетки)</text>
+<text>Tabletki z kofein№ (4 tabletki)</text>
 </string>
 <string id="caffeine5">
-<text>Таблетки кофеина  (осталось 2 таблетки)</text>
+<text>Tabletki z kofein№ (2 tabletki)</text>
 </string>
 <string id="caffeine_descr">
-<text>Кофеин и бензонат натрия, которые заставляют работать нервную систему с максимально возможной эффективностью. В значительной степени снижают сонливость.</text>
+<text>Kofeina i benzoesan sodu, ktуre sprawiaj№, їe ukіad nerwowy dziaіa tak wydajnie, jak to tylko moїliwe. Znacz№co zmniejsza sennoњж.</text>
 </string>
 <string id="beans">
-<text>Тушеная фасоль</text>
+<text>Puszkowana Fasola</text>
 </string>
 <string id="beans_descr">
-<text>Консервированные испеченные бобы, завезенные с Запада. Фасоль, тушеная в томатном соусе поможет вернуть приятные воспоминания для многих сталкеров.</text>
+<text>Fasolka po bretoсsku w puszkach sprowadzana z Zachodu. Fasolka duszona w sosie pomidorowym wielu stalkerom przyniesie miіe wspomnienia.</text>
 </string>
 <string id="chili">
-<text>Бобы «Чили»</text>
+<text>Fasola "Chili"</text>
 </string>
 <string id="chili_descr">
-<text>Консервированные бобы Чили, завезенные с Запада. Весьма популярны в качестве дополнительных ингредиентов во многих блюдах, приготовляемых на территории Зоны Отчуждения.</text>
+<text>Fasola w puszkach importowana z Zachodu. Bardzo popularny jako dodatek do wielu daс przygotowywanych na terenie Strefy Wykluczenia.</text>
 </string>
 <string id="tomato">
-<text>Консервированные томаты</text>
+<text>Pomidory w Puszczce</text>
 </string>
 <string id="tomato_descr">
-<text>Консервированные, нарезанные кубиками помидоры, ввозимые на территорию Зоны на регулярной основе. Судя по сроку годности на дне банки - всё ещё свежие.</text>
+<text>Zapuszkowane, pokrojone w kostkк pomidory regularnie sprowadzane do Strefy. S№dz№c po dacie waїnoњci na dnie puszki, wci№ї jest њwieїa.</text>
 </string>
 <string id="corn">
-<text>Консервированная кукуруза</text>
+<text>Kukurydza w Puszce</text>
 </string>
 <string id="corn_descr">
-<text>Консервированная кукуруза импортированная из-за Кордона. Можно есть прямо в таком виде из банки, но многие сталкеры добавляют его в свои суповые варева в качестве ингредиента.</text>
+<text>Kukurydza w puszkach importowana zza Kordonu. Moїna j№ jeњж prosto z puszki, ale wielu stalkerуw dodaje go do swoich zup jako skіadnik.</text>
 </string>
 <string id="condensed_milk">
-<text>Сгущёное молоко</text>
+<text>Mleko Skondensowane</text>
 </string>
 <string id="condensed_milk_descr">
-<text>Сгущённое молоко с сахаром, в гражданскую войну входившие в сухпаёк североамериканской армии, достигло несравнимой популярности в странах постсоветского пространства, став одним из основных продуктов. Законсервированное в жестяных банках, оно может хранится десятилетиями, оставаясь вкусным и питательным.</text>
+<text>Mleko skondensowane z cukrem, ktуre byіo czкњci№ suchych racji їywnoњciowych armii pуіnocnoamerykaсskiej podczas wojny domowej, osi№gnкіo nieporуwnywaln№ popularnoњж w krajach przestrzeni postsowieckiej, staj№c siк jednym z gіуwnych produktуw. Zakonserwowany w puszkach, moїe byж przechowywany przez dziesiкciolecia, pozostaj№c pysznym i poїywnym.</text>
 </string>
 <string id="sardines">
-<text>Сардины в масле</text>
+<text>Sardynki w Oleju</text>
 </string>
 <string id="sardines_descr">
-<text>Обычные консервированные сардины. Содержащийся в рыбе фосфор необходим человеческому организму, поэтому периодически стоит разнообразить свой рацион этими консервированными сардинами.</text>
+<text>Zwykіe sardynki w puszczce. Zawarty w rybach fosfor jest niezbкdny organizmowi czіowieka, dlatego od czasu do czasu warto urozmaiciж swoj№ dietк wіaњnie tymi sardynkami w puszkach.</text>
 </string>
 <string id="tuna">
-<text>Консервированный тунец</text>
+<text>Konserwa z Tuсczyka</text>
 </string>
 <string id="tuna_descr">
-<text>Консервированный тунец.... ёпт, описание влом придумывать..</text>
+<text>Tuсczyk w puszczce.  Zawarty w rybach fosfor jest niezbкdny organizmowi czіowieka, dlatego od czasu do czasu warto urozmaiciж swoj№ dietк.</text>
 </string>
 <string id="crackers">
-<text>Армейские галеты (6 галет)</text>
+<text>Herbatniki wojskowe (6 szt)</text>
 </string>
 <string id="crackers_1">
-<text>Армейские галеты (3 галеты)</text>
+<text>Herbatniki wojskowe (3 szt)</text>
 </string>
 <string id="crackers_descr">
-<text>Довольно питательные самые обыкновенные армейские галеты. Входят в состав армейских сухпайков.</text>
+<text>Caіkiem poїywne, najzwyklejsze herbatniki wojskowe. Zawarte w armii suchych racji їywnoњciowych.</text>
 </string>
 <string id="canned_beef">
-<text>Тушёнка</text>
+<text>Gulasz</text>
 </string>
 <string id="canned_beef_descr">
-<text>Консервированная тушёная говядина, в обиходе известная как тушёнка, может хранится годами, что позволяет ей конкурировать со сгущёнкой в важности для снабжения пищей военных и туристов..</text>
+<text>Tuszona woіowina w puszczce, potocznie zwana gulaszem, moїe byж przechowywany przez lata, co pozwala mu konkurowaж z mlekiem skondensowanym o znaczenie dla zaopatrzenia wojska i turystуw.</text>
 </string>
 <string id="sprat">
-<text>Килька в томате</text>
+<text>Szprot w Pomidorach</text>
 </string>
 <string id="sprat_descr">
-<text>В Зоне этого продукта немало, цена небольшая, но зато вкусно.</text>
+<text>W Strefie tego produktu jest bardzo duїo, cena niewielka, ale smaczna.</text>
 </string>
 <string id="sprats">
-<text>Шпроты</text>
+<text>Szproty</text>
 </string>
 <string id="sprats_descr">
-<text>Несмотря на небольшую цену, шпроты очень вкусные.</text>
+<text>Mimo niskiej ceny szproty s№ bardzo smaczne.</text>
 </string>
 <string id="squash_caviar">
-<text>Кабачковая икра</text>
+<text>Ikra z Cukini№</text>
 </string>
 <string id="squash_caviar_descr">
-<text>Банка кабачковой икры, маленькое овощное сокровище, которое сочетается почти с любой едой и содержит впечатляющий набор витаминов и минералов.</text>
+<text>Sіoik kawioru z cukini№, maіy warzywny skarb, ktуry pasuje do prawie kaїdego posiіku i zawiera imponuj№cy zestaw witamin i mineraіуw.</text>
 </string>
 <string id="green_pea">
-<text>Зелёный горошек</text>
+<text>Zielony Groszek</text>
 </string>
 <string id="green_pea_descr">
-<text>Банка зелёного горошка, богатого витаминами и селеном.</text>
+<text>Sіoik zielonego groszku bogatego w witaminy i selen.</text>
 </string>
 <string id="juice">
-<text>Ананасовый сок</text>
+<text>Sok Ananasowy</text>
 </string>
 <string id="juice_descr">
-<text>Пакет ананасового сока, входит в состав армейских сухпайков.</text>
+<text>Karton soku ananasowego, czкњж suchej racji wojskowej.</text>
 </string>
 <string id="mineral_water">
-<text>Бутылка воды (1 литр)</text>
+<text>Butelka wody (1 litr)</text>
 </string>
 <string id="mineral_water2">
-<text>Бутылка воды (0.65 литра)</text>
+<text>Butelka wody (0.65 litra)</text>
 </string>
 <string id="mineral_water3">
-<text>Бутылка воды (0.3 литра)</text>
+<text>Butelka wody (0.3 litra)</text>
 </string>
 <string id="mineral_water_descr">
-<text>Минерализированная вода из украинских минеральных источников. Углеводородная с добавлением кальция.</text>
+<text>Zmineralizowana woda z ukraiсskich џrуdeі mineralnych. Wodorowкglany z dodatkiem wapnia.</text>
 </string>
 <string id="bottle_tea">
-<text>Чай Бороды (1 литр)</text>
+<text>Herbata Brody (1 litr)</text>
 </string>
 <string id="bottle_tea2">
-<text>Чай Бороды (0,65 литра)</text>
+  <text>Herbata Brody (0.65 litra)</text>
 </string>
 <string id="bottle_tea3">
-<text>Чай Бороды (0,35 литра)</text>
+  <text>Herbata Brody (0.3 litra)</text>
 </string>
 <string id="bottle_tea_descr">
-<text>Популярный среди сталкеров горячий чай Бороды, настоянный на съедобных сушеных грибах в кипяченой воде (поговаривают, что не радиоактивной) с добавлением сахара. Сталкеры, которые могут позволить покупать данный напиток, часто берут его с собой в длительные ходки по Зоне. Это довольно хороший и относительно здоровый способ оставаться на ногах, когда устанешь или когда пережидаешь холодные тёмные ночи.</text>
+<text>Popularna  wњrуd stalkerуw herbata od Borody, dodaje siк jadalne suszone grzyby w przegotowanej wodzie (mуwi№, їe nie s№ radioaktywne) z dodatkiem cukru. Stalkerzy, ktуrych staж na zakup tego trunku, czкsto zabieraj№ go ze sob№ na dіugie spacery po Strefie. To caіkiem dobry i stosunkowo zdrowy sposуb, aby nie spaж, gdy jesteњ zmкczony lub gdy przeїywasz zimne, ciemne noce.</text>
 </string>
 
 
