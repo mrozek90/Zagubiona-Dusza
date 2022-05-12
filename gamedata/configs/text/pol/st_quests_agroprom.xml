@@ -1,310 +1,310 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
 	<string id="vint_to_stalkers_1">
-		<text>Помощь сталкерам: Поговорить со Шкиром насчёт Винта</text>
+		<text>Pomуї stalkerom: Porozmawiaj ze Szkirem o Wincie</text>
 	</string>
 	<string id="vint_to_stalkers_2">
-		<text>Сейчас сталкерам Винт нужен больше, чем участникам отряда.</text>
+		<text>Teraz stalkerzy potrzebuj№ Winta bardziej niї czіonkowie oddziaіu.</text>
 	</string>
 	<string id="vint_to_stalkers_3">
-		<text>Помощь сталкерам: Поговорить с Винтом</text>
+		<text>Pomуї stalkerom: Porozmawiaj z Wintem</text>
 	</string>
 	<string id="vint_to_stalkers_4">
-		<text>Не думал, что это будет так просто. Не знаю, зачем я вообще это делаю.. Никогда раньше не помогал сталкерам.</text>
+		<text>Nie s№dziіem, їe to bкdzie takie proste. Nie wiem, dlaczego w ogуle to robiк. Nigdy wczeњniej nie pomagaіem stalkerom.</text>
 	</string>
 	<string id="vint_to_stalkers_5">
-		<text>Помощь сталкерам: Поговорить с Орестом</text>
+		<text>Pomуї stalkerom: Porozmawiaj z Orestem</text>
 	</string>
 	<string id="vint_to_stalkers_6">
-		<text>Винт дошёл до базы, теперь можно сообщить об этом Оресту.</text>
+		<text>Wint dotarі do bazy, teraz mogк poinformowaж o tym Oresta.</text>
 	</string>
-	
+
 	<string id="inquisitor_quest_1">
-		<text>Помощь сталкерам: Найти Ореста в туннеле</text>
+		<text>Pomуї stalkerom: Znajdџ Oresta w tunelu</text>
 	</string>
 	<string id="inquisitor_quest_2">
-		<text>Будем надеяться, что Орест жив. Он - лидер Одиночек, скорее всего он знает что-нибудь о группе Стрелка.</text>
+		<text>Mam nadziejк, їe Orest їyje. Jest liderem Samotnikуw, najprawdopodobniej wie coњ o grupie Streіka.</text>
 	</string>
 	<string id="inquisitor_quest_3">
-		<text>Помощь сталкерам: Закончить разговор с Орестом</text>
+		<text>Pomуї stalkerom: Zakoсcz rozmowк z Orestem</text>
 	</string>
 	<string id="inquisitor_quest_4">
-		<text>Орест жив! После того, как выберемся, надо будет расспросить его насчёт Стрелка.</text>
+		<text>Orestes їyje! Po wyjњciu trzeba bкdzie go zapytaж o Streіoka.</text>
 	</string>
 
 	<string id="inquisitor_strelok_dialog_1">
-		<text>Помощь сталкерам: Поговорить с Инквизитором</text>
+		<text>Pomуї stalkerom: Porozmawiaj z Inkwizytorem</text>
 	</string>
 	<string id="inquisitor_strelok_dialog_2">
-		<text>Поговорю с Инквизитором насчёт награды за совместное выполнение задания. Интересно, может ли он что-нибудь знать о Стрелке?</text>
+		<text>Porozmawiam z Inkwizytorem o nagrodzie za wspуlne wykonanie zadania. Zastanawiam siк, czy moїe coњ wiedzieж o Streіce?</text>
 	</string>
 
 	<string id="agr_base_start_1">
-		<text>Суть похода: Поговорить со Шкиром</text>
+		<text>Sedno wyprawy: Porozmawiaj ze Szkirem</text>
 	</string>
 	<string id="agr_base_start_2">
-		<text>Я не понимаю Шкира. Зачем отправляться туда, где нам определённо не рады? Мне кажется, он что-то не договаривает.</text>
+		<text>Nie rozumiem Szkira. Po co iњж gdzieњ, gdzie zdecydowanie nie jesteњmy mile widziani? Nie s№dzк, їeby o czymњ mуwiі.</text>
 	</string>
 	<string id="agr_base_start_3">
-		<text>Суть похода: Поговорить с Крыловым</text>
+		<text>Sedno wyprawy: Porozmawiaj z Kryіowem</text>
 	</string>
 	<string id="agr_base_start_4">
-		<text>Мне действительно интересно, почему Крылов отправил своих бойцов на уничтожение наших союзников. Заодно попробую узнать что-нибудь о Стрелке.</text>
+		<text>Naprawdк zastanawiam siк, dlaczego Kryіow wysіaі swoich bojownikуw, by zniszczyli naszych sojusznikуw. Jednoczeњnie postaram siк dowiedzieж czegoњ o Streіce.</text>
 	</string>
 
 	<string id="agr_sim_3_clear_1">
-		<text>Суть похода: Зачистить болото</text>
+		<text>Sedno wyprawy: Oczyњж bagno</text>
 	</string>
 	<string id="agr_sim_3_clear_2">
-		<text>Сумасшедшие в долговских комбезах? Возможно, в том месте я найду ответ, что за долговцы были в Рыжем лесу. Ведь, как говорил Крылов, это - не те долговцы, которых он отправлял. А возможно, он просто врёт. Посмотрим..</text>
+		<text>Szaleсce w kombinezonach Powinnoњci? Byж moїe w tym miejscu znajdк odpowiedџ, co za powinnoњciowcy byli w Czerwonym Lesie. W koсcu, jak powiedziaі Kryіow, to nie s№ powinnoњciowcy, ktуrych wysіaі. A moїe po prostu kіamie. Zobaczymy...</text>
 	</string>
 	<string id="agr_sim_3_clear_3">
-		<text>Суть похода: Обыскать убитых долговцев</text>
+		<text>Sedno wyprawy: Znajdџ polegіych powinnoњciowcуw</text>
 	</string>
 	<string id="agr_sim_3_clear_4">
-		<text>Долговцы, которые разговаривают как монолитовцы. Надо хорошенько осмотреть трупы, скорее всего где-нибудь есть что-то интересное.</text>
+		<text>Powinnoњciowce, ktуrzy mуwi№ jak monolity. Muszк dokіadnie zbadaж zwіoki, najprawdopodobniej gdzieњ jest coњ interesuj№cego.</text>
 	</string>
 
 	<string id="agr_base_end_1">
-		<text>Суть похода: Рассказать Крылову</text>
+		<text>Sedno wyprawy: Porozmawiaj z Kryіowem</text>
 	</string>
 	<string id="agr_base_end_2">
-		<text>Очень интересно. Выходит, у Крылова на базе есть монолитовский предатель? Надо быть начеку.</text>
+		<text>Bardzo interesuj№ce. Okazuje siк, їe Kryіow ma w bazie zdrajcк od Monolitуw? Muszк byж czujny.</text>
 	</string>
 	<string id="agr_base_end_3">
-		<text>Суть похода: Закончить разговор с Крыловым</text>
+		<text>Sedno wyprawy: Zakoсcz rozmowк z Kryіowem</text>
 	</string>
 	<string id="agr_base_end_4">
-		<text>Забавно. Кличка "Чёрт" у одного монолитовца, а настоящим чертом оказался другой.</text>
+		<text>To jest zabawne. Jednego z Monolitu pseudonim to "Czort", a prawdziwym diabіem okazaі siк inny.</text>
 	</string>
 
 	<string id="shkir_prelast_dialog_1">
-		<text>Поиски информации: Поговорить со Шкиром</text>
+		<text>Szukanie informacji: Porozmawiaj ze Szkirem</text>
 	</string>
 	<string id="shkir_prelast_dialog_2">
-		<text>Шкир как обычно отсиживается. Я один гоняю по заданиями с целью узнать информацию. Такое ощущение, что я лидер отряда, а не Шкир. Однако, глядя на его характер, скоро лидер может и поменяться.</text>
+		<text>Szkir jak zwykle zaszyі siк. Sam chodzк na zlecenia, aby uzyskaж informacje. Wydaje mi siк, їe to ja jestem liderem druїyny, a nie Szkir. Jednak patrz№c na jego zachowanie, przywуdca moїe siк wkrуtce zmieniж.</text>
 	</string>
 	<string id="shkir_prelast_dialog_3">
-		<text>Поиски информации: Спуститься в подземелья Агропрома</text>
+		<text>Szukanie informacji: Zejdџ do podziemia Agropromu</text>
 	</string>
 	<string id="shkir_prelast_dialog_4">
-		<text>Я был уверен, что Шкир как обычно отправит меня одного выполнять грязную работу. Рано или поздно этому настанет конец.</text>
+		<text>Byіem pewien, їe Szkir jak zwykle wyњle mnie samego do brudnej roboty. Prкdzej czy pуџniej miarka siк przebierze.</text>
 	</string>
 
 	<string id="shkir_backstabber_situation_1">
-		<text>%c[50,255,50,50]Что произошло...</text>
+		<text>%c[50,255,50,50]Co siк staіo...</text>
 	</string>
 	<string id="shkir_backstabber_situation_2">
-		<text>%c[50,255,50,50]Что тут произошло? Неужели то, что говорил Инфернис, правда? Неужели это конец...</text>
+		<text>%c[50,255,50,50]Co tu siк staіo? Czy to, co powiedziaі Infernis, jest prawd№? Czy to jest koniec...</text>
 	</string>
 	<string id="shkir_backstabber_situation_3">
-		<text>%c[50,255,50,50]Найти Ситха</text>
+		<text>%c[50,255,50,50]Znajdџ Sitha</text>
 	</string>
 	<string id="shkir_backstabber_situation_4">
-		<text>Я не могу поверить, что это всё действительно происходит! Ладно, буду надеяться, что хотя-бы Ситх остался жив. Карась говорил, что он отправился в сторону моста с пси-излучением. Надо как можно быстрее его найти.</text>
+		<text>Nie mogк uwierzyж, їe to siк naprawdк dzieje! Dobra, mam nadziejк, їe przynajmniej Sith przeїyі. Karaњ powiedziaі, їe poszedі w kierunku mostu z promieniowaniem PSI. Muszк go jak najszybciej znaleџж.</text>
 	</string>
 
 	<string id="infernis_karas_find_1">
-		<text>Рассудок: Вернуться в подземелья Агропрома</text>
+		<text>Rozs№dek: Powrуt do podziemi Agropromu</text>
 	</string>
 	<string id="infernis_karas_find_2">
-		<text>Инфернис в точности мог видеть, куда после стрельбы ушёл Шкир со своими тварями.</text>
+		<text>Infernis mуgі dokіadnie zobaczyж, gdzie po strzelaninie poszedі Szkir ze swoim bydіem.</text>
 	</string>
 	<string id="infernis_karas_find_3">
-		<text>Рассудок: Вернуться к Карасю</text>
+		<text>Rozs№dek: Wrуж do Karpia</text>
 	</string>
 	<string id="infernis_karas_find_4">
-		<text>Чёрт, я совсем забыл про Карася! Надо скорее вернуться к нему, и только потом идти в сторону подземелий.</text>
+		<text>Cholera, zupeіnie zapomniaіem o Karasiu! Muszк jak najszybciej do niego wrуciж, a dopiero potem udaж siк w stronк podziemi.</text>
 	</string>
 
 	<string id="infernis_find_1">
-		<text>Рассудок: Найти Инферниса</text>
+		<text>Rozs№dek: Znajdџ Infernisa</text>
 	</string>
 	<string id="infernis_find_2">
-		<text>Инфернис видел, как Шкир и эти уроды разгромили всю базу. Я уверен, что он видел намного больше.</text>
+		<text>Infernis widziaі, jak Szkir i ci dziwacy zniszczyli caі№ bazк. Jestem pewien, їe widziaі o wiele wiкcej.</text>
 	</string>
-	
+
 	<string id="karas_find_1">
-		<text>Рассудок: Найти Карася</text>
+		<text>Rozs№dek: Znajdџ Karasia</text>
 	</string>
 	<string id="karas_find_2">
-		<text>Чёрт, я совсем забыл про Карася! Надо скорее вернуться к нему, и только потом идти в сторону подземелий.</text>
+		<text>Cholera, zupeіnie zapomniaіem o Karasiu! Trzeba jak najszybciej do niego wrуciж, a dopiero potem udaж siк w stronк podziemi.</text>
 	</string>
-	
+
 	<string id="sith_find_return_1">
-		<text>Рассудок: Вернуться к Ситху</text>
+		<text>Rozs№dek: Powrуt do Sitha</text>
 	</string>
 	<string id="sith_find_return_2">
-		<text>Надо рассказать Ситху обо всём. О сталкере, которого я нашёл в подземельях и о том, что Карась жив.</text>
+		<text>Muszк powiedzieж Sithowi o wszystkim. O stalkerze, ktуrego znalazіem w podziemiach i їe Karaњ їyje.</text>
 	</string>
 	<string id="sith_find_return_3">
-		<text>Рассудок: Найти Ситха</text>
+		<text>Rozs№dek: Znajdџ Sitha</text>
 	</string>
 	<string id="sith_find_return_4">
-		<text>Чёрт, да почему все всё время пропадают?! Ладно, спокойно. Надо думать, кто мог видеть пропажу Ситха.. Сталкеры, точно!</text>
+		<text>Cholera, dlaczego wszyscy caіy czas znikaj№?! Dobra, muszк siк uspokoiж. Trzeba pomyњleж, kto widziaі znikniкcie Sitha... Na pewno Stalkerzy!</text>
 	</string>
-	
-	
+
+
 	<string id="agr_bad_ending_1">
-		<text>Вопрос жизни: Попросить помощи или отправиться на встречу</text>
+		<text>Kwestia їycia: Poproњ o pomoc lub idџ na spotkanie</text>
 	</string>
 	<string id="agr_bad_ending_2">
-		<text>Надо попросить людей на базе Сталкеров помочь мне. Или лучше отправиться без поддержки?..</text>
+		<text>Muszк poprosiж ludzi z bazy Stalkerуw o pomoc. A moїe lepiej iњж bez wsparcia?..</text>
 	</string>
 	<string id="agr_bad_ending_3">
-		<text>Вопрос жизни: Отправиться на встречу</text>
+		<text>Kwestia їycia: Idџ na spotkanie</text>
 	</string>
 	<string id="agr_bad_ending_4">
-		<text>Ну что-же, теперь остаётся лишь отправляьтся на эту подозрительную встречу.</text>
+		<text>Cуї, teraz pozostaje tylko iњж na to podejrzane spotkanie.</text>
 	</string>
 	<string id="agr_bad_ending_5">
-		<text>Вопрос жизни: Найти артефакт в тоннеле</text>
+		<text>Kwestia їycia: Znajdџ artefakt w tunelu</text>
 	</string>
 	<string id="agr_bad_ending_6">
-		<text>Не нравятся мне эти черти, но выбора у меня нет. Придётся искать артефакты в том тоннеле с пси-излучением.</text>
+		<text>Nie lubiк tych czartуw, ale nie mam wyboru. Bкdк musiaі szukaж artefaktуw w tym tunelu z promieniowaniem PSI.</text>
 	</string>
-	
-	
+
+
 	<string id="agr_orest_good_quest_1">
-		<text>Вопрос жизни: Попросить помощи у сталкеров</text>
+		<text>Kwestia їycia: Poproњ o pomoc stalkerуw</text>
 	</string>
 	<string id="agr_orest_good_quest_2">
-		<text>Я много сделал для Ореста и сталкеров в целом. Надеюсь, он поможет мне в трудную минуту.</text>
+		<text>Duїo zrobiіem dla Oresta i reszty stalkerуw. Mam nadziejк, їe pomoїe mi w trudnych chwilach.</text>
 	</string>
 	<string id="agr_inquisitor_good_quest_1">
-		<text>Вопрос жизни: Попросить помощи у Инквизитора</text>
+		<text>Kwestia їycia: Poproњ Inkwizytora o pomoc</text>
 	</string>
 	<string id="agr_inquisitor_good_quest_2">
-		<text>Не знаю, согласится ли он, но спросить стоит.</text>
+		<text>Nie wiem, czy siк zgodzi, ale warto zapytaж.</text>
 	</string>
 	<string id="agr_vint_good_quest_1">
-		<text>Вопрос жизни: Попросить помощи у Винта</text>
+		<text>Kwestia їycia: Poproњ o pomoc Winta</text>
 	</string>
 	<string id="agr_vint_good_quest_2">
-		<text>Винт - человек, у которого с Ситхом неплохие отношения, насколько мне известно. Он может согласится помочь.</text>
+		<text>Wint to osoba, ktуra ma dobre relacje z Sithem, tak myњlк... Moїe zgodziж siк pomуc.</text>
 	</string>
 	<string id="agr_z_good_quest_1">
-		<text>Вопрос жизни: Попросить помощи у Звягинцева</text>
+		<text>Kwestia їycia: Poproњ o pomoc Zwjagintsewa</text>
 	</string>
 	<string id="agr_z_good_quest_2">
-		<text>Не знаю, что майор за человек - это как раз способ узнать..</text>
+		<text>Nie wiem, jak№ osob№ jest major - to jedyny sposуb, aby dowiedzieж siк...</text>
 	</string>
 	<string id="agr_smirnow_good_quest_1">
-		<text>Вопрос жизни: Поговорить с Саней Смирновым</text>
+		<text>Kwestia їycia: porozmawiaj z Sani№ Smirnowem</text>
 	</string>
 	<string id="agr_smirnow_good_quest_2">
-		<text>Это же тот тип, который в Рыжем лесу нам попался! Интересно, согласится ли он мне помочь, зная, что я однажды спас ему жизнь.</text>
+		<text>To ten sam typ, ktуrego spotkaіem w Czerwonym Lesie! Zastanawiam siк, czy zgodzi siк mi pomуc, wiedz№c, їe kiedyњ uratowaіem mu їycie.</text>
 	</string>
 	<string id="agr_freak_good_quest_1">
-		<text>Вопрос жизни: Отправиться на встречу</text>
+		<text>Kwestia їycia: Idџ na spotkanie</text>
 	</string>
 	<string id="agr_freak_good_quest_2">
-		<text>Полноценный отряд собран! С такими ребятами можно и в огонь и в воду.</text>
+		<text>Zebraіem caі№ grupк! Z tymi facetami mogк przejњж przez ogieс i wodк.</text>
 	</string>
 	<string id="agr_freak_good_quest_3">
-		<text>Вопрос жизни: Уничтожить неизвестных</text>
+		<text>Kwestia їycia: Zniszcz nieznane</text>
 	</string>
 	<string id="agr_freak_good_quest_4">
-		<text>Эта тварь слишком много выёживается. Мне кажется, в его КПК будет намного больше интересной информации..</text>
+		<text>Ta istota jest bardzo ostroїna. Wydaje mi siк, їe w jego PDA bкdzie duїo ciekawych informacji.</text>
 	</string>
 	<string id="agr_freak_first_end_1">
-		<text>Вопрос жизни: Обыскать лидера</text>
+		<text>Kwestia їycia: Znajdџ lidera</text>
 	</string>
 	<string id="agr_freak_first_end_2">
-		<text>Вопрос жизни: Поговорить с отрядом насчёт координат</text>
+		<text>Kwestia їycia: Porozmawiaj z oddziaіem o wspуіrzкdnych</text>
 	</string>
 	<string id="agr_freak_first_end_3">
-		<text>Так это - прихвостни Шкира? Без понятия, как они смогли положить целую базу. А в КПК - координаты... Поговорю с отрядом.</text>
+		<text>Wiкc to s№ poplecznicy Szkira? Nie mam pojкcia, jak mogli poіoїyж caі№ bazк. A w PDA - wspуіrzкdne... Porozmawiam z oddziaіem.</text>
 	</string>
 	<string id="agr_coordinate_6_find_1">
-		<text>Вопрос жизни: Обыскать место координаты №6</text>
+		<text>Kwestia їycia: Wyszukaj miejsce o wspуіrzкdnych #6</text>
 	</string>
 	<string id="agr_coordinate_6_find_2">
-		<text>Ведёт в подземелья Агропрома. Интересно...</text>
+		<text>Wspуіrzкdne prowadz№ do podziemi Agropromu. Ciekawe...</text>
 	</string>
 	<string id="agr_freak_second_end_1">
-		<text>Вопрос жизни: Сообщить отряду о примерном местонахождении Ситха</text>
+		<text>Kwestia їycia: Poinformuj druїynк o przybliїonej lokalizacji Sitha</text>
 	</string>
 	<string id="agr_freak_second_end_2">
-		<text>Ситха повели в сторону Янтаря? Нужно спешить!</text>
+		<text>Sitha zawlekli w stronк Jantaru? Muszк siк spieszyж!</text>
 	</string>
 	<string id="agr_freak_second_end_3">
-		<text>Вопрос жизни: Уничтожить захватчиков</text>
+		<text>Kwestia їycia: Zlikwiduj najeџdџcуw</text>
 	</string>
 	<string id="agr_freak_second_end_4">
-		<text>Вот и те, кто взяли Ситха в плен. Похоже, мы успели в самый последний момент. Пора спасти его!</text>
+		<text>To ci, ktуrzy wziкli do niewoli Sitha. Wygl№da na to, їe zrobiіem to w ostatniej chwili. Czas go uratowaж!</text>
 	</string>
-	
-	
-	
-	
+
+
+
+
 	<string id="agr_inquisitor_thx_1">
-		<text>Победа: Поговорить с Инквизитором</text>
+		<text>Zwyciкstwo: Porozmawiaj z Inkwizytorem</text>
 	</string>
 	<string id="agr_inquisitor_thx_2">
-		<text>Надо сказать спасибо Инквизитору.</text>
+		<text>Muszк podziкkowaж Inkwizytorowi.</text>
 	</string>
 	<string id="agr_mayor_z_thx_1">
-		<text>Победа: Поговорить со Звягинцевым</text>
+		<text>Zwyciкstwo: porozmawiaj ze Zwiagincewem</text>
 	</string>
 	<string id="agr_mayor_z_thx_2">
-		<text>Надо сказать спасибо майору Звягинцеву.</text>
+		<text>Muszк podziкkowaж majorowi Zwiagincewowi.</text>
 	</string>
 	<string id="agr_orest_thx_1">
-		<text>Победа: Поговорить с Орестом</text>
+		<text>Zwyciкstwo: Porozmawiaj z Orestem</text>
 	</string>
 	<string id="agr_orest_thx_2">
-		<text>Надо сказать спасибо Оресту.</text>
+		<text>Muszк podziкkowaж Orestowi.</text>
 	</string>
 	<string id="agr_vint_thx_1">
-		<text>Победа: Поговорить с Винтом</text>
+		<text>Zwyciкstwo: Porozmawiaj z Wintem</text>
 	</string>
 	<string id="agr_vint_thx_2">
-		<text>Надо сказать спасибо Винту.</text>
+		<text>Muszк podziкkowaж Wintowi.</text>
 	</string>
 	<string id="agr_smirnow_thx_1">
-		<text>Победа: Поговорить со Смирновым</text>
+		<text>Zwyciкstwo: Porozmawiaj ze Smirnowem</text>
 	</string>
 	<string id="agr_smirnow_thx_2">
-		<text>Надо сказать спасибо Сане Смирнову.</text>
+		<text>Muszк podziкkowaж Sani Smirnowowi.</text>
 	</string>
 	<string id="agr_sith_thx_1">
-		<text>Победа: Поговорить с Ситхом</text>
+		<text>Zwyciкstwo: Porozmawiaj z Sithem</text>
 	</string>
 	<string id="agr_sith_thx_2">
-		<text>Перед поисками Шкира, поговорю со своим напарником.</text>
+		<text>Zanim poszukam Szkira, porozmawiam z moim partnerem.</text>
 	</string>
 	<string id="agr_stalkers_join_1">
-		<text>Новая жизнь: Поговорить с Орестом насчёт вступления в Одиночки</text>
+		<text>Nowe їycie: porozmawiaj z Orestem o doі№czeniu do Samotnikуw</text>
 	</string>
 	<string id="agr_stalkers_join_2">
-		<text>Не знаю, что на меня нашло, но мне стал противен факт, что я являюсь наёмником. Надо поскорее избавиться от этого мерзкого ощущения.</text>
+		<text>Nie wiem, co mnie naszіo, ale byіem zniesmaczony faktem, їe byіem najemnikiem. Muszк jak najszybciej pozbyж siк tego nieprzyjemnego uczucia.</text>
 	</string>
 	<string id="agr_stalkers_join_3">
-		<text>Новая жизнь: Поговорить с Ситхом насчёт вступления в Одиночки</text>
+		<text>Nowe їycie: Porozmawiaj z Sithem o doі№czeniu do Samotnikуw</text>
 	</string>
 	<string id="agr_stalkers_join_4">
-		<text>Теперь мы относимся к группировке Вольных Сталкеров. Можно отправляться на поиски Шкира. Или нет...</text>
+		<text>Teraz naleїymy do grupy Wolnych Stalkerуw. Muszк udaж siк na poszukiwanie Szkira. Albo nie...</text>
 	</string>
 	<string id="agr_last_quest">
-		<text>Мститель: Отправиться с Ситхом в Рыжий Лес или временно остаться на Агропроме.</text>
+		<text>Mњciciel: Udaj siк z Sithem do Czerwonego Lasu lub tymczasowo zostaс na Agropromie.</text>
 	</string>
-	
-	
+
+
 	<string id="kilorik_quest_1">
-		<text>Мандрагора: Исследовать туннель</text>
+		<text>Mandragora: Poznaj tunel</text>
 	</string>
 	<string id="kilorik_quest_2">
-		<text>Я был в туннеле с пси-излучением, но я не осматривал его особо. Возможно, там действительно есть что-то интересное, что с высокой вероятностью могло породить там новый артефакт, который нашёл Орест.</text>
+		<text>Byіem w tunelu PSI, ale nie zbadaіem go zbyt szczegуіowo. Byж moїe rzeczywiњcie jest tam coњ ciekawego, co z duїym prawdopodobieсstwem mogіoby spowodowaж powstanie tam nowego artefaktu, ktуry znalazі Orest.</text>
 	</string>
 	<string id="kilorik_quest_3">
-		<text>Мандрагора: Вернуться к Килорику</text>
+		<text>Mandragora: Powrуt do Kilorki</text>
 	</string>
 	<string id="kilorik_quest_4">
-		<text>Странный цветок, при касании к которому будто бьёт током. Килорику будет интересно это узнать и увидеть.</text>
+		<text>Dziwny kwiat po dotkniкciu wydaje siк byж zszokowany. Kilorik bкdzie zainteresowany aby rzuciж na to okiem.</text>
 	</string>
-	
-	
+
+
 </string_table>

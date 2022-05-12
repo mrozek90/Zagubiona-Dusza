@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
 	<string id="agr_und_first_task_1">
-		<text>Поиски информации: Найти информацию о Стрелке</text>
+		<text>Poszukiwanie Informacji: Znajdџ informacje o Strieіoku</text>
 	</string>
 	<string id="agr_und_first_task_2">
-		<text>Шкир всё время ищет способ избежать походов со мной. Зачем его вообще взяли в отряд, если он всё время убегает? Что-то тут не так, надо будет это выяснить.</text>
+		<text>Szkir zawsze szuka sposobu na unikniкcie wкdrуwek ze mn№. Po co zostaі zabrany do oddziaіu, skoro caіy czas siк miga? Coњ jest nie tak, muszк siк dowiedzieж.</text>
 	</string>
 	<string id="agr_und_first_task_3">
-		<text>Поиски информации: Показать записку Шкиру</text>
+		<text>Poszukiwanie Informacji: Pokaї notatkк Szkirowi</text>
 	</string>
 	<string id="agr_und_first_task_4">
-		<text>Тут прямо написано: "Иду на ЧАЭС", а добраться туда можно только через Рыжий Лес. Выходит, Шкир поступил очень глупо, перейдя на Агропром. Если контракт провалится из-за него, будет логично его прикончить, ибо в таком случае контракт будет провален по его вине.</text>
+		<text>Tu jest napisane: „Jadк do elektrowni j№drowej w Czarnobylu” i moїna siк tam dostaж tylko przez Czerwony Las. Okazuje siк, їe Szkir post№piі bardzo gіupio, przechodz№c na Agroprom. Jeњli kontrakt siк nie powiedzie z jego winy, logiczne bкdzie zabicie go, poniewaї w tym przypadku kontrakt upadnie przez niego.</text>
 	</string>
 
 

@@ -1,623 +1,623 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_harmonica_name">
-		<text>Губная гармошка</text>
+		<text>Harmonijka Ustna</text>
 	</string>
 	<string id="st_harmonica_descr">
-		<text>На первый взгляд, лёгкий в использовании музыкальный инструмент. Однако без должных навыков, превращается в нечто потустороннее. Впрочем, как и любой инструмент.</text>
+		<text>Na pierwszy rzut oka prosty w obsіudze instrument muzyczny. Jednak wraz z odpowiednimi umiejкtnoњciami zmienia siк w coњ nieziemskiego. Tak jak kaїde narzкdzie.</text>
 	</string>
 	<string id="st_shkir_gauss_pack">
-		<text>Набор аккумуляторов</text>
+		<text>Zestaw Baterii</text>
 	</string>
 	<string id="st_shkir_gauss_pack_descr">
-		<text>Водонепроницаемый ящик, внутри которого находится несколько аккумуляторов для Ружья ЭМ1. Большинство из них уже использованы, но некоторые из оставшихся внутри, всё ещё пригодны для использования.</text>
+		<text>Wodoszczelne pudeіko zawieraj№ce kilka baterii do strzelby EM1. Wiкkszoњж z nich byіa juї uїywana, ale niektуre z pozostawionych w њrodku nadal nadaj№ siк do uїytku..</text>
 	</string>
 	<string id="st_vodka_infernis">
-		<text>Подозрительная настойка</text>
+		<text>Podejrzana Nalewka</text>
 	</string>
 	<string id="st_vodka_infernis_descr">
-		<text>Как бы это смешно не звучало, но это - водка производства компании «SGS». Довольно странный напиток, от которого не знаешь, чего ожидать.</text>
+		<text>Niewaїne jak њmiesznie to zabrzmi, ale to jest wуdka produkowana przez "SGS". Doњж dziwny napуj, po ktуrym nie wiesz, czego siк spodziewaж.</text>
 	</string>
 	<string id="st_detector5">
-		<text>Детектор «Смотритель»</text>
+		<text>Detektor Obserwator</text>
 	</string>
 	<string id="st_detector5_descr">
-		<text>Прибор, созданный на основе детектора «Медведь», предназначенный для поиска новых артефактов. Неизвестно, как профессору Джекилу удалось взломать систему аппарата и изменить список обнаруживаемых артефактов на самый новый, но детектор работает  более, чем стабильно. Режим поиска артефактов включается поднятием крышки-антенны на лицевой стороне прибора.</text>
+		<text>Urz№dzenie oparte na detektorze "Niedџwiedџ" przeznaczone do wyszukiwania nowych artefaktуw. Nie wiadomo, w jaki sposуb profesorowi Jekyllowi udaіo siк wіamaж do systemu urz№dzenia i zmieniж listк artefaktуw do wykrycia na najnowsz№, ale wykrywacz dziaіa bardziej niї stabilnie. Tryb wyszukiwania artefaktуw aktywuje siк, podnosz№c osіonк anteny z przodu urz№dzenia.</text>
 	</string>
 	<string id="st_drug_coagulant_infernis">
-		<text>«Барвинок-XM»</text>
+		<text>Barwinek-XM</text>
 	</string>
 	<string id="st_drug_coagulant_infernis_descr">
-		<text>Препарат, созданный на основе витамина «Викасол», используемого с целью повышения свёртываемости крови. Помимо остановки кровотечения, препарат имеет функцию антидепрессанта, благодаря чему высоко ценится теми, кто его найдёт. За счёт находящихся в нём наркотических веществ, вызывает сильное привыкание.</text>
+		<text>Lek stworzony na bazie witaminy Vikasol, stosowany w celu zwiкkszenia krzepliwoњci krwi. Oprуcz zatrzymywania krwawienia, lek peіni funkcjк antydepresyjn№, dziкki czemu jest wysoko ceniony przez tych, ktуrzy go znajd№. Ze wzglкdu na zawarte w nim substancje narkotyczne silnie uzaleїnia.</text>
 	</string>
 	<string id="st_drug_psy_blockade_infernis">
-		<text>Галлюциноген-блокада</text>
+		<text>Antyhalucynogen</text>
 	</string>
 	<string id="st_drug_psy_blockade_infernis_descr">
-		<text>Усиленный наркотический препарат, созданный с целью блокировать изменение человеческого сознания в зонах повышенной пси-активности. Стоит отметить, что употребление данного вещества в не предназначенной для него среде, может вызвать обратный эффект галлюцинаций, а частое его употребление - приводит обладателя слабой нервной системы к смерти.</text>
+		<text>Udoskonalony њrodek odurzaj№cy stworzony w celu blokowania zmian w ludzkiej њwiadomoњci w obszarach o zwiкkszonej aktywnoњci PSI. Warto zauwaїyж, їe stosowanie tej substancji w њrodowisku do tego nieprzeznaczonym moїe wywoіaж odwrotny skutek w postaci halucynacji, a jej czкste stosowanie prowadzi do њmierci posiadacza sіabego ukіadu nerwowego.</text>
 	</string>
 	<string id="st_dev_red_bridge_radio">
-		<text>Пульт управления мостом</text>
+		<text>Panel sterowania mostem</text>
 	</string>
 	<string id="st_dev_red_bridge_radio_descr">
-		<text>Ручной пульт, созданный для управления механизмом моста, ведущего из Рыжего Леса - в Лиманск. \n%c[50,255,50,50]Вы не умеете пользоваться данным устройством%c[default].</text>
+		<text>Rкczny pilot przeznaczony do sterowania mechanizmem mostu prowadz№cego z Czerwonego Lasu do Limaсska. \n%c[50,255,50,50]Nie wiesz, jak korzystaж z tego urz№dzenia%c[default].</text>
 	</string>
 	<string id="st_clearsky_fp">
-		<text>Нашивка «Чистого Неба»</text>
+		<text>Naszywka Czystego Nieba</text>
 	</string>
 	<string id="st_clearsky_fp_descr">
-		<text>Исследователи проявлений Зоны, малоизвестный клан, затерянный где-то в болотах. Достоверно никто не знает, какова их численность, чем они занимаются и какие цели преследуют. Но те редкие сталкеры, что приходили с болот, рассказывают о парнях в камуфляже небесно-синего цвета. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Badacze przejawуw Strefy, maіo znanego klanu, zagubili siк gdzieњ na bagnach. Nikt nie wie na pewno, jaka jest ich liczba, czym siк zajmuj№ i do jakich celуw d№ї№. Ale ci rzadcy stalkerzy, ktуrzy przybyli z bagien, mуwi№ o facetach w bікkitnym kamuflaїu. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz zyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_freedom_fp">
-		<text>Нашивка «Свободы»</text>
+		<text>Naszywka Swobody</text>
 	</string>
 	<string id="st_freedom_fp_descr">
-		<text>Анархисты и сорвиголовы, объявившие себя борцами за свободу на территории Зоны, и поэтому постоянно конфликтующие с армейскими подразделениями, военными сталкерами и группировкой «Долг». «Свободовцы» считают, что информацию о происходящем в Зоне нельзя скрывать от человечества, таким образом оспаривая монополию правительственных организаций на владение местными тайнами и чудесами. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Anarchiњci i њmiaіkowie, ktуrzy ogіosili siк bojownikami o wolnoњж na terenie Strefy i dlatego s№ w ci№gіym konflikcie z jednostkami wojskowymi, wojskowymi stalkerami i grup№ Powinnoњci. Swobodziњci uwaїaj№, їe informacji o tym, co dzieje siк w Strefie, nie da siк ukryж przed ludzkoњci№, kwestionuj№c tym samym monopol organizacji rz№dowych na posiadanie lokalnych tajemnic i cudуw. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_stalker_fp">
-		<text>Нашивка «Сталкеров»</text>
+		<text>Naszywka Stalkerуw</text>
 	</string>
 	<string id="st_stalker_fp_descr">
-		<text>Иногда сталкеры, не желающие примыкать ни к одной из существующих группировок, объединяются в кланы, скооперировавшись с друзьями и проверенными знакомыми. Главный принцип такого объединения – держаться вместе, чтобы не истребили поодиночке. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Czasami stalkerzy, ktуrzy nie chc№ doі№czyж do їadnej z istniej№cych grup, і№cz№ siк w klany, wspуіpracuj№c z przyjaciуіmi i zaufanymi znajomymi. Gіуwn№ zasad№ takiego stowarzyszenia jest trzymanie siк razem, aby nie zostaж wytкpionym jeden po drugim. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_ecolog_fp">
-		<text>Нашивка «Экологов»</text>
+		<text>Naszywka Ekologуw</text>
 	</string>
 	<string id="st_ecolog_fp_descr">
-		<text>Исследователи природы Зоны и её порождений. При хорошем отношении с их стороны удачливый сталкер может хорошо сбыть найденный в Зоне хабар учёным без торговца-посредника. Сами учёные относятся к Мобильной лаборатории - она выглядит как небольшой металлический бункер с маленькими тонированными окошками. Способна выдержать почти все известные человеку повреждения любого характера. Может быть переведена в автономный режим на несколько месяцев, для чего снабжена надёжными системами жизнеобеспечения. В Зону доставляется грузовым вертолётом. Персонал лаборатории (Экологи) никогда не пускает посторонних далее внешней шлюзовой камеры, поэтому внутрь лаборатории не проникал ни один из сталкеров.</text>
+		<text>Badacze przyrody Strefy i jej tworуw. Z dobrym nastawieniem ze swojej strony, odnosz№cy sukcesy stalker moїe dobrze sprzedaж іupy znalezione w Strefie naukowcom bez poњrednika. Sami naukowcy naleї№ do Mobilnego Laboratorium - wygl№da jak maіy metalowy bunkier z maіymi przyciemnianymi szybami. Jest w stanie wytrzymaж prawie wszystkie znane czіowiekowi szkody o dowolnej naturze. Moїe zostaж przeniesiony w tryb autonomiczny na kilka miesiкcy, poza tym jest wyposaїony w niezawodne systemy podtrzymywania їycia. Do Strefy dostarczany jest њmigіowcem towarowym. Pracownicy laboratorium (Ekolodzy) nigdy nie przepuszczali osуb postronnych dalej niї do zewnкtrznej komory њluzy, wiкc їaden ze stalkerуw nie przedostaі siк do wnкtrza laboratorium.</text>
 	</string>
 	<string id="st_bandit_fp">
-		<text>Нашивка «Бандитов»</text>
+		<text>Naszywka Bandytуw</text>
 	</string>
 	<string id="st_bandit_fp_descr">
-		<text>Представители криминального мира, пришедшие в Зону по разным причинам: заработать на продаже артефактов, скрыться от закона, купить или продать оружие. В Зоне много подобного элемента уровнем от шпаны до серьёзных уголовников. В большинстве своём объединены в банды. Хотя единой бандитской организации в Зоне до сих пор нет, сильно докучают рядовым сталкерам. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Przedstawiciele њwiata przestкpczego, ktуrzy przybyli do Strefy z rуїnych powodуw: aby zarabiaж na sprzedaїy artefaktуw, ukrywaж siк przed prawem, kupowaж lub sprzedawaж broс. W Strefie jest duїo takich elementуw spoіecznych: od drobnych naci№gaczy do powaїnych przestкpcуw. Wiкkszoњж z nich jest w gangach. Chociaї w Strefie wci№ї nie ma jednej organizacji bandytуw, zwykli stalkerzy s№ bardzo zirytowani. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_dolg_fp">
-		<text>Нашивка «Долга»</text>
+		<text>Naszywka Powinnoњci</text>
 	</string>
 	<string id="st_dolg_fp_descr">
-		<text>Явно военизированная группировка, отличающаяся строгой дисциплиной: её члены живут фактически по уставу. Только представители «Долга» не торгуют уникальными порождениями Зоны с внешним миром: по слухам, все найденные этими людьми артефакты сдаются учёным. Каждый «долговец» считает своей главной целью защиту мира от воздействия Зоны. Большинство операций группировки связаны с истреблением монстров, поэтому рейды «Долга» нередко избавляют рядовых сталкеров от многих насущных проблем. Давно и яростно враждует с группировкой «Свобода». Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Wyraџnie grupa paramilitarna, charakteryzuj№ca siк њcisі№ dyscyplin№: jej czіonkowie faktycznie їyj№ zgodnie z statutem. Tylko przedstawiciele "Powinnoњci" nie handluj№ unikalnymi tworami Strefy ze њwiatem zewnкtrznym: wedіug plotek wszystkie artefakty znalezione przez tych ludzi s№ przekazywane naukowcom. Kaїdy bojownik uwaїa za swуj gіуwny cel ochronк њwiata przed wpіywem Strefy. Wiкkszoњж operacji ugrupowania jest zwi№zana z eksterminacj№ potworуw, wiкc naloty sіuїbowe czкsto ratuj№ zwykіych stalkerуw przed wieloma pal№cymi problemami. Od dіuїszego czasu i wњciekle toczy wojnк z grup№ Swobody. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_monolith_fp">
-		<text>Нашивка «Монолита»</text>
+		<text>Naszywka Monolitu</text>
 	</string>
 	<string id="st_monolith_fp_descr">
-		<text>Группировка, скорее напоминающая религиозную секту. Её члены верят, что в центре Зоны покоится эволюционный кристалл неземного происхождения - Монолит. Большинство сталкеров презирают адептов «Монолита», считая их помешанными. Со времени своего образования группа препятствует продвижению сталкеров к центру Зоны, мотивируя это недобрыми намерениями последних в отношении Монолита. По слухам, у монолитовцев есть крупная база где-то ближе к центру Зоны, но точного её расположения не знает никто, кроме самих членов группировки. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Ugrupowanie raczej przypominaj№ce sektк religijn№. Jej czіonkowie uwaїaj№, їe w centrum Strefy znajduje siк krysztaі ewolucyjny nieziemskiego pochodzenia – Monolit. Wiкkszoњж stalkerуw gardzi zwolennikami Monolitu, uwaїaj№c ich za szaleсcуw. Od momentu powstania grupa powstrzymywaіa stalkerуw przed przemieszczaniem siк do centrum Strefy, motywuj№c to zіymi intencjami tych ostatnich w stosunku do Monolitu. Wedіug plotek Monolity maj№ duї№ bazк gdzieњ bliїej centrum Strefy, ale nikt nie zna jej dokіadnej lokalizacji, z wyj№tkiem samych czіonkуw grupy. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze..</text>
 	</string>
 	<string id="st_army_fp">
-		<text>Нашивка «Военных»</text>
+		<text>Naszywka Wojska</text>
 	</string>
 	<string id="st_army_fp_descr">
-		<text>Солдаты регулярных армейских частей. Охраняют подходы к закрытой территории Зоны, патрулируя периметр, расстреливая мутантов и отлавливая мародёров. Армейский спецназ - элитные подразделения. Как правило, высаживаются в Зоне для проведения спасательных и специальных операций. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Їoіnierze regularnych jednostek wojskowych. Pilnuj№ podejњж do zamkniкtego terytorium Strefy, patroluj№c obwуd, strzelaj№c do mutantуw i іapi№c maruderуw. Siіy specjalne armii - jednostki elitarne. Z reguіy l№duj№ w Strefie do akcji ratowniczych i specjalnych. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_merc_fp">
-		<text>Нашивка «Наёмников»</text>
+		<text>Naszywka Najemnikуw</text>
 	</string>
 	<string id="st_merc_fp_descr">
-		<text>Самая загадочная и скрытная группировка в Зоне, в существование которой многие даже не верят. Кое-кто постоянно пользуется услугами наёмников: профессионалы в своей области, они быстро расправятся с любым сталкером и даже могут полностью ликвидировать небольшую группировку. За свои услуги, судя по всему, берут немалые суммы в деньгах или артефактах. Расположение базы данной группировки до сих пор остаётся загадкой; очевидно, она находится где-то в глубине Зоны. Нашивки группировок необходимо хранить в тайне от их бойцов, так как это может повлечь за собой серьёзные конфликты. Впрочем, при продаже соответствующим торговцам, можно получить неплохие деньги.</text>
+		<text>Najbardziej tajemnicza i nieznana grupa w Strefie, w istnienie ktуrej wielu nawet nie wierzy. Niektуrzy stale korzystaj№ z usіug najemnikуw: profesjonaliњci w swojej dziedzinie, szybko poradz№ sobie z kaїdym stalkerem i potrafi№ nawet caіkowicie wyeliminowaж niewielk№ grupк. Podobno za swoje usіugi bior№ znaczne kwoty w pieni№dzach lub artefaktach. Lokalizacja bazy tej grupy wci№ї pozostaje tajemnic№ - oczywiњcie znajduje siк gdzieњ w gікbi Strefy. Naszywki grupy musz№ byж trzymane w tajemnicy przed ich wojownikami, poniewaї moїe to prowadziж do powaїnych konfliktуw. Jednak sprzedaj№c odpowiednim kupcom, moїesz uzyskaж dobre pieni№dze.</text>
 	</string>
 	<string id="st_generator">
-		<text>Генератор</text>
+		<text>Generator</text>
 	</string>
 	<string id="st_generator">
-		<text>У каждого бойца О-Сознания есть подобный генератор, который, видимо и даёт носителю превосходную защиту от атак. %c[50,255,50,50]Предмет заблокирован</text>
+		<text>Kaїdy bojownik O-Њwiadomoњci ma podobny generator, ktуry najwyraџniej zapewnia uїytkownikowi doskonaі№ ochronк przed atakami. %c[50,255,50,50]Przedmiot jest zablokowany.</text>
 	</string>
 	<string id="st_antirad">
-		<text>Противорадиационный препарат</text>
+		<text>Lek Przeciwpromienny</text>
 	</string>
 	<string id="st_antirad_descr">
-		<text>Препарат радиозащитного действия «Мексамин», широко распространённый по территории Зоны. При применении вызывает сужение периферических кровеносных сосудов и кислородное голодание, что в данном случае является средством профилактики и лечения лучевой болезни. Хорошо переносится подавляющим большинством людей; в отдельных случаях возможны лёгкая тошнота, головокружение, боли, реже рвота.</text>
+		<text>Mexamin, њrodek radioochronny szeroko rozpowszechniony w caіej Strefie. Stosowany powoduje zwкїenie naczyс krwionoњnych i gіуd tlenu, co w tym przypadku jest sposobem zapobiegania i leczenia choroby popromiennej. Dobrze tolerowany przez zdecydowan№ wiкkszoњж ludzi. W niektуrych przypadkach lekkie nudnoњci, zawroty gіowy, bуl, rzadziej wymioty.</text>
 	</string>
 	<string id="st_bandage">
-		<text>Бинт</text>
+		<text>Bandaї</text>
 	</string>
 	<string id="st_water">
-		<text>Вода</text>
+		<text>Woda</text>
 	</string>
 	<string id="st_water_desc">
-		<text>Даже обычная вода, которая на большой земле распостранена, в Зоне может стать дефицитной. Может снять до 5% радиации в организме, а так-же восстановить силы, не нанося при этом никакого урона, но при этом, у торговцев такая вода стоит немалую сумму. Есть более простой вариант получения воды - нахождения её у трупов, но какой вариант того, что до тебя её пил не зараженный?</text>
+		<text>Nawet zwykіa woda, ktуra jest powszechna na staіym l№dzie, moїe staж siк w Strefie niedostateczna. Potrafi usun№ж do 5% promieniowania z organizmu, a takїe przywrуciж siіy bez powodowania jakichkolwiek uszkodzeс, ale jednoczeњnie taka woda kosztuje kupcуw niemaіe kwoty. Jest prostsza opcja zdobycia wody - odnalezienie jej przy zwіokach, ale co to za opcja, їeby przed Tob№ wypiіa j№ niezainfekowana osoba?</text>
 	</string>
 	<string id="st_bandage_descr">
-		<text>Асептический бинт для остановки кровотечения и предотвращения попадания в рану инфекции. При обычном кровотечении позволяет перевязать рану, при артериальном - перетянуть артерию.</text>
+		<text>Aseptyczny bandaї zatrzymuj№cy krwawienie i zapobiegaj№cy przedostawaniu siк infekcji do rany. Przy normalnym krwawieniu pozwala na zabandaїowanie rany, przy krwawieniu tкtniczym pozwala na naci№gniкcie tкtnicy.</text>
 	</string>
 	<string id="st_binocular_descr">
-		<text>Военный бинокль с регулируемой (до 7,5 диоптрии) кратностью. Позволяет детально рассматривать местность и строения с большого расстояния.</text>
+		<text>Lornetka wojskowa z regulowanym (do 7,5 dioptrii) powiкkszeniem. Pozwala na szczegуіowe zbadanie terenu i budynkуw z daleka.</text>
 	</string>
 	<string id="st_binocular_name">
-		<text>Бинокль</text>
+		<text>Lornetka</text>
 	</string>
 	<string id="st_bread">
-		<text>Хлеб</text>
+		<text>Chleb</text>
 	</string>
 	<string id="st_bread_descr">
-		<text>Неизвестно, кто умудряется печь батоны на территории Зоны, или каким образом их протаскивают через границу. Однако этот хлеб не заражен, не радиоактивен, достаточно свеж и вполне съедобен. Во всяком случае, никто из сталкеров пока не жаловался.</text>
+		<text>Nie wiadomo, komu udaje siк upiec bochenki na terenie Strefy ani w jaki sposуb s№ one przemycane przez granicк. Jednak ten chleb nie jest skaїony, nie radioaktywny, caіkiem њwieїy i caіkiem jadalny. W kaїdym razie їaden z przeњladowcуw jeszcze nie narzekaі.</text>
 	</string>
 	<string id="st_conserva">
-		<text>Консервы «Завтрак туриста»</text>
+		<text>Konserwa "Rozkosz Turysty"</text>
 	</string>
 	<string id="st_conserva_descr">
-		<text>Предположительно, консервы с растащенного сталкерами армейского продовольственного склада; точно установить не представляется возможным из-за отсутствия какой-либо этикетки. Главное, что срок годности вроде бы не истек.</text>
+		<text>Przypuszczalnie їywnoњж w puszkach z magazynu їywnoњci dla armii skradziona przez stalkerуw. Nie ma moїliwoњci dokіadnego okreњlenia ze wzglкdu na brak jakiejkolwiek etykiety. Najwaїniejsze jest to, їe data waїnoњci nie wygasіa.</text>
 	</string>
 	<string id="st_detector1">
-		<text>Детектор «Отклик»</text>
+		<text>Detektor Odgіos</text>
 	</string>
 	<string id="st_detector1_descr">
-		<text>Устаревшая модель детектора аномальной активности. Реагирует звуковым сигналом на попадание аномальных частичек в специальную камеру, при приближении к аномалиям; кроме того, может регистрировать присутствие артефактов и измерять расстояние до ближайшего из них. Расстояние до артефакта определяется периодичностью подаваемого звука. Режим поиска артефактов включается поднятием крышки-антенны на лицевой панели прибора. Ввиду простоты конструкции способен находить только самые распространённые артефакты.</text>
+		<text>Przestarzaіy model detektora anomalnej aktywnoњci. Reaguje sygnaіem dџwiкkowym na wnikanie anomalnych cz№stek do specjalnej komory, gdy zbliїaj№ siк do anomalii. Dodatkowo moїe rejestrowaж obecnoњж artefaktуw i mierzyж odlegіoњж do najbliїszego. Odlegіoњж do artefaktu zaleїy od czкstotliwoњci dostarczanego dџwiкku. Tryb wyszukiwania artefaktуw aktywuje siк, podnosz№c osіonк anteny na przednim panelu urz№dzenia. Ze wzglкdu na prostotк projektu jest w stanie znaleџж tylko najczкstsze artefakty.</text>
 	</string>
 	<string id="st_detector2">
-		<text>Детектор «Медведь»</text>
+		<text>Detektor Niedџwiedџ</text>
 	</string>
 	<string id="st_detector3">
-		<text>Детектор «Велес»</text>
+		<text>Detektor Weles</text>
 	</string>
 	<string id="st_detector3_descr">
-		<text>Детектор-сканер нового поколения, используемый учёными. Благодаря трём усовершенствованным регистрационным камерам расположение артефакта относительно детектора показывается на специальном экране. Способен фиксировать излучение и присутствие аномалий. Режим поиска артефактов включается поднятием индикатора-табло на лицевой стороне прибора; в данном режиме способен обнаруживать все известные науке артефакты.</text>
+		<text>Skaner-detektor nowej generacji uїywany przez naukowcуw. Dziкki trzem zaawansowanym kamerom rejestracyjnym poіoїenie artefaktu wzglкdem detektora pokazane jest na specjalnym ekranie. Potrafi wykryж promieniowanie i obecnoњж anomalii. Tryb wyszukiwania artefaktуw aktywuje siк poprzez podniesienie tablicy wskaџnikуw z przodu urz№dzenia. W tym trybie jest w stanie wykryж wszystkie artefakty znane nauce.</text>
 	</string>
 	<string id="st_detector4">
-		<text>Прототип детектора «Сварог»</text>
+		<text>Detektor Swarуg (prototyp)</text>
 	</string>
 	<string id="st_detector4_descr">
-		<text>Прототип сканера аномальных зон расширенной функциональности. Добавлена программа распознавания статичных зон аномальной активности, которые имеются в базе данных; при этом сохранена возможность обнаружения артефактов. Расположение аномальных зон и артефактов относительно детектора отображаются на специальном экране. Программа поиска артефактов, включаемая при поднятии индикатора-табло на лицевой стороне прибора, усовершенствована; теоретически это позволяет обнаружить пока не известные науке аномальные образования.</text>
+		<text>Prototyp skanera stref anomalii o rozszerzonej funkcjonalnoњci. Dodano program do rozpoznawania statycznych stref anomalnej aktywnoњci, ktуre s№ dostкpne w bazie danych. Zachowuje zdolnoњж wykrywania artefaktуw. Lokalizacja anomalnych stref i artefaktуw wzglкdem detektora jest wyњwietlana na specjalnym ekranie. Ulepszono program wyszukiwania artefaktуw, ktуry jest aktywowany, gdy wskaџnik wyњwietlacza z przodu urz№dzenia jest podniesiony. Teoretycznie umoїliwia to wykrycie formacji anomalnych, ktуre nie s№ jeszcze znane nauce.</text>
 	</string>
 	<string id="st_detector6">
-		<text>Детектор «Сварог»</text>
+		<text>Detektor Swarуg</text>
 	</string>
 	<string id="st_detector6_descr">
-		<text>Доработанная версия детектора Сварог. Усовершенствование позволяет находить новые артефакты неизвестного происхождения, которые, скорее всего, очень дорого стоят. Так-же детектор позволяет обнаруживать телепорты, что так-же стоит принять во внимание.</text>
+		<text>Zmodyfikowana wersja detektora Swarуg. Ulepszenie pozwala na odnajdywanie nowych artefaktуw niewiadomego pochodzenia, ktуre najprawdopodobniej s№ bardzo drogie. Ponadto wykrywacz umoїliwia wykrywanie teleportуw, co rуwnieї warto wzi№ж pod uwagк.</text>
 	</string>
 	<string id="st_device_torch_descr">
-		<text>Фонарь с креплением на голову. Пригодится сталкеру, которого ночь застала в дороге; с другой стороны, может привлечь чьё-то нежелательное внимание.</text>
+		<text>Latarka z mocowaniem na gіowк. Przyda siк stalkerowi, ktуrego noc zіapaіa na drodze. Zaњ z drugiej strony moїe przyci№gn№ж czyj№њ niechcian№ uwagк.</text>
 	</string>
 	<string id="st_device_torch_name">
-		<text>Фонарик</text>
+		<text>Latarka</text>
 	</string>
 	<string id="st_drug_anabiotic">
-		<text>Анабиотик</text>
+		<text>Anabiotyk</text>
 	</string>
 	<string id="st_drug_antidot">
-		<text>Антидот</text>
+		<text>Anitodum</text>
 	</string>
 	<string id="st_drug_antidot_descr">
-		<text>Препарат «Антитоксикант ИП2» представляет собой комплекс антидотов: метоклопрамида, пиридоксина, тиамина, рибоксии и других. Вводит в кровь вещества, способные разлагать белковые яды, а также абсорбенты синтетических ядов. Особой популярностью не пользуется, поскольку большинство сталкеров рассчитывают на противогаз и комбинезон. Обладает продолжительным действием.</text>
+		<text>Lek "Antitoxicant IP2" to kompleks odtrutek: metoklopramid, pirydoksyna, tiamina, ryboksja i inne. Wprowadza do krwi substancje zdolne do rozkіadania trucizn biaіkowych, a takїe absorbenty trucizn syntetycznych. Nie jest to szczegуlnie popularne, poniewaї wiкkszoњж stalkerуw polega na masce gazowej i kombinezonie. Ma dіugotrwaіy efekt.</text>
 	</string>
 	<string id="st_drug_booster">
-		<text>«Геркулес»</text>
+		<text>Herkules</text>
 	</string>
 	<string id="st_drug_coagulant">
-		<text>«Барвинок»</text>
+		<text>Barwinek</text>
 	</string>
 	<string id="st_drug_coagulant_descr">
-		<text>«Викасол» - синтетический аналог витамина К. Основное действие заключается в повышении свёртываемости крови. Пользуется спросом среди сталкеров, поскольку позволяет организму быстрее рубцевать рваные раны. Обладает продолжительным действием.</text>
+		<text>"Vikasol" to syntetyczny analog witaminy K. Gіуwnym dziaіaniem jest zwiкkszenie krzepliwoњci krwi. Jest poszukiwany wњrуd stalkerуw, poniewaї pozwala ciaіu szybciej goiж rany szarpane. Ma dіugotrwaіy efekt.</text>
 	</string>
 	<string id="st_drug_psy_blockade">
-		<text>Пси-блокада</text>
+		<text>Blokada PSI</text>
 	</string>
 	<string id="st_drug_psy_blockade_descr">
-		<text>Наркотический препарат, блокирующий лавинообразные нервные импульсы. Интересен побочный эффект: после приёма препарата наблюдается коротковременное блокирование каких-либо эмоций. В Зоне используется для противодействия аномальным полям повышенной пси-активности; за пределами Зоны применения не нашёл. Обладает продолжительным действием.</text>
+		<text>Lek blokuj№cy impulsy nerwowe. Ciekawy efekt uboczny: po zaїyciu leku nastкpuje krуtkotrwaіe blokowanie jakichkolwiek emocji. W Strefie sіuїy do przeciwdziaіania anomalnym polom zwiкkszonej aktywnoњci PSI. Nie znaleziono poza Stref№. Ma dіugotrwaіy efekt.</text>
 	</string>
 	<string id="st_drug_radioprotector">
-		<text>Радиопротектор</text>
+		<text>Radioprotektor</text>
 	</string>
 	<string id="st_energy_drink">
-		<text>Энергетический напиток «Сталкер»</text>
+		<text>Napуj energetyczny "Stalker"</text>
 	</string>
 	<string id="st_energy_drink_descr">
-		<text>Часто используется сталкерами в многодневных походах, когда нет возможности остановиться и отдохнуть. Содержит легко усваиваемые углеводы, а также препараты, вызывающие выброс адреналина в кровь.</text>
+		<text>Czкsto uїywany przez stalkerуw na kilkudniowych wycieczkach, kiedy nie ma moїliwoњci zatrzymania siк i odpoczynku. Zawiera іatwo przyswajalne wкglowodany, a takїe leki powoduj№ce uwalnianie adrenaliny do krwi.</text>
 	</string>
 	<string id="st_guitar_descr">
-		<text>Поговори хоть ты со мной, гитара семиструнная!..</text>
+		<text>Porozmawiaj jednak ze mn№, siedmiostrunowa gitara!..</text>
 	</string>
 	<string id="st_guitar_name">
-		<text>Гитара</text>
+		<text>Gitara</text>
 	</string>
 	<string id="st_kolbasa">
-		<text>Колбаса «Диетическая»</text>
+		<text>Kieіbasa "Dietetyczna"</text>
 	</string>
 	<string id="st_kolbasa_descr">
-		<text>Часто за неимением лучшего эта колбаса - смесь курятины и соевого заменителя - становится завтраком, обедом и ужином сталкера. Благодаря большому количеству консервантов не портится довольно долго.</text>
+		<text>Czкsto z braku lepszej kieіbasa ta - mieszanka kurczaka i substytutu soi - staje siк њniadaniem, obiadem i kolacj№ stalkera. Ze wzglкdu na duї№ iloњж konserwantуw nie psuje siк przez dіugi czas.</text>
 	</string>
 	<string id="st_medkit">
-		<text>Аптечка</text>
+		<text>Apteczka</text>
 	</string>
 	<string id="st_medkit_army">
-		<text>Армейская аптечка</text>
+		<text>Apteczka Wojskowa</text>
 	</string>
 	<string id="st_medkit_army_descr">
-		<text>Специализированный медицинский набор для оказания первой помощи при ранениях на поле боя. В набор входят средства для ускорения свертывания крови на основе «Менадиона», обезболивающие, антибиотики и стимуляторы иммунитета; кроме того, здесь имеется простейший хирургический набор для извлечения осколков и пуль. Стандартная армейская аптечка; реже встречается в экипировке «долговцев».</text>
+		<text>Specjalistyczny zestaw medyczny do udzielania pierwszej pomocy na polu walki. Zestaw zawiera њrodki przyspieszaj№ce krzepniкcie krwi na bazie Menadione, њrodki przeciwbуlowe, antybiotyki i stymulatory odpornoњci. Dodatkowo zawiera prosty zestaw chirurgiczny do wydobywania odіamkуw i pociskуw. Standardowa apteczka wojskowa. Rzadziej spotykana w wyposaїeniu Powinnoњci.</text>
 	</string>
 	<string id="st_medkit_descr">
-		<text>Универсальный медицинский набор разового применения. Позволяет справляться с травмами различного типа и степени сложности: ранениями, ушибами мягких тканей, термическими и химическими ожогами, разного рода отравлениями. Пользуется неизменной популярностью у сталкеров.</text>
+		<text>Uniwersalny zestaw medyczny do jednorazowego uїytku. Pozwala radziж sobie z urazami rуїnego rodzaju i stopnia zіoїonoњci: urazy, stіuczenia tkanek miкkkich, oparzenia termiczne i chemiczne, rуїnego rodzaju zatrucia. Cieszy siк staі№ popularnoњci№ wњrуd stalkerуw.</text>
 	</string>
 	<string id="st_medkit_science">
-		<text>Научная аптечка</text>
+		<text>Apteczka Naukowa</text>
 	</string>
 	<string id="st_medkit_science_descr">
-		<text>Медицинский набор, разработанный специально для научных сотрудников, которые работают в условиях Зоны. Содержит средства как для заживления механических травм, так и для предотвращения развития лучевой болезни. В отличие от других наборов, в этом можно найти «Викасол», «Батилол» и С-нафтизин.</text>
+		<text>Zestaw medyczny zaprojektowany specjalnie dla naukowcуw pracuj№cych w Strefie. Zawiera њrodki zarуwno do leczenia urazуw mechanicznych, jak i do zapobiegania rozwojowi choroby popromiennej. W przeciwieсstwie do innych zestawуw, ten zawiera Vikasol, Batilol i C-naftyzynк.</text>
 	</string>
 	<string id="st_pda_descr">
-		<text>Нет сохранённых данных.</text>
+		<text>Brak zapisanych danych.</text>
 	</string>
 	<string id="st_pda_name">
-		<text>КПК</text>
+		<text>PDA</text>
 	</string>
 	<string id="st_vodka">
-		<text>Водка «Казаки»</text>
+		<text>Wуdka "Kozaka"</text>
 	</string>
 	<string id="st_vodka_descr">
-		<text>Водка производства компании «GSC». Хорошо пьётся, заметно снижает воздействие радиации на организм, хотя злоупотреблять ею не следует.</text>
+		<text>Wуdka wyprodukowana przez GSC. Pije siк dobrze, znacznie zmniejsza wpіyw promieniowania na organizm, choж nie naleїy naduїywaж.</text>
 	</string>
 	<string id="st_detector2_descr">
-		<text>Детектор аномальной активности прошлого поколения. Снабжён локатором аномальных образований и светодиодным таблом для отображения направления к артефакту, причём способен не только обнаруживать артефакты, но и определять расстояния до них. Режим поиска артефактов включается поднятием крышки-антенны на лицевой стороне прибора. К сожалению, несколько устаревший список обнаружаемых артефактов зашит в прибор на аппаратном уровне.</text>
+		<text>Detektor anomalnej aktywnoњci starej generacji. Wyposaїony w lokalizator anomalnych formacji i tablicк LED wyњwietlaj№c№ kierunek do artefaktu, jest w stanie nie tylko wykrywaж artefakty, ale takїe okreњlaж odlegіoњж do nich. Tryb wyszukiwania artefaktуw aktywuje siк, podnosz№c osіonк anteny z przodu urz№dzenia. Niestety, nieco przestarzaіa lista wykrywalnych artefaktуw jest zapisana w urz№dzeniu na poziomie sprzкtowym.</text>
 	</string>
 	<string id="st_drug_anabiotic_descr">
-		<text>Экспериментальный препарат, разработанный для научно-исследовательских групп, действующих в Зоне. Лежащий в основе препарата тетрадотоксин, известный как «порошок зомби», вызывает полный паралич центральной нервной системы, что, предположительно, может помочь пережить выброс вне укрытия. Препарат не был испытан в полевых условиях и не прошел клинических тестов, что ставит под сомнение его эффективность и вызывает вопрос о возможных побочных эффектах.</text>
+		<text>Eksperymentalny lek opracowany dla grup badawczych dziaіaj№cych w Strefie. Podstawowa tetradotoksyna leku, znana jako "proszek zombie", wywoіuje caіkowity paraliї oњrodkowego ukіadu nerwowego, co prawdopodobnie moїe pomуc przetrwaж Emisjк na wolnej przestrzeni. Lek nie byі testowany w terenie i nie przeszedі testуw klinicznych, co poddaje w w№tpliwoњж jego skutecznoњж i rodzi pytanie o moїliwe skutki uboczne.</text>
 	</string>
 	<string id="st_bolt">
-		<text>Болт</text>
+		<text>Њruba</text>
 	</string>
 	<string id="st_drug_booster_descr">
-		<text>Основной компонент - искусственно созданный стероид, по химическому составу похожий на тестостерон. Применяется сталкерами в долгих переходах для повышения порога утомляемости мышц. Помогает значительно увеличить переносимый вес. Препарат длительного действия.</text>
+		<text>Gіуwnym skіadnikiem jest sztucznie wytworzony steroid, chemicznie podobny do testosteronu. Stosowany jest przez stalkerуw w dіugich przejњciach w celu zwiкkszenia progu zmкczenia miкњni. Pomaga znacznie zwiкkszyж udџwig. Dіugo dziaіaj№cy lek.</text>
 	</string>
 	<string id="st_drug_radioprotector_descr">
-		<text>Радиопротектор «Индралин-Б190», входил в состав личных аптечек работников АЭС. Появился в Зоне как замена слишком токсичному цистамину гидрохлорида РС1. Уменьшает воздействие гамма-излучения на ткани живого организма. Желательно применять превентивно, до облучения, поскольку действие препарата не мгновенное. Препарат длительного действия.</text>
+		<text>Radioprotektor "Indralin-B190" byі czкњci№ osobistych apteczek pracownikуw elektrowni j№drowej. Pojawiі siк w Strefie jako zamiennik zbyt toksycznego chlorowodorku cystaminy PC1. Zmniejsza wpіyw promieniowania gamma na tkanki їywego organizmu. Wskazane jest stosowanie profilaktyczne przed napromieniowaniem, poniewaї dziaіanie leku nie jest natychmiastowe. Dіugo dziaіaj№cy lek.</text>
 	</string>
         <string id="st_sardines">
-		<text>Сардины</text>
+		<text>Sardynki</text>
 	</string>
 	<string id="st_sardines_descr">
-		<text>Содержащийся в рыбе фосфор необходим человеческому организму, поэтому периодически стоит разнообразить свой рацион этими консервированными сардинами.</text>
+		<text>Zawarty w rybach fosfor jest niezbкdny organizmowi czіowieka, dlatego od czasu do czasu warto urozmaiciж swoj№ dietк tymi sardynkami w puszkach.</text>
 	</string>
         <string id="st_olives">
-		<text>Маслины</text>
+		<text>Oliwki</text>
 	</string>
 	<string id="st_olives_descr">
-		<text>Могут пригодиться в качестве изысканной закуски к крепким алкогольным напиткам, а могут и просто утолить голод, потому как очень даже питательны.</text>
+		<text>Mog№ przydaж siк jako wykwintna przek№ska do mocnych napojуw alkoholowych lub po prostu zaspokoiж gіуd, poniewaї s№ bardzo poїywne.</text>
 	</string>
         <string id="st_sar1">
-		<text>Плавленный сыр "Янтарь"</text>
+		<text>Ser topiony "Jantar</text>
 	</string>
 	<string id="st_sar1_descr">
-		<text>Плавленный сыр "Янтарь" не менее питателен, чем консервы, но значительно легче по весу</text>
+		<text>Ser topiony "Jantar" jest nie mniej poїywny niї konserwy, ale znacznie lїejszy</text>
 	</string>
         <string id="st_ioygyrt">
-		<text>Йогурт</text>
+		<text>Jogurt</text>
 	</string>
 	<string id="st_ioygyrt_descr">
-		<text>Йогурт со вкусом Лесных ягод. Доля жира 2.5%</text>
+		<text>Jogurt o smaku leњnych jagуd. Zawartoњж tіuszczu 2,5%</text>
 	</string>
         <string id="st_nuts">
-		<text>Орешки</text>
+		<text>Orzeszki</text>
 	</string>
 	<string id="st_nuts_descr">
-		<text>Небольшая банка с орешками. Всерьез насытиться вряд ли удасться, однако временно утолить голод вполне реально.</text>
-	</string> 
+		<text>Maіy sіoik orzechуw. Jest maіo prawdopodobne, їe bкdziesz w stanie zaj№ж siк wystarczaj№co powaїnie, ale caіkiem moїliwe jest chwilowe zaspokojenie gіodu.</text>
+	</string>
         <string id="st_cheese">
-		<text>Плавленый сырок</text>
+		<text>Ser topiony</text>
 	</string>
 	<string id="st_cheese_descr">
-		<text>Небольшая пачка с плавленым сырком. Срок годности еще настолько долго не истечет, что совершенно не хочется ознакомляться с составом. Но вроде бы никто из сталкеров пока не жаловался на отравления.</text>
+		<text>Maіe opakowanie topionego sera. Termin waїnoњci jest tak dіugi, їe absolutnie nie chcesz zapoznawaж siк ze skіadem. Wygl№da jednak na to, їe їaden ze stalkerуw nie skarїyі siк jeszcze na zatrucie.</text>
 	</string>
         <string id="st_vegetables">
-		<text>Овощная смесь</text>
+		<text>Mieszanka Warzyw</text>
 	</string>
 	<string id="st_vegetables_descr">
-		<text>Небольшая банка с консервированными овощами. Кукуруза, морковь, фасоль и горошек. Очень ценится сталкерами, поскольку витаминов в условиях Зоны катастрофически не хватает, а организм требует хоть какой-то подпитки.</text>
+		<text>Maіy sіoik warzyw w puszkach. Kukurydza, marchew, fasola i groszek. Jest bardzo ceniony przez stalkerуw, poniewaї w warunkach Strefy bardzo brakuje witamin, a organizm wymaga zrуїnicowanego їywienia.</text>
 	</string>
          <string id="st_ovoshi2">
-		<text>"Завтрак Туриста"</text>
+		<text>Њniadanie Turysty</text>
 	</string>
 	<string id="st_ovoshi2_descr">
-		<text>Банка с овощным салатом является хорошим продуктом в Зоне.В ней находится много питательных веществ,что важно в этой адской бездне.</text>
+		<text>Sіoik saіatki warzywnej to dobry produkt w Strefie, zawiera wiele skіadnikуw odїywczych, co jest waїne w tej piekielnej otchіani.</text>
 	</string>
          <string id="st_kasha2">
-		<text>Консервы Перловая каша</text>
+		<text>Owsianka w Puszce</text>
 	</string>
 	<string id="st_kasha2_descr">
-		<text>Перловая каша вкусна и долго не портится.Частый ужин сталкеров всех группировок.</text>
+		<text>Kasza jкczmienna jest smaczna i dіugo siк nie psuje. Czкsty obiad dla stalkerуw wszystkich frakcji.</text>
 	</string>
         <string id="st_buter">
-		<text>Бутерброд</text>
+		<text>Kanapka</text>
 	</string>
 	<string id="st_buter_descr">
-		<text>Обычный бутерброд с колбасой.</text>
+		<text>Zwykіa kanapka z kieіbas№.</text>
 	</string>
         <string id="st_goroh">
-		<text>Консервированный  горох</text>
+		<text>Groszek w Puszce</text>
 	</string>
 	<string id="st_goroh_descr">
-		<text>Консерва с зелёным горошком. Питательная пища, содержащая много полезных витаминов, может долго храниться. Подойдет для далеких вылазок к северу зоны.</text>
+		<text>Zielony groszek w puszce. Poїywna їywnoњж zawieraj№ca wiele przydatnych witamin moїe byж przechowywana przez dіugi czas. Nadaje siк na dіugie wycieczki na pуіnoc strefy.</text>
 	</string>
         <string id="st_mars">
-		<text>Шоколадный батончик «Mars»</text>
+		<text>Baton Mars</text>
 	</string>
 	<string id="st_mars_descr">
-		<text>Mars – это питательный батончик из нуги, карамели и настоящего молочного шоколада.</text>
+		<text>Mars to odїywczy baton z karmelu i prawdziwej mlecznej czekolady.</text>
 	</string>
          <string id="st_snickers">
-		<text>Шоколадный батончик «Snickers»</text>
+		<text>Baton Snickers</text>
 	</string>
 	<string id="st_snickers_descr">
-		<text>Шоколадный батончик с жареным арахисом, карамелью и нугой, покрытый сверху молочным шоколадом</text>
+		<text>Czekolada z praїonymi orzeszkami ziemnymi, karmelem. Polany mleczn№ czekolad№.</text>
 	</string>
         <string id="st_sgyshenka">
-		<text>Сгущённое молоко</text>
+		<text>Mleko Skondensowane</text>
 	</string>
 	<string id="st_sgyshenka_descr">
-		<text>Сгущённое молоко — концентрированное молоко, обычно с сахаром</text>
+		<text>Mleko skondensowane z cukrem.</text>
 	</string>
         <string id="st_fasol">
-		<text>Консервированная фасоль</text>
+		<text>Fasola w Puszce</text>
 	</string>
 	<string id="st_fasol_descr">
-		<text>Консервированная фасоль - неплохой обед и ужин для сталкера, лучше всего употреблять с какими-нибудь мясными консервами</text>
+		<text>Puszkowana fasola – dobra na obiad i kolacjк dla stalkerуw, najlepiej jadaж z konserwami miкsnymi</text>
 	</string>
         <string id="st_baranin">
-		<text>Консервированная баранина</text>
+		<text>Konserwa Jagniкca</text>
 	</string>
 	<string id="st_baranin_descr">
-		<text>Вкусная и питательная баранина в консерве. Пользуется популярностью, как у новичков, так и у сталкеров-мастеров. Бармен частенько готовит из этих консерв разные блюда</text>
+		<text>Pyszna i poїywna jagniкcina w puszce. Jest popularna zarуwno wњrуd pocz№tkuj№cych jak i starych stalkerуw. Z tych konserw czкsto barman przygotowuje rуїne potrawy.</text>
 	</string>
          <string id="st_ananasina">
-		<text>Консервированные ананасы</text>
+		<text>Ananas w Puszce</text>
 	</string>
 	<string id="st_ananasina_descr">
-		<text>Вкусные ананасы, порезанные колечками. Могут долго храниться, так как были законсервированны</text>
+		<text>Pyszne, krojone ananasy. Mog№ byж przechowywane przez dіugi czas, poniewaї s№ w puszce.</text>
 	</string>
         <string id="st_kilka">
-		<text>Консервированная килька</text>
-	</string>  
+		<text>Szproty w Pomidorach</text>
+	</string>
 	<string id="st_kilka_descr">
-		<text>Консервированная килька в томатном соусе.</text>
+		<text>Szprot w konserwie z sosem pomidorowym.</text>
 	</string>
         <string id="st_shprota">
-		<text>Шпроты</text>
+		<text>Szproty</text>
 	</string>
 	<string id="st_shprota_descr">
-		<text>Шпроты в масле. Благодаря тому, что шпроты находятся в консервной банке, они могут долго храниться. Вкусная и питательная пища.</text>
+		<text>Szproty w oleju. Dziкki temu, їe szproty znajduj№ siк w puszce, moїna je dіugo przechowywaж. Smaczne i poїywne jedzenie.</text>
 	</string>
          <string id="st_salo">
-		<text>Сало</text>
+		<text>Sіonina</text>
 	</string>
 	<string id="st_salo_descr">
-		<text>Небольшой кусак сала.</text>
-	</string> 
+		<text>Nieduїy kawaіek sіoniny.</text>
+	</string>
          <string id="st_saira">
-		<text>Консервированная сайра</text>
+		<text>Sardynki</text>
 	</string>
 	<string id="st_saira_descr">
-		<text>Небольшая банка консервированной сайры.</text>
-	</string>       
+		<text>Nieduїa puszka sardynek.</text>
+	</string>
         <string id="st_tush">
-		<text>Тушёнка</text>
+		<text>Konserwa Miкsna</text>
 	</string>
 	<string id="st_tush_descr">
-		<text>Обычная тушенка, возможно со складов неприкосновенного запаса. Однако доставлена она из-за пределов Зоны и поэтому не заражена.</text>
+		<text>Zwykіy gulasz, prawdopodobnie z zapasуw. Zostaі jednak dostarczony spoza Strefy i dlatego nie zostaі zainfekowany.</text>
 	</string>
         <string id="st_kasha3">
-		<text>Консервы Гречневая каша</text>
+		<text>Kasza Gryczana w Puszce</text>
 	</string>
 	<string id="st_kasha3_descr">
-		<text>Гречневая каша вкусна и долго не портится.Частый ужин сталкеров всех группировок.</text>
-	</string>    
+		<text>Kasza gryczana jest smaczna i dіugo siк nie psuje.Czкsty obiad stalkerуw wszystkich frakcji.</text>
+	</string>
         <string id="st_tyshenka1">
-		<text>Тушенка Мясная Свинная</text>
+		<text>Konserwa Wieprzowa</text>
 	</string>
 	<string id="st_tyshenka1_descr">
-		<text>Мясная тушенка "Три Поросенка".Питательная, хорошо утоляет голод.Содержит много каллорий и полезных веществ.Дорогая, но цена того стоит!!</text>
+		<text>Konserwa "Trzy maіe њwinki". Poїywna, dobrze zaspokaja gіуd. Zawiera duїo kalorii i skіadnikуw odїywczych.</text>
 	</string>
         <string id="st_pashtet">
-		<text>Паштет</text>
+		<text>Pasztet</text>
 	</string>
 	<string id="st_pashtet_descr">
-		<text>Очень вкусный печённочный паштет, являеться распространённым продуктом в зоне.</text>
+		<text>Powszechnym produktem w strefie jest pyszny pasztet z w№trуbki.</text>
 	</string>
         <string id="st_kasha4">
-		<text>Консервы Рисовая каша</text>
+		<text>Kasza Ryїowa w Puszce</text>
 	</string>
 	<string id="st_kasha4_descr">
-		<text>Рисовая каша вкусна и долго не портится.Частый ужин сталкеров всех группировок.</text>
+		<text>Kasza ryїowa jest smaczna i dіugo siк nie psuje. Czкsty obiad stalkerуw wszystkich frakcji.</text>
 	</string>
          <string id="st_tushenkas">
-		<text>Тушёнка из говядины</text>
+		<text>Konserwa Woіowa</text>
 	</string>
 	<string id="st_tushenkas_descr">
-		<text>Очень качественная говяжия тушёнка.За своё отличное качество имеет высокую цену.</text>
+		<text>Konserwa woіowa bardzo wysokiej jakoњci, ma wysok№ cenк oraz doskonaі№ jakoњж.</text>
 	</string>
         <string id="st_sars">
-		<text>Плавленный сыр «Deapos»</text>
+		<text>Ser topiony "Deapos"</text>
 	</string>
 	<string id="st_sars_descr">
-		<text>Плавленный сыр «Deapos обладающий вкусом грибов.</text>
+		<text>Ser topiony "Deapos" o smaku grzybуw.</text>
 	</string>
 
 <string id="st_flask">
-<text>Очищенная вода (1 литр)</text>
+<text>Woda Oczyszczona (1 litr)</text>
 </string>
 <string id="st_flask2">
-<text>Очищенная вода (0.65 литра)</text>
+<text>Woda Oczyszczona (0,65 litra)</text>
 </string>
 <string id="st_flask3">
-<text>Очищенная вода (0.35 литра)</text>
+<text>Woda Oczyszczona (0,35 litra)</text>
 </string>
 <string id="st_flask_descr">
-<text>Военные фляжки предназначены для питья воды небольшими глотками. Произведена и очищена медиками и учёными. Во-первых, вода в сочетании с особым видом спирта кипятится при очень высокой температуре в целях очистки и дезинфекции. Во-вторых, воду охлаждают в холодильниках. В конечном итоге получаем полностью очищенную воду от радиационного заражения. Если вы всё ещё сомневаетесь в её чистоте - можете дополнительно кинуть пару таблеток «Акватабса». Из-за сложного процесса производства и очистки, военные фляжки с водой появляются в ограниченных количествах и продаются сталкерам по умеренной цене. У медиков так же есть они в наличии, но они немного дороже, так как идёт наценка за стоимость доставок.\n \n%c[0,140,140,140]ХАРАКТЕРИСТИКИ:\n%c[0,153,255,255] • %c[0,140,140,140] напиток\n%c[0,153,255,255] • %c[0,140,140,140] здоровое питание\n%c[255,238,153,26] • %c[0,140,140,140] используется для:%c[0,170,170,170] обслуживание оружия (+1%)</text>
+<text>Butelka wojskowa przeznaczona jest do picia wody maіymi іykami. Wyprodukowana i oczyszczona przez lekarzy i naukowcуw. Najpierw woda w poі№czeniu ze specjalnym rodzajem alkoholu jest gotowana w bardzo wysokiej temperaturze w celu oczyszczenia i dezynfekcji. Pуџniej woda jest chіodzona w lodуwkach. W koсcu otrzymujemy caіkowicie oczyszczon№ wodк z zanieczyszczenia radiacyjnego. Jeњli nadal w№tpisz w jego czystoњж, moїesz dodatkowo rzuciж kilka tabletek Aquatabs. Ze wzglкdu na zіoїony proces produkcji i czyszczenia, butle wojskowe pojawiaj№ siк w ograniczonych iloњciach i s№ sprzedawane stalkerom po umiarkowanej cenie. Medycy rуwnieї maj№ je w magazynie, ale s№ one nieco droїsze, poniewaї s№ doliczane do kosztуw wysyіki.\n \n%c[0,140,140,140]CHARAKTERYSTYKA:\n%c[0,153,255,255] • %c[0,140,140,140] napуj\n% c[0,153,255,255] • %c[0,140,140,140] zdrowa їywnoњж\n%c[255,238,153,26] • %c[0,140,140,140] uїywane do: %c[0,170,170,170] konserwacji broni (+1%)</text>
 </string>
 <string id="st_flask_emtpy">
-<text>Пустая фляга</text>
+<text>Pusta Butelka</text>
 </string>
 <string id="st_flask_emtpy_descr">
-<text>Пустая литровая фляга, можно налить воды.</text>
+<text>Pusta litrowa butelka - moїna nalaж wody.</text>
 </string>
 <string id="mre">
-<text>Сухой паёк (Не открытый, 3 порции)</text>
+<text>Suche racje їywnoњciowe (3 porcje)</text>
 </string>
 <string id="mre2">
-<text>Сухой паёк (осталось 2 порции)</text>
+<text>Suche racje їywnoњciowe (2 porcje)</text>
 </string>
 <string id="mre3">
-<text>Сухой паёк (осталась 1 порция)</text>
+<text>Sucha racja їywnoњciowa (1 porcja)</text>
 </string>
 <string id="mre_descr">
-<text>Сухой паёк, готовый к употреблению (известный, как MRE) является автономным, индивидуальным рационом питания вооруженных сил Соединенных Штатов в полевых условиях, при проведении боевых операций или при других сложных условиях, когда нет поблизости источников нормальной пищи. Один сухой паёк может быть использован один раз. Посуда для сухих пайков разработана так, что бы противостоять сложным и тяжелым условиям эксплуатации и защитить содержимое от внешнего воздействия окружающей среды. Одна упаковка содержит: первое блюдо и целый ряд других продуктов питания. Хотя всё это можно употреблять холодным, но в каждую пачку входит Беспламенный Нагреватель (устройство водоактивируемой экзотермической реакции, которая излучает тепло), который помогает разогреть пищу, что делает её намного вкуснее.</text>
+<text>Gotowe do spoїycia racje їywnoњciowe (znane jako MRE) to samodzielne, spersonalizowane racje їywnoњciowe dla wojska Stanуw Zjednoczonych w terenie, podczas operacji bojowych lub w innych trudnych warunkach, gdy w pobliїu nie ma normalnych џrуdeі їywnoњci. Jedna sucha racja їywnoњciowa moїe byж uїyta jednorazowo. Przybory do suchej racji їywnoњciowej s№ zaprojektowane tak, aby wytrzymaж trudne i surowe warunki pracy oraz chroniж zawartoњж przed wpіywami њrodowiska zewnкtrznego. Jedno opakowanie zawiera: pierwsze danie oraz szereg innych produktуw spoїywczych. Chociaї moїna je spoїywaж na zimno, kaїde opakowanie zawiera bezpіomieniow№ grzaіkк (aktywowane wod№ urz№dzenie do reakcji egzotermicznej, ktуre emituje ciepіo), ktуre pomaga podgrzaж jedzenie, dziкki czemu jest znacznie smaczniejsze.</text>
 </string>
 <string id="water_drink">
-<text>Газированная вода (350 мл)</text>
+<text>Woda gazowana (350 ml)</text>
 </string>
 <string id="water_drink_descr">
-<text>Газированная вода для утоления жажды сталкера. Немного взбодрит и придаст сил при сильной усталости.</text>
+<text>Woda gazowana, aby ugasiж pragnienie stalkera. Trochк rozweseli i doda siіy w przypadku silnego zmкczenia.</text>
 </string>
 <string id="caffeine">
-<text>Таблетки кофеина  (10 таблеток)</text>
+<text>Tabletki z Kofein№ (10 tabletek)</text>
 </string>
 <string id="caffeine2">
-<text>Таблетки кофеина  (осталось 8 таблеток)</text>
+<text>Tabletki z Kofein№ (8 tabletek)</text>
 </string>
 <string id="caffeine3">
-<text>Таблетки кофеина  (осталось 6 таблеток)</text>
+<text>Tabletki z Kofein№ (6 tabletek)</text>
 </string>
 <string id="caffeine4">
-<text>Таблетки кофеина  (осталось 4 таблетки)</text>
+<text>Tabletki z Kofein№ (4 tabletki)</text>
 </string>
 <string id="caffeine5">
-<text>Таблетки кофеина  (осталось 2 таблетки)</text>
+<text>Tabletki z Kofein№ (2 tabletki)</text>
 </string>
 <string id="caffeine_descr">
-<text>Кофеин и бензонат натрия, которые заставляют работать нервную систему с максимально возможной эффективностью. В значительной степени снижают сонливость.</text>
+<text>Kofeina i benzoesan sodu, ktуre sprawiaj№, їe ukіad nerwowy dziaіa tak wydajnie, jak to tylko moїliwe. Znacz№co zmniejsza sennoњж.</text>
 </string>
 <string id="beans">
-<text>Тушеная фасоль</text>
+<text>Duszona Fasolka</text>
 </string>
 <string id="beans_descr">
-<text>Консервированные испеченные бобы, завезенные с Запада. Фасоль, тушеная в томатном соусе поможет вернуть приятные воспоминания для многих сталкеров.</text>
+<text>Fasolka po bretoсsku w puszce sprowadzana z Zachodu. Fasola duszona w sosie pomidorowym wielu stalkerom przynosi miіe wspomnienia.</text>
 </string>
 <string id="chili">
-<text>Бобы «Чили»</text>
+<text>Fasola "Chili"</text>
 </string>
 <string id="chili_descr">
-<text>Консервированные бобы Чили, завезенные с Запада. Весьма популярны в качестве дополнительных ингредиентов во многих блюдах, приготовляемых на территории Зоны Отчуждения.</text>
+<text>Fasola w puszkach importowana z Zachodu. Bardzo popularny jako dodatek do wielu daс przygotowywanych na terenie Strefy Wykluczenia.</text>
 </string>
 <string id="tomato">
-<text>Консервированные томаты</text>
+<text>Pomidory z Puszki</text>
 </string>
 <string id="tomato_descr">
-<text>Консервированные, нарезанные кубиками помидоры, ввозимые на территорию Зоны на регулярной основе. Судя по сроку годности на дне банки - всё ещё свежие.</text>
+<text>Zakonserwowane, pokrojone w kostkк pomidory regularnie sprowadzane do Strefy. S№dz№c po dacie waїnoњci na dnie puszki, wci№ї jest њwieїa.</text>
 </string>
 <string id="corn">
-<text>Консервированная кукуруза</text>
+<text>Kukurydza w Puszce</text>
 </string>
 <string id="corn_descr">
-<text>Консервированная кукуруза, импортированная из-за Кордона. Можно есть прямо в таком виде из банки, но многие сталкеры добавляют его в свои суповые варева в качестве ингредиента.</text>
+<text>Kukurydza w puszkach importowana z Kordonu. Moїna je jeњж prosto z puszki, ale wielu stalkerуw dodaje go do swoich zup jako skіadnik.</text>
 </string>
 <string id="condensed_milk">
-<text>Сгущёное молоко</text>
+<text>Mleko Skondensowane</text>
 </string>
 <string id="condensed_milk_descr">
-<text>Сгущённое молоко с сахаром, в гражданскую войну входившие в сухпаёк североамериканской армии, достигло несравнимой популярности в странах постсоветского пространства, став одним из основных продуктов. Законсервированное в жестяных банках, оно может хранится десятилетиями, оставаясь вкусным и питательным.</text>
+<text>Mleko skondensowane z cukrem, ktуre byіo czкњci№ suchych racji їywnoњciowych armii pуіnocnoamerykaсskiej podczas wojny domowej, osi№gnкіo nieporуwnywaln№ popularnoњж w krajach przestrzeni postsowieckiej, staj№c siк jednym z gіуwnych produktуw. Konserwowany w puszkach, moїe byж przechowywany przez dziesi№tki lat, pozostaj№c jednoczeњnie smacznym i poїywnym.</text>
 </string>
 <string id="sardines">
-<text>Сардины в масле</text>
+<text>Sardynki w Oleju</text>
 </string>
 <string id="sardines_descr">
-<text>Обычные консервированные сардины. Содержащийся в рыбе фосфор необходим человеческому организму, поэтому периодически стоит разнообразить свой рацион этими вкусными консервами.</text>
+<text>Zwykіe sardynki w puszkach. Zawarty w rybach fosfor jest niezbкdny organizmowi czіowieka, dlatego od czasu do czasu warto urozmaiciж swoj№ dietк tymi pysznymi konserwami.</text>
 </string>
 <string id="tuna">
-<text>Консервированный тунец</text>
+<text>Konserwa z Tuсczyka</text>
 </string>
 <string id="tuna_descr">
-<text>Не очень дорогая, и полезная вещь. Срок годности вроде ещё не истёк.</text>
+<text>Niezbyt droga i smaczna. Data waїnoњci jeszcze nie wygasіa.</text>
 </string>
 <string id="crackers">
-<text>Армейские галеты (6 галет)</text>
+<text>Herbatniki Wojskowe (6 szt)</text>
 </string>
 <string id="crackers_1">
-<text>Армейские галеты (3 галеты)</text>
+<text>Herbatniki Wojskowe (3 szt)</text>
 </string>
 <string id="crackers_descr">
-<text>Довольно питательные самые обыкновенные армейские галеты. Входят в состав армейских сухпайков.</text>
+<text>Caіkiem poїywne, najzwyklejsze herbatniki wojskowe. S№ czкњci№ suchych racji їywnoњciowych.</text>
 </string>
 <string id="canned_beef">
-<text>Тушёнка</text>
+<text>Konserwa Miкsna</text>
 </string>
 <string id="canned_beef_descr">
-<text>Консервированная тушёная говядина, в обиходе известная как тушёнка, может хранится годами, что позволяет ей конкурировать со сгущёнкой в важности для снабжения пищей военных и туристов..</text>
+<text>Konserwa woіowa w puszce, potocznie zwana gulaszem, moїe byж przechowywana przez lata, co pozwala jej konkurowaж z mlekiem skondensowanym o znaczenie dla zaopatrzenia wojska i turystуw.</text>
 </string>
 <string id="sprat">
-<text>Килька в томате</text>
+<text>Szproty w Pomidorach</text>
 </string>
 <string id="sprat_descr">
-<text>В Зоне этого продукта немало, цена небольшая, но зато вкусно.</text>
+<text>W Strefie tego produktu jest bardzo duїo, cena niewielka, ale smaczna.</text>
 </string>
 <string id="sprats">
-<text>Шпроты</text>
+<text>Szproty</text>
 </string>
 <string id="sprats_descr">
-<text>Несмотря на небольшую цену, шпроты очень вкусные.</text>
+<text>Mimo niskiej ceny szproty s№ bardzo smaczne.</text>
 </string>
 <string id="squash_caviar">
-<text>Кабачковая икра</text>
+<text>Kawior</text>
 </string>
 <string id="squash_caviar_descr">
-<text>Банка кабачковой икры, маленькое овощное сокровище, которое сочетается почти с любой едой и содержит впечатляющий набор витаминов и минералов.</text>
+<text>Sіoik kawioru z cukini№. Maіy warzywny skarb, ktуry pasuje do prawie kaїdego posiіku i zawiera imponuj№cy zestaw witamin i mineraіуw.</text>
 </string>
 <string id="green_pea">
-<text>Зелёный горошек</text>
+<text>Zielony Groszek</text>
 </string>
 <string id="green_pea_descr">
-<text>Банка зелёного горошка, богатого витаминами и селеном.</text>
+<text>Sіoik zielonego groszku bogatego w witaminy i selen.</text>
 </string>
 <string id="juice">
-<text>Ананасовый сок</text>
+<text>Sok Ananasowy</text>
 </string>
 <string id="juice_descr">
-<text>Пакет ананасового сока, входит в состав армейских сухпайков.</text>
+<text>Karton soku ananasowego, czкњж suchej racji wojskowej.</text>
 </string>
 <string id="mineral_water">
-<text>Бутылка воды (1 литр)</text>
+<text>Butelka Wody (1 litr)</text>
 </string>
 <string id="mineral_water2">
-<text>Бутылка воды (0.65 литра)</text>
+<text>Butelka Wody (0.65 litra)</text>
 </string>
 <string id="mineral_water3">
-<text>Бутылка воды (0.3 литра)</text>
+<text>Butelka Wody (0.3 litra)</text>
 </string>
 <string id="mineral_water_descr">
-<text>Минерализированная вода из украинских минеральных источников. Углеводородная с добавлением кальция.</text>
+<text>Zmineralizowana woda z ukraiсskich џrуdeі mineralnych. Wкglowodуr z dodatkiem wapnia.</text>
 </string>
 <string id="bottle_tea">
-<text>Чай Бороды (1 литр)</text>
+<text>Herbata Brody (1 litr)</text>
 </string>
 <string id="bottle_tea2">
-<text>Чай Бороды (0,65 литра)</text>
+<text>Herbata Brody (0.65 litra)</text>
 </string>
 <string id="bottle_tea3">
-<text>Чай Бороды (0,35 литра)</text>
+<text>Herbata Brody (0.3 litra)</text>
 </string>
 <string id="bottle_tea_descr">
-<text>Популярный среди сталкеров горячий чай Бороды, настоянный на съедобных сушеных грибах в кипяченой воде (поговаривают, что не радиоактивной) с добавлением сахара. Сталкеры, которые могут позволить покупать данный напиток, часто берут его с собой в длительные ходки по Зоне. Это довольно хороший и относительно здоровый способ оставаться на ногах, когда устанешь или когда пережидаешь холодные тёмные ночи.</text>
+<text>Broda do gor№cej herbaty, popularnej wњrуd stalkerуw, dodaje jadalne suszone grzyby w przegotowanej wodzie (mуwi№, їe nie s№ radioaktywne) z dodatkiem cukru. Stalkerzy, ktуrych staж na zakup tego trunku, czкsto zabieraj№ go ze sob№ na dіugie spacery po Strefie. To caіkiem dobry i stosunkowo zdrowy sposуb na utrzymanie siк na nogach, gdy jesteњ zmкczony lub gdy przeїywasz zimne, ciemne noce.</text>
 </string>
 <string id="herring">
-<text>Cельдь</text>
+<text>Њledџ</text>
 </string>
 <string id="herring_descr">
-<text>Сельдь - самая лёгкая из всех всех рыбных консервов, богата кальцием и магнием.</text>
+<text>Њledџ to najlїejsza ze wszystkich ryb w puszkach, bogata w wapс i magnez.</text>
 </string>
 <string id="saury">
-<text>Сайра</text>
+<text>Makrela</text>
 </string>
 <string id="saury_descr">
-<text>Копчёная консервированная сайра в жестяной банке содержит легкоусваиваемый белок и полинасыщенные жирные кислоты, что делает её отличным дополнением к рациону.</text>
+<text>Wкdzona makrela w puszce zawiera іatwo przyswajalne biaіko oraz wielonienasycone kwasy tіuszczowe, dziкki czemu stanowi doskonaіy dodatek do diety.</text>
 </string>
 <string id="pink_salmon">
-<text>Горбуша</text>
+<text>Rуїowy Јosoњ</text>
 </string>
 <string id="pink_salmon_descr">
-<text>Консервированная горбуша в жестяной банке, вкусный и полезный источник никотиновой кислоты и жирных кислот.</text>
+<text>Konserwowany rуїowy іosoњ w puszce, smaczne i zdrowe џrуdіo kwasu nikotynowego i kwasуw tіuszczowych.</text>
 </string>
 <string id="max_energy">
-<text>Энергетик «Чистая энергия»</text>
+<text>Energetyk "Czysta Energia"</text>
 </string>
 <string id="max_energy_descr">
-<text>Энергетический напиток «Чистая энергия». Банка хоть и похожа на батарейку, но состав в ней самый обычный - кофеин, сахар, ароматизаторы.</text>
+<text>Napуj energetyczny "Czysta energia". Puszka wprawdzie wygl№da jak bateria, ale skіad to kofeina, cukier, aromaty.</text>
 </string>
 
 
