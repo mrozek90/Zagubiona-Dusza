@@ -1,72 +1,72 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
 	<string id="strelok_find_name">
-		<text>Контракт: Найти группу Стрелка</text>
+		<text>Zlecenie: Znajdџ grupк Streіoka</text>
 	</string>
 	<string id="strelok_find_desc">
-		<text>Главная цель наших отрядов - найти и ликвидировать некую группу Стрелка. До сих пор понять не могу, зачем человеку нужно было нанимать несколько отрядов ради пары-тройки проходимцев, которых и собаки бродячие могут стаей загрызть.</text>
+		<text>Gіуwnym celem naszych jednostek jest odnalezienie i wyeliminowanie pewnej grupy Streіki. Wci№ї nie rozumiem, dlaczego trzeba byіo wynaj№ж kilka oddziaіуw dla kilku іobuzуw, ktуrych nawet bezpaсskie psy potrafi№ pogryџж na њmierж.</text>
 	</string>
-	
+
 	<string id="shkir_find_name">
-		<text>Мститель: Найти Шкира</text>
+		<text>Mњciciel: Znajdџ Szkira</text>
 	</string>
 	<string id="shkir_find_desc">
-		<text>После всего, что произошло, нет смысла продолжать искать Стрелка. А вот Шкир должен ответить мне за многое.</text>
+		<text>Po tym wszystkim, co siк wydarzyіo, nie ma sensu dalej szukaж Streіoka. Ale Szkir musi mi duїo opowiedzieж.</text>
 	</string>
 	<string id="shkir_find_name_2">
-		<text>Мститель: Выбраться в Рыжий Лес</text>
+		<text>Mњciciel: Ucieczka do Czerwonego Lasu</text>
 	</string>
 	<string id="shkir_find_desc_2">
-		<text>Шкир не просто сбежал из лаборатории - каким-то образом он смог найти Ситха. Сейчас его жизнь в руках этого подонка, поэтому медлить мне нельзя!</text>
+		<text>Szkir nie tylko uciekі z laboratorium – jakoњ udaіo mu siк znaleџж Sitha. Teraz jego їycie jest w rкkach tego drania, wiкc nie mogк zwlekaж!</text>
 	</string>
 	<string id="shkir_find_name_3">
-		<text>Мститель: Догнать Шкира</text>
+		<text>Mњciciel: Dogoс Szkira</text>
 	</string>
 	<string id="shkir_find_desc_3">
-		<text>Я нашёл Шкира, теперь нужно не дать ему уйти. Эта мразь мне за всё ответит.</text>
+		<text>Namierzyіem Szkira, teraz muszк uniemoїliwiж mu ucieczkк. Ta szumowina odpowie mi na wszystko.</text>
 	</string>
 	<string id="shkir_find_name_4">
-		<text>Мститель: Уничтожить Шкира</text>
+		<text>Mњciciel: Zlikwiduj Szkira</text>
 	</string>
 	<string id="shkir_find_name_5">
-		<text>Мститель: Узнать у Шкира, где находится Ситх</text>
+		<text>Mњciciel: Dowiedz siк od Szkira, gdzie jest Sith</text>
 	</string>
 	<string id="shkir_find_desc_6">
-		<text>Наконец-то эта тварь валяется у моих ног. Но не стоит забывать, что мне ещё Ситха нужно вызволить. Перед убийством надо всё выяснить у него.</text>
+		<text>Wreszcie te zwierze leїy u moich stуp. Ale nie mogк zapomnieж, їe wci№ї muszк uratowaж Sithуw. Przed zabiciem muszк dowiedzieж siк od niego wszystkiego.</text>
 	</string>
-	
+
 	<string id="sith_last_quest_name">
-		<text>Последняя битва: Освободить Ситха</text>
+		<text>Ostatni bastion: Uwolnij Sitha</text>
 	</string>
 	<string id="sith_last_quest_desc">
-		<text>Где Ситх - я теперь знаю. Скорее всего, он сейчас охраняется группой Шкира. Придётся сразиться. Скорее всего, в последний раз...</text>
+		<text>Gdzie jest Sith - teraz wiem. Najprawdopodobniej jest teraz strzeїony przez grupк Szkira. Bкdк musiaі walczyж. Prawdopodobnie ostatni raz...</text>
 	</string>
-	
+
 	<string id="gone_soul_1">
-		<text>Ушедшая Душа: Убить Шкира</text>
+		<text>Zagubiona Dusza: Zabij Szkira</text>
 	</string>
 	<string id="gone_soul_2">
-		<text>Ну что же, нужное я узнал. Теперь пора закончить начатое.</text>
+		<text>Cуї, dowiedziaіem siк, czego potrzebowaіem. Teraz czas dokoсczyж to, co zacz№іem.</text>
 	</string>
 	<string id="gone_soul_3">
-		<text>Ушедшая Душа: Осмотреть Шкира</text>
+		<text>Zagubiona Dusza: Przeszukaj Szkira</text>
 	</string>
 	<string id="gone_soul_4">
-		<text>Где Ситх - я теперь знаю. Скорее всего, он сейчас охраняется группой Шкира. Перед тем, как пойду туда - надо осмотреть тело этого... Я даже не знаю, как его назвать, после всего..</text>
+		<text>Gdzie jest Sith - teraz wiem. Najprawdopodobniej jest teraz strzeїony przez grupк Szkira. Zanim tam pojadк - muszк zbadaж ciaіo tego... nawet nie wiem jak to nazwaж, po tym wszystkim...</text>
 	</string>
 	<string id="gone_soul_5">
-		<text>Ушедшая Душа: Освобдить Ситха</text>
+		<text>Zagubiona Dusza: Uwolnij Sitha</text>
 	</string>
 	<string id="gone_soul_6">
-		<text>В КПК Шкира подтверждение его же слов. И.. какой-то артефакт? Признаю, он красив, но в чём заключается его особенность? Этот артефакт был у Шкира, значит мне он тоже может пригодиться.</text>
+		<text>W PDA Szkir potwierdza swoje wіasne sіowa. I... jakiњ artefakt? Przyznajк, jest piкkny, ale jaka jest jego wіaњciwoњж? Szkir miaі ten artefakt, wiкc moїe mi siк przydaж.</text>
 	</string>
 	<string id="gone_soul_7">
-		<text>%c[1,1,255,1]Ушедшая Душа: Познать свою судьбу</text>
+		<text>%c[1,1,255,1]Zagubiona Dusza: Poznaj swoje przeznaczenie</text>
 	</string>
 	<string id="gone_soul_8">
 		<text>%c[1,1,255,1]...</text>
 	</string>
-	
+
 </string_table>

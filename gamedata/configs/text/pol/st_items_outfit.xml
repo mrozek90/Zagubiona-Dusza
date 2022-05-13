@@ -1,369 +1,369 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_doctor_descr">
-		<text>Достаточно тяжёлая и очень прочная металлическая маска с внутренним респиратором. Имеет высокий (для шлема) уровень защиты от радиоактивных изотопов.</text>
+		<text>Wystarczaj№co ciкїka i bardzo wytrzymaіa metalowa maska z wewnкtrznym respiratorem. Posiada wysoki (jak na kask) poziom ochrony przed radioaktywnymi izotopami.</text>
 	</string>
 	<string id="st_doctor">
-		<text>Доктор</text>
+		<text>Doktor</text>
 	</string>
 	<string id="st_sith_mask_descr">
-		<text>Единственная на всю зону балаклава с особым окрасом черепа, принадлежит сталкеру по кличке Ситх.</text>
+		<text>Jedyna kominiarka w caіej strefie ze specjalnym kolorem czaszki naleїy do stalkera o imieniu Sith.</text>
 	</string>
 	<string id="st_sith_mask">
-		<text>Маска Ситха</text>
+		<text>Kominiarka Sitha</text>
 	</string>
 	<string id="anarchist_outfit_description">
-		<text>Пожалуй, одна из лучших модификаций произведённой народными умельцами «Зари», которая заключает в себе самые надёжные на данный момент детали, прочный респиратор, встроенные кевларовые пластины, облегчённую систему бега и четыре контейнера для артефактов.</text>
+		<text>Byж moїe jedna z najlepszych modyfikacji dokonanych przez lokalnych rzemieњlnikуw "Zarya", ktуra obejmuje obecnie najbardziej niezawodne czкњci, wytrzymaіy respirator, wbudowane pіytki kewlarowe, lekki system biegowy i cztery pojemniki na artefakty.</text>
 	</string>
 	<string id="anarchist_outfit_name">
-		<text>Комбинезон «Мессия»</text>
+		<text>Kombinezon Mesjasz</text>
 	</string>
 	<string id="bb_helmet_description">
-		<text>Шлем в очень ужасном состоянии. Черезчур низкие показатели защиты. Только специальный техник может её починить.</text>
+		<text>Heіm jest w bardzo zіym stanie. Zbyt niska ochrona. Tylko wyspecjalizowany technik moїe to naprawiж.</text>
 	</string>
 	<string id="bb_helmet_name">
-		<text>Сломанный шлем</text>
+		<text>Zepsuty Heіm</text>
 	</string>
 	<string id="bb_outfit_description">
-		<text>Броня в очень ужасном состоянии. Черезчур низкие показатели защиты. Только специальный техник может её починить.</text>
+		<text>Zbroja jest w bardzo zіym stanie. Zbyt niska ochrona. Tylko wyspecjalizowany technik moїe to naprawiж.</text>
 	</string>
 	<string id="bb_outfit_name">
-		<text>Сломанная броня</text>
+		<text>Zepsuta Zbroja</text>
 	</string>
 	<string id="ecolog_exo_outfit_description">
-		<text>Лучшая защита в Зоне от любых внешних раздражителей, включая аномалии и радиацию. Очень редкая и уникальная броня, которую практически невозможно найти в продаже.</text>
+		<text>Najlepsza ochrona w Strefie przed wszelkimi zewnкtrznymi czynnikami draїni№cymi, w tym anomaliami i promieniowaniem. Bardzo rzadka i wyj№tkowa zbroja, ktуrej prawie nie moїna znaleџж w sprzedaїy.</text>
 	</string>
 	<string id="ecolog_exo_outfit_name">
-		<text>Экзоскелет Экологов</text>
+		<text>Egzoszkielet Ekolog</text>
 	</string>
 	<string id="ecolog_4_outfit_description">
-		<text>Лучшая модификация комбинезона ССП-99, и лучшая защита от биологических аномалий и радиации. Популярен среди ветеранов Зоны, так как зачастую только у них хватает денег на этот превосходный комбинезон, обладающий  %c[50,255,50,50]5 контейнерами для артефактов.</text>
+		<text>Najlepsza modyfikacja kombinezonu SSP-99 i najlepsza ochrona przed anomaliami biologicznymi i promieniowaniem. Popularny wњrуd weteranуw Strefy, poniewaї czкsto s№ jedynymi, ktуrzy maj№ doњж pieniкdzy na ten wspaniaіy kombinezon, ktуry zawiera %c[50,255,50,50]5 miejsc na artefakty.</text>
 	</string>
 	<string id="ecolog_4_outfit_name">
-		<text>Комбинезон ССП-99 "Спарта"</text>
+		<text>Kombinezon SSP-99 Sparta</text>
 	</string>
 	<string id="ecolog_3_outfit_name">
-		<text>Комбинезон ССП-99Х</text>
+		<text>Kombinezon SSP-99X</text>
 	</string>
 	<string id="ecolog_3_outfit_description">
-		<text>Высококачественный модифицированный комбинезон ССП-99. Усиленна защита торса от пулевого и осколочного повреждения. Предназначен для экипировки исследователей, обладает высоким уровнем защиты от биологических аномалий, превосходная защита от радиации.</text>
+		<text>Wysokiej jakoњci zmodyfikowany kombinezon SSP-99. Wzmocniona ochrona tuіowia przed obraїeniami od kul i odіamkуw. Zaprojektowany z myњl№ o wyposaїeniu naukowcуw, posiada wysoki poziom ochrony przed anomaliami biologicznymi, doskonaі№ ochronк przed promieniowaniem.</text>
 	</string>
 	<string id="ecolog_2_outfit_description">
-		<text>Высококачественный модифицированный комбинезон ССП-99. Добавлена защита торса от пулевого и осколочного повреждения. Предназначен для экипировки охраны научных экспедиций. Эффективная защита от радиации и биологических аномалий. Стоек к химически-агрессивным средам и другим вредным для организма воздействиям.</text>
+		<text>Wysokiej jakoњci zmodyfikowany kombinezon SSP-99. Dodano ochronк tuіowia przed obraїeniami od kul i odіamkуw. Przeznaczony do wyposaїenia straїnikуw wypraw naukowych. Skuteczna ochrona przed promieniowaniem i anomaliami biologicznymi. Odporny na chemicznie agresywne њrodowiska i inne szkodliwe wpіywy.</text>
 	</string>
 	<string id="ecolog_2_outfit_name">
-		<text>Комбинезон ССП-99М</text>
+		<text>Kombinezon SSP-99M</text>
 	</string>
 	<string id="ecolog_1_outfit_description">
-		<text>Созданный для работы в условиях Зоны костюм химической защиты ССП-99. Используется экспедициями ученых и сотрудничающих с ними сталкеров-экологов. Встроенная система фильтрации воздуха и кондиционирования. Не рассчитан на ведение боевых действий.</text>
+		<text>Kombinezon chemoodporny SSP-99 przeznaczony do pracy w Strefie. Wykorzystywana jest przez ekspedycje naukowcуw i wspуіpracuj№cych z nimi stalkerуw њrodowiskowych. Wbudowany system filtracji i klimatyzacji powietrza. Nie przeznaczony do walki.</text>
 	</string>
 	<string id="ecolog_1_outfit_name">
-		<text>ССП-99 "Эколог"</text>
+		<text>SSP-99 Ekolog</text>
 	</string>
 	<string id="sqat_military_outfit_name">
-		<text>Бронекостюм «СКАТ-9М»</text>
+		<text>Kombinezon Pancerny SKAT-9M</text>
 	</string>
 	<string id="sqat_military_outfit_description">
-		<text>Армейский бронекостюм СКАТ-9М создан для проведений штурмовых операций в зонах активности аномалий. В составе: тяжелый армейский бронекостюм серии ПСЗ-12п, встроенный компенсационный костюм, шлем Сфера-12М. Предоставляет великолепную защиту от пулевого и осколочного попадания, при этом не снижает подвижности солдата. В наличие сбалансированная система защиты от аномального воздействия.</text>
+		<text>Kombinezon pancerny SKAT-9M zostaі zaprojektowany do prowadzenia dziaіaс szturmowych w strefach aktywnoњci anomalii. Skіada siк z: ciкїkiego kombinezonu pancernego serii PSZ-12p, wbudowanego kombinezonu kompensacyjnego, heіmu Sfera-12M. Zapewnia doskonaі№ ochronк przed trafieniami pociskуw i odіamkуw, nie zmniejszaj№c jednoczeњnie mobilnoњci їoіnierza. W obecnoњci zrуwnowaїonego systemu ochrony przed nienormalnymi skutkami.</text>
 	</string>
 	<string id="sqat_military_outfit_name">
-		<text>Бронекостюм «СКАТ-9М»</text>
+		<text>Kombinezon pancerny SKAT-9M</text>
 	</string>
 	<string id="stalker_novice_2_outfit_name">
-		<text>Белая кожаная куртка</text>
+		<text>Biaіa skуrzana kurtka</text>
 	</string>
 	<string id="dolg_radiation_outfit_name">
-		<text>Бронекостюм «Защитник Долга»</text>
+		<text>Kombinezon pancerny Obroсca Powinnoњci</text>
 	</string>
 	<string id="dolg_radiation_outfit_description">
-		<text>Одно из лучших средств индивидуальной защиты. Состоит из трех элементов - тактический шлем, тяжелый бронированный жилет и усиленный комбинезон. Жилет состоит из нескольких толстых слоев кевлара и может быть усилен с помощью титановых или стальных пластин.  Не оснащён контейнером для артефактов.</text>
+		<text>Jeden z najlepszych њrodkуw ochrony osobistej. Skіada siк z trzech elementуw - heіmu taktycznego, ciкїkiej kamizelki pancernej i wzmocnionego kombinezonu. Kamizelka skіada siк z kilku grubych warstw kewlaru i moїe byж wzmocniona pіytami tytanowymi lub stalowymi. Nie wyposaїony w pojemnik na artefakty.</text>
 	</string>
 	<string id="svoboda_radiation_outfit_name">
-		<text>Бронекостюм «Луч Свободы»</text>
+		<text>Kombinezon pancerny Promieс Swobody</text>
 	</string>
 	<string id="svoboda_radiation_outfit_description">
-		<text>Одно из лучших средств индивидуальной защиты. Состоит из трех элементов - тактический шлем, тяжелый бронированный жилет и усиленный комбинезон. Жилет состоит из нескольких толстых слоев кевлара и может быть усилен с помощью титановых или стальных пластин. Оснащён встроенным контейнером для артефактов.</text>
+		<text>Jeden z najlepszych њrodkуw ochrony osobistej. Skіada siк z trzech elementуw - heіmu taktycznego, ciкїkiej kamizelki pancernej i wzmocnionego kombinezonu. Kamizelka skіada siк z kilku grubych warstw kevlaru i moїe byж wzmocniona pіytami tytanowymi lub stalowymi. Wyposaїony we wbudowany pojemnik na artefakty.</text>
 	</string>
 	<string id="merc_radiation_outfit_name">
-		<text>Бронекостюм «Заря наёмников»</text>
+		<text>Zbroja pancerna Њwit Najemnikуw</text>
 	</string>
 	<string id="merc_radiation_outfit_description">
-		<text>Одно из лучших средств индивидуальной защиты. Состоит из трех элементов - тактический шлем, тяжелый бронированный жилет и усиленный комбинезон. Жилет состоит из нескольких толстых слоев кевлара и может быть усилен с помощью титановых или стальных пластин. Оснащён встроенным контейнером для артефактов.</text>
+		<text>Jeden z najlepszych њrodkуw ochrony osobistej. Skіada siк z trzech elementуw - heіmu taktycznego, ciкїkiej kamizelki pancernej i wzmocnionego kombinezonu. Kamizelka skіada siк z kilku grubych warstw kewlaru i moїe byж wzmocniona pіytami tytanowymi lub stalowymi. Wyposaїony we wbudowany pojemnik na artefakty.</text>
 	</string>
 	<string id="exo_outfit_m1_description">
-		<text>Модифицированная версия обычного экзоскелета. Обычные сервоприводы заменены на новые, позволяющие бегать в самом экзоскелете. Видно, что владелец бережно относился к своей броне, вовремя её ремонтировал, что неплохо отразилось на защите. Так-же был добавлен дополнительный контейнер для артефактов.</text>
+		<text>Zmodyfikowana wersja konwencjonalnego egzoszkieletu. Konwencjonalne serwa zostaіy zast№pione nowymi, ktуre pozwalaj№ na bieganie w samym egzoszkielecie. Widaж, їe wіaњciciel dbaі o swoj№ zbrojк, na czas j№ naprawiaі, co miaіo dobry wpіyw na ochronк. Dodano rуwnieї dodatkowy pojemnik na artefakty.</text>
 	</string>
 	<string id="exo_outfit_m1_name">
-		<text>Экзоскелет ПНБ-4У3</text>
+		<text>Egzoszkielet PNB-4U3</text>
 	</string>
 	<string id="stalker_novice_outfit_description">
-		<text>Обычная плотная кожаная куртка, каких много. Слегка усиливает противопулевую и осколочную защиту. Неэффективна против аномальных и других воздействий.</text>
+		<text>Zwykіa gruba skуrzana kurtka, ktуrych jest wiele. Nieznacznie zwiкksza ochronк kuloodporn№ i odіamkow№. Nieskuteczny wobec anomalii i innych wpіywуw.</text>
 	</string>
 	<string id="stalker_novice_outfit_name">
-		<text>Кожаная куртка</text>
+		<text>Skуrzana Kurtka</text>
 	</string>
 	<string id="ap_outfit_name">
-		<text>Комбинезон «Апокалипсис»</text>
+		<text>Kombinezon Apokalipsa</text>
 	</string>
 	<string id="ap_outfit_description">
-		<text>Комбинезон неизвестного происхождения. Не имеет особо высоких показателей защиты, однако имеет максимальное количество артефактов для бронежилета -  %c[255,255,255,255]5.</text>
+		<text>Kombinezon niewiadomego pochodzenia. Nie ma szczegуlnie wysokich wskaџnikуw ochrony, ale ma maksymaln№ liczbк artefaktуw - %c[255,255,255,255]5.</text>
 	</string>
 	<string id="bad_bandit_outfit_name">
-		<text>Изодранная бандитская куртка</text>
+		<text>Wystrzкpiona Kurtka Bandyty</text>
 	</string>
 	<string id="bad_bandit_outfit_description">
-		<text>Кто знает, где до этого находилась эта куртка, и что с ней делали, но на данный момент эта имеет %c[50,255,50,50]самый низкий %c[255,255,255,255]уровень защиты.</text>
+		<text>Kto wie, gdzie ta kurtka byіa wczeњniej i co z ni№ zrobiono, ale w tej chwili ta ma %c[50,255,50,50]najniїszy poziom ochrony %c[255,255,255,255].</text>
 	</string>
 	<string id="cs_novice_outfit_name">
-		<text>Кожаная куртка ЧН</text>
+		<text>Kurtka Skуrzana CHN</text>
 	</string>
 	<string id="cs_novice_outfit_description">
-		<text>Кожаная куртка, переделанная под стиль группировки «Чистое Небо». Немного улучшены характеристики, да и сам комбез выглядит довольно красиво.</text>
+		<text>Skуrzana kurtka przeprojektowana, aby pasowaіa do stylu frakcji Czyste Niebo. Charakterystyka zostaіa nieco poprawiona, a sam kombinezon prezentuje siк caіkiem іadnie.</text>
 	</string>
 	<string id="cs_scientific_outfit_name">
-		<text>Бронежилет ЧН-79В «Научный»</text>
+		<text>Kamizelka kuloodporna ChN-79V Naukowiec</text>
 	</string>
 	<string id="cs_scientific_outfit_desc">
-		<text>Обычный комбинезон «СЕВА», переделаный под стиль группировки «Чистое Небо». Хотя нет, не просто переделанный! В его шлем вшито целых 3 кевларовых пластин, я значит - у него превосходная защита от пуль в голову. Остальные характеристики не остались в стороне - все характеристики улучшены на 10%.</text>
+		<text>Zwykіy kombinezon SEVA, przeprojektowany, aby pasowaі do stylu frakcji Czyste Niebo. Chociaї nie, nie tylko przerobione! W jego heіm wszyte s№ aї 3 pіytki kewlarowe, co oznacza, їe ma doskonaі№ ochronк przed kulami w gіowк. Reszta cech nie zostaіa pominiкta - wszystkie cechy s№ ulepszone o 10%.</text>
 	</string>
 	<string id="csky_light_outfit_name">
-		<text>Бронежилет ЧН-х97</text>
+		<text>Pancerz kuloodporny ChN-x97</text>
 	</string>
 	<string id="csky_light_outfit_description">
-		<text>Этот бронежилет незначительно уступает своему предшественнику "ЧН-3а" характеристиками, однако разница в весе бронежилета (7 кг) - внушительная.</text>
+		<text>Ta kamizelka kuloodporna jest nieco gorsza od swojego poprzednika CHN-3a pod wzglкdem wіaњciwoњci, ale rуїnica w masie kamizelki kuloodpornej (7 kg) jest imponuj№ca.</text>
 	</string>
 	<string id="generator_name">
-		<text>Генератор</text>
+		<text>Generator</text>
 	</string>
 	<string id="generator_description">
-		<text>Наконец-то учёным удалось разузнать, как О-Сознание защищает себя от атак - каждый из бойцов использует Генератор - предмет, который распостраняет на своего владельца Силовой Щит, который защищает владельца от 90% всех видов атак. Учёным удалось сделать прототип подобного генератора. Обычно силовой щит принимает на владельце форму зелёного полупрозрачного комбинезона. Что-бы использовать генератор - переместите его в слот для брони.</text>
+		<text>W koсcu naukowcom udaіo siк dowiedzieж, w jaki sposуb O-Њwiadomoњж chroni siк przed atakami - kaїdy z walcz№cych uїywa Generatora - przedmiotu, ktуry rozci№ga na swojego wіaњciciela Tarczк Mocy, ktуra chroni wіaњciciela przed 90% wszystkich rodzajуw atakуw. Naukowcom udaіo siк stworzyж prototyp takiego generatora. Zwykle tarcza siіowa ma postaж zielonego, przezroczystego kombinezonu na osobie nosz№cej. Aby uїyж generatora - przenieњ go do slotu na zbrojк.</text>
 	</string>
 	<string id="monolith_outfit_name">
-		<text>Комбинезон Монолита</text>
+		<text>Kombinezon Monolit</text>
 	</string>
 	<string id="monolith_outfit_description">
-		<text>Комбинезон сталкера группировки "Монолит", производитель неизвестен. По защитным характеристикам немного уступает армейскому бронежилету серии ПСЗ-9а. По структуре напоминает широко распространенные среди нейтральных сталкеров комбинезоны, в которых бронежилет соединяется с костюмом противорадиационной защиты. Неплохо защищает от слабого стрелкового оружия. Уровень защиты от аномальной активности оставляет желать лучшего из-за отсутствия системы фильтрации воздуха.</text>
+		<text>Kombinezon stalkera grupy Monolit, producent nie jest znany. Pod wzglкdem wіaњciwoњci ochronnych jest nieco gorszy od kamizelek kuloodpornych armii serii PSZ-9a. Konstrukcyjnie przypomina popularne wњrуd neutralnych stalkerуw kombinezony, w ktуrych kamizelka kuloodporna jest poі№czona z kombinezonem antyradiacyjnym. Dobra ochrona przed sіab№ broni№ strzeleck№. Poziom ochrony przed anomali№ pozostawia wiele do їyczenia ze wzglкdu na brak systemu filtracji powietrza.</text>
 	</string>
 	<string id="bandit_outfit_name">
-		<text>Бандитская куртка</text>
+		<text>Kurtka Bandyty</text>
 	</string>
 	<string id="bandit_outfit_description">
-		<text>Традиционная одежда бандита - кожаная куртка со вшитыми броневыми элементами. Дает защиту, крайне недостаточную в жестких условиях Зоны.</text>
+		<text>Tradycyjnym ubiorem bandyty jest skуrzana kurtka z wszytymi elementami zbroi. Daje ochronк, ktуra jest wyj№tkowo niewystarczaj№ca w trudnych warunkach Strefy.</text>
 	</string>
 	<string id="camo_outfit_name">
-		<text>Защитный плащ</text> 
+		<text>Pіaszcz Ochronny</text>
   	</string>
 	<string id="camo_outfit_description">
-		<text>Плащ, созданный для снайперских подразделений наёмников, иногда встречается у сталкеров. Лёгкий вес, удобность, камуфляжный окрас, а так же встроенный контейнер для артефактов, делают этот плащ хорошим вариантом для сталкеров, предпочитающих бесшумное перемещение.</text> 
+		<text>Pіaszcz zaprojektowany dla najemnych jednostek snajperskich, czasami spotykana na stalkerach. Lekka, wygodna, kamuflaїowa kolorystyka, a takїe wbudowany pojemnik na artefakty sprawiaj№, їe ta peleryna jest dobr№ opcj№ dla stalkerуw preferuj№cych ciche ruchy..</text>
   	</string>
 	<string id="do_exo_outfit_name">
-		<text>Экзоскелет Долга</text>
+		<text>Egzoszkielet Powinnoњж</text>
 	</string>
 	<string id="fr_exo_outfit_name">
-		<text>Экзоскелет Свободы</text>
+		<text>Egzoszkielet Swoboda</text>
 	</string>
 	<string id="ba_exo_outfit_name">
-		<text>Экзоскелет Бандитов</text>
+		<text>Egzoszkielet Bandyta</text>
 	</string>
 	<string id="ki_exo_outfit_name">
-		<text>Экзоскелет Наёмников</text>
+		<text>Egzoszkielet Najemnik</text>
 	</string>
 	<string id="mo_exo_outfit_name">
-		<text>Экзоскелет Монолита</text>
+		<text>Egzoszkielet Monolit</text>
 	</string>
 	<string id="cs_exo_outfit_name">
-		<text>Экзоскелет ЧН</text>
+		<text>Egzoszkielet CHN</text>
 	</string>
 	<string id="do_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Долг». Не столь отличается от оригинала, не учитывая характерного окраса под стиль группировки. Однако некоторые детали заменены на более новые, что свидетельствует о частичном улучшении некоторых характеристик.</text>
+		<text>Egzoszkielet przeprojektowany, aby pasowaі do stylu frakcji Powinnoњж. Nie rуїni siк tak bardzo od oryginaіu, nie bior№c pod uwagк charakterystycznej dla stylu grupy kolorystyki. Jednak niektуre czкњci zostaіy zast№pione nowszymi, co wskazuje na czкњciow№ poprawк niektуrych cech.</text>
 	</string>
 	<string id="ba_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Бандиты». Не столь отличается от оригинала, не учитывая характерного окраса под стиль группировки. Однако некоторые детали заменены на более новые, что свидетельствует о частичном улучшении некоторых характеристик.</text>
+		<text>Egzoszkielet przeprojektowany, aby pasowaі do stylu grupy Bandytуw. Nie rуїni siк tak bardzo od oryginaіu, nie bior№c pod uwagк charakterystycznej dla stylu grupy kolorystyki. Jednak niektуre czкњci zostaіy zast№pione nowszymi, co wskazuje na czкњciow№ poprawк niektуrych cech.</text>
 	</string>
 	<string id="fr_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Свобода». Не столь отличается от оригинала, не учитывая характерного окраса под стиль группировки. Однако некоторые детали заменены на более новые, что свидетельствует о частичном улучшении некоторых характеристик..</text>
+		<text>Egzoszkielet, przeprojektowany, by pasowaі do stylu grupy Swobody. Nie rуїni siк tak bardzo od oryginaіu, nie bior№c pod uwagк charakterystycznej dla stylu grupy kolorystyki. Jednak niektуre czкњci zostaіy zast№pione nowszymi, co wskazuje na czкњciow№ poprawк niektуrych cech.</text>
 	</string>
 	<string id="ki_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Наёмники». Не столь отличается от оригинала, не учитывая характерного окраса под стиль группировки. Однако некоторые детали заменены на более новые, что свидетельствует о частичном улучшении некоторых характеристик..</text>
+		<text>Egzoszkielet przeprojektowany, aby pasowaі do stylu grupy Najemnikуw. Nie rуїni siк tak bardzo od oryginaіu, nie bior№c pod uwagк charakterystycznej dla stylu grupy kolorystyki. Jednak niektуre czкњci zostaіy zast№pione nowszymi, co wskazuje na czкњciow№ poprawк niektуrych cech.</text>
 	</string>
 	<string id="mo_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Монолит». Не столь отличается от оригинала, не учитывая характерного окраса под стиль группировки. Однако некоторые детали заменены на более новые, что свидетельствует о частичном улучшении некоторых характеристик.. Добавлен дополнительный контейнер для артефактов.</text>
+		<text>Egzoszkielet zmodyfikowany tak, aby pasowaі do stylu frakcji Monolit. Nie rуїni siк tak bardzo od oryginaіu, nie bior№c pod uwagк charakterystycznej dla stylu grupy kolorystyki. Jednak niektуre czкњci zostaіy zast№pione nowszymi, co wskazuje na czкњciowe ulepszenie niektуrych cech oraz dodano dodatkowy pojemnik na artefakty.</text>
 	</string>
 	<string id="cs_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Чистое Небо». В Зоне обрёл популярность среди сталкеров-мастеров из-за небольшой для себя цены и характеристик, которые выше, чем в других экзоскелетах. Добавлен дополнительный контейнер для артефактов.</text>
+		<text>Egzoszkielet zmodyfikowany tak, aby pasowaі do stylu frakcji Czyste Niebo. W Strefie zyskaі popularnoњж wњrуd mistrzуw stalkerуw ze wzglкdu na nisk№ cenк i cechy, ktуre s№ wyїsze niї w innych egzoszkieletach. Dodano dodatkowy pojemnik na artefakty.</text>
 	</string>
 	<string id="do_scientific_outfit_name">
-		<text>Научный комбинезон Долга</text>
+		<text>Naukowy Kombinezon Powinnoњж</text>
 	</string>
 	<string id="fr_scientific_outfit_name">
-		<text>Научный комбинезон Свободы</text>
+		<text>Naukowy Kombinezon Swoboda</text>
 	</string>
 	<string id="ki_scientific_outfit_name">
-		<text>Научный комбинезон Наёмников</text>
+		<text>Naukowy Kombinezon Najemnikуw</text>
 	</string>
 	<string id="mo_scientific_outfit_name">
-		<text>Комбинезон «Пророк»</text>
+		<text>Kombinezon Prorok</text>
 	</string>
 	<string id="do_scientific_outfit_desc">
-		<text>Обычный комбинезон «СЕВА», переделаный под стиль группировки «Долг». Немного улучшены характеристики.</text>
+		<text>Zwykіy kombinezon SEVA, przeprojektowany, aby pasowaі do stylu grupy Powinnoњж. Nieco poprawiona wydajnoњж.</text>
 	</string>
 	<string id="fr_scientific_outfit_desc">
-		<text>Обычный комбинезон «СЕВА», переделаный под стиль группировки «Свобода». Немного улучшены характеристики.</text>
+		<text>Zwykіy kombinezon SEVA, przeprojektowany, aby pasowaі do stylu grupy Swobody. Nieco poprawiona wydajnoњж.</text>
 	</string>
 	<string id="ki_scientific_outfit_desc">
-		<text>Обычный комбинезон «СЕВА», переделаный под стиль группировки «Наёмники». Немного улучшены характеристики.</text>
+		<text>Zwykіy kombinezon SEVA, przeprojektowany, aby pasowaі do stylu grupy Najemnikуw. Nieco ulepszone funkcje.</text>
 	</string>
 	<string id="mo_scientific_outfit_desc">
-		<text>Обычный комбинезон «СЕВА», переделаный под стиль группировки «Монолит». Помимо улучшеных характеристик, в броню добавлен дополнительный контейнер для артефактов.</text>
+		<text>Zwykіy kombinezon SEVA, przeprojektowany, aby pasowaі do stylu grupy Monolit. Oprуcz poprawy wydajnoњci, do zbroi dodano dodatkowy pojemnik na artefakty.</text>
 	</string>
 	<string id="order_outfit_name">
-		<text>Бронекостюм «Отец Порядка»</text>
+		<text>Kombinezon Ojciec Zakonu</text>
 	</string>
 	<string id="order_outfit_description">
-		<text>Комбинезон неизвестного происхождения. В броню интегрирован военный респиратор, что в общем увеличивает защиту + 2 контейнера для артефактов.</text>
+		<text>Kombinezon niewiadomego pochodzenia. W zbrojк wbudowany jest wojskowy respirator, co generalnie zwiкksza ochronк + 2 pojemniki na artefakty.</text>
 	</string>
 	<string id="merc_outfit_name">
-		<text>Комбинезон наемника</text>
+		<text>Kombinezon Najemnika</text>
 	</string>
 	<string id="merc_outfit_description">
-		<text>Комбинезон сталкера из группировки "Наемники". За основу взяты образцы экипировки спецназа западных армий. За счет специальной обработки ткани усилена устойчивость брони при физическом смещении пластин. По защитным характеристикам немного превосходит армейские бронежилеты серии ПСЗ-7.</text>
+		<text>Kombinezon stalkera z grupy Najemnikуw. Za podstawк przyjmuje siк prуbki wyposaїenia siі specjalnych armii zachodnich. Dziкki specjalnej obrуbce tkaniny zwiкksza siк stabilnoњж pancerza podczas fizycznego przemieszczania siк pіyt. Pod wzglкdem wіaњciwoњci ochronnych nieznacznie przewyїsza kamizelki kuloodporne serii PSZ-7.</text>
 	</string>
 	<string id="csky_heavy_outfit_name">
-		<text>Бронежилет ЧН-3а</text>
+		<text>Kamizelka ChN-3a</text>
 	</string>
 	<string id="dolg_heavy_outfit_name">
-		<text>ПСЗ-9д «Броня «Долга»</text>
+		<text>PSZ-9d Powinnoњж</text>
 	</string>
 	<string id="dolg_outfit_name">
-		<text>ПС5-М «Универсальная защита»</text>
+		<text>PS5-M Uniwersalny</text>
 	</string>
 	<string id="exo_outfit_name">
-		<text>Экзоскелет</text>
+		<text>Egzoszkielet</text>
 	</string>
 	<string id="military_outfit_name">
-		<text>Бронекостюм «Булат»</text>
+		<text>Kombinezon Buіat</text>
 	</string>
 	<string id="mp_exo_outfit_description">
-		<text>Экзоскелет превосходно защищает носителя от поражения пулями и осколками, однако заметно снижает подвижность. Проницаем для бронебойной пули.</text>
+		<text>Egzoszkielet doskonale chroni uїytkownika przed trafieniem kulami i odіamkami, ale znacznie ogranicza mobilnoњж. Przebijalny dla pociskуw przeciwpancernych.</text>
 	</string>
 	<string id="mp_exo_outfit_name">
-		<text>Экзоскелет</text>
+		<text>Egzoszkielet</text>
 	</string>
 	<string id="mp_military_outfit_description">
-		<text>Армейский бронекостюм, созданный для штурмовых операций. Обеспечивает прекрасную защиту от оболочечных пуль и осколков, при этом не снижает подвижности владельца. Проницаем для бронебойной пули.</text>
+		<text>Kombinezon pancerny przeznaczony do operacji szturmowych. Zapewnia doskonaі№ ochronк przed pociskami i odіamkami w osіonie, nie zmniejszaj№c jednoczeњnie mobilnoњci uїytkownika. Przebijalny dla pociskуw przeciwpancernych.</text>
 	</string>
 	<string id="mp_military_outfit_name">
-		<text>Армейский бронекостюм</text>
+		<text>Kombinezon Wojskowy</text>
 	</string>
 	<string id="novice_outfit_description">
-		<text>Обычный плащ из чёрной кожи. Особенной защиты носителю не обеспечивает, разве что не даст замёрзнуть ночью и смягчит укус слепой собаки. Достаточно неудобен, но, тем не менее, часто используется бандитами - возможно, исключительно из-за внешнего вида.</text>
+		<text>Regularny czarny skуrzany pіaszcz. Nie zapewnia szczegуlnej ochrony uїytkownikowi, poza tym, їe nie zamarza w nocy i nie іagodzi ugryzienia њlepego psa. Raczej niewygodny, ale mimo to czкsto uїywany przez bandytуw - byж moїe wyі№cznie ze wzglкdu na wygl№d.</text>
 	</string>
 	<string id="novice_outfit_name">
-		<text>Кожаный плащ</text>
+		<text>Skуrzany Pіaszcz</text>
 	</string>
 	<string id="scientific_outfit_name">
-		<text>Комбинезон «СЕВА»</text>
+		<text>Kombinezon SEVA</text>
 	</string>
 	<string id="flame_outfit_name">
-		<text>Комбенизон «Страж Пламени»</text>
+		<text>Kombinezon Straїnik Pіomienia</text>
 	</string>
 	<string id="flame_outfit_desc">
-		<text>Комбинезон «Страж Пламени» схожая с комбинезоном «Заря» имеет отличие лишь в цвете и в свойствах. Имеет прочную кевларовую ткань и неплохую защиту от радицаии, единственный минус - цена : Комбинезон очень дорогой.</text>
+		<text>Kombinezon "Staїnik Pіomienia", podobny do kombinezonu "Њwit", rуїni siк jedynie kolorem i wіaњciwoњciami. Ma wytrzymaі№ tkaninк Kevlar i dobr№ ochronк przed promieniowaniem, jedynym minusem jest cena: kombinezony s№ bardzo drogie.</text>
 	</string>
 	<string id="specops_outfit_name">
-		<text>Бронекостюм «Берилл-5М»</text>
+		<text>Kombinezon pancerny Beryll-5M</text>
 	</string>
 	<string id="st_helm_battle">
-		<text>Шлем «Сфера М12»</text>
+		<text>Heіm Sfera M12</text>
 	</string>
 	<string id="st_helm_battle_descr">
-		<text>Отделанный тканью алюминиево-титановый шлем с карманами для стальных бронеэлементов и бронемаской. Обычно поставляется в комплекте с бронежилетами класса ПС3 для спецназа. Достаточно популярен в Зоне благодаря респиратору и встроенному прибору ночного видения, а также хорошей защите головы. Предусмотрена возможность установки электроники.</text>
+		<text>Heіm aluminiowo-tytanowy wyіoїony tkanin№ ze stalowymi kieszeniami na zbrojк i mask№ na zbrojк. Zwykle dostarczany z kamizelk№ kuloodporn№ klasy PS3 dla siі specjalnych. Doњж popularna w Strefie ze wzglкdu na maskк i wbudowany noktowizor oraz dobr№ ochronк gіowy. Zapewniona jest moїliwoњж montaїu elektroniki.</text>
 	</string>
 	<string id="st_helm_hardhat">
-		<text>Стальной шлем</text>
+		<text>Stalowy Heіm</text>
 	</string>
 	<string id="st_helm_hardhat_descr">
-		<text>Стандартный армейский стальной шлем. Не обеспечивает защиту от аномалий или радиации, но способен отклонить прилетевшую по касательной пулю. Спросом в Зоне пользовался только в период первых столкновений между группировками.</text>
+		<text>Standardowy heіm wojskowy ze stali. Nie zapewnia ochrony przed anomaliami ani promieniowaniem, ale jest w stanie odbiж pocisk, ktуry dotarі do stycznej. W Strefie byі poszukiwany dopiero podczas pierwszych starж miкdzy grupami.</text>
 	</string>
 	<string id="st_helm_protective">
-		<text>Шлем «Заслон»</text>
+		<text>Heіm Bariera</text>
 	</string>
 	<string id="st_helm_protective_descr">
-		<text>Лёгкий шлем с герметичным забралом, предназначенный для защиты лица от некоторых аномальных воздействий. Судя по технологии, разработан тем же оборонным НИИ, что и комбинезон «СЕВА», предположительно, для применения в комплекте с армейскими защитными костюмами.</text>
+		<text>Lekki kask z hermetycznym daszkiem przeznaczony do ochrony twarzy przed niektуrymi anomaliami. S№dz№c po technologii, zostaі opracowany przez ten sam instytut badaс nad obronnoњci№, co kombinezon SEVA, prawdopodobnie do uїytku w poі№czeniu z wojskowymi kombinezonami ochronnymi.</text>
 	</string>
 	<string id="st_helm_respirator">
-		<text>Противогаз</text>
+		<text>Maska Przeciwgazowa</text>
 	</string>
 	<string id="st_helm_respirator_descr">
-		<text>Стандартный противогаз, предназначенный для фильтрации из воздуха радиоактивной пыли и отравляющих веществ. Широко используется как новичками, так и ветеранами всех группировок ввиду своей функциональной незаменимости. Не оснащён защитой от пуль, осколков и механических воздействий.</text>
+		<text>Standardowa maska przeciwgazowa przeznaczona do filtrowania z powietrza radioaktywnego pyіu i substancji truj№cych. Jest szeroko stosowana zarуwno przez pocz№tkuj№cych, jak i weteranуw wszystkich grup ze wzglкdu na swoj№ funkcjonaln№ niezbкdnoњж. Nie wyposaїony w ochronк przed kulami, odіamkami i uderzeniami mechanicznymi.</text>
 	</string>
 	<string id="st_helm_tactic">
-		<text>Тактический шлем</text>
+		<text>Heіm Taktyczny</text>
 	</string>
 	<string id="st_helm_tactic_descr">
-		<text>Западный образец тактического шлема, лишённый какой-либо маркировки. Предназначен для обеспечения командира подразделения максимальным количеством тактической информации при установке соответствующей электронной «начинки». Отличается усиленной конструкцией, также оснащён многослойной кевларовой защитой, респиратором и прибором ночного виденья первого поколения.</text>
+		<text>Zachodni wzуr heіmu taktycznego, pozbawiony jakichkolwiek oznaczeс. Zaprojektowany, aby zapewniж dowуdcy jednostki maksymaln№ iloњж informacji taktycznych podczas instalowania odpowiedniego elektronicznego wypeіnienia. Wzmocniona konstrukcja, wyposaїona rуwnieї w wielowarstwow№ ochronк kewlarow№, respirator i noktowizor pierwszej generacji.</text>
 	</string>
 	<string id="stalker_outfit_name">
-		<text>Комбинезон «Заря»</text>
+		<text>Kombinezon Њwit</text>
 	</string>
 	<string id="svoboda_heavy_outfit_name">
-		<text>Комбинезон «Страж свободы»</text>
+		<text>Kombinezon Straїnik Wolnoњci</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>Предельно облегчённый костюм сталкера, производимый ремесленниками группировки «Свобода». Для пошива используется ткань, обработанная составом «Горизонт», который значительно повышает защитные свойства в условиях аномальной активности. Оснащён встроенным бронежилетом и контейнерами для артефактов.</text>
+		<text>Niezwykle lekki kombinezon stalkera produkowany przez rzemieњlnikуw grupy Swoboda. Do krawiectwa uїywano tkaniny poddanej obrуbce kompozycj№ Swobody, ktуra znacznie podnosi wіaњciwoњci ochronne w warunkach nieprawidіowej aktywnoњci. Wyposaїony we wbudowan№ kamizelkк kuloodporn№ i pojemniki na artefakty.</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
-		<text>Комбинезон «Ветер свободы»</text>
+		<text>Kombinezon Wiatr Wolnoњci</text>
 	</string>
 	<string id="dolg_outfit_description">
-		<text>Современная модель комбинезона «Долга». Больше подходит новобранцам из сталкеров, которые привыкли к относительно лёгким костюмам. В отличие от серии ПС3, обеспечивает хорошую защиту от аномального воздействия и при этом способен остановить пистолетную пулю. Контейнеры для артефактов не предусмотрены, зато возможна установка различных вспомогательных систем.</text>
+		<text>Nowoczesny model kombinezonu Powinnoњci. Bardziej odpowiedni dla rekrutуw ze stalkerуw przyzwyczajonych do stosunkowo lekkich ubraс. W przeciwieсstwie do serii PS3 zapewnia dobr№ ochronк przed efektami anomalii, a jednoczeњnie jest w stanie zatrzymaж pocisk pistoletowy. Nie przewiduje siк pojemnikуw na artefakty, ale istnieje moїliwoњж zainstalowania rуїnych systemуw pomocniczych.</text>
 	</string>
 	<string id="military_outfit_description">
-		<text>Современный армейский бронекостюм для проведения штурмовых операций в зонах аномальной активности. Компоненты: тяжёлый бронежилет серии ПСЗ-12п, комбинезон аномальной защиты и компенсационный костюм. Предоставляет великолепную защиту от пуль и осколков и при этом удобен, почти не ограничивает подвижность носителя. Не оснащается контейнерами для артефактов.</text>
+		<text>Nowoczesny wojskowy kombinezon pancerny do prowadzenia operacji szturmowych na obszarach o nietypowej aktywnoњci. Komponenty: ciкїka kamizelka kuloodporna serii PSZ-12p, anomalny kombinezon ochronny i kombinezon odszkodowawczy. Zapewnia doskonaі№ ochronк przed pociskami i odіamkami oraz jest wygodny, prawie nie ogranicza mobilnoњci uїytkownika. Nie wyposaїony w pojemniki na artefakty.</text>
 	</string>
 	<string id="mp_scientific_outfit_description">
-		<text>Предназначен для проведения исследовательской деятельности в Зоне. Снабжён внешним изоляционным покрытием и системой дыхания замкнутого цикла, благодаря чему великолепно защищает от аномальных воздействий. При этом стойкость к механическим воздействиям невысока, поэтому носитель очень уязвим перед огнём противника. Оснащён встроенным контейнером для переноса артефактов.</text>
+		<text>Przeznaczony do prowadzenia dziaіalnoњci badawczej w Strefie. Wyposaїony jest w zewnкtrzn№ powіokк izoluj№c№ oraz zamkniкty system oddychania, dziкki czemu doskonale chroni przed anomaliami. Jednoczeњnie odpornoњж na obci№їenia mechaniczne jest niska, przez co lotniskowiec jest bardzo podatny na ostrzaі wroga. Wyposaїony we wbudowany pojemnik do przenoszenia artefaktуw.</text>
 	</string>
 	<string id="scientific_outfit_description">
-		<text>Производимая в одном из киевских оборонных НИИ альтернатива кустарным комбинезонам сталкеров. Хотя встроенный бронежилет способен остановить только пистолетную пулю, система защиты от аномальных воздействий и радиации по праву считается непревзойдённой. Возможность модернизации и два встроенных контейнера для артефактов сделали эту модель популярной среди опытных сталкеров.</text>
+		<text>Wyprodukowany w jednym z kijowskich instytutуw badawczych ds. obronnoњci, alternatywa dla rкkodzielniczych kombinezonуw dla stalkerуw. Chociaї wbudowana kamizelka kuloodporna moїe zatrzymaж tylko pocisk pistoletowy, system ochrony przed anomaliami i promieniowaniem jest sіusznie uwaїany za niedoњcigniony. Moїliwoњж rozbudowy i dwa wbudowane pojemniki na artefakty sprawiіy, їe model ten staі siк popularny wњrуd doњwiadczonych stalkerуw.</text>
 	</string>
 	<string id="specops_outfit_description">
-		<text>Модифицированный для работы в условиях Зоны армейский бронежилет серии ПС5 с бериллиевым напылением. Предназначен для проведения штурмовых операций в областях с повышенным радиационным фоном, но малоэффективен в условиях высокой аномальной активности. К сталкерам попадает через военных, которые меняют армейское имущество на хабар. Не оснащается контейнерами для артефактов.</text>
+		<text>Wojskowa kamizelka kuloodporna z serii PS5 z powіok№ berylow№ zmodyfikowana do dziaіania w Strefie. Przeznaczona jest do prowadzenia dziaіaс szturmowych na terenach o podwyїszonym tle promieniowania, ale jest nieskuteczny w warunkach duїej aktywnoњci anomalnej. Dostaje siк do stalkerуw przez wojsko, ktуre zamienia wіasnoњж wojska na іup. Nie wyposaїony w pojemniki na artefakty.</text>
 	</string>
 	<string id="exo_li_outfit_name">
-		<text>Тяжёлый бронежилет</text>
+		<text>Ciкїka Kamizelka Kuloodporna</text>
 	</string>
 	<string id="exo_li_outfit_description">
-		<text>Облегчённая версия экзоскелета - сняты некоторые защитные пластины и сервоприводы, из-за чего бронежилет теряет часть защитных свойств, однако отсутствие сервоприводов позволяет игроку свободно бегать по окресностям. Добавлен ещё один контейнер для артефактов.</text>
+		<text>Lїejsza wersja egzoszkieletu - usuniкto czкњж pіyt ochronnych i serwomechanizmуw, przez co kamizelka kuloodporna traci czкњж swoich wіaњciwoњci ochronnych, jednak brak serwomechanizmуw pozwala uїytkownikowi na swobodne bieganie. Dodano kolejny pojemnik na artefakty.</text>
 	</string>
 	<string id="mo_exo_li_outfit_name">
-		<text>Тяжёлый бронежилет «Монолит»</text>
+		<text>Ciкїka Kamizelka Monolit</text>
 	</string>
 	<string id="mo_exo_li_outfit_description">
-		<text>Облегчённая версия экзоскелета группировки «Монолит» - сняты некоторые защитные пластины и сервоприводы, из-за чего бронежилет теряет часть защитных свойств, однако отсутствие сервоприводов позволяет игроку свободно бегать по окресностям, что было возможно и в обычном Монолитовском экзоскелете. Добавлен ещё один контейнер для артефактов.</text>
+		<text>Lїejsza wersja egzoszkieletu z grupy Monolit - usuniкto czкњж pіyt ochronnych i serw, przez co kamizelka kuloodporna traci czкњж swoich wіaњciwoњci ochronnych, jednak brak serw pozwala uїytkownikowi na swobodne bieganie, co byіo to rуwnieї moїliwe w zwykіym egzoszkielecie Monolitu. Dodano kolejny pojemnik na artefakty.</text>
 	</string>
 	<string id="cs_exo_outfit_name">
-		<text>Экзоскелет ЧН</text>
+		<text>Egzoszkielet CHN</text>
 	</string>
 	<string id="do_exo_outfit_description">
-		<text>Экзоскелет, переделаный под стиль группировки «Долг». Немного улучшены характеристики, добавлена возможность ношения шлема и возможность бега, увеличена грузоподъёмность.</text>
+		<text>Egzoszkielet przeprojektowany, aby pasowaі do stylu frakcji Powinnoњж. Lekko poprawiona charakterystyka, dodano moїliwoњж noszenia kasku i moїliwoњж biegania, zwiкkszona noњnoњж.</text>
 	</string>
 	<string id="stalker_outfit_description">
-		<text>Производимый народными умельцами комбинезон сталкера представляет собой сочетание двухслойной прорезиненной ткани с плексигласовой прокладкой и встроенного бронежилета. Несмотря на то, что бронежилет пробивается даже пистолетной пулей, костюм очень распространён из-за дешевизны и широких возможностей для улучшения. Оснащён встроенными контейнерами для артефактов.</text>
+		<text>Kombinezon stalkera, produkowany przez rzemieњlnikуw, to poі№czenie dwuwarstwowej gumowanej tkaniny z podszewk№ z pleksiglasu i wbudowanym kamizelk№ kuloodporn№. Pomimo tego, їe kamizelkк kuloodporn№ przebija nawet pocisk pistoletowy, kombinezon jest bardzo powszechny ze wzglкdu na jego tanioњж i szerokie moїliwoњci ulepszeс. Wyposaїony we wbudowane pojemniki na artefakty.</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>Комбинезон сталкера с усиленным бронежилетом, производимый ремесленниками группировки «Свобода», - удачное сочетание боевой и аномальной защит. Встроенный бронежилет из бронепластин и уложенного в несколько слоёв кевлара способен остановить пистолетную пулю. Для защиты от аномальных воздействий ткань костюма пропитана составом «Суверен». Оснащён контейнером для артефактов.</text>
+		<text>Kombinezony stalkera ze wzmocnion№ kamizelk№ kuloodporn№, produkowane przez rzemieњlnikуw z grupy Swoboda, s№ udanym poі№czeniem walki i anomalnej ochrony. Wbudowana kamizelka kuloodporna wykonana z pіyt pancernych i kewlaru uіoїonego w kilku warstwach jest w stanie zatrzymaж pocisk pistoletowy. W celu ochrony przed wpіywami anomalii materiaі kombinezonu jest impregnowany kompozycj№ "Suweren". Wyposaїony w pojemnik na artefakty.</text>
 	</string>
 	<string id="dolg_heavy_outfit_description">
-		<text>Ранняя модель комбинезона «Долга» - бронежилет спецназа серии ПС3-9, приспособленный для использования в условиях Зоны. Способен защитить от автоматной пули, но очень громоздкий и почти не обеспечивает защиту от аномальных воздействий. Установка контейнеров для артефактов не предусмотрена, зато возможна установка различных вспомогательных систем.</text>
+		<text>Wczesny model kombinezonu Powinnoњci, to kuloodporna kamizelka siі specjalnych z serii PS3-9, przystosowana do uїytku w Strefie. Potrafi chroniж przed automatycznymi pociskami, ale jest bardzo nieporкczny i prawie nie zapewnia ochrony przed anomalnymi skutkami. Nie przewiduje siк instalacji pojemnikуw na artefakty, ale istnieje moїliwoњж zainstalowania rуїnych systemуw pomocniczych.</text>
 	</string>
 	<string id="csky_heavy_outfit_description">
-		<text>Некогда это была штатная экипировка штурмовых отрядов «Чистого неба». Уничтожение группировки, стало напоимнанием для сталкера: даже отличное снаряжение не может гарантировать безопасность внутри периметра Зоны. Данный защитный костюм способен не только остановить пистолетную пулю, но и обеспечивает хорошую защиту от аномальных воздействий. Оснащён встроенным контейнером для артефактов.</text>
+		<text>Kiedyњ byіo to standardowe wyposaїenie oddziaіуw szturmowych Czyste Niebo. Zniszczenie grupy staіo siк przypomnieniem dla stalkera: nawet doskonaіy sprzкt nie gwarantuje bezpieczeсstwa wewn№trz Strefy. Ten kombinezon ochronny moїe nie tylko zatrzymaж pocisk pistoletowy, ale takїe zapewnia dobr№ ochronк przed skutkami anomalii. Wyposaїony we wbudowany pojemnik na artefakty.</text>
 	</string>
 	<string id="exo_outfit_description">
-		<text>Экспериментальный образец военного экзоскелета. В серийное производство не пошёл ввиду чрезвычайно высокой себестоимости и некоторых огрехов в проектировании. Несмотря на это, из-за возможности значительно увеличивать мобильность носителя пользуется спросом и потому негласно выпускается малыми партиями за пределами Украины. Оснащён встроенным контейнером для артефактов.</text>
+		<text>Eksperymentalny model egzoszkieletu wojskowego. Nie wszedі do produkcji seryjnej ze wzglкdu na wyj№tkowo wysoki koszt i pewne wady konstrukcyjne. Mimo to, ze wzglкdu na moїliwoњж znacznego zwiкkszenia mobilnoњci noњnika, jest on poszukiwany i dlatego jest potajemnie produkowany w maіych partiach poza Ukrain№. Wyposaїony we wbudowany pojemnik na artefakty.</text>
 	</string>
 	<string id="mp_scientific_outfit_name">
-		<text>Комбинезон «СЕВА»</text>
+		<text>Kombinezon SEVA</text>
 	</string>
 </string_table>
