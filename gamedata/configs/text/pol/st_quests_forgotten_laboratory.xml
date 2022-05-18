@@ -1,89 +1,89 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
 	<string id="for_lab_first_quest_1">
-		<text>Забытая лаборатория: Найти выход</text>
+		<text>Zapomniane laboratorium: znajdџ wyjњcie</text>
 	</string>
 	<string id="for_lab_first_quest_2">
-		<text>Не знаю, куда я попал, но нам с Инфернисом надо выбраться отсюда.</text>
+		<text>Nie wiem, w jaki sposуb dostaіem siк tutaj, ale Infernis i ja musimy siк st№d wydostaж.</text>
 	</string>
 	<string id="for_lab_first_quest_3">
-		<text>Забытая лаборатория: Расчистить этаж</text>
+		<text>Zapomniane laboratorium: Oczyњж piкtro</text>
 	</string>
 	<string id="for_lab_first_quest_4">
-		<text>Забытая лаборатория: Обсудить план с Инфернисом</text>
+		<text>Zapomniane laboratorium: Omуw plan z Infernisem</text>
 	</string>
 	<string id="for_lab_first_quest_5">
-		<text>Забытая лаборатория: Связаться с Ситхом</text>
+		<text>Zapomniane laboratorium: skontaktuj siк z Sithem</text>
 	</string>
 	<string id="for_lab_first_quest_6">
-		<text>Забытая лаборатория: Починить переключатель</text>
+		<text>Zapomniane laboratorium: napraw przeі№cznik</text>
 	</string>
-	
+
 	<string id="for_lab_center_quest_1">
-		<text>Забытая лаборатория: Осмотреть комнату</text>
+		<text>Zapomniane laboratorium: Zbadaj pokуj</text>
 	</string>
 	<string id="for_lab_center_quest_2">
-		<text>Сейчас нет возможности сбежать из этой лаборатории, но в этой комнате может быть что-нибудь полезное</text>
+		<text>Nie ma teraz moїliwoњci ucieczki z tego laboratorium, ale w tym pomieszczeniu moїe byж coњ przydatnego.</text>
 	</string>
 	<string id="for_lab_center_quest_3">
-		<text>Забытая лаборатория: Поговорить с Инфернисом</text>
+		<text>Zapomniane laboratorium: Porozmawiaj z Infernisem</text>
 	</string>
 	<string id="for_lab_center_quest_4">
-		<text>Я не нашёл ничего интересного и не смог отодвинуть люк. Он будто намертво прикреплён.</text>
+		<text>Nie znalazіem nic ciekawego i nie mogіem przesun№ж wіazu. To tak, jakby byі mocno przymocowany.</text>
 	</string>
 	<string id="for_lab_center_quest_5">
-		<text>Забытая лаборатория: Осмотреть тоннель</text>
+		<text>Zapomniane laboratorium: Zbadaj tunel</text>
 	</string>
 	<string id="for_lab_center_quest_6">
-		<text>А ведь правда - я толком и не осматривал тот тоннель. Может, там есть что-нибудь полезное.</text>
+		<text>Prawda jest taka - nie zbadaіem tego tunelu szczegуіowo. Moїe jest tam coњ poїytecznego.</text>
 	</string>
 	<string id="for_lab_center_quest_7">
-		<text>Забытая лаборатория: Рассказать Инфернису</text>
+		<text>Zapomniane laboratorium: Porozmawiaj z Infernisem</text>
 	</string>
 	<string id="for_lab_center_quest_8">
-		<text>Нашёл я какой-то артефакт. До этого я конкретно такого не видел, но видел много похожих. Хотя может у меня просто уже мозги набекрень лезут, что я вспомнить не могу, он это, или нет.</text>
+		<text>Znalazіem jakiњ artefakt. Nie widziaіem czegoњ takiego wczeњniej, ale widziaіem wiele podobnych. Chociaї moїe mуj mуzg pіata figle, їe nie mogк sobie tego skojarzyж.</text>
 	</string>
-	
-	
+
+
 	<string id="for_lab_artefact_quest_1">
-		<text>Лаборатория Y-13: Осмотреть центральный блок</text>
+		<text>Laboratorium Y-13: Zbadaj centralny blok</text>
 	</string>
 	<string id="for_lab_artefact_quest_2">
-		<text>Надо осмотреть эту комнату в центре. Благо, тут я чувствую себя спокойнее, без Шкира.</text>
+		<text>Muszк zbadaж ten pokуj w centrum. Na szczкњcie tutaj czujк siк spokojniej, bez Szkira.</text>
 	</string>
 	<string id="for_lab_artefact_quest_3">
-		<text>Лаборатория Y-13: Вернуться к Инфернису</text>
+		<text>Laboratorium Y-13: Wrуж do Infernisa</text>
 	</string>
 	<string id="for_lab_artefact_quest_4">
-		<text>Млять, и много же я нашёл! Капсулы, кучу документов, и ещё один артефакт. В документах говорится, что человек с фамилией "Джекил" работал в этой лаборатории, проводил кучу экспериментов, включая и тот, что связан с этими артефактами и камерами. Но самое главное - у нас теперь есть предположения, как выбраться отсюда.</text>
+		<text>Cholera, ile ja tu znalazіem! Kapsuіy, garњж dokumentуw i kolejny artefakt. Dokumenty mуwi№, їe czіowiek o ksywie "Jekyll" pracowaі w tym laboratorium, przeprowadziі szereg eksperymentуw, w tym jeden zwi№zany z tymi artefaktami i przyrz№dami. Ale co najwaїniejsze - mam teraz sugestie jak siк st№d wydostaж.</text>
 	</string>
 	<string id="for_lab_artefact_quest_5">
-		<text>Лаборатория Y-13: Найти все артефакты</text>
+		<text>Laboratorium Y-13: Znajdџ wszystkie artefakty</text>
 	</string>
 	<string id="for_lab_artefact_quest_6">
-		<text>Для решения подобной загадки мне нужно четыре артефакта в этой лаборатории. Возможно, если я помещу их в те капсулы, мы сможем выбраться.</text>
+		<text>Aby rozwi№zaж t№ zagadkк, potrzebujк czterech artefaktуw w tym laboratorium. Moїe jeњli wіoїк je do tych kapsuі, pozwoli mi siк st№d wydostaж.</text>
 	</string>
 	<string id="for_lab_artefact_quest_7">
-		<text>Лаборатория Y-13: Поместить артефакты в капсулы</text>
+		<text>Laboratorium Y-13: Umieњж artefakty w kapsuіach</text>
 	</string>
 	<string id="for_lab_artefact_quest_8">
-		<text>Я нашёл все четыре. Теперь, надеюсь, дело за малым.</text>
+		<text>Znalazіem wszystkie cztery. Miejmy nadziejк, їe zaіatwi to sprawк.</text>
 	</string>
-	
+
 	<string id="for_lab_final_quest_1">
-		<text>Проклятье древнего кровососа: Выбраться из Лаборатории</text>
+		<text>Kl№twa pradawnego krwiopijcy: Ucieczka z laboratorium</text>
 	</string>
 	<string id="for_lab_final_quest_2">
-		<text>Что за чертовщина?! Землетрясение? Нужно думать рационально. Если сингал Шкира пропал, значит он всё-таки выбрался! Надо вернуться наверх и побежать за ним!</text>
+		<text>Co to u diabіa jest?! Trzкsienie ziemi? Muszк myњleж racjonalnie. Jeњli sygnaі Szkira znikn№і, oznacza to їe musiaі wyjњж! Muszк wrуciж na gуrк i pobiec za nim!</text>
 	</string>
 	<string id="for_lab_final_quest_3">
-		<text>Проклятье древнего кровососа: Решить этот вопрос по-мужски</text>
+		<text>Kl№twa Staroїytnego Krwiopijcy: Zaіatw to jak mкїczyzna</text>
 	</string>
 	<string id="for_lab_final_quest_4">
-		<text>Инфернис отключился, теперь либо я выбираюсь отсюда, убив всех на моём пути - либо подыхаю к херам.</text>
+		<text>Infernis jest offline. W takim razie albo wyjdк st№d, zabijaj№c wszystkich na mojej drodze – albo umrк do chuja.</text>
 	</string>
-	
-	
+
+
 </string_table>

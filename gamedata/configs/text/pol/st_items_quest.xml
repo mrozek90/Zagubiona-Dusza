@@ -1,480 +1,480 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="shkir_pda_info">
-		<text>КПК Шкира</text>
+		<text>PDA Szkira</text>
 	</string>
 	<string id="shkir_pda_desc">
-		<text>«Запись №54. Не думал, что всё так выйдет, но защита Джекила должна меня выручить. Во всяком случае, если со мной что-то случится, Ситха просто пристрелят. Лучшее, что я могу - потянуть время и убить Сектора первым. Судя по тому, как они меня без конца ищут, они вполне могут быть теми монолитовцами.»</text>
+		<text>Wpis nr 54: Nie s№dziіem, їe tak siк skoсczy, ale obrona Jekylla powinna mi pomуc. W kaїdym razie, jeњli coњ mi siк stanie, Sith po prostu zostanie zastrzelony. Najlepsze, co mogк zrobiж, to graж na zwіokк i najpierw zabiж Sektora. S№dz№c po tym, jak mnie szukaj№ bez koсca, mog№ to byж tymi Monolitami.</text>
 	</string>
 	<string id="sith_pda_info">
-		<text>КПК Ситха</text>
+		<text>PDA Stiha</text>
 	</string>
 	<string id="sith_pda_desc">
-		<text>«Сектор, мой друг и напарник. Если ты читаешь эту запись, значит скорее всего меня уже прибили. Тебе всё это время приходилось меня спасать, а я был не более, чем обузой, которую всё время брали в заложники. Не знаю, спасал ли ты меня потому что считал, что я могу быть полезен, или потому что считал своим другом - во всяком случае я тебе за это благодарен. Я считаю, что ты отличный человек и друг, и очень надеюсь, что ты когда-нибудь прочитаешь эту запись. И что к этому времени ты уже убьёшь Шкира. Твой друг, Ситх.»</text>
+		<text>Sektor, mуj przyjacielu i partnerze. Jeњli czytasz ten wpis, to najprawdopodobniej zostaіam juї zabity. Musiaіeњ mnie ratowaж przez caіy ten czas, a ja byіam tylko ciкїarem, ktуry caіy czas byі brany jako zakіadnik. Nie wiem, czy uratowaіeњ mnie, bo myњlaіeњ, їe mogк siк przydaж, czy dlatego, їe myњlaіeњ, їe jestem Twoim przyjacielem - w kaїdym razie jestem Ci za to wdziкczny. Myњlк, їe jesteњ њwietn№ osob№ i przyjacielem i mam nadziejк, їe kiedyњ przeczytasz ten wpis. I їe do tego czasu zabijesz Szkira. Twуj przyjaciel, Sith.</text>
 	</string>
 	<string id="topor_pda_info">
-		<text>КПК Топора</text>
+		<text>PDA Topora</text>
 	</string>
 	<string id="topor_pda_desc">
-		<text>Наёмник по кличке Топор не был особо разговорчивым, поэтому в КПК присутствует всего одна запись: \n«После всего, что произошло, думаю сколотить отряд и направиться к Шкиру - отблагодарю его за любезное предательство. Первым делом прочищу каждую лабораторию. Мне всё равно нечего терять - жёны изменяют, друзья предают. Вот заработал бы денег - было бы всё.. Мля, зачем я вообще это пишу?»</text>
+		<text>Najemnik imieniem Topуr nie byі specjalnie rozmowny, wiкc w PDA jest tylko jeden wpis: \n„Po tym wszystkim, co siк wydarzyіo, myњlк, їe zmontujк oddziaі i udam siк do Szkira – podziкkujк mu za їyczliw№ zdradк. Pierwsz№ rzecz№, ktуr№ zrobiк, bкdzie oczyszczenie kaїdego laboratorium. Wci№ї nie mam nic do stracenia - їony zdradzaj№, przyjaciele zdradzaj№. Gdybym mуgі zarabiaж, to by byіo wszystko.. Cholera, po co w ogуle to piszк?</text>
 	</string>
 	<string id="arkey_amulette_name">
-		<text>Амулет Фрактора</text>
+		<text>Amulet Fraktora</text>
 	</string>
 	<string id="arkey_amulette_desc">
-		<text>Красивый кулон, принадлежит сталкеру по кличке Фрактор.</text>
+		<text>Piкkny wisiorek, naleїy do stalkera o imieniu Fraktor.</text>
 	</string>
 	<string id="infernis_war_note">
-		<text>Окровавленная записка</text>
+		<text>Zakrwawiona notatka</text>
 	</string>
 	<string id="infernis_war_note_desc">
-		<text>Судя по качеству, записка была написана и помещена в истекающее кровью тело совсем недавно. Записано следующее: \n«Не знаю, как ты до сих пор не сдохла, но теперь твоя жизнь в моих руках. Забавно, правда? Пользуясь случаем, передаю тебе привет от Анаконды. Inf»</text>
+		<text>S№dz№c po jakoњci, notatka zostaіa napisana i umieszczona w krwawi№cym ciele caіkiem niedawno. Napisano: \n"Nie wiem, jak jeszcze nie umarіeњ, ale teraz Twoje їycie jest w moich rкkach. Њmieszne prawo? Korzystam z okazji i przesyіam pozdrowienia od Anakondy. Inf”</text>
 	</string>
 	<string id="sith_treasure_info">
-		<text>Записка Ситха</text>
+		<text>Notatka Sitha</text>
 	</string>
 	<string id="sith_treasure_desc">
-		<text>Записка на чистом листе, почерк Ситха: \n«Сектор, не могу связаться с тобой почему-то. Пока пытался тебя найти в Лиманске, встретил какого-то бандита, который твоим другом назвался. Сказал, что ты в порядке. Скорее всего, поломка в моей рации, поэтому я отправлюсь на склады - ремонтировать. Как починю, попробуем связаться, если всё так же - пойду тебя искать. Ситх»</text>
+		<text>Notatka na pustej kartce, pismo Sitha: \n"Sektor, z jakiegoњ powodu nie mogк siк z Tob№ skontaktowaж. Kiedy prуbowaіem Ciк znaleџж w Limaсsku, spotkaіem bandytк, ktуry nazywaі siebie Twoim przyjacielem. Powiedziaіem, їe wszystko w porz№dku. Najprawdopodobniej awaria mojego krуtkofalуwki, wiкc pуjdк do magazynуw - do naprawy. Jak tylko to naprawiк, postaram siк z Tob№ skontaktowaж, jeњli wszystko siк zgadza, pуjdк Ciк poszukaж. Sith”</text>
 	</string>
 	<string id="st_wpn_gauss_aes">
-		<text>Ружьё ЭМ1</text>
+		<text>Strzelba EM1</text>
 	</string>
 	<string id="st_wpn_gauss_aes_descr">
-		<text>Экспериментальное электромагнитное ружье. Применяется в основном для выведения из строя электронных приборов на расстоянии, поскольку при стрельбе по живым целям неэффективно. Для снаряжения используются аккумуляторы.</text>
+		<text>Eksperymentalny pistolet elektromagnetyczny. Sіuїy gіуwnie do wyі№czania urz№dzeс elektronicznych na odlegіoњж, jest nieskuteczny podczas strzelania do їywych celуw. Baterie s№ potrzebne do uїycia.</text>
 	</string>
 	<string id="for_lab_jekyll_info">
-		<text>Документация по исследованиям</text>
+		<text>Dokumentacja Badawcza</text>
 	</string>
 	<string id="for_lab_jekyll_info_desc">
-		<text>В этом документе собраны общие исследования некого профессора Джекила-Старшего. Среди закрытых приевшейся пылью записей, некоторые слова отчётливо видно:\n"..анные артефакты необходимо поме... ...амеры - по соответствию природ артефактов и условий барокамер. Например, огненный артеф... ...камеру, под которо... ..зан символ огня."</text>
+		<text>Ten dokument zbiera ogуlne badania pewnego profesora Jekylla seniora. Wњrуd zapisуw pokrytych brudem wyraџnie widaж sіowa:\n"....te artefakty musz№ byж umieszczone... ...komory - zgodnie z charakterem artefaktуw i stanem komуr ciњnieniowych. Np. ognisty artefakt... ...komora, pod ktуr№ ... ..widnieje symbol ognia."</text>
 	</string>
 	<string id="lim_stalker_pda_info">
-		<text>КПК связного</text>
+		<text>Komunikator PDA</text>
 	</string>
 	<string id="lim_stalker_pda_desc">
-		<text>В этом КПК практически нет информации, доступной для просмотра. Всё защищено странным шифром и десятизначными кодами, включая электронные деньги и данные о каких-либо схронах. Единственное, что осталось доступной - личная информация.</text>
+		<text>Praktycznie nie moїna przegl№daж tego PDA. Wszystko jest chronione dziwnym szyfrem i dziesiкciocyfrowymi kodami, w tym pieni№dze elektroniczne i dane o wszelkich skrytkach. Jedyn№ dostкpn№ rzecz№ s№ dane osobowe.</text>
 	</string>
 	<string id="for_red_barocamera_info">
-		<text>Инструкция по использованию барокамеры "RED-2XFm"</text>
+		<text>Instrukcja uїytkowania komory ciњnieniowej „RED-2XFm”</text>
 	</string>
 	<string id="for_red_barocamera_info_desc">
-		<text>Инструкция по использованию специальных камер, теоретически необходимых для улучшения оружия.</text>
+		<text>Instrukcja korzystania ze specjalnych kamer, teoretycznie niezbкdnych do ulepszania broni.</text>
 	</string>
 	<string id="kilorik_armor_info">
-		<text>Расписка на защитный костюм</text>
+		<text>Kwit na kombinezon ochronny</text>
 	</string>
 	<string id="kilorik_armor_info_desc">
-		<text>Расписка, владелец которой имеет право получить один из защитных научных костюмов в "Объекте Y-13" на своё усмотрение.</text>
+		<text>Pokwitowanie, ktуrego wіaњciciel ma prawo otrzymaж wedіug wіasnego uznania jeden z ochronnych kombinezonуw naukowych w „Obiekcie Y-13”.</text>
 	</string>
 	<string id="item_for_art_info_1">
-		<text>Информация об артефакте "Гелий"</text>
+		<text>Informacje o artefakcie "Hel"</text>
 	</string>
 	<string id="item_for_art_info_2">
-		<text>Информация об артефакте "Монолит"</text>
+		<text>Informacje o artefakcie "Monolit"</text>
 	</string>
 	<string id="item_for_art_info_3">
-		<text>Информация об артефакте "Василиск"</text>
+		<text>Informacje o artefakcie "Bazyliszek"</text>
 	</string>
 	<string id="item_for_art_info_4">
-		<text>Информация об артефакте "Глаз Дракона"</text>
+		<text>Informacje o artefakcie "Oko smoka"</text>
 	</string>
 	<string id="item_for_art_desc">
-		<text>Снимок, на котором изображена примерная внешность необходимого артефакта, а так же небольшой сборник полученной за всё время информации о нём - как искать, где обычно находится, и какие у него примерные свойства.</text>
+		<text>Zdjкcie, ktуre pokazuje przybliїony wygl№d potrzebnego artefaktu, a takїe niewielki zbiуr informacji o nim otrzymywanych przez caіy czas - jak go szukaж, gdzie zwykle siк znajduje i jakie s№ jego przybliїone wіaњciwoњci.</text>
 	</string>
 	<string id="sith_radio_info">
-		<text>Самодельная рация</text>
+		<text>Domowe walkie-talkie</text>
 	</string>
 	<string id="sith_radio_desc">
-		<text>Подобие рации было создано Ситхом две недели назад. Так, как это лишь аналог, он позволяет лишь отправлять специальные сообщения для проверки связи.</text>
+		<text>Rodzaj krуtkofalуwki zostaі stworzony przez Sitha dwa tygodnie temu. Poniewaї jest to tylko analog, pozwala tylko na wysyіanie specjalnych wiadomoњci w celu sprawdzenia poі№czenia.</text>
 	</string>
 	<string id="harper_pda_info">
-		<text>КПК Харпера</text>
+		<text>PDA Harpera</text>
 	</string>
 	<string id="harper_pda_desc">
-		<text>КПК содержит несколько записей, но Ваше внимание привлекает последняя: \n«Харпер, это Шкир. Часть плана выполнена, но не полностью - некоторые успели сбежать. Вместе со своими орлами найдите на Агропроме всех наёмников и добейте. Там вроде ещё долговец один сбежал, его убивать необязательно. Он нам не нужен. Всё, до связи.»\nТак-же в КПК содержится несколько координат.</text>
+		<text>PDA zawiera kilka wpisуw, ale ostatni zwraca moj№ uwagк: \n„Harper, tu Szkir. Czкњж planu zostaіa zrealizowana, ale nie do koсca – niektуrym udaіo siк uciec. Razem ze swoimi orіami znajdџ wszystkich najemnikуw na Agropromie i wykoсcz ich. Wydaje siк, їe jest inny powinnoњciowiec, ktуry uciekі, nie trzeba go zabijaж. Nie potrzebujemy go. To wszystko, przed poі№czeniem."\nPonadto PDA zawiera kilka wspуіrzкdnych.</text>
 	</string>
 	<string id="strelok_note_info">
-		<text>Записка Стрелка</text>
+		<text>Notatka Strieіoka</text>
 	</string>
 	<string id="strelok_note_desc">
-		<text>Записка на обратной стороне старого документа: \n«Доктор, передай Призраку и остальным, что отправляюсь на ЧАЭС. Если не сможешь присмотреть за тайником, попроси какого-нибудь толкового парня. Я доверяю всем, кому доверяешь ты. С».</text>
+		<text>Notatka na odwrocie starego dokumentu: \n„Doktorze, powiedz Zjawie i innym, їe jadк do Czarnobyla. Jeњli nie moїesz zaj№ж siк skrytk№, poproњ jakiegoњ m№drego faceta. Ufam kaїdemu, komu ufasz. S".</text>
 	</string>
 	<string id="heck_pda_info">
-		<text>КПК Черта</text>
+		<text>PDA Czorta</text>
 	</string>
 	<string id="heck_pda_desc">
-		<text>КПК. В нём много интересной информации, однако самое главное - последняя запись: \n«Миротворец сообщил нам, что один из неверных идёт именно к этому месту. Как хорошо, что брату удалось влится в ряды Долга. Теперь главное - подготовиться, быть готовым к атаке. Благослови меня, Священный Монолит!».</text>
+		<text>PDA zawiera wiele ciekawych informacji, ale najwaїniejszy jest ostatni wpis: \n"Mirotworec powiedziaі nam, їe jeden z niewiernych jedzie wіaњnie w to miejsce. Dobrze, їe mojemu bratu udaіo siк wst№piж w szeregi Powinnoњci. Teraz najwaїniejsze jest przygotowanie siк, gotowoњж do ataku. Pobіogosіaw mnie, Њwiкty Monolicie!”.</text>
 	</string>
 	<string id="zone_document_info">
-		<text>Документы на пропуск в Зону</text>
+		<text>Dokumenty na przepustkк do Zony</text>
 	</string>
 	<string id="zone_document_info_desc">
-		<text>Липовые документы, в которых написано, что Александр Смирнов является научным сотрудником, и вынужден пересечь периметр Зоны для проведения "исследований" по контракту с Правительством.</text>
+		<text>Faіszywe dokumenty, ktуre mуwi№, їe Aleksander Smirnow jest naukowcem i zmuszonym do przekroczenia granicy Strefy w celu prowadzenia "badaс" na podstawie umowy z rz№dem.</text>
 	</string>
 	<string id="jup_a9_conservation_info">
-		<text>Бумаги с записями</text>
+		<text>Papiery z notatkami</text>
 	</string>
 	<string id="jup_a9_conservation_info_desc">
-		<text>В бумагах говорится о том, что согласно распоряжению начальника Первого отдела путепровод «Припять-1» после запечатывания транспортного шлюза заполнили углекислым газом с некой примесью. Персоналу при этом предписывалось использовать костюмы химзащиты с замкнутой системой дыхания.</text>
+		<text>Gazety podaj№, їe zgodnie z poleceniem naczelnika I Oddziaіu wiadukt Prypeж-1 po zamkniкciu њluzy transportowej zostaі wypeіniony dwutlenkiem wкgla z pewnym zanieczyszczeniem. Jednoczeњnie nakazano personelowi uїywanie kombinezonуw chemoodpornych z zamkniкtym ukіadem oddechowym.</text>
 	</string>
 	<string id="jup_a9_delivery_info">
-		<text>Письмо о поставках «изделия №62»</text>
+		<text>List przewozowy: poz. 62</text>
 	</string>
 	<string id="jup_a9_delivery_info_desc">
-		<text>«В связи с аномальными явлениями транспортировка изделия №62 по открытой местности невозможна. В данных условиях требуется задействовать подземный путепровод Припять-1. Схема доставки и последующей консервации путепровода направлена в Первый отдел».</text>
+		<text>„Ze wzglкdu na anomalne zjawiska transport produktu nr 62 na terenach otwartych jest niemoїliwy. W tych warunkach wymagane jest skorzystanie z podziemnego wiaduktu Prypeж-1. Plan dostawy i pуџniejszej konserwacji wiaduktu zostaі przesіany do Oddziaіu Pierwszego”.</text>
 	</string>
 	<string id="jup_a9_evacuation_info">
-		<text>Папка с приказом</text>
+		<text>Teczka z zamуwieniem</text>
 	</string>
 	<string id="jup_a9_evacuation_info_desc">
-		<text>В документах говорится про эвакуацию производственного комплекса с территории завода «Юпитер» в подземные лаборатории. Обсуждение этого вопроса должно было состояться в лабораторном корпусе.</text>
+		<text>Dokumenty mуwi№ o ewakuacji kompleksu produkcyjnego z terenu zakіadu Jupiter do podziemnych laboratoriуw. Dyskusja na ten temat miaіa siк odbyж w budynku laboratorium.</text>
 	</string>
 	<string id="jup_a9_losses_info">
-		<text>График поставок</text>
+		<text>Harmonogram dostaw</text>
 	</string>
 	<string id="jup_a9_losses_info_desc">
-		<text>«График поставок «изделия №62»: 14.07 - 20 (двадцать) единиц, 1 (одна) повреждена; 21.07 - 32 (тридцать две) единицы, 2 (две) повреждены; 28.07 - 26 (двадцать шесть) единиц, 1 (одна) повреждена. Докладная о проценте потерь при перевозке направлена в администрацию завода. Копия направлена в ремонтный цех».</text>
+		<text>Harmonogram dostaw „produktu nr 62”: 14 lipca - 20 (dwadzieњcia) sztuk, 1 (jedna) uszkodzona; 21 lipca - 32 (trzydzieњci dwie) jednostki, 2 (dwie) uszkodzone; 28 lipca - 26 (dwadzieњcia szeњж) jednostek, 1 (jedna) uszkodzona. Do administracji zakіadu przesіano raport o procentowym ubytku strat podczas transportu. Kopia zostaіa wysіana do warsztatu.</text>
 	</string>
 	<string id="jup_a9_meeting_info">
-		<text>Тетрадный лист</text>
+		<text>Kartka z zeszytu</text>
 	</string>
 	<string id="jup_a9_meeting_info_desc">
-		<text>Итог заседания: всем подразделениям сосредоточиться на деятельности по эвакуации производственного комплекса «изделия №62».</text>
+		<text>Efekt spotkania: skupienie siк wszystkich dywizji na ewakuacji kompleksu produkcyjnego „Produkt nr 62”.</text>
 	</string>
 	<string id="jup_a9_power_info">
-		<text>Журнал дежурной смены</text>
+		<text>Dziennik zmiany dyїuru</text>
 	</string>
 	<string id="jup_a9_power_info_desc">
-		<text>«18:30 - Завершена герметизация всех секций «П-1». 19:00 - Завершена герметизация дверей железнодорожного шлюза. 19:45 - Двери транспортного шлюза закрыты. Для приведения механизма дверей шлюза потребовалось включение вспомогательного генератора ввиду запланированного обесточивания путепровода. 20:00 - Хим. цех начал закачку газа в путепровод. 22:00 - Работы по консервации путепровода завершены. Вся документация направлена в Первый отдел».</text>
+		<text>„18:30 – Zakoсczono uszczelnianie wszystkich odcinkуw „P-1”. 19:00 - Zakoсczono uszczelnianie drzwi њluzy kolejowej. 19:45 - Drzwi њluzy transportowej s№ zamkniкte. Aby uruchomiж mechanizm drzwi њluzy, konieczne byіo wі№czenie generatora pomocniczego ze wzglкdu na planowane wyі№czenie wiaduktu spod napiкcia. 20:00 - Chem. warsztat zacz№і pompowaж gaz do wiaduktu. 22:00 - Zakoсczono prace konserwatorskie wiaduktu. Caіa dokumentacja zostaіa przesіana do Oddziaіu I.”</text>
 	</string>
 	<string id="jup_a9_way_info">
-		<text>Схема путепровода</text>
+		<text>Schemat wiaduktu</text>
 	</string>
 	<string id="jup_a9_way_info_desc">
-		<text>Схема путепровода «Припять-1». По схеме видно, что он проходит под городом Припять. На схеме есть две пометки: «1. Запечатать двери транспортного шлюза» и «2. Использовать газ из цеха хим. соединений для консервации путепровода».</text>
+		<text>Schemat wiaduktu „Prypeж-1”. Schemat pokazuje, їe przechodzi pod miastem Prypeж. Na schemacie znajduj№ siк dwa znaki: „1. Zamkn№ж drzwi blokady transportowej” i „2. Uїyj gazu z warsztatu chemicznego. zwi№zki do konserwacji wiaduktu”.</text>
 	</string>
 	<string id="jup_b1_half_artifact">
-		<text>Изменённый изолятор</text>
+		<text>Zmodyfikowany izolator</text>
 	</string>
 	<string id="jup_b1_half_artifact_descr">
-		<text>Этот предмет некогда был электрическим изолятором. Теперь он почти сформировался в артефакт с нестабильными свойствами. Скорее всего, именно он являлся источником переменного пси-излучения.</text>
+		<text>Ten przedmiot byі kiedyњ izolatorem elektrycznym. Teraz prawie uformowaі siк w artefakt o niestabilnych wіaњciwoњciach. Najprawdopodobniej to on byі џrуdіem naprzemiennego promieniowania PSI.</text>
 	</string>
 	<string id="jup_b200_tech_materials_acetone">
-		<text>Банка канифоли</text>
+		<text>Puszka Kalafonii</text>
 	</string>
 	<string id="jup_b200_tech_materials_acetone_descr">
-		<text>Банка канифоли, используемой при пайке. Редкая вещь в Зоне: как правило, части сломавшихся предметов здесь соединяют изолентой.</text>
+		<text>Puszka kalafonii uїywanej do lutowania. Rzadka rzecz w Strefie: z reguіy czкњci zepsutych przedmiotуw s№ tu poі№czone taњm№ elektryczn№.</text>
 	</string>
 	<string id="jup_b200_tech_materials_capacitor">
-		<text>Упаковка конденсаторов</text>
+		<text>Opakowanie Kondensatorуw</text>
 	</string>
 	<string id="jup_b200_tech_materials_capacitor_descr">
-		<text>Упаковка конденсаторов, которые сами по себе не так уж редки в Зоне. Но заявленная на данных деталях ёмкость настолько высока, что трудно представить их предназначение.</text>
+		<text>Zestaw kondensatorуw, ktуre same w sobie nie s№ rzadkoњci№ w Strefie. Ale pojemnoњж deklarowana na tych szczegуіach jest tak duїa, їe trudno sobie wyobraziж ich przeznaczenie.</text>
 	</string>
 	<string id="jup_b200_tech_materials_textolite">
-		<text>Текстолитовая основа</text>
+		<text>Baza Tekstolitowa</text>
 	</string>
 	<string id="jup_b200_tech_materials_textolite_descr">
-		<text>Текстолит - основа печатной платы. Ощущения, испытываемые радиотехником-любителем при виде нетронутой текстолитовой плиты, сравнимы разве что с ощущениями писателя над чистым листом.</text>
+		<text>Tekstolit - podstawa pіytki drukowanej. Wraїenia doњwiadczane przez technika radioamatora na widok nietkniкtej pіytki tekstolitu s№ porуwnywalne tylko z wraїeniami pisarza nad czyst№ kartk№.</text>
 	</string>
 	<string id="jup_b200_tech_materials_transistor">
-		<text>Коробка транзисторов</text>
+		<text>Skrzynka Tranzystorowa</text>
 	</string>
 	<string id="jup_b200_tech_materials_transistor_descr">
-		<text>Коробка качественных транзисторов - полупроводниковых деталей, способных генерировать, преобразовать и усиливать электрические колебания. Предел мечтаний радиотехника, если такого чудом занесёт в Зону.</text>
+		<text>Pudeіko wysokiej jakoњci tranzystorуw - czкњci pуіprzewodnikowych zdolnych do generowania, przetwarzania i wzmacniania wibracji elektrycznych. Ostateczne marzenie inїyniera radia, jeњli w cudowny sposуb sprowadzi tak№ osobк do Strefy.</text>
 	</string>
 	<string id="jup_b200_tech_materials_wire">
-		<text>Моток медной проволоки</text>
+		<text>Cewka z drutu miedzianego</text>
 	</string>
 	<string id="jup_b200_tech_materials_wire_descr">
-		<text>Медь является отличным проводником - и, по совместительству, ценным цветным металлом. Ввиду данного факта такая проволока представляет собой большую редкость: все имевшиеся запасы меди в Зоне были найдены и сданы во вторсырьё ещё в середине 1990-х.</text>
+		<text>Miedџ jest doskonaіym przewodnikiem – i w poі№czeniu jest cennym metalem nieїelaznym. W zwi№zku z tym taki drut jest rzadkoњci№: wszystkie dostкpne rezerwy miedzi w Strefie zostaіy odnalezione i poddane recyklingowi w poіowie lat 90. XX wieku.</text>
 	</string>
 	<string id="jup_b209_monster_scanner">
-		<text>Сканер присутствия мутантов</text>
+		<text>Skaner Obecnoњci Mutantуw</text>
 	</string>
 	<string id="jup_b209_monster_scanner_descr">
-		<text>Комплекс из сканера аномальной активности, датчика присутствия мутантов (ограниченного радиуса действия) и блока записи. Прибор снабжён автоматическим выключателем, который срабатывает после накопления определённого количества данных.</text>
+		<text>Kompleks skіadaj№cy siк ze skanera aktywnoњci anomalii, czujnika obecnoњci mutacji (ograniczony zasiкg) oraz jednostki rejestruj№cej. Urz№dzenie wyposaїone jest w automatyczny wyі№cznik, ktуry dziaіa po zgromadzeniu okreњlonej iloњci danych.</text>
 	</string>
 	<string id="jup_b47_jupiter_products_info">
-		<text>Административные документы</text>
+		<text>Dokumenty Administracyjne</text>
 	</string>
 	<string id="jup_b47_jupiter_products_info_descr">
-		<text>Папка с документами, в которых содержится сугубо административная информация. Согласно последней, в связи с приказом из центральной лаборатории техническая документация по «изделию №62» была передана в испытательный цех.</text>
+		<text>Folder z dokumentami zawieraj№cymi informacje czysto administracyjne. Wedіug tego ostatniego, w zwi№zku z zamуwieniem z laboratorium centralnego, dokumentacja techniczna dla „produktu nr 62” zostaіa przekazana do warsztatu badawczego.</text>
 	</string>
 	<string id="jup_b47_merc_pda">
-		<text>КПК Чёрного</text>
+		<text>PDA Czarnego</text>
 	</string>
 	<string id="jup_b47_merc_pda_desc">
-		<text>Среди немногочисленных сообщений одно привлекает особое внимание благодаря кличке отправителя: Шакал. «Мой человек в НИИ порекомендует вас главе экспедиции. Тому придётся взять твоих ребят на охрану бункера, это здорово облегчит задачу. Помни: заказчик хочет, чтобы никакой информации о работе объектов с индексом «X» в руки учёным не попало. Если просочится хоть что-то, мы за пределами Зоны не жильцы. Не подведи меня, Чёрный».</text>
+		<text>Wњrуd nielicznych wiadomoњci na szczegуln№ uwagк zasіuguje pseudonim nadawcy: Szakal. „Mуj czіowiek z instytutu badawczego zarekomenduje Ciк szefowi ekspedycji. Tom bкdzie musiaі zabraж Twoich ludzi do pilnowania bunkra, znacznie uіatwi to zadanie. Pamiкtaj: klient nie chce, aby informacje o dziaіaniu obiektуw z indeksem „X” wpadіy w rкce naukowcуw. Jeњli coњ wycieknie, nie jesteњmy mieszkaсcami Strefy. Nie zawiedџ mnie Czarny.</text>
 	</string>
 	<string id="jup_b9_blackbox">
-		<text>«Чёрный ящик»</text>
+		<text>Czarna Skrzynka</text>
 	</string>
 	<string id="jup_b9_blackbox_descr">
-		<text>«Чёрный ящик», уцелевший при падении вертолёта «Скат-1». В нём должна содержаться зашифрованная информация о последних минутах полёта.</text>
+		<text>Czarna skrzynka, ktуra przetrwaіa katastrofк њmigіowca Skat-1. Powinien zawieraж zaszyfrowane informacje o ostatnich minutach lotu.</text>
 	</string>
 	<string id="pri_a25_explosive_charge_descr">
-		<text>Пластиковая взрывчатка стандартного армейского образца. Оснащена пятисекундным таймером.</text>
+		<text>Plastikowe materiaіy wybuchowe standardowej prуbki wojskowej. Wyposaїony w piкciosekundowy timer.</text>
 	</string>
 	<string id="pri_a25_explosive_name">
-		<text>Взрывчатка с таймером</text>
+		<text>Materiaіy wybuchowe z zegarem</text>
 	</string>
 	<string id="st_af_quest_b14_twisted">
-		<text>Изменённый штурвал</text>
+		<text>Zmodyfikowany Nawigator</text>
 	</string>
 	<string id="st_device_flash_snag">
-		<text>КПК Коряги</text>
+		<text>PDA Korjagi</text>
 	</string>
 	<string id="st_device_flash_snag_descr">
-		<text>В КПК есть карта с пометкой возле  полустанка - явный тайник - плюс пара низкокачественных фотографий эротического характера.</text>
+		<text>PDA ma mapк ze znacznikiem w pobliїu przystanku - oczywista kryjуwka - plus kilka zdjкж niskiej jakoњci o charakterze erotycznym.</text>
 	</string>
 	<string id="st_device_pda_port_bandit_leader">
-		<text>КПК бандита</text>
+		<text>PDA bandyty</text>
 	</string>
 	<string id="st_device_pda_port_bandit_leader_descr">
-		<text>Последнее сообщение на КПК: «Возьмите этого Корягу и притараньте сюда, у меня к нему конкретный базар нагорел. Достаньте мне его где угодно. Будет хоботиться - обломайте. Всё. Султан».</text>
+		<text>Ostatnia wiadomoњж na PDA: „Weџ tego Korjagк i taranuj tutaj, mam dla niego specyficzny deal. Odstaw mi go gdziekolwiek. Bкdziesz - oderwij siк. Wszystko. Suіtan.</text>
 	</string>
 	<string id="st_device_pda_zat_b5_dealer_desc">
-		<text>В этом КПК хранятся данные по клиентам Моргана, а также координаты тайного склада «Долга», откуда Морган брал оружие. Оружие уходило наёмникам; кроме того, есть данные о контактах с неким Султаном. Чтобы замести следы, Морган решил передать местоположение тайника «Свободе». Миссию должен был выполнить его подельник - наёмник по прозвищу Гриф. Кроме того, в КПК упоминается о датчике, который должен оповещать «Долг» в случае открытия тайника, и отключить который может только сам Морган. Эти данные наверняка заинтересуют и «Долг», и «Свободу».</text>
+		<text>Ten PDA przechowuje dane o klientach Morgana, a takїe wspуіrzкdne tajnego magazynu Powinnoњci, z ktуrego Morgan wzi№і broс. Broс trafiіa do najemnikуw. Ponadto istniej№ dowody na kontakty z pewnym Suіtanem. Aby zatrzeж њlady, Morgan postanowiі przekazaж lokalizacjк skrytki Swobodzie. Misjк miaі wykonaж jego wspуlnik – najemnik o pseudonimie Gryf. Ponadto PDA wspomina o czujniku, ktуry powinien powiadamiaж Powinnoњж w przypadku otwarcia skrytki, a ktуry moїe wyі№czyж tylko sam Morgan. Dane te z pewnoњci№ zainteresuj№ zarуwno Powinnoњж, jak i Swobodк.</text>
 	</string>
 	<string id="st_device_pda_zat_b5_dealer_name">
-		<text>КПК Моргана</text>
+		<text>PDK Morgana</text>
 	</string>
 	<string id="st_jup_b10_notes_01_desc">
-		<text>Записка на обратной стороне старого документа: «Призрак, я забираю свои вещи. Отдельное спасибо за автомат - я без него как без рук. Взамен оставляю комплект медикаментов от Доктора. Мне удалось заманить в ловушку наёмника, который шёл по моему следу, так что они мне не понадобятся... надеюсь. Сейчас я направляюсь на встречу с Клыком: ему удалось собрать дешифратор. Если успеваешь, встречаемся в обычном месте. Стрелок».</text>
+		<text>Notatka na odwrocie starego dokumentu: Zjawo, biorк swoje rzeczy. Specjalne podziкkowania za automat - bez niego jestem jak bez r№k. W zamian zostawiam od Doktora komplet lekуw. Udaіo mi siк uwiкziж najemnika na swoim tropie, wiкc nie bкdк ich potrzebowaж... miejmy nadziejк. Teraz jadк na spotkanie z Fangiem: udaіo mu siк zіoїyж dekoder. Jeњli masz czas, spotkamy siк w zwykіym miejscu. Strieіok".</text>
 	</string>
 	<string id="st_jup_b10_notes_01_name">
-		<text>Записка Призраку</text>
+		<text>Notatka Zjawy</text>
 	</string>
 	<string id="st_jup_b10_notes_02_desc">
-		<text>Записка на листе в клетку: «Стрелок, второй дешифратор я на всякий пожарный оставил в нашем тайнике на Припяти. Сейчас идём с Призраком на Агропром, лишнюю снарягу бросим здесь. Если что, забирай всё. Ни пуха! Клык».</text>
+		<text>Notatka na kartce w kratkк: Strieіok, zostawiіem drugi dekoder na wszelki wypadek w naszej skrytce w Prypeci. Teraz jedziemy ze Zjaw№ na Agroprom, tutaj zostawimy dodatkowy sprzкt. Jakby co, weџ wszystko. Powodzenia! Kieі".</text>
 	</string>
 	<string id="st_jup_b10_notes_02_name">
-		<text>Записка Стрелку</text>
+		<text>Notatka Strieіoka</text>
 	</string>
 	<string id="st_jup_b10_notes_03_desc">
-		<text>Записка на обратной стороне старого документа: «Клык, больше не могу тебя ждать - у меня на хвосте целая свора. Иду в Саркофаг сам. Оставляю свой счастливый ствол: с патронами к нему совсем никак. Если не вернусь, отдай его Призраку и скажи, пусть бережёт, машинка толковая. Будь! Стрелок».</text>
+		<text>Notatka na odwrocie starego dokumentu: „Kieі, nie mogк juї na Ciebie czekaж - mam na ogonie caі№ paczkк. Sam idк do Sarkofagu. Zostawiam mуj szczкњliwy karabin: absolutnie nie ma do niego nabojуw. Jeњli nie wrуcк, daj go Zjawie i powiedz mu, їeby siк tym zaj№і, sprytna maszyna. Nara! Strieіok".</text>
 	</string>
 	<string id="st_jup_b10_notes_03_name">
-		<text>Записка Клыку</text>
+		<text>Notatka Kіa</text>
 	</string>
 	<string id="st_jup_b10_ufo_memory_2_desc">
-		<text>Модуль памяти, извлечённый из беспилотного разведывательного аппарата. Новиков разблокировал модуль, открыв доступ к информации, которая была собрана разведчиком. Среди прочего, в ней содержатся пеленги на три радиомаяка.</text>
+		<text>Moduі pamiкci usuniкty z bezzaіogowego pojazdu zwiadowczego. Nowikow odblokowaі moduі, umoїliwiaj№c dostкp do informacji zebranych przez zwiadowcк. Zawiera miкdzy innymi іoїyska na trzy radiolatarnie.</text>
 	</string>
 	<string id="st_jup_b10_ufo_memory_2_name">
-		<text>Модуль памяти (разблокирован)</text>
+		<text>Moduі pamiкci (odblokowany)</text>
 	</string>
 	<string id="st_jup_b10_ufo_memory_desc">
-		<text>Модуль памяти, извлёченный из беспилотного разведывательного аппарата. Несмотря на крушение носителя, модуль памяти работоспособен - но, к сожалению, заблокирован.</text>
+		<text>Moduі pamiкci usuniкty z bezzaіogowego pojazdu zwiadowczego. Mimo awarii noњnika moduі pamiкci dziaіa - ale niestety jest zablokowany.</text>
 	</string>
 	<string id="st_jup_b10_ufo_memory_name">
-		<text>Модуль памяти (заблокирован)</text>
+		<text>Moduі pamiкci (zablokowany)</text>
 	</string>
 	<string id="st_jup_b205_sokolov_note_desc">
-		<text>Старый листок с расписанием постов; снизу на нём видны четыре цифры: «1421». Поверх старых записей маркером написано: «Лейтенант Соколов В.И. В связи с крушением вертолета проследовал к точке эвакуации Б205. В течение двух дней эвакуация не состоялась, дальнейшее пребывание на точке связано с неоправданным риском. Принял решение покинуть точку и проследовать к мобильной лаборатории научной экспедиции. Лаборатория расположена к северо-востоку от точки эвакуации».</text>
+		<text>Stary arkusz z harmonogramem postуw; na dole widoczne s№ cztery cyfry: „1421”. Nad starymi zapisami z markerem napisano: „Porucznik Sokoіow V.I. W zwi№zku z katastrof№ њmigіowca udaі siк do punktu ewakuacji B205. W ci№gu dwуch dni ewakuacja nie nast№piіa, dalszy pobyt w punkcie wi№їe siк z nieuzasadnionym ryzykiem. Postanowiіem wyjњж z tego punktu i udaж siк do mobilnego laboratorium ekspedycji naukowej. Laboratorium znajduje siк na pуіnocny wschуd od punktu wydobycia.".</text>
 	</string>
 	<string id="st_jup_b205_sokolov_note_name">
-		<text>Записка от Соколова</text>
+		<text>Notatka Sokoіowa</text>
 	</string>
 	<string id="st_jup_b206_plant_desc">
-		<text>Растение, которое было частью аномально изменённой рощи. Деревья довольно агрессивно отреагировали на вторжение, но само растение опасных свойств пока не проявляло.</text>
+		<text>Roњlina bкd№ca czкњci№ anomalnie zmienionego gaju. Drzewa doњж agresywnie zareagowaіy na mutacje, ale sama roњlina nie wykazaіa jeszcze їadnych niebezpiecznych wіaњciwoњci.</text>
 	</string>
 	<string id="st_jup_b206_plant_name">
-		<text>Аномальное растение</text>
+		<text>Nietypowa Roњlina</text>
 	</string>
 	<string id="st_jup_b207_merc_pda_with_contract_desc">
-		<text>Последнее принятое сообщение в КПК - послание от Моргана. По сути, это заказ на убийство сталкера по фамилии Дегтярёв. К сообщению прикреплены несколько фотографий. В конце послания Морган требует стереть всю эту информацию.</text>
+		<text>Ostatni№ otrzyman№ wiadomoњci№ w PDA jest wiadomoњж od Morgana. W rzeczywistoњci jest to rozkaz zabicia stalkera o imieniu Degtyarew. Do postu doі№czono kilka zdjкж. Na koсcu wiadomoњci Morgan ї№da usuniкcia wszystkich tych informacji.</text>
 	</string>
 	<string id="st_jup_b207_merc_pda_with_contract_name">
-		<text>КПК наёмника</text>
+		<text>PDA najemnika</text>
 	</string>
 	<string id="st_jup_b32_scanner_device_desc">
-		<text>В корпусе прибора воедино собраны детектор артефактов, аккумулятор и мощный передатчик. Эта штука должна сканировать аномалии, определяя количество и тип появившихся в них артефактов. Вся полученная информация должна автоматически пересылаться в бункер учёных.</text>
+		<text>Korpus urz№dzenia і№czy w sobie wykrywacz artefaktуw, bateriк i potкїny nadajnik. Ta rzecz ma skanowaж anomalie, okreњlaj№c liczbк i rodzaj artefaktуw, ktуre siк w nich pojawiіy. Wszystkie otrzymane informacje powinny byж automatycznie przesyіane do bunkra naukowcуw.</text>
 	</string>
 	<string id="st_jup_b32_scanner_device_name">
-		<text>Сканер аномальной активности</text>
+		<text>Skaner Aktywnoњci Anomalii</text>
 	</string>
 	<string id="st_jup_b46_duty_founder_pda_desc">
-		<text>Последняя запись на КПК - звуковая:\n«...куда ни пойди, каждый раз возращаешься на одно и то же место. Туман этот чёртов... привыкнуть невозможно... Чепурной исчез, и с концами. Странно. Может, нашёл выход?..\nШестой день, вода вышла вся... А полковник свихнулся: двоих расстрелял и себе пулю в лоб... Я теперь один. Один внутри этой долбаной аномалии...  И дёрнуло же меня устроить обрыв связи со штабом! Могли бы забрать, а? Пенсия, дача, рыбалка - и не было бы никакого «Долга»... А правда, интересно, как бы всё повернулось!.. Только к чёрту. Капитан Таченко уже мёртвый давно... А генерал «Долга» Таченко сейчас уйдёт, скоро... в верхнюю тундру, мать её... в места, богатые дичью... такая вот справедливость».\nДалее слышен звук выстрела, запись обрывается.</text>
+		<text>Ostatni wpis na PDA to notatka dџwiкkowa:\n„...gdziekolwiek nie pуjdziesz, za kaїdym razem wracasz do tego samego miejsca. Ta cholerna mgіa... nie sposуb siк do tego przyzwyczaiж... Czepurnoj znikn№і, na koniec. Dziwne. Moїe znalazі wyjњcie?..\nSzуstego dnia skoсczyіa siк caіa woda... I puіkownik oszalaі: zastrzeliі dwie osoby i strzeliі sobie w czoіo... Teraz jestem sam. Sam w tej pieprzonej anomalii... A to sprawiіo, їe chciaіem odci№ж komunikacjк z kwater№ gіуwn№! Moїe to wzi№ж, co? Emerytura, dacza, wкdkarstwo - i nie byіoby "Powinnoњci"... Ale prawda jest interesuj№ca, ciekawe jak by siк wszystko potoczyіo!.. Do diabіa z tym. Kapitan Taczenko nie їyje od dawna... A generaі "Powinnoњci" Tachenko wyjedzie teraz, niedіugo... do gуrnej tundry, do cholery... do miejsc bogatych w zwierzynк... taka jest sprawiedliwoњж. \nNastкpnie sіychaж odgіos wystrzaіu, nagranie siк urywa.</text>
 	</string>
 	<string id="st_jup_b46_duty_founder_pda_name">
-		<text>КПК генерала Таченко</text>
+		<text>PDA generaіa Taczenko</text>
 	</string>
 	<string id="st_lx8_service_instruction_descr">
-		<text>В инструкции описано, как пользоваться «изделием №62». Особенно подчеркнуто, что при прицеливании не следует соблюдать упреждение с поправкой на ветер, поскольку данные параметры несущественны на дальности ведения прицельного огня.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Instrukcje opisuj№, jak korzystaж z „numeru produktu 62”. Szczegуlnie podkreњla siк, їe podczas celowania nie naleїy zwracaж uwagi na prowadzenie z regulacj№ wiatru, poniewaї te parametry s№ nieistotne w zasiкgu ostrzaіu celowanego.\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_lx8_service_instruction_name">
-		<text>Инструкция к «изделию №62»</text>
+		<text>Instrukcje dla "produktu nr 62"</text>
 	</string>
 	<string id="st_pri_a19_american_experiment_info_descr">
-		<text>В тетради есть подробное описание эксперимента по направленному воздействию пси-полем на объект, который находится в другом полушарии Земли. Группа учёных на судне в Карибском море получила сигнал, но с искажениями. Модуляции были непонятным образом искажены, словно «подправлены» кем-то. Одна из рабочих версий основана на предположении о верности теории ноосферы, которая якобы и привнесла эти искажения.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Notatnik zawiera szczegуіowy opis eksperymentu z ukierunkowanym dziaіaniem pola PSI na obiekt znajduj№cy siк na innej pуіkuli Ziemi. Grupa naukowcуw na statku na Karaibach otrzymaіa sygnaі, ale ze znieksztaіceniem. Modulacje byіy niewytіumaczalnie znieksztaіcone, jakby ktoњ "skorygowaі". Jedna z wersji roboczych opiera siк na zaіoїeniu sіusznoњci teorii Noosfery, ktуra rzekomo wprowadziіa te znieksztaіcenia.\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_pri_a19_american_experiment_info_name">
-		<text>Тетрадь с записью об эксперименте</text>
+		<text>Notatnik z zapisem o eksperymencie</text>
 	</string>
 	<string id="st_pri_a19_lab_x10_info_descr">
-		<text>В документах указываются технические характеристики антенны и их отличие от прогнозированных. На обратной стороне стоит пометка - она свидетельствует, что данная документация оформлена в лаборатории Х10.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Dokumenty wskazuj№ parametry techniczne anteny i ich rуїnicк od przewidywanych. Na odwrocie znajduje siк dopisek - wskazuje, їe dokumentacja ta zostaіa sporz№dzona w laboratorium X10.\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_pri_a19_lab_x10_info_name">
-		<text>Излучатель «Радуга» - основные ТТХ</text>
+		<text>Emiter "Tкcza" - gіуwne cechy wydajnoњci</text>
 	</string>
 	<string id="st_pri_a19_lab_x16_info_descr">
-		<text>В документах говорится об одном из побочных результатов исследований - открытии способности живых существ генерировать пси-излучение направленного характера. В процессе исследований в лаборатории X16 был выращен биологический излучатель поля, де-факто - гигантский мозг.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Dokumenty mуwi№ o jednym z produktуw ubocznych badaс - odkryciu zdolnoњci istot їywych do generowania promieniowania PSI o charakterze kierunkowym. W trakcie badaс w laboratorium X16 wyhodowano emiter pola biologicznego, de facto gigantyczny mуzg.\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_pri_a19_lab_x16_info_name">
-		<text>Документы об исследованиях</text>
+		<text>Artykuіy Naukowe</text>
 	</string>
 	<string id="st_pri_a19_lab_x18_info_descr">
-		<text>В докладе говорится об изучении биологических образцов, присланных из лаборатории Х18. Образцы подвергались воздействию информационным полем разной степени интенсивности. Доклад подробно описывает мутации живых организмов, вызванные таким облучением.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Raport odnosi siк do badaс prуbek biologicznych przesіanych z laboratorium X18. Prуbki poddano dziaіaniu pola informacyjnego o rуїnym natкїeniu. Raport szczegуіowo opisuje mutacje organizmуw їywych spowodowane takim promieniowaniem.\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_pri_a19_lab_x18_info_name">
-		<text>Доклад об исследовании образцов</text>
+		<text>Raport z badania gatunkowego</text>
 	</string>
 	<string id="st_pri_a19_lab_x7_info_descr">
-		<text>В документе говорится о переводе исследовательской группы и передаче всех материалов в лабораторию с индексом Х7, в которой будут изучаться проблемы влияния ноосферы. Состав исследовательской группы: Лебедев Н.А., Каланча Е.Ф., Суслов В.И.\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Dokument odnosi siк do przeniesienia grupy badawczej i przeniesienia wszystkich materiaіуw do laboratorium z indeksem X7, ktуre bкdzie badaіo problemy wpіywu Noosfery. Skіad grupy badawczej: Lebedev N.A., Kalancha E.F., Suslov VI.\nTe dokumenty nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_pri_a19_lab_x7_info_name">
-		<text>Распоряжение о переводе</text>
+		<text>Zamуwienie Przelewu</text>
 	</string>
 	<string id="st_pri_b306_envoy_pda_desc">
-		<text>Последняя запись на КПК гласит: «Нашёл аварийный генератор на шестом - техническом - этаже. Убил два часа, чтобы привести его в более-менее рабочее состояние. Стоило бы попробовать запустить, только Сербин запретил что-либо делать, пока сам не приведёт людей»</text>
+		<text>Ostatni wpis na PDA brzmi: „Znaleziono generator awaryjny na szуstym - technicznym - piкtrze. Zmarnowaіem dwie godziny, aby doprowadziж go do mniej wiкcej stanu roboczego. Warto byіoby sprуbowaж go uruchomiж, tylko Serbin zabroniі robienia czegokolwiek, dopуki nie sprowadzi ludzi.</text>
 	</string>
 	<string id="st_pri_b306_envoy_pda_name">
-		<text>КПК Барчука</text>
+		<text>PDA Barczuka</text>
 	</string>
 	<string id="st_pri_b35_lab_x8_key_desc">
-		<text>Магнитная ключ-карта красного цвета. На одной из плоскостей нанесено «Х8».</text>
+		<text>Czerwona karta magnetyczna. Na jednej stronie jest napis „X8”.</text>
 	</string>
 	<string id="st_pri_b35_lab_x8_key_name">
-		<text>Красная ключ-карта - «Х8»</text>
+		<text>Czerwona karta dostкpu - "X8"</text>
 	</string>
 	<string id="st_pri_b36_monolith_hiding_place_pda_desc">
-		<text>В КПК много записей, не имеющих явного смысла, но одно всё же привлекает внимание: «Монолит обратился к внимающим ему, и приказал собрать излишки снаряжения и поместить в скрытые от неверных места, места же отметить его знаком. Настанут трудные времена и те, кто слышит великий Монолит, воспользуются его мудростью... Я передал волю Монолита своим братьям, и указал, где поместить припасы...».</text>
+		<text>W PDA jest wiele wpisуw, ktуre nie maj№ jednoznacznego znaczenia, ale jedno wci№ї zwraca uwagк: „Monolit zwrуciі siк do tych, ktуrzy go sіuchali, i kazali zebraж nadmiar sprzкtu i umieњciж go w miejscach ukrytych przed niewiernymi, i zaznacz miejsca znakiem. Nadejd№ trudne czasy i ci, ktуrzy usіysz№ wielki Monolit, skorzystaj№ z jego m№droњci... Przekazaіem wolк Monolitu moim braciom i wskazaіem, gdzie umieњciж zapasy...”.</text>
 	</string>
 	<string id="st_pri_b36_monolith_hiding_place_pda_name">
-		<text>КПК бойца «Монолита»</text>
+		<text>PDA monolitowca</text>
 	</string>
 	<string id="st_toolkit_1_desc">
-		<text>Набор инструментов «Юный техник». Вряд ли подойдёт для работы, в которой нужна тонкость, но в условиях тотальной нехватки инструментов в Зоне может пригодиться экономному технику.</text>
+		<text>Zestaw narzкdzi „Mіody Technik”. Nie nadaje siк do prac wymagaj№cych precyzji, ale w warunkach caіkowitego braku narzкdzi w Strefie moїe siк przydaж oszczкdnemu technikowi.</text>
 	</string>
 	<string id="st_toolkit_1_name">
-		<text>Инструменты для грубой работы</text>
+		<text>Narzкdzia do duїej naprawy</text>
 	</string>
 	<string id="st_toolkit_2_desc">
-		<text>Неплохой набор инструментов. Судя по всему, тщательно подобран опытным мастером «под себя, родного». Несмотря на годы, весь инструментарий хорошо сохранился.</text>
+		<text>Јadny zestaw narzкdzi. Podobno starannie dobrany przez doњwiadczonego rzemieњlnika "dla siebie". Mimo upіywu lat wszystkie narzкdzia s№ dobrze zachowane.</text>
 	</string>
 	<string id="st_toolkit_2_name">
-		<text>Инструменты для тонкой работы</text>
+		<text>Narzкdzia do dobrej naprawy</text>
 	</string>
 	<string id="st_toolkit_3_desc">
-		<text>Профессиональный набор инструментов для тонкой доводки оборудования. Надпись на ящике гласит, что набор произведен в ГДР. Того, что включено в комплект, достаточно для проведения почти любых работ по настройке и калибровке.</text>
+		<text>Profesjonalny zestaw narzкdzi do precyzyjnego strojenia sprzкtu. Napis na pudeіku mуwi, їe zestaw zostaі wyprodukowany w NRD. To, co znajduje siк w zestawie, wystarczy do wykonania niemal wszystkich prac konfiguracyjnych i kalibracyjnych.</text>
 	</string>
 	<string id="st_toolkit_3_name">
-		<text>Инструменты для калибровки</text>
+		<text>Narzкdzia kalibracyjne</text>
 	</string>
 	<string id="st_zat_a23_access_card">
-		<text>Старая магнитная ключ-карта</text>
+		<text>Stara karta dostкpu</text>
 	</string>
 	<string id="st_zat_a23_access_card_descr">
-		<text>Магнитная ключ-карта, принадлежащая Кардану. Использовалась для допуска в цех, где испытывалось «изделие №62».</text>
+		<text>Magnetyczna karta dostкpu naleї№ca do Kardana. Sіuїyі do wejњcia do warsztatu, w ktуrym testowano „produkt nr 62”.</text>
 	</string>
 	<string id="st_zat_a23_gauss_rifle_docs">
-		<text>Документация по «изделию №62»</text>
+		<text>Dokumentacja dla "produktu nr 62"</text>
 	</string>
 	<string id="st_zat_a23_gauss_rifle_docs_descr">
-		<text>Документация, в которой описан принцип работы и основные ТТХ электромагнитной установки.\nВ документы вложена записка: «Документацию необходимо вернуть в лабораторию X8, центральную. Я буду занят, доставишь сам. В КБО «Юбилейный» воспользуйся магнитной картой, чтобы спуститься на лифте на минус второй этаж, дальше разберёшься сам. Карту доступа прилагаю.\nН. Лебедев»\nЭти документы не должны попасть в чужие руки: они явно заинтересуют аналитиков СБУ.</text>
+		<text>Dokumentacja opisuj№ca zasadк dziaіania i gіуwne parametry pracy instalacji elektromagnetycznej.\nDo dokumentуw doі№czona jest uwaga: „Dokumentacjк naleїy zwrуciж do laboratorium X8, centrala. Bкdк zajкty, moїesz dostarczyж. W KBO Jubileinyj uїyj karty dostкpu, aby zjechaж wind№ na minus drugie piкtro, a potem sam sobie poradzisz. Zaі№czam kartк dostкpu.\nH. Lebiediew"\nDokumenty te nie powinny trafiж w niepowoіane rкce: z pewnoњci№ zainteresuj№ analitykуw SBU.</text>
 	</string>
 	<string id="st_zat_a23_labx8_key_name">
-		<text>Жёлтая ключ-карта - «Х8»</text>
+		<text>Їуіta karta dostкpu - "X8"</text>
 	</string>
 	<string id="st_zat_b12_documents_1">
-		<text>Приказ №562</text>
+		<text>Rozkaz 562</text>
 	</string>
 	<string id="st_zat_b12_documents_2">
-		<text>Внутреннее распоряжение №423</text>
+		<text>Nr zamуwienia wewnкtrznego 423</text>
 	</string>
 	<string id="st_zat_b12_key_1">
-		<text>Ключ «A»</text>
+		<text>Klucz A</text>
 	</string>
 	<string id="st_zat_b12_key_1_descr">
-		<text>Обычный на вид ключ, помеченный единственной буквой «А»</text>
+		<text>Zwyczajnie wygl№daj№cy klucz, oznaczony pojedyncz№ liter№ "A"</text>
 	</string>
 	<string id="st_zat_b12_key_2">
-		<text>Ключ «Б»</text>
+		<text>Klucz B</text>
 	</string>
 	<string id="st_zat_b12_key_2_descr">
-		<text>Обычный на вид ключ, помеченный единственной буквой «Б»</text>
+		<text>Zwyczajnie wygl№daj№cy klucz, oznaczony pojedyncz№ liter№ "B"</text>
 	</string>
 	<string id="st_zat_b20_noah_pda_desc">
-		<text>Голос в одной из аудиозаписей звучит особенно взвинченно: «Ага, вот вы где, мутанты фуевы!.. Залезли, значит, наверх, и думаете, Ной до вас не доберётся?.. Хе-хе! Да вы, я смотрю, не в курсах, что у меня возле северного хутора есть личный ход... Трындец вам, ублюдки!».</text>
+		<text>.Jeden gіos w nagraniu jest szczegуlnie podekscytowany: "Aaa! Tu jesteњcie, frajerskie mutanty! Wleџliњcie na gуre i myњlicie, їe Noe siк do was nie dobierze? He-he! Widzк, їe nie spodziewaliњcie siк, їe u mnie koіo pуіnocnego chutora jest przejњcie. Wychujaіem was, skurwiele!"</text>
 	</string>
 	<string id="st_zat_b20_noah_pda_name">
-		<text>КПК Ноя</text>
+		<text>PDA Noe</text>
 	</string>
 	<string id="st_zat_b40_notebook_desc">
-		<text>Среди множества спама в почтовом ящике ноутбука содержится единственное сообщение, помеченное флажком важности:\n«Организуйте лагерь на станции переработки отходов: каждый, кто участвует в деле, будет прибывать к вам. Чёрного не ждите: он со своими людьми будет на «Юпитере», у него своя задача. Военные тормознули свои полёты в Зоне, так что от них неприятностей не будет. Когда сталкеры найдут путь в Припять, пришлём проводника и будем ждать там людей заказчика - они покажут, где лаборатория.\nШакал»</text>
+		<text>Wњrуd wielu spamуw w laptopie jest jedna wiadomoњж oznaczona flag№ waїnoњci:\n"Zorganizuj obуz na Stacji Recyklingu: wszyscy zaangaїowani w sprawк przyjd№ do Ciebie. Nie oczekuj Czarnego: bкdzie na Jupiterze ze swoimi ludџmi, ma swoje zadanie. Wojsko spowolniіo swoje wypady w Zonie, wiкc nie bкdzie z nimi kіopotуw. Gdy stalkerzy dotr№ do Prypeci, wyњlemy przewodnika i zaczekamy tam na ludzi klienta - pokaї№, gdzie znajduje siк laboratorium.\nSzakal»</text>
 	</string>
 	<string id="st_zat_b40_notebook_name">
-		<text>Ноутбук наёмников</text>
+		<text>Laptop najemnikуw</text>
 	</string>
 	<string id="st_zat_b40_pda_1_desc">
-		<text>Последнее входящее сообщение:\n«Пока торчим возле каких-то старых цехов. Я послал двоих вперёд разведать к вам дорогу. Но пока не объявится курьер от заказчика, будем ждать здесь: тут воздух явно посвежей.\nТесак»</text>
+		<text>Ostatnia wiadomoњж przychodz№ca:\n"Kiedy krкciliњmy siк po starych warsztatach. Wysіaіem dwуch z przodu, їeby zbadali drogк do Ciebie. Ale dopуki nie pojawi siк kurier od klienta, poczekamy tutaj: powietrze jest wyraџnie њwieїsze.\nTesak»</text>
 	</string>
 	<string id="st_zat_b40_pda_1_name">
-		<text>КПК наёмника Крюка</text>
+		<text>PDA najemnika Haka</text>
 	</string>
 	<string id="st_zat_b40_pda_2_name">
-		<text>КПК наёмника Хребета</text>
+		<text>PDA najemnika Hrebeta</text>
 	</string>
 	<string id="st_zat_b57_gas_desc">
-		<text>Баллон с опасным химическим веществом нервно-паралитического действия.</text>
+		<text>Butla zawieraj№ca niebezpieczny chemiczny czynnik paraliїuj№cy.</text>
 	</string>
 	<string id="st_zat_b57_gas_name">
-		<text>Балон с газом «Перин-В3»</text>
+		<text>Butla z gazem "Perin-B3"</text>
 	</string>
 	<string id="zat_b33_safe_container_desc">
-		<text>Ящик заперт, в него вмонтирован весьма хитрый замок. Судя по весу и грохоту при встряхивании, внутри что-то есть.</text>
+		<text>Pudeіko jest zamkniкte, wbudowany w niego bardzo przebiegіy zamek. S№dz№c po ciкїarze i dudnieniu przy wstrz№њniкciu, coњ jest w њrodku.</text>
 	</string>
 	<string id="zat_b33_safe_container_name">
-		<text>Стальной ящик</text>
+		<text>Stalowe Pudeіko</text>
 	</string>
 	<string id="zat_b39_joker_pda_description">
-		<text>Запись в КПК: «Теперь я уверен, что артефакт не внизу! Он должен быть на самом дереве! Кажется, на него можно забраться с холма. Теперь главное, чтобы там не было монстров. Эх, жаль, после ссоры с Карданом и Баржой пришлось переться сюда одному.... Зато как притащу я артефакт, до них дойдёт, кого надо было слушать!»</text>
+		<text>Wpis PDA: „Teraz jestem pewien, їe artefakt nie jest uszkodzony! Musi byж na samym drzewie! Wygl№da na to, їe moїe wspi№ж siк do gуry. Teraz najwaїniejsze jest to, їe nie ma tam potworуw. Och, szkoda, po kіуtni z Kardanem i Bark№ musiaіem tu zostaж sam... Ale jak tylko przyniosк artefakt, dotrze do nich, kogo powinni byli sіuchaж!</text>
 	</string>
 	<string id="zat_b39_joker_pda_name">
-		<text>КПК Шутника</text>
+		<text>PDA Szutnika</text>
 	</string>
 	<string id="zat_b44_barge_pda_desc">
-		<text>В последней записи на КПК чувствуется обида: «Кардан - алкаш старый! Как набухается, зад от стула оторвать не может - ну да, как же: «тут надо получше осмотреться»... придурок! Ещё и на нас с Шутником наехал - молодые мы, типа, слишком, ни черта не сечём... х-хе!.. А Шутник тоже хорош: обиделся, схватил рюкзак и - фьють! - с концами. Пока я Кардана успокаивал, свалил в неизвестном направлении.  А мне что теперь, со старым идиотом бухать? И водка эта - дерьмо... пфу... а так классно всё начиналось!»</text>
+		<text>W ostatnim wpisie na PDA odczuwa siк urazк: „Kardan to stary pijak! Gdy siк nachla, nie moїe oderwaж tyіka od krzesіa - gada їe: „tu trzeba siк lepiej rozejrzeж”... kretyn! Wpadі teї na mnie i Szutnik - jesteњmy trochк za mіodzi, usіyszeliњmy.. hehe! - a Szutnik teї dobry: obraziі, іapn№і rкcami i fiuuu! Kiedy uspokajaіem Kardana, rzuciіem go w nieznanym kierunku. I co mam teraz zrobiж ze starym chlejusem? A ta wуdka to gуwno.. tfu.. i tak siк zaczкіo!”</text>
 	</string>
 	<string id="zat_b44_barge_pda_name">
-		<text>КПК Баржи</text>
+		<text>PDA Barїy</text>
 	</string>
 	<string id="zat_b22_medic_pda_desc">
-		<text>Запись №12. Исследования скоро закончатся... В лагере уже начинают что-то подозревать. Глухарь договорился с Данилой идти на кровососов... Интересно, когда они догадаются... Нужно отсортировать банки с кровью: узнать, которые из них заражены, и спрятать оставшиеся... [быстро:] Кто-то идет. [звук выключения, а затем включения записи]. Запись номер тринадцать... возможно, последняя. Всё наперекос. Сначала этот любопытный идиот-охотник, а теперь и Глухарь. Наивно рассчитывать, что это сойдёт мне с рук. За мной придут. Впрочем... [смешок] какая, в сущности, разница? Гемоглобинзависимость скоро съест меня. Лучше пусть застрелят - это лучше, чем умирать от болезни.</text>
+		<text>Wpis #12. Badania wkrуtce siк skoсcz№... Obуz zaczyna juї coњ podejrzewaж. Gіuchar zgodziі siк z Danil№ pуjњж do krwiopijcуw... Ciekawe, kiedy siк domyњl№... Musimy uporz№dkowaж banki krwi: dowiedzieж siк, ktуre s№ zakaїone, a resztк ukryж... [szybko:] Ktoњ nadchodzi. [dџwiкk wyі№czania, a nastкpnie wі№czania nagrania]. Wpis #13... prawdopodobnie ostatni. Wszystko jest na opak. Najpierw ten wњcibski idiotyczny ochotnik, a teraz Gіuchar. To naiwne myњleж, їe ujdzie mi to na sucho. Przyjd№ po mnie. Ale... [chichocze] co za rуїnica rуїnica? Uzaleїnienie od hemoglobiny wkrуtce mnie poїre. Lepiej zostaж zastrzelonym - to lepsze niї umrzeж na chorobк.</text>
 	</string>
 	<string id="zat_b22_medic_pda">
-		<text>КПК Тремора</text>
+		<text>PDA Tremora</text>
 	</string>
 	<string id="st_zat_b12_documents_1_descr">
-		<text>Совершенно секретно. Приказ №562 Начальника штаба обороны объекта №1 Р. Ю. Диденко.\nПодразделению химзащиты №423 сменить дислокацию из сектора Б103 в сектор А19, для проведения полевых испытаний хим. смеси «Перин В3» в условиях особо приближенным к боевым. Ответственный за проведение испытаний командир подразделения полковник П.П. Славин. Ответственный за транспортировку и безопасность зам. командира подразделения подполковник К.С. Валов.</text>
+		<text>Њciњle tajne. Rozkaz nr 562 Szefa Sztabu Obrony obiektu nr 1 R. Ju Didenko.\nJednostka ochrony chemicznej nr 423 o zmianie lokalizacji z sektora B103 na sektor A19, w celu przeprowadzenia testуw chemicznych w terenie. mieszanki "Perin B3" w warunkach szczegуlnie zbliїonych do walki. Odpowiedzialny za testowanie dowуdcy jednostki, puіkownika P.P. Sіawin. Odpowiedzialny za transport i bezpieczeсstwo dowуdca jednostki ppіk K.S. Waіow.</text>
 	</string>
 	<string id="st_zat_b12_documents_2_descr">
-		<text>Совершенно секретно. Распоряжение от полковника П.П. Славина.\nСогласно этому распоряжению ознакомить личный состав подразделения химзащиты №423 с данной информацией:\n1. Ключи от контейнера с химической смесью «Перин В3» находятся в распоряжении у: полковника П.П. Славина (ключ А), подполковника К.С. Валова (ключ Б).\n2. Порядок построения колонны, начиная с головы колонны: машина зам. командира подразделения, машина сопровождения №8, БТР №1, транспортная машина №1, БТР №3, машина сопровождения №2, машина командира подразделения П.П. Славина.\nКопии распоряжения вручить подполковнику К.С. Валову и старшему лейтенанту Р.Б. Назаренку.</text>
+		<text>ЊCIЊLE TAJNE. Rozkaz od puіkownika P.P. Slawina.\nZgodnie z tym poleceniem naleїy zapoznaж personel jednostki ochrony chemicznej nr 423 z nastкpuj№c№ informacj№:\n1. Klucze do kontenera z mieszank№ chemiczn№ "Perin B3" s№ do dyspozycji: pіk P.P. Slawin (klucz A), podpuіkownik K.S. Waіow (klucz B).\n2. Kolejnoњж budowy kolumny, pocz№wszy od gіowicy kolumny: zastкpca maszyny. dowуdca jednostki, wуz eskortowy nr 8, BTR nr 1, wуz transportowy nr 1, BTR nr 3, wуz eskortowy nr 2, dowуdca jednostki P.P. Slawina.\nKopie rozkazu przekazania podpuіkownikowi K.S. Waіow i starszy porucznik R.B. Nazarenko.</text>
 	</string>
 	<string id="st_zat_a23_labx8_key_descr">
-		<text>Магнитная ключ-карта жёлтого цвета, с нанесёнными на одной из плоскостей символами «Х8».\nОна не должна попасть в чужие руки, поскольку позволяет попасть в секретную лабораторию.</text>
+		<text>Karta dostкpu w kolorze їуіtym, z nadrukowanymi symbolami „X8” na jednej ze stron.\nNie moїe wpaњж w niepowoіane rкce, poniewaї umoїliwia dostanie siк do tajnego laboratorium.</text>
 	</string>
 	<string id="st_jup_b202_bandit_pda">
-		<text>КПК посланника Султана</text>
+		<text>PDA wysіannika Suіtana</text>
 	</string>
 	<string id="st_jup_b202_bandit_pda_descr">
-		<text>Последнее отправленное с КПК сообщение - звуковое: «Султан, я выцепил этого гнилого фраера!.. Отгрёб он от меня по полной! Теперь надолго, сука, запомнит, как пацанам фуфло впаривать!».</text>
+		<text>Ostatnia wiadomoњж wysіana z PDA to wiadomoњж dџwiкkowa: „Suіtan, wyci№gn№іem tego zgniіego frajera! Dostaі ode mnie na caіego! Teraz na dіugo, kurwa, bкdzie pamiкtaж, їeby nie wciskaж chіopcom badziewia!</text>
 	</string>
 	<string id="st_af_quest_b14_twisted_descr">
-		<text>Некогда это был штурвал земснаряда, но теперь перед глазами примерно наполовину сформированный артефакт. Артефакт довольно необычен: интенсивно светится, немного излучает - и всё.</text>
+		<text>Kiedyњ byі to ster pogікbiarki, ale teraz jest mniej wiкcej na wpуі uformowanym artefaktem. Artefakt jest doњж niezwykіy: њwieci intensywnie, trochк promieniuje - i tyle.</text>
 	</string>
 	<string id="st_zat_b40_pda_2_desc">
-		<text>Входящее сообщение:\n«Мне удалось договориться насчёт оружия: этот жадюга продаст нам припасы своей группировки. Обойдётся, в общем, недорого, но придется тащиться к «Юпитеру».\nГриф».</text>
+		<text>Wiadomoњж przychodz№ca:\n"Udaіo mi siк wynegocjowaж nasz№ broс: ten chciwy їydzisko sprzeda nam zapasy swojej frakcji. Ogуlnie rzecz bior№c, bкdzie to niedrogie, ale trzeba bкdzie ci№gn№ж siк do Jupitera.\nGryf.</text>
 	</string>
 </string_table>

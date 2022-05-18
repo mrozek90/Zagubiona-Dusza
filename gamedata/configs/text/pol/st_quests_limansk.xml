@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
 	<string id="anaconda_forgotten_come_1">
-		<text>Лиманск: Сопроводить Анаконду</text>
+		<text>Limaсsk: Eskorta Anakondy</text>
 	</string>
 	<string id="anaconda_forgotten_come_2">
-		<text>Возможно, «Забытые Края», про которые говорит этот бандит - и есть то место, где скрывается Шкир.</text>
+		<text>Byж moїe "Zapomniane Ziemie", o ktуrych mуwi ten bandyta, to miejsce, w ktуrym ukrywa siк Szkir.</text>
 	</string>
 	<string id="anaconda_forgotten_come_3">
-		<text>Лиманск: Поговорить с Анакондой</text>
+		<text>Limaсsk: Porozmawiaj z Anakond№</text>
 	</string>
 	<string id="anaconda_forgotten_come_4">
-		<text>Почему он остановился?</text>
+		<text>Dlaczego zatrzymaі siк?</text>
 	</string>
-	
+
 	<string id="shved_hospital_come_1">
-		<text>Лиманск: Сопроводить Шведа до Госпиталя</text>
+		<text>Limansk: Eskortuj Szweda do Szpitala</text>
 	</string>
 	<string id="shved_hospital_come_2">
-		<text>Этот сталкер знает, куда направился Шкир, поэтому надо помочь ему добраться до нужного ему места.</text>
+		<text>Ten stalker wie, dok№d poszedі Szkir, wiкc muszк pomуc mu dostaж siк do miejsca, ktуrego potrzebuje.</text>
 	</string>
 	<string id="shved_hospital_come_3">
-		<text>Лиманск: Поговорить со Шведом</text>
+		<text>Limansk: Porozmawiaj ze Szwedem</text>
 	</string>
 	<string id="shved_hospital_come_4">
-		<text>Вроде бы мы оба живы. Теперь настало время говорить.</text>
+		<text>Wygl№da na to, їe oboje їyjemy. Teraz nadszedі czas na rozmowк.</text>
 	</string>
-	
+
 </string_table>
