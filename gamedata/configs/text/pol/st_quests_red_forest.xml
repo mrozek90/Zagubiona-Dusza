@@ -1,167 +1,162 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <string_table>
 
-<!--===========================================================
-< Если ты это читаешь, то ты, млять, поц. Понял?
-<	22.02.2021
-<===========================================================-->
-
 	<string id="shkir_first_task_1">
-		<text>Первая разведка: Найти отряд "Альфа"</text>
+		<text>Pierwszy Zwiad: Znajdџ oddziaі Alpha</text>
 	</string>
 	<string id="shkir_first_task_2">
-		<text>Ну и задания. Пройди туда-сюда, два метра от стоянки. Шкир чё, издевается надо мной? С другой стороны, вот так быстро может и пройти контракт.</text>
+		<text>Cуї, gіupie zadanie. Idџ tam i z powrotem, dwa metry od parkingu. Szkir szydzi ze mnie? Z drugiej strony szybko moїe min№ж takie zadanie.</text>
 	</string>
 	<string id="shkir_first_task_3">
-		<text>Первая разведка: Вернуться к Шкиру</text>
+		<text>Pierwszy Zwiad: Powrуt do Szkira</text>
 	</string>
 	<string id="shkir_first_task_4">
-		<text>Может я и ошибся. Лучше уже весь контракт так пробегать, чем закончить как отряд Лешего. Всё, что мне остаётся - рассказать об этом Шкиру.</text>
+		<text>Moїe byіem w bікdzie. Lepiej przebiec w ten sposуb caіy kontrakt, niї skoсczyж jako oddziaі Leszy. Pozostaje mi tylko powiedzieж o tym Szkirowi.</text>
 	</string>
 
 	<string id="sith_go_1">
-		<text>Свидетель: Найти Ситха</text>
+		<text>Њwiadek: Znajdџ Sitha</text>
 	</string>
 	<string id="sith_go_2">
-		<text>Возможно, Ситх что-то знает, он говорил про дом в лесу, в котором сейчас засели сталкеры.</text>
+		<text>Byж moїe Sith coњ wie, mуwiі o domu w lesie, w ktуrym teraz osiedlaj№ siк stalkerzy.</text>
 	</string>
 	<string id="sith_go_3_sith_go_5">
-		<text>Свидетель: Уничтожить лагерь, допросить пленного</text>
+		<text>Њwiadek: Zniszcz obуz, przesіuchaj wiкџnia</text>
 	</string>
 	<string id="sith_go_4_sith_go_6">
-		<text>Мне надо вместе с отрядом Ситха уничтожить сталкерский лагерь, одного оставить в плен для допроса. Возможно его не придётся мучать. Если он сам расколется, он облегчит жизнь себе.</text>
+		<text>Razem z oddziaіem Sitha muszк zniszczyж obуz stalkerуw, zostawiж jednego jako wiкџnia na przesіuchanie. Moїe nie bкdzie musiaі cierpieж. Jeњli siк zіamie, odkupi sobie їycie.</text>
 	</string>
 	<string id="sith_go_7">
-		<text>Свидетель: Поговорить с Ситхом</text>
+		<text>Њwiadek: Porozmawiaj z Sithem</text>
 	</string>
 	<string id="sith_go_8">
-		<text>Не думаю, что убийство этого сталкера будет правильным, как минимум, с логической точки зрения. Он ещё может пригодиться.</text>
+		<text>Nie s№dzк, їeby zabicie tego stalkera byіo sіuszne, przynajmniej z logicznego punktu widzenia. Moїe siк jeszcze przydaж.</text>
 	</string>
 	<string id="sith_go_9">
-		<text>Свидетель: Поговорить со Шкиром</text>
+		<text>Њwiadek: Porozmawiaj ze Szkirem</text>
 	</string>
 	<string id="sith_go_10">
-		<text>Остаётся только доложить Шкиру ситуацию.</text>
+		<text>Pozostaje tylko zgіosiж sytuacjк Szkirowi.</text>
 	</string>
 
 	<string id="shahta_1">
-		<text>Обстоятельства: Найти заброшенную шахту</text>
+		<text>Okolicznoњci: Znajdџ opuszczon№ kopalniк</text>
 	</string>
 	<string id="shahta_2">
-		<text>Эта мразь скоро вынудит меня просверлить ему свинцовую дыру в своём лысом рыле. "Ню-ню-ню, у меня связи, не трогай меня!"</text>
+		<text>Ta szumowina wkrуtce zmusi mnie do wywiercenia oіowiem dziury w jego parszywej mordzie. "Nu-nu-nu, mam plecy, nie dotykaj mnie!"</text>
 	</string>
 	<string id="dolg_1">
-		<text>Обстоятельства: Выбить долговцев с точки</text>
+		<text>Okolicznoњci: Wyeliminuj Powinnoњж z punktu</text>
 	</string>
 	<string id="dolg_2">
-		<text>Нужно будет предъявить Шкиру по ситуации, что из-за его эгоизма погибли Кейн и Фобос.</text>
+		<text>Trzeba bкdzie pokazaж Szkirowi zgodnie z sytuacj№, їe z powodu jego egoizmu Kane i Fobos zostali zabici.</text>
 	</string>
 	<string id="monolith_1">
-		<text>Обстоятельства: Уничтожить монолитовцев</text>
+		<text>Okolicznoњci: Zniszcz Monolit</text>
 	</string>
 	<string id="sith_go_final">
-		<text>Обстоятельства: Поговорить с Ситхом</text>
+		<text>Okolicznoњci: Porozmawiaj z Sithem</text>
 	</string>
 	<string id="sith_go_final_d">
-		<text>Перекинусь парой слов с пострадавшим.</text>
+		<text>Zamieniк kilka sіуw z ofiar№.</text>
 	</string>
 
 	<string id="leshiy_giant_1">
-		<text>Группа "Альфа": Найти и уничтожить монстра</text>
+		<text>Grupa Alfa: Znajdџ i zniszcz potwora</text>
 	</string>
 	<string id="leshiy_giant_2">
-		<text>Чё-то мне подсказывает, что Леший просто держит меня за дебила. Какие к чёрту огромные монстры? За пару лет контрактов в Зоне, я ещё не слышал про монстра, способного в одиночку положить троих вооружённых до зубов наёмников, и остаться в живых. Разве что эти трое разделись перед вылазкой, и в оружие запихнули вату.</text>
+		<text>Coњ mi mуwi, їe Leszy po prostu bierze mnie za kretyna. Czym do diabіa s№ wielkie potwory? Przez kilka lat kontraktуw w Zonie nie sіyszaіem jeszcze o potworze, ktуry w pojedynkк moїe powaliж trzech uzbrojonych po zкby najemnikуw i pozostaж przy їyciu. Chyba їe ci trzej rozebrali siк przed wypadem, a broс wziкli na kapiszony.</text>
 	</string>
 	<string id="leshiy_giant_3">
-		<text>Группа "Альфа": Вернуться к Лешему</text>
+		<text>Grupa Alfa: Powrуt do Leszy</text>
 	</string>
 	<string id="leshiy_giant_4">
-		<text>Млять, я забираю свои слова назад! Я такого ещё не видел никогда в жизни, и боюсь представить, что оно сотворило с теми беднягами. Как бы там ни было, я выжил и ребята отмщены.</text>
+		<text>Kurwa, cofam moje sіowa! Nigdy w їyciu nie widziaіem czegoњ takiego i bojк siк sobie wyobraziж, co to zrobiіo z tymi biednymi facetami. Cokolwiek to byіo, przeїyіem i chіopaki zostali pomszczeni.</text>
 	</string>
 
 
 
 	<string id="sith_return_bridge_quest_1">
-		<text>Возвращение: Добраться до базы Наёмников</text>
+		<text>Powrуt: Dotrzyj do bazy najemnikуw</text>
 	</string>
 	<string id="sith_return_bridge_quest_2">
-		<text>Нужно предупредить наёмников о том, что Шкир предал группу и сейчас скрывается в Зоне.</text>
+		<text>Trzeba ostrzec najemnikуw, їe Szkir zdradziі grupк i ukrywa siк teraz w Zonie.</text>
 	</string>
 	<string id="sith_return_bridge_quest_3">
-		<text>Возвращение: Поговорить с Ситхом</text>
+		<text>Powrуt: Porozmawiaj z Sithem</text>
 	</string>
 	<string id="sith_return_bridge_quest_4">
-		<text>Похоже, Шкир предугадал наши с Ситхом действия и позаботился о том, чтобы остальные отряды не смогли нам помочь...</text>
+		<text>Wygl№da na to, їe Szkir przewidziaі nasze dziaіania z Sithem i upewniі siк, їe reszta oddziaіu nie moїe nam pomуc...</text>
 	</string>
 	<string id="sith_return_bridge_quest_5">
-		<text>Возвращение: Дождаться, пока мост опустится</text>
+		<text>Powrуt: Poczekaj, aї most siк opadnie</text>
 	</string>
 	<string id="sith_return_bridge_quest_6">
-		<text>Судя по всему, Шкир направился в Лиманск. Есть ещё несколько вариантов, но первым делом нужно будет прочистить именно этот город.</text>
+		<text>Podobno Szkir poszedі do Limaсska. Jest jeszcze kilka opcji, ale pierwsz№ rzecz№, ktуr№ muszк zrobiж, jest oczyszczenie tego miasta.</text>
 	</string>
 	<string id="sith_return_bridge_quest_7">
-		<text>Возвращение: Узнать у Ситха, что случилось</text>
+		<text>Powrуt: Zapytaj Sitha, co siк staіo</text>
 	</string>
 	<string id="sith_return_bridge_quest_8">
-		<text>Что-то пошло не так. Мост сломался?</text>
+		<text>Coњ poszіo nie tak... Moїe most jest zepsuty?</text>
 	</string>
 	<string id="sith_return_bridge_quest_9">
-		<text>Возвращение: Найти способ пересечь реку</text>
+		<text>Powrуt: Znajdџ sposуb na przekroczenie rzeki</text>
 	</string>
 	<string id="sith_return_bridge_quest_10">
-		<text>Как же мне пересечь реку? Надо что-нибудь придумать. Может, попробовать перелезть через эти провода?</text>
+		<text>Jak przeprawiж siк przez rzekк? Muszк coњ wymyњliж. Moїe sprуbujк wspi№ж siк po tych drutach?</text>
 	</string>
-	
-	
+
+
 	<string id="anaconda_first_dialog_1_1">
-		<text>Спаситель: Поговорить с бандитом</text>
+		<text>Wybawca: Porozmawiaj z bandyt№</text>
 	</string>
 	<string id="anaconda_first_dialog_2_2">
-		<text>Не знаю, что это за бандит, но похоже, что мы с Ситхом обязаны ему жизнью. Надо разузнать, кто это такой.</text>
+		<text>Nie wiem kim jest ten bandyta, ale wygl№da jak Sith i zawdziкczam mu їycie. Muszк dowiedzieж siк kim jest.</text>
 	</string>
 	<string id="anaconda_first_dialog_3_3">
-		<text>Спаситель: Перейти в Лиманск</text>
+		<text>Wybawca: Idџ do Limaсska</text>
 	</string>
 	<string id="anaconda_first_dialog_4_4">
-		<text>И так уже слишком много времени ушло на это всё. Пора уже продолжить поиски.</text>
+		<text>To wszystko trwaіo zbyt dіugo. Czas kontynuowaж poszukiwania.</text>
 	</string>
-	
+
 	<string id="hospital_come">
-		<text>Поиски: Добраться до Госпиталя</text>
+		<text>Zadanie: Dotrzyj do Szpitala</text>
 	</string>
 
 	<string id="sektor_find_serial_1">
-		<text>Дежавю: Найти Ситха</text>
+		<text>Deja Vu: Znajdџ Sith</text>
 	</string>
 	<string id="sektor_find_serial_2">
-		<text>Дежавю: Найти Инферниса</text>
+		<text>Deja Vu: Znajdџ Infernisa</text>
 	</string>
 	<string id="sektor_find_serial_3">
-		<text>Дежавю: Найти потерянный отряд наёмников</text>
+		<text>Deja Vu: Znajdџ zaginiony oddziaі najemnikуw</text>
 	</string>
 	<string id="sektor_find_serial_4">
-		<text>Дежавю: Рассказать Ворону</text>
+		<text>Deja Vu: Porozmawiaj z Woronem</text>
 	</string>
 	<string id="sektor_find_serial_5">
-		<text>При подходящей ситуации, расскажу всё этому наёмнику. Интересно, они погибли из-за вертолёта, или кто-то ещё вмешался?</text>
+		<text>Kiedy sytuacja siк poprawi, powiem temu najemnikowi wszystko. Zastanawiam siк, czy zginкli z powodu helikoptera, czy ktoњ inny interweniowaі?</text>
 	</string>
 	<string id="sektor_find_serial">
-		<text>Долговцы и наёмники из других отрядов в Рыжем Лесу, упавший вертолёт, Ситха нет, ещё и Инфернис тут ошивается. Да что вообще происходит, чёрт возьми?</text>
+		<text>Powinnoњciowce i najemnicy z innych jednostek w Czerwonym Lesie, rozbity helikopter, nie ma Sitha, krкci siк tu teї Infernis. Co siк tu do cholery wyrabia?</text>
 	</string>
-	
+
 	<string id="sektor_find_sith_treasure_1">
-		<text>Тайный сигнал: Разыскать информацию в шахте</text>
+		<text>Tajny sygnaі: Znajdџ informacje w kopalni</text>
 	</string>
 	<string id="sektor_find_sith_treasure_2">
-		<text>Это не голова Ситха. Скорее всего, Ситх просто снял эту маску и надел её на чью-то голову, чтобы показать мне, что он был здесь. А значит, оставил и другую информацию о том, куда направился и почему связь не работает. Но поскольку тут были и дружки Шкира, вероятно и то, что это была их работа. Во всяком случае, нужно обчистить эту шахту.</text>
+		<text>To nie jest gіowa Sitha. Najprawdopodobniej Sith po prostu zdj№і tк maskк i zaіoїyі j№ komuњ na gіowк, їeby pokazaж mi, їe tu jest. Zostawiі wiкc inne wskazуwki o tym, dok№d poszedі i dlaczego poі№czenie nie dziaіa. Ale poniewaї przyjaciele Szkira teї tu byli, jest prawdopodobne, їe to byіa ich robota. W kaїdym razie muszк przeczesaж tк kopalniк.</text>
 	</string>
-	
+
 	<string id="gauss_aes_relocate_1">
-		<text>Неизвестное оружие: Отдать винтовку профессору</text>
+		<text>Nieznana broс: Daj karabin profesorowi</text>
 	</string>
 	<string id="gauss_aes_relocate_2">
-		<text>Я ещё никогда не видел и понятия не имел про существование такого оружия. Но если из этой винтовки стрелял кто-то из группы Шкира, то шансов у меня нет. Уж если она способна одним выстрелом вертолёт сбить... Надо показать её профессору.</text>
+		<text>Nigdy nie widziaіem i nie miaіem pojкcia o istnieniu takiej broni. Ale jeњli ktoњ z grupy Szkira strzeli z tego karabinu, to nie mam szans. Cуї, skoro jest w stanie jednym strzaіem zestrzeliж helikopter... Muszк to pokazaж profesorowi.</text>
 	</string>
-	
+
 </string_table>

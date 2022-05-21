@@ -3,257 +3,257 @@
 <string_table>
 
 	<string id="for_kilorik_find_1">
-		<text>Законы учёных: Добраться до «Забытых Краёв»</text>
+		<text>Prawa naukowcуw: Dotrzyj do Zapomnianych Ziem</text>
 	</string>
 	<string id="for_kilorik_find_2">
-		<text>За помощь Килорику, он отправил мне в КПК данные о некой базе учёных, где меня и будет ждать награда за помощь. Возможно, люди там что-то смогут рассказать про Шкира.</text>
+		<text>Za pomoc Kilorikowi przesіaі mi do PDK dane o pewnej bazie naukowcуw, gdzie bкdzie czekaіa na mnie nagroda za pomoc. Byж moїe ludzie bкd№ mogli opowiedzieж coњ o Szkirze.</text>
 	</string>
 	<string id="for_kilorik_find_3">
-		<text>Законы учёных: Поговорить с профессором</text>
+		<text>Prawa naukowcуw: Porozmawiaj z Profesorem</text>
 	</string>
 	<string id="for_kilorik_find_4">
-		<text>Я наконец-то сюда добрался. Если Килорик не солгал, мне полагается награда.</text>
+		<text>W koсcu tu dotarіem. Jeњli Kilorik nie skіamaі, mam prawo do nagrody.</text>
 	</string>
-	
+
 	<string id="shved_forgotten_way_1">
-		<text>«Забытые Края»: Добраться до местности</text>
+		<text>Zapomniane Ziemie: Dotrzyj do Obszaru</text>
 	</string>
 	<string id="shved_forgotten_way_2">
-		<text>Швед скинул координаты места, про которое, судя по всему, и говорил Анаконда. Тут и может скрываться Шкир.</text>
+		<text>Szwed zrzuciі wspуіrzкdne miejsca, o ktуrym podobno mуwiі Anakonda. Tam Szkir moїe siк ukryж.</text>
 	</string>
-	
+
 	<string id="for_first_coming_1">
-		<text>«Забытые Края»: Найти информацию о Шкире</text>
+		<text>Zapomniane Ziemie: Znajdџ informacje o Szkirze</text>
 	</string>
 	<string id="for_first_coming_2">
-		<text>«Забытые Края»: Поговорить с профессором</text>
+		<text>Zapomniane Ziemie: Porozmawiaj z Profesorem</text>
 	</string>
 	<string id="for_first_coming_3">
-		<text>Профессор знает, где скрывалась эта паскуда. И, как сказал охранник бункера, деньги его не интересуют. Что же тогда?</text>
+		<text>Profesor wie, gdzie ukrywaі siк ten draс. I, jak powiedziaі straїnik bunkra, nie interesuj№ go pieni№dze. Wiкc o co chodzi?</text>
 	</string>
-	
+
 	<string id="for_artefacts_find_1">
-		<text>Новый контракт: Найти заказанные артефакты</text>
+		<text>Nowy Kontrakt: Znajdџ zamуwione artefakty</text>
 	</string>
 	<string id="for_artefacts_find_2">
-		<text>Никогда ещё не приходилось работать с учёными. Но этот тип мне нравится: умеет не совать свой нос в чужие дела.</text>
+		<text>Nigdy wczeњniej nie musiaіem pracowaж z naukowcami. Ale ja lubiк ten typ: wiedz№, jak nie wsadzaж nosa w sprawy innych ludzi.</text>
 	</string>
 	<string id="for_artefacts_find_3">
-		<text>Новый контракт: Вернуться к профессору</text>
+		<text>Nowy Kontrakt: Powrуt do profesora</text>
 	</string>
 	<string id="for_artefacts_find_4">
-		<text>Чёрт возьми, я никогда ещё не занимался этой дрянью. Надеюсь, я нашёл эти артефакты, потому что по рисункам всё равно ни черта не понятно!</text>
+		<text>Cholera, nigdy wczeњniej nie robiіem takiej chaіtury. Mam nadziejк, їe znalazіem te artefakty co trzeba. Rysunkуw ni cholery nie rozumiem!</text>
 	</string>
-	
+
 	<string id="for_kilorik_receive_1">
-		<text>Законы учёных: Поговорить с Килориком</text>
+		<text>Prawa Naukowcуw: Porozmawiaj z Kilorikiem</text>
 	</string>
 	<string id="for_kilorik_receive_2">
-		<text>Профессор меня, кажется, надуть хочет. Я его считал хорошим человеком, но тогда бы он не поступил так по-скотски. Я на контракт не напрашивался, к тому же он им должен расплачиваться только за информацию про Шкира. А за помощь Килорику я что полулчу? Нужно у последнего поинтересоваться, как быть.</text>
+		<text>Profesor chyba chce mnie oszukaж. Uwaїaіem go za dobrego czіowieka, ale wtedy nie post№piіby tak bestialsko. Nie prosiіem o umowк, poza tym powinien im pіaciж tylko za informacje o Szkirze. A co dostanк za pomoc Kilorikowi? Muszк zapytaж tego ostatniego, jak siк ma.</text>
 	</string>
 	<string id="for_kilorik_receive_3">
-		<text>Законы учёных: Вернуться к профессору</text>
+		<text>Prawa Naukowcуw: Powrуt do profesora</text>
 	</string>
 	<string id="for_kilorik_receive_4">
-		<text>Ну и ситуация. Килорик готов отдать мне награду за свой контракт, лишь чтобы всё было справедливо по отношению ко мне? Такие люди более, чем заслуживают уважения.</text>
+		<text>Taka sytuacja.. Kilorik jest gotуw wrкczyж mi nagrodк za swуj kontrakt, tylko po to, by wszystko byіo sprawiedliwe wobec mnie? Tacy ludzie s№ bardziej niї godni szacunku.</text>
 	</string>
-	
+
 	<string id="for_hrust_quest_1">
-		<text>Вопрос психики: Поговорить с напарником</text>
+		<text>Kwestia Psychiki: Porozmawiaj z partnerem</text>
 	</string>
 	<string id="for_hrust_quest_2">
-		<text>Хорошо, что мне нашли напарника на это задание. Чувствую я, что этот контракт я в одиночку не выдержу.</text>
+		<text>Dobrze, їe znalazіem partnera do tego zadania. Czujк, їe sam nie wytrzymam tej umowy.</text>
 	</string>
 	<string id="for_hrust_quest_3">
-		<text>Вопрос психики: Уничтожить фантомов</text>
+		<text>Pytanie Psychiki: Zniszcz upiory</text>
 	</string>
 	<string id="for_hrust_quest_4">
-		<text>Зона не перестаёт меня удивлять, честно говоря. С каждым разом какая-то новая херня, которую по стечению обстоятельств нужно уничтожить именно мне. Ладно, главное - чтобы мой напарник выжил. Иначе я не смогу заняться поисками в одиночку, это будет долго и сложно.</text>
+		<text>Szczerze mуwi№c, Strefa nigdy nie przestaje mnie zadziwiaж. Za kaїdym razem jakieњ nowe dziwactwa, ktуre przez przypadek muszк zniszczyж. Dobra, najwaїniejsze jest to, їe mуj partner przeїyje. W przeciwnym razie sam nie dam rady, bкdzie to dіugie i trudne.</text>
 	</string>
 	<string id="for_hrust_quest_5">
-		<text>Вопрос психики: Обыскать здание</text>
+		<text>Pytanie Psychiki: Przeszukaj budynek</text>
 	</string>
 	<string id="for_hrust_quest_6">
-		<text>Здание не такое большое, поэтому попробую найти что-то внутри. В двери, которые я не могу открыть, ломиться смысла не вижу. Осмотрю комнаты и вернусь, профессор один хрен не говорил, что приносить результаты обязательно.</text>
+		<text>Budynek nie jest taki duїy, wiкc postaram siк znaleџж coњ w њrodku. Nie widzк sensu wyіamywaж drzwi, ktуrych nie mogк otworzyж. Rozejrzк siк po k№tach i wrуcк, profesor nigdy nie mуwiі, їe koniecznie musz№ byж rezultaty.</text>
 	</string>
 	<string id="for_hrust_quest_7">
-		<text>Вопрос психики: Продолжить поиски</text>
+		<text>Pytanie Psychiki</text>
 	</string>
 	<string id="for_hrust_quest_8">
-		<text>Какие-то документы.. И судя по заголовку, это именно то, что нужно. Какая удача! Думаю, можно возвращаться. Хотя кто его знает, может в этом здании ещё где-то что-то спрятано, или Джекилу в голову взбредёт отправить меня сюда третий раз за ещё какой-то ерундой. Снова лезть сюда я не хочу, поэтому лучше поищу что-то ещё.</text>
+		<text>Jakieњ dokumenty.. A s№dz№c po tytule, jest to dokіadnie to, czego potrzebujк. Co za fart! Myњlк, їe mogк wrуciж. Chociaї kto wie, moїe gdzieњ w tym budynku kryje siк coњ jeszcze, albo Jekyll wpadnie na to, їeby wysіaж mnie tu po raz trzeci po kolejne bzdury. Nie chcк mi siк znowu tu przyіaziж, wiкc lepiej przeszukam kaїdy zakamarek.</text>
 	</string>
 	<string id="for_hrust_quest_9">
-		<text>Вопрос психики: Поговорить с Хрустом</text>
+		<text>Pytanie Psychiki: Porozmawiaj z Chrustem</text>
 	</string>
 	<string id="for_hrust_quest_10">
-		<text>Ну что же, здание я осмотрел, документы нашёл. Думаю, теперь можно возвращаться.</text>
+		<text>No cуї, zbadaіem budynek, znalazіem dokumenty. Myњlк, їe mogк w koсcu wrуciж.</text>
 	</string>
 	<string id="for_hrust_quest_11">
-		<text>Вопрос психики: Уничтожить источник сильного пси-влияния</text>
+		<text>Pytanie psychiki: Zniszcz џrуdіo silnego wpіywu PSI</text>
 	</string>
 	<string id="for_hrust_quest_12">
-		<text>Сука, что это такое?!! Какого чёрта я это чувствую?!! Мать твою, надо что-то делать!</text>
+		<text>Kurwa, co to jest?! Co to za piekielne uczucie?! Maж.. muszк coњ zrobiж!</text>
 	</string>
 	<string id="for_hrust_quest_13">
-		<text>Вопрос психики: Вернуться к профессору</text>
+		<text>Pytanie psychiki: Wrуж do profesora</text>
 	</string>
 	<string id="for_hrust_quest_14">
-		<text>Господи, о чём я только думал, соглашаясь на этот чёртов контракт?! Если эта скотина ещё раз меня туда отправит, я прострелю ему башку к чёртовой матери!</text>
+		<text>Boїe, co ja sobie myњlaіem, zgadzaj№c siк na ten cholerny kontrakt?! Jeњli ten draс znуw mnie tam wyњle, strzelк mu w іeb!</text>
 	</string>
-	
+
 	<string id="for_bloodsucker_quest_1">
-		<text>Обитатель: Поговорить с лидером группы</text>
+		<text>Mieszkaniec: Porozmawiaj z liderem grupy</text>
 	</string>
 	<string id="for_bloodsucker_quest_2">
-		<text>С каждым разом задания становятся всё хуже и хуже. Скоро меня заставят всю эту местность в округе расчистить от мутантов, вытащить оттуда все артефакты, и напоследок стриптиз станцевать. Тьху млять!</text>
+		<text>Za kaїdym razem zadania staj№ siк coraz gorsze. Wkrуtce zmusz№ mnie do oczyszczenia caіego obszaru w dzielnicy z mutantуw, wyci№gniкcia stamt№d wszystkich artefaktуw, a na koniec zataсczyж kankana. Cholera jasna!</text>
 	</string>
 	<string id="for_bloodsucker_quest_3">
-		<text>Обитатель: Отправиться в лес</text>
+		<text>Mieszkaniec: Idџ do lasu</text>
 	</string>
 	<string id="for_bloodsucker_quest_4">
-		<text>Очень мне не нравится этот тип. Если вдруг я буду ранен, он меня скорее добьёт, чем поможет. Хоть они и обязались прикрывать меня, но мне лучше будет надеяться на себя. Впрочем, как и всегда.</text>
+		<text>Naprawdк nie lubiк tego faceta. Jeњli nagle doznam kontuzji, raczej mnie wykoсczy niї pomoїe. Mimo їe zobowi№zali siк mnie kryж, lepiej polegaж na sobie. Tak jak zawsze.</text>
 	</string>
 	<string id="for_bloodsucker_quest_5">
-		<text>Обитатель: Обсудить план с группой</text>
+		<text>Mieszkaniec: Omуw plan z grup№</text>
 	</string>
 	<string id="for_bloodsucker_quest_6">
-		<text>Так, вот мы и в лесу. Теперь нужно обсудить, как кровососа искать. Его и убить-то задача не из лёгких, а тут ещё и не знаешь, с чего начать.</text>
+		<text>A wiкc oto jesteњmy w lesie. Teraz musimy omуwiж, jak szukaж krwiopijcy. Zabicie go nie jest іatwym zadaniem, a tutaj nie wiadomo od czego zacz№ж.</text>
 	</string>
 	<string id="for_bloodsucker_quest_7">
-		<text>Обитатель: Выследить кровососа</text>
+		<text>Mieszkaniec: Upoluj krwiopijcк</text>
 	</string>
 	<string id="for_bloodsucker_quest_8">
-		<text>Мои догадки подтвердились - эта скотина сразу собралась меня сплавить на приманку. Вот теперь пусть сам и отдувается. Однако, план я придумал неплохой.</text>
+		<text>Moje domysіy siк potwierdziіy - ten brutal natychmiast wysіaі mnie na przynкtк. Teraz niech siк napuszy. Wpadіem jednak na dobry plan.</text>
 	</string>
 	<string id="for_bloodsucker_quest_9">
-		<text>Обитатель: Бежать из леса</text>
+		<text>Mieszkaniec: Ucieczka z lasu</text>
 	</string>
 	<string id="for_bloodsucker_quest_10">
-		<text>Если я сейчас же не вернусь в бункер, эта тварь и меня прикончит с остальными. Чёрт, как я теперь усну, после всего, что произошло?</text>
+		<text>Jeњli nie wrуcк teraz do bunkra, to coњ zabije mnie i innych. Cholera, jak mam teraz spaж po tym wszystkim, co siк wydarzyіo?</text>
 	</string>
 	<string id="for_bloodsucker_quest_11">
-		<text>Лекарство от страха: Поговорить с Инфернисом</text>
+		<text>Lekarstwo na strach: Porozmawiaj z Infernisem</text>
 	</string>
 	<string id="for_bloodsucker_quest_12">
-		<text>Он прав во всём. Если меня какой-то кровосос остановил, то что говорить про Шкира?</text>
+		<text>Ma racjк we wszystkim. Jeњli zatrzyma mnie jakiњ krwiopijca, to jak mogк stawiж czoіa Szkirze?</text>
 	</string>
 	<string id="for_bloodsucker_quest_13">
-		<text>Лекарство от страха: Отправиться в лес и выследить кровососа</text>
+		<text>Lekarstwo na strach: Idџ do lasu i zapoluj na krwiopijcк</text>
 	</string>
 	<string id="for_bloodsucker_quest_14">
-		<text>Лекарство от страха: Уничтожить кровососа</text>
+		<text>Lekarstwo na strach: Zabij krwiopijcк</text>
 	</string>
 	<string id="for_bloodsucker_quest_15">
-		<text>Вот он и попался! Теперь он не сможет так тщательно скрываться в лесу, у нас есть шанс его убить.</text>
+		<text>No i mam go! Teraz nie bкdzie mуgі tak ostroїnie ukryж siк w lesie, mam szansк go zabiж.</text>
 	</string>
 	<string id="for_bloodsucker_quest_16">
-		<text>Обитатель: Вернуться к профессору</text>
+		<text>Mieszkaniec: Wrуж do profesora</text>
 	</string>
 	<string id="for_bloodsucker_quest_17">
-		<text>Вот эти щупальца будут доказательством тому, что мы с Инфернисом убили кровососа, и я выполнил это задание.</text>
+		<text>Te macki bкd№ dowodem na to, їe z Infernisem zabiliњmy krwiopijcк i wykonaliњmy to zadanie.</text>
 	</string>
-	
+
 	<string id="for_professor_find_weapons_1">
-		<text>Прогулка: Найти связного</text>
+		<text>Spacer: Znajdџ kontakt</text>
 	</string>
 	<string id="for_professor_find_weapons_2">
-		<text>Никогда бы не подумал, что буду скучать по бесполезным заданиям сбегать туда-сюда. После всего, что я пережил за эти дни, прогулка на контракте станет для меня отдыхом.</text>
+		<text>Nigdy bym nie pomyњlaі, їe przegapiк bezuїyteczne zadania do biegania tam iz powrotem. Po tym wszystkim, przez co przeszedіem, spacer w ramach kontraktu bкdzie dla mnie odpoczynkiem.</text>
 	</string>
 	<string id="for_professor_find_weapons_3">
-		<text>Прогулка: Отдать КПК профессору</text>
+		<text>Spacer: Daj PDA profesorowi</text>
 	</string>
 	<string id="for_professor_find_weapons_4">
-		<text>И этот мёртв. У меня хоть одно задание пройдёт гладко, без потерь? У связного есть ПДА, хоть какой-то источник информации, может пригодиться профессору.</text>
+		<text>A ten jest martwy. Czy przynajmniej jedno zadanie przebiega gіadko, bez strat? Kontakt ma PDA, przynajmniej jakieњ џrуdіo informacji moїe siк przydaж profesorowi.</text>
 	</string>
-	
+
 	<string id="for_drunk_quest_1">
-		<text>Похмелье: Выяснить, что произошло</text>
+		<text>Kac: dowiedz siк, co siк staіo</text>
 	</string>
 	<string id="for_drunk_quest_2">
-		<text>Я за всё это время уже не могу понять, что происходит; не понимаю, что - правда, и что - сон. Может, мне просто это всё приснилось? Но тогда почему в моём рюкзаке полно вещей с той лаборатории?</text>
+		<text>Przez caіy ten czas nie mogк juї zrozumieж co siк dzieje; Nie rozumiem, co jest prawd№, a co snem. Moїe po prostu o tym wszystkim marzyіem? Ale dlaczego mуj plecak jest peіen rzeczy z tego laboratorium?</text>
 	</string>
 	<string id="for_drunk_quest_3">
-		<text>Похмелье: Рассказать Инфернису</text>
+		<text>Kac: Porozmawiaj z Infernisem</text>
 	</string>
 	<string id="for_drunk_quest_4">
-		<text>Так мы всё-таки были в лаборатории? Да что, чёрт возьми, тут происходит?</text>
+		<text>Wiкc jednak byliњmy w laboratorium? Co do cholery siк tu wyprawia?</text>
 	</string>
-	
+
 	<string id="for_sith_first_message_1">
-		<text>Решение вопросов: Связаться с Ситхом</text>
+		<text>Rozwi№zywanie Problemуw: Skontaktuj siк z Sithem</text>
 	</string>
 	<string id="for_sith_first_message_2">
-		<text>Шкир сейчас в лаборатории, а это значит, что я могу связаться с Ситхом, сообщить ему новости и вместе с ним наконец совершить нашу месть.</text>
+		<text>Szkir jest teraz w laboratorium, co oznacza, їe mogк skontaktowaж siк z Sithem, przekazaж mu nowiny i wreszcie zemњciж siк z nim.</text>
 	</string>
 	<string id="for_sith_first_message_3">
-		<text>Решение вопросов: Найти Ситха</text>
+		<text>Rozwi№zywanie Problemуw: Znajdџ Sitha</text>
 	</string>
 	<string id="for_sith_first_message_4">
-		<text>Так связи не было не из-за лаборатории? Скорее всего с Ситхом что-то произошло, мне срочно нужно найти его!</text>
+		<text>Wiкc nie byіo zasiкgu, nie z powodu laboratorium? Najprawdopodobniej coњ siк staіo z Sithem, muszк go szybko znaleџж!</text>
 	</string>
 	<string id="for_sith_first_message_5">
-		<text>Решение вопросов: Проследить за вертолётом</text>
+		<text>Rozwi№zywanie Problemуw: Pod№їaj za helikopterem</text>
 	</string>
 	<string id="for_sith_first_message_6">
-		<text>В этом вертолёте может быть группа Шкира, соответственно упускать его из виду, тем более, когда Ситх не отвечает - очевидно глупое решение. К тому же, судя по всему он направляется в сторону Рыжего леса, где мы и разминулись.</text>
+		<text>W tym helikopterze moїe byж grupa Szkira, wiкc utrata go z oczu, zwіaszcza gdy Sith nie odpowiada, jest oczywiњcie gіupi№ decyzj№. Poza tym podobno zmierza w kierunku Czerwonego Lasu, gdzie siк minкliњmy.</text>
 	</string>
 	<string id="for_sith_first_message_7">
-		<text>Решение вопросов: Найти уцелевших</text>
+		<text>Rozwi№zywanie Problemуw: Znajdџ ocalaіych</text>
 	</string>
 	<string id="for_sith_first_message_8">
-		<text>Вертолёт упал? Одной проблемой меньше, однако долговец говорит, что кто-то выпал оттуда в районе заправки. Надо узнать, кто это был.</text>
+		<text>Helikopter siк rozbiі? Jeden problem mniej, ale powinnoњciowiec mуwi, їe ktoњ wyskoczyі w rejonie stacji benzynowej. Muszк dowiedzieж siк kto to byі.</text>
 	</string>
-	
+
 	<string id="gone_soul_reunite_1">
-		<text>Потерянная судьба: Найти Фрактора</text>
+		<text>Utracone Przeznaczenie: Znajdџ Fraktora</text>
 	</string>
 	<string id="gone_soul_reunite_2">
-		<text>Интересная история вышла. Придётся мне по округе походить, поискать его. Всё равно Шкир пока сидит под шконкой в Y-13, чего бы и не прогуляться. Хотя я сомневаюсь, что найду его..</text>
+		<text>Wyszіa ciekawa historia. Bкdк musiaі przejњж siк po okolicy, poszukaж go. W kaїdym razie Szkir wci№ї siedzi na pryczy w Y-13, dlaczego nie pуjњж na spacer. Chociaї w№tpiк, czy go znajdк...</text>
 	</string>
 	<string id="gone_soul_reunite_3">
-		<text>Потерянная судьба: Довести Фрактора до «Забытых Краёв»</text>
+		<text>Utracone Przeznaczenie: Doprowadџ Fraktora do Zapomnianych Ziem</text>
 	</string>
 	<string id="gone_soul_reunite_4">
-		<text>Не знаю, то ли повезло мне, то ли Инфернис был прав, но я его друга таки нашёл.</text>
+		<text>Nie wiem, czy miaіem szczкњcie, czy Infernis miaі racjк, ale znalazіem jego przyjaciela.</text>
 	</string>
-	
+
 	<string id="for_shkir_find_1">
-		<text>Навестить "знакомого": Вернуться в Y-13</text>
+		<text>Wizyta "znajomka": Wrуж do Y-13</text>
 	</string>
 	<string id="for_shkir_find_2">
-		<text>Ситх сейчас на складах, дел у меня нет. Пойду проверю, как там Шкир поживает, выбрался ли он из подземелья? Куда там, наверное в люк прыгнул и насмерть убился.</text>
+		<text>Sith jest teraz w magazynach, nie mam nic do roboty. Pуjdк i sprawdzк, jak siк ma Szkir, czy wyszedі z lochu? Gdzieњ tam, prawdopodobnie wskoczyі do wіazu i popeіniі samobуjstwo.</text>
 	</string>
 	<string id="for_shkir_find_3">
-		<text>Навестить "знакомого": Найти Шкира</text>
+		<text>Wizyta "znajomka": Znajdџ Szkira</text>
 	</string>
 	<string id="for_shkir_find_4">
-		<text>Ага, значит всё-таки куда-то он ушёл. Если бы он вышел через основную дверь, то Джекил и остальные бы увидели его. Значит, надо искать.</text>
+		<text>Hmm.. to znaczy, їe gdzieњ poszedі. Gdyby przeszedі przez gіуwne drzwi, Jekyll i pozostali zobaczyliby go. Wiкc trzeba szukaж innych przejњж.</text>
 	</string>
 	<string id="for_shkir_find_5">
-		<text>Навестить "знакомого": Выбраться из Y-13</text>
+		<text>Wizyta "znajomka": Wydostaс siк z Y-13</text>
 	</string>
 	<string id="for_shkir_find_6">
-		<text>Топор? Так он тоже искал Шкира? Судя по тому, что он тут лежит, это дело рук этого ушлёпка. А значит - ему удалось сбежать! Я должен выбраться из лаборатории и предупредить Ситха, пока не стало слишком поздно. Я помню про рацию, но проверка тоже не помешает - если Ситх её починил, то сейчас я этого не узнаю, связь глушит подземка.</text>
+		<text>Topуr? Wiкc on teї szukaі Szkira? S№dz№c po tym, їe on tu leїy, to robota tego bandyty. Wiкc udaіo mu siк uciec! Muszк wyjњж z laboratorium i ostrzec Sitha, zanim bкdzie za pуџno. Pamiкtam o krуtkofalуwce, ale sprawdzenie teї by nie zaszkodziіo - jeњli Sith j№ naprawiі, to i tak nie bкdк wiedziaі - metro blokuje poі№czenie.</text>
 	</string>
-	
+
 	<string id="for_giants_raid_squad_kill_1">
-		<text>Битва на «Забытых Краях»: Отбить атаку монстров</text>
+		<text>Bitwa o Zapomniane Ziemie: Odeprzyj atak potworуw</text>
 	</string>
 	<string id="for_giants_raid_squad_kill_2">
-		<text>Стоило мне на пару часов убраться в лабораторию, как к бункеру попёрли мутанты! Надо действовать быстро, где там пулемёт?</text>
+		<text>Gdy tylko wszedіem na kilka godzin do laboratorium, do bunkra zlazіy siк mutanty! Muszк dziaіaж szybko, gdzie jest karabin maszynowy?</text>
 	</string>
-	
+
 	<string id="for_gauss_testing_1">
-		<text>«Le Deux»: Найти источник появления монстров</text>
+		<text>Le Deux: Znajdџ powуd pojawienia siк potworуw</text>
 	</string>
 	<string id="for_gauss_testing_2">
-		<text>Ладно, всё равно мне скоро уходить отсюда, и скорее всего, навсегда. Помогу профессору напоследок.</text>
+		<text>Dobra, w kaїdym razie idк st№d niedіugo i najprawdopodobniej na zawsze. Pomogк profesorowi na koniec.</text>
 	</string>
 	<string id="for_gauss_testing_3">
-		<text>«Le Deux»: Вернуться к Джекилу</text>
+		<text>Le Deux: Wrуж do Jekyll</text>
 	</string>
 	<string id="for_gauss_testing_4">
-		<text>Однако, эта штука нереально мощная! Чувствую, с его силой я не только Шкиру смогу отомстить. Теперь я понимаю такую заинтересованность Джекила в артефактах, и не удивлён, что с её помощью смогли сбить вертолёт.</text>
+		<text>Jednak ta sztuka jest nierealistycznie potкїna! Czujк, їe z jego siі№ bкdк mуgі nie tylko zemњciж siк na Shkirze. Teraz rozumiem zainteresowanie Jekyll artefaktami i nie dziwiк siк, їe z jej pomoc№ byli w stanie zestrzeliж helikopter.</text>
 	</string>
-	
+
 </string_table>
