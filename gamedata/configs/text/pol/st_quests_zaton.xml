@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <!--===========================================================
 <
@@ -13,913 +13,912 @@
 <string_table>
 	<!-- ELIMINATE MUTANTS FOR BEARD TASK -->
 	<string id="zat_a2_stalker_barmen_task_1_name">
-		<text>Зачистка</text>
+		<text>Zadanie Brody: Czystka</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_text">
-		<text>Борода попросил зачистить местность от мутантов.</text>
+		<text>Broda poprosiі o oczyszczenie terenu z mutantуw.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_about">
-		<text>Тсс... Слышал это? Вой мутантов. Прямо мороз по коже. Как насчет того, чтобы успокоить их? Я не останусь в долгу.</text>
+		<text>Жњњ... Sіyszaіeњ to? Wycie mutantуw. Aї dostajк gкsiej skуrki. Co powiesz na ich uciszenie? Nie bкdк dіuїny.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_finish">
-		<text>Ха-ха! Хорошо сделано, сталкер! Вот, держи от Бороды!</text>
+		<text>Ha ha! Dobra robota, stalkerze! Trzymaj od Brody!</text>
 	</string>
 
 
 	<!-- FIND ARTEFACT FOR BEARD TASK -->
 	<string id="zat_a2_stalker_barmen_task_2_name">
-		<text>Отыскать для Бороды артефакт  %s</text>
+		<text>Zadanie Brody: Znajdџ artefakt %s</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_text">
-		<text>Надо найти для Бороды артефакт %s. Обещает неплохо заплатить.</text>
+		<text>Muszк znaleџж artefakt %s dla Brody. Obiecuje dobrze zapіaciж.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_about">
-		<text>Я обычно не покупаю артефакты у сталкеров, но тут поступил срочный заказ, клиента не хотелось бы подвести. Сможешь достать один из них для меня?</text>
+		<text>Zwykle nie kupujк artefaktуw od stalkerуw, ale otrzymaіem pilne zamуwienie, nie chciaіbym zawieњж klienta. Czy moїesz przynieњж jeden dla mnie?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_about">
-		<text>Слушай, я ищу артефакт %s . Видел где - нибудь? Если найдёшь - я хорошо заплачу.</text>
+		<text>Spуjrz, szukam artefaktu %s. Widziaіeњ gdzieњ? Jeњli go znajdziesz - dobrze zapіacк.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_2_fetch_finish">
-		<text>Хорошая работа, сталкер! Выпей, я плачу!</text>
+		<text>Dobra robota, stalkerze! Pij! Ja stawiam.</text>
 	</string>
 
 
 	<!-- ASSASSINATION FOR BEARD TASK -->
 	<string id="zat_a2_stalker_barmen_task_3_name">
-		<text>Дипломатия</text>
+		<text>Zadanie Brody: Dyplomacja</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_3_text">
-		<text>Убедить военного коменданта прекратить поиски сталкера.</text>
+		<text>Muszк przekonaж komendanta wojskowego, aby przestaі szukaж stalkera.</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_3_about">
-		<text>Видишь того парня в углу? Спецназ СБУ ищет его. Он скрывается здесь уже в течение нескольких недель. Говорят, что он прошёл через Выжигатель, чтобы оторваться от них. Я не знаю, как он выжил, хотя он теперь не совсем в ладах с головой. Во всяком случае, ты можешь помочь бедняге. Я случайно знаю, где находится военный комендант, который хочет поймать его. Может быть, ты сможешь убедить его оставить парня в покое?</text>
+		<text>Widzisz tego faceta w k№cie? Szukaj№ go siіy specjalne SBU. Ukrywa siк tu od tygodni. Mуwi siк, їe przeszedі przez zwкglacza, aby od nich uciec. Nie wiem, jak przeїyі, chociaї nie ma teraz rуwno pod sufitem. W kaїdym razie moїesz pomуc biedakowi. Tak siк skіada, їe wiem, gdzie jest komendant wojskowy, ktуry chce go zіapaж. Moїe uda Ci siк go przekonaж, їeby zostawiі faceta w spokoju?</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_3_finish">
-		<text>А, ты убил его! Мужик, ты просто прирожденный дипломат! Сегодня для тебя всё бесплатно!</text>
+		<text>Ach, zabiіeњ go! Czіowieku, jesteњ urodzonym dyplomat№! Juї dziњ wszystko jest dla Ciebie bezpіatne!</text>
 	</string>
 
 
-	<!---	zat_b7_bandit_boss_sultan_task --->
+	<!---	zat_b7_bandit_boss_sultan_task -->
 	<string id="zat_b7_bandit_boss_sultan_task_1_name">
-		<text>Убить сталкера</text>
+		<text>Zadanie Suіtana: Zabij stalkera</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_text">
-		<text>Султан поручил найти и убить сталкера</text>
+		<text>Suіtan poleciі mi znaleџж i zabiж stalkera.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_about">
-		<text>Тут еще не все поняли кто в Зоне хозяин! И кое-кто всё еще считает, что может безнаказанно обманывать меня, или еще как-либо выражать ко мне неуважение. Некоторые из них должны мне денег, некоторые запороли важные сделки... Все они не более чем крысы, которых нужно просто растоптать. Если берешься, я отмечу цель на твоем ПДА.</text>
+		<text>Tutaj nie wszyscy rozumi№, kto jest szefem w Zonie! A niektуrzy ludzie nadal myњl№, їe mog№ mnie bezkarnie oszukiwaж lub w inny sposуb nie szanowaж. Niektуrzy z nich s№ mi winni pieni№dze, inni spieprzyli waїne interesy... Wszyscy s№ niczym wiкcej jak szczurami, ktуre po prostu trzeba zdeptaж. Jeњli bierzesz, zaznaczк cel na Twoim PDA.</text>
 	</string>
 	<string id="zat_b7_bandit_boss_sultan_task_1_finish">
-		<text>Неплохо сработал, неплохо! Держи, как обещал:</text>
+		<text>Dobrze zrobione, bardzo dobrze! Weџ zgodnie z obietnic№: </text>
 	</string>
 	<!-- zat_a2_stalker_mechanic -->
 	<string id="zat_a2_stalker_mechanic_task_1_name">
-		<text>Найти %s для Кардана</text>
+		<text>Zadanie Kardana: Znajdџ %s</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_1_text">
-		<text>Нужно принести Кардану %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Muszк przynieњж %s Kardanowi, aby mуgі zainstalowaж proste ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_1_about">
-		<text>Понимаешь, братан, для того чтоб снарягу чинить мне не только водка нужна, но и инструменты. Вот если б ты их принес, я б всё что угодно сделать смог. Ты как, поможешь?</text>
+		<text>Widzisz stary, do naprawy sprzкtu potrzebujк nie tylko wуdki, ale i narzкdzi. Jeњli je przyniesiesz, mogк zrobiж wszystko. Jak moїesz pomуc?</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_1_fetch_about">
-		<text>Достань мне набор инструментов, хоть простейший. Я тебе даже заплачу, если принесешь.</text>
+		<text>Daj mi zestaw narzкdzi, nawet najprostszych. Zapіacк Ci jeњli je przyniesiesz.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_1_fetch_finish">
-		<text>Отлично, самое то! Спасибо, сталкер, держи чем богат:</text>
+		<text>Њwietnie, o to chodziіo! Dziкkujк, stalkerze, zachowaj pieni№dze: </text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_name">
-		<text>Найти %s для Кардана</text>
+		<text>Zadanie Kardana: znajdџ %s</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_text">
-		<text>Нужно принести Кардану %s, чтобы он мог обеспечить более серьёзную модернизацию оружия или бронежилета.</text>
+		<text>Muszк przynieњж %s Kardanowi, aby mуgі zainstalowaж powaїniejsze ulepszenie broni lub pancerza.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_about">
-		<text>Мне бы не помешало больше инструментов... и водки. Твой набор довольно хороший, но слишком простой. Для более глобальных апгрейдов никуда не годится. Сможешь достать набор получше?</text>
+		<text>Przydaіoby mi siк wiкcej narzкdzi... i wуdki. Twуj zestaw jest caіkiem niezіy, ale zbyt prosty. Nie sprawdz№ siк przypadku wiкkszych ulepszeс. Czy moїesz przynieњж lepszy zestaw?</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_fetch_about">
-		<text>Отлично, если принесешь набор инструментов для тонкой работы, накрою поляну, можешь не сомневаться.</text>
+		<text>Cуї, jeњli przyniesiesz zestaw narzкdzi do dobrej roboty, dobrze Ci zapіacк, moїesz byж pewien.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_2_fetch_finish">
-		<text>Ну спасибо, теперь у меня есть всё, что надо. Жаль только обещанной поляны не выйдет... Но я тебе деньгами компенсирую, лады? И это, будет не с кем выпить, или снаряга сломается - приходи, я завсегда помогу.</text>
+		<text>Cуї, dziкki, teraz mam wszystko, czego potrzebujк. Szkoda, їe nie mam sk№d wzi№ж obiecanych pieniкdzy... Ale zrekompensujк Ci to, dobrze? Bкdziesz miaі z kim wypiж lub jeњli sprzкt Ci nawali to przyjdџ - zawsze pomogк.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_3_name">
-		<text>Найти %s для Кардана</text>
+		<text>Zadanie Kardana: znajdџ %s</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_3_text">
-		<text>%s нужны Кардану для проведения элитных модификаций. Найдите их.</text>
+		<text>%s potrzebne s№ Kardanowi do elitarnych modyfikacji. Muszк je znaleџж.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_3_about">
-		<text>Надо больше инструментов и водки, но водку и так легко найти. То, что мне сейчас надо - инструменты для калибровки. Сделаешь это для меня?</text>
+		<text>Potrzebujк wiкcej narzкdzi i wуdki, ale wуdkк іatwo znaleџж. To, czego teraz potrzebujк, to narzкdzia do kalibracji. Znajdziesz je dla mnie?</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_3_fetch_about">
-		<text>Мне нужны инструменты  для калибровки. Принесёшь - с меня поляна.</text>
+		<text>Potrzebujк narzкdzi do kalibracji. Jeњli to przyniesiesz - polejк Ci kielicha.</text>
 	</string>
 	<string id="zat_a2_stalker_mechanic_task_3_fetch_finish">
-		<text>Фантастика! Ну, теперь заходи в любое время !</text>
+		<text>Fantazja! Cуї, zachodџ w kaїdej chwili!</text>
 	</string>
 
 
 
 <string id="zat_a2_reach_base_name">
-		<text>Безопасное место: добраться до «Скадовска»</text>
+		<text>Bezpieczne miejsce: dostaс siк do Skadowska</text>
 	</string>
 	<string id="zat_a2_reach_base_text">
-		<text>В Зоне относительно безопасно только в крупных лагерях. Имеет смысл добраться до ближайшего из них - «Скадовска».</text>
+		<text>Zona jest stosunkowo bezpieczna tylko w duїych obozach. Sensowne jest dotarcie do najbliїszego z nich - Skadowska.</text>
 	</string>
 	<string id="zat_b100_guide_maps_01_name">
-		<text>Карты местности: найти заинтересованных</text>
+		<text>Mapy Lokalizacji: Znajdџ zainteresowanych</text>
 	</string>
 	<string id="zat_b100_guide_maps_02_name">
-		<text>Карты местности: предложить Лоцману</text>
+		<text>Mapy Lokalizacji: Przedstaw Pilotowi</text>
 	</string>
 	<string id="zat_b100_guide_maps_02_text">
-		<text>Карты местности между Затоном и «Юпитером» предположительно могут заинтересовать Лоцмана, местного проводника.</text>
+		<text>Mapy obszaru miкdzy Zatonem a Jupiterem mog№ zainteresowaж lokalnego przewodnika - Pilota.</text>
 	</string>
 	<string id="zat_b100_heli_2_crash_name">
-		<text>«Скат-2»: исследовать место падения</text>
+		<text>Skat-2: Zbadaj miejsce katastrofy</text>
 	</string>
 	<string id="zat_b100_heli_2_crash_text">
-		<text>Исследовать место падения вертолёта «Скат-2».</text>
+		<text>Muszк zbadaж miejsce katastrofy њmigіowca Skat-2.</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_name">
-		<text>«Скат-5»: исследовать место падения</text>
+		<text>Skat-5: Zbadaj miejsce katastrofy</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_name_02">
-		<text>«Скат-5»: найти причину перегорания электроники</text>
+		<text>Skat-5: Znajdџ przyczynк przepalenia elektroniki</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_name_03">
-		<text>Отряд «Скат»: найти источник разрядов, поразивших два вертолёта</text>
+		<text>Oddziaі Skat: Znajdџ џrуdіo wyіadowaс, ktуre uderzyіy w dwa helikoptery</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_text">
-		<text>Исследовать место падения вертолёта «Скат-5».</text>
+		<text>Muszк zbadaж miejsce katastrofy њmigіowca Skat-5.</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_text_02">
-		<text>Нужно выяснить источник мощного электрического разряда, поразившего вертолёт «Скат-5».</text>
+		<text>Powinienem znaleџж џrуdіo potкїnego wyіadowania elektrycznego, ktуre uderzyіo w helikopter Skat-5.</text>
 	</string>
 	<string id="zat_b101_heli_5_crash_text_03">
-		<text>Необходимо найти причину, по которой сгорела электроника вертолётов «Скат-4» и «Скат-5». При обследовании выяснилось, что обе машины были поражены мощным электрическим разрядом.</text>
+		<text>Trzeba znaleџж powуd, dla ktуrego wypaliіa siк elektronika њmigіowcуw Skat-4 i Skat-5. Podczas oglкdzin okazaіo siк, їe w oba samochody uderzyіo silne wyіadowanie elektryczne.</text>
 	</string>
 	<string id="zat_b103_merc_bring_supplies_name">
-		<text>Припасы: достать еду для наёмников</text>
+		<text>Zaopatrzenie: Zdob№dџ їywnoњж dla najemnikуw</text>
 	</string>
 	<string id="zat_b103_merc_bring_supplies_text">
-		<text>Отряд наёмников, расположившийся в цехах подстанции, просит принести им припасы - общим числом шесть банок консервов, палок колбасы или батонов.</text>
+		<text>Oddziaі najemnikуw, znajduj№cy siк w warsztatach podstacji, prosi o przyniesienie im zapasуw – po szeњж sztuk: puszek konserw, pкta kieіbasy i bochenkуw.</text>
 	</string>
 	<string id="zat_b103_merc_supplies_got_name">
-		<text>Припасы: отнести еду наёмникам</text>
+		<text>Zaopatrzenie: Dostarcz їywnoњж najemnikom</text>
 	</string>
 	<string id="zat_b103_merc_supplies_got_text">
-		<text>Необходимо отнести собранные припасы наёмникам, расположившимся в цехах подстанции.</text>
+		<text>Koniecznie muszк dostarczyж zebrane zapasy najemnikom znajduj№cym siк w warsztatach podstacji.</text>
 	</string>
 	<string id="zat_b103_toolkit_2_substation_workshop_name">
-		<text>Инструменты: обследовать цеха подстанции</text>
+		<text>Narzкdzia: Przeszukaj warsztaty podstacji</text>
 	</string>
 	<string id="zat_b103_toolkit_2_substation_workshop_text">
-		<text>Поговаривают, что в цехах подстанции могут быть инструменты. Возможно, там найдутся и такие, которые нужны технику.</text>
+		<text>Plotka gіosi, їe w warsztatach podstacji mog№ znajdowaж siк narzкdzia. Byж moїe s№ tacy, ktуrzy potrzebuj№ technologii.</text>
 	</string>
 	<string id="zat_b106_find_chimera_name">
-		<text>Охота на химеру: найти мутанта, пока он спит</text>
+		<text>Polowanie na Chimerк: Znajdџ mutanta, pуki њpi</text>
 	</string>
 	<string id="zat_b106_find_chimera_text">
-		<text>Нужно найти химеру, пока она не проснулась.</text>
+		<text>Muszк znaleџж chimerк, zanim siк obudzi.</text>
 	</string>
 	<string id="zat_b106_found_soroka_name">
-		<text>В поисках Сороки: сообщить Гонте</text>
+		<text>Poszukiwanie Sroki: Poinformuj Gonta</text>
 	</string>
 	<string id="zat_b106_found_soroka_text">
-		<text>Похоже, что Сорока - сталкер, который подставил группу Гонты, - обнаружен. Сейчас он вступил в группировку «Свобода» и называет себя Флинт.</text>
+		<text>Wygl№da na to, їe Sroka – stalker, ktуry wrobiі grupк Gonty. Teraz doі№czyі do grupy Swobody i nazywa siк Flint.</text>
 	</string>
 	<string id="zat_b106_kill_chimera_name">
-		<text>Охота на химеру: убить мутанта</text>
+		<text>Polowanie na Chimerк: Zabij mutanta</text>
 	</string>
 	<string id="zat_b106_kill_chimera_text">
-		<text>Химера проснулась. Нужно убить её, пока есть такая возможность.</text>
+		<text>Chimera siк obudziіa. Muszк j№ zabiж, pуki mogк.</text>
 	</string>
 	<string id="zat_b106_meet_with_gonta_at_night_name">
-		<text>Охота на химеру: встретиться с Гонтой в баре в три часа ночи</text>
+		<text>Polowanie na Chimerк: Spotkaj siк z Gontem</text>
 	</string>
 	<string id="zat_b106_meet_with_gonta_at_night_text">
-		<text>Надо встретиться с Гонтой перед рассветом, чтобы вместе с его группой выйти охотиться на химеру.</text>
-	</string>
+		<text>Muszк spotkaж siк z Gontem przed њwitem, aby razem z jego grup№ wyruszyж na polowanie na Chimerк. Muszк byж punkt 3:00.>
 	<string id="zat_b106_receipt_reward_name">
-		<text>Охота на химеру: сообщить Зверобою</text>
+		<text>Polowanie na Chimerк: Porozmawiaj z Zwerobojem</text>
 	</string>
 	<string id="zat_b106_receipt_reward_text">
-		<text>Нужно сообщить сталкеру по кличке Зверобой об успешной охоте на химеру - он должен выдать награду.</text>
+		<text>O udanym polowaniu na chimerк muszк poinformowaж stalkera o ksywce Zweroboj - powinien wypіaciж nagrodк.</text>
 	</string>
 	<string id="zat_b106_search_soroka_name">
-		<text>В поисках Сороки: найти сталкера</text>
+		<text>Poszukiwanie Sroki: Znajdџ stalkera</text>
 	</string>
 	<string id="zat_b106_search_soroka_text">
-		<text>Сталкер по кличке Сорока подставил группу Гонты под нападение химеры. Ребята просят найти подонка.</text>
+		<text>Stalker o ksywie Soroka wystawiі grupк Gonty na atak chimery. Chіopaki prosz№ o znalezienie drania.</text>
 	</string>
 	<string id="zat_b107_evacuation_jupiter_name">
-		<text>Места эвакуации: проверить точку Б205</text>
+		<text>Punkty Ewakuacyjne: punkt kontrolny B205</text>
 	</string>
 	<string id="zat_b107_evacuation_jupiter_text">
-		<text>На найденной в одном из вертолётов карте были отмечены точки эвакуации. Нужно проверить, появлялись ли военные в точке Б205.</text>
+		<text>Na mapie znalezionej w jednym ze њmigіowcуw zaznaczono punkty ewakuacyjne. Powinienem sprawdziж, czy wojsko pojawiіo siк w punkcie B205.</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_1_name">
-		<text>Места эвакуации: проверить точку Б28</text>
+		<text>Punkty Ewakuacyjne: punkt kontrolny B28</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_1_text">
-		<text>На карте, найденной в одном из вертолётов, отмечены точки эвакуации. Нужно проверить, появлялись ли военные в точке Б28.</text>
+		<text>Na mapie znajduj№cej siк w jednym ze њmigіowcуw zaznaczone s№ punkty ewakuacji. Powinienem sprawdziж, czy wojsko pojawiіo siк w punkcie B28.</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_2_name">
-		<text>Место эвакуации: найти координаты точки Б28</text>
+		<text>Miejsce Ewakuacji: Znajdџ wspуіrzкdne punktu B28</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_2_text">
-		<text>На записи, сохранившейся в чёрном ящике одного из вертолётов группы «Скат», командир группы указывает место сбора - так называемая точка эвакуации Б28. Необходимо определить её координаты.</text>
+		<text>Na zapisie, zachowanym w czarnej skrzynce jednego ze њmigіowcуw grupy Skat, dowуdca grupy wskazuje miejsce zbiуrki – tzw. punkt ewakuacji B28. Konieczne jest okreњlenie jego wspуіrzкdnych.</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_3_name">
-		<text>Место эвакуации: добраться до точки Б28</text>
+		<text>Miejsce Ewakuacji: Dojdџ do punktu B28</text>
 	</string>
 	<string id="zat_b107_evacuation_pripyat_3_text">
-		<text>Точка сбора, где должны были собраться военные, находится в Припяти. Нужно найти способ добраться туда.</text>
+		<text>Punkt zbiуrki, w ktуrym miaіo zebraж siк wojsko, znajduje siк w Prypeci. Muszк znaleџж sposуb, їeby siк tam dostaж.</text>
 	</string>
 	<string id="zat_b107_evacuation_zaton_name">
-		<text>Места эвакуации: проверить точку Б2</text>
+		<text>Punkty Ewakuacyjne: Punkt kontrolny B2</text>
 	</string>
 	<string id="zat_b107_evacuation_zaton_text">
-		<text>На найденной в одном из вертолётов карте были отмечены точки эвакуации. Нужно проверить, появлялись ли военные в точке эвакуации Б2.</text>
+		<text>Na mapie znalezionej w jednym ze њmigіowcуw zaznaczono punkty ewakuacyjne. Muszк sprawdziж, czy wojsko pojawiіo siк w punkcie ewakuacyjnym B2.</text>
 	</string>
 	<string id="zat_b14_bring_strange_object_name">
-		<text>Странное явление: принести артефакт Бороде</text>
+		<text>Dziwne Zjawisko: Przynieњ artefakt do Brody</text>
 	</string>
 	<string id="zat_b14_bring_strange_object_text">
-		<text>Источником странного свечения был не менее странный артефакт. Он явно заинтересует Бороду.</text>
+		<text>Џrуdіem dziwnego blasku byі rуwnie dziwny artefakt. Wyraџnie zainteresuje Brodк.</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_name">
-		<text>Странное явление: расспросить сталкеров про артефакт</text>
+		<text>Dziwne Zjawisko: Zapytaj stalkerуw o artefakt</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_by_stalkers_text">
-		<text>Возможно, сталкеры что-то знают про странный артефакт, или подскажут того, кто может знать. Стоит с ними поговорить.</text>
+		<text>Byж moїe stalkerzy wiedz№ coњ o dziwnym artefakcie lub znaj№ kogoњ, kto moїe wiedzieж. Warto z nimi porozmawiaж.</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_name">
-		<text>Странное явление: найти источник свечения на земснаряде</text>
+		<text>Dziwne Zjawisko: Sprawdџ џrуdіo blasku na pogікbiarce</text>
 	</string>
 	<string id="zat_b14_learn_about_strange_occurrence_text">
-		<text>На земснаряде было замечено необычное даже для Зоны свечение. Борода просит определить его источник.</text>
+		<text>Na pogікbiarce zauwaїono poњwiatк niezwykі№ nawet dla Zony. Broda prosi o okreњlenie jego џrуdіa.</text>
 	</string>
 	<string id="zat_b14_take_artefact_name">
-		<text>Странное явление: взять артефакт</text>
+		<text>Dziwne Zjawisko: Podnieњ artefakt</text>
 	</string>
 	<string id="zat_b14_take_artefact_text">
-		<text>Источник странного свечения - не менее странный артефакт. Стоит взять его с собой.</text>
+		<text>Џrуdіem dziwnego blasku jest rуwnie dziwny artefakt. Warto go zabraж ze sob№.</text>
 	</string>
 	<string id="zat_b14_tell_svyaznoy_about_all_name">
-		<text>Странное явление: рассказать Бороде об артефакте</text>
+		<text>Dziwne Zjawisko: Opowiedz Brodzie o artefakcie</text>
 	</string>
 	<string id="zat_b14_tell_svyaznoy_about_all_text">
-		<text>Источником странного свечения был не менее странный артефакт. Стоит рассказать об этом Бороде, даже если самого артефакта при себе нет.</text>
+		<text>Џrуdіem dziwnego blasku byі rуwnie dziwny artefakt. Warto opowiedzieж o tej Brodzie, nawet jeњli nie mam go przy sobie.</text>
 	</string>
 	<string id="zat_b20_cross_the_teleport_name">
-		<text>Путь на плато: прыгнуть в аномалию</text>
+		<text>Њcieїka na Pіaskowyї: Wskocz w anomaliк</text>
 	</string>
 	<string id="zat_b20_cross_the_teleport_text">
-		<text>Похоже, путь на плато лежит через аномалию. Необходимо в неё прыгнуть.</text>
+		<text>Wydaje siк, їe droga na pіaskowyї prowadzi przez anomaliк. Wydaje mi siк, їe powinienem w ni№ wskoczyж...</text>
 	</string>
 	<string id="zat_b20_find_the_teleport_name">
-		<text>Путь на плато: найти личный ход Ноя</text>
+		<text>Droga na Pіaskowyї: Znajdџ tajne przejњcie Noego</text>
 	</string>
 	<string id="zat_b20_find_the_teleport_text">
-		<text>В КПК Ноя упоминался какой-то «личный ход» на плато. Необходимо обнаружить эту дорогу.</text>
+		<text>W PDA Noego byіa wzmianka o jakimњ "tajnym przejњciu" na pіaskowyїu. Trzeba znaleџж te przejњcie.</text>
 	</string>
 	<string id="zat_b20_plato_talk_to_noah_name">
-		<text>Путь на плато: узнать дорогу у Ноя</text>
+		<text>Droga na Pіaskowyї: Poznaj drogк</text>
 	</string>
 	<string id="zat_b20_plato_talk_to_noah_text">
-		<text>Говорят, что сталкер по кличке Ной знает путь на плато. Необходимо узнать эту дорогу.</text>
+		<text>Mуwi№, їe stalker o imieniu Noe zna drogк na pіaskowyї. Muszк poznaж tк њcieїkк.</text>
 	</string>
 	<string id="zat_b22_bring_proof_name">
-		<text>Исчезновение сталкеров: принести доказательства вины Тремора</text>
+		<text>Znikanie Stalkerуw: Przedstaw dowуd winy Tremora</text>
 	</string>
 	<string id="zat_b22_bring_proof_text">
-		<text>Надо отнести КПК с записями Тремора на «Скадовск» и показать Бороде. Из записей понятно, что в исчезновении сталкеров виновен медик.</text>
+		<text>PDA z zapisami Tremora trzeba zabraж do Skadowska i pokazaж Brodzie. Z zapisуw jasno wynika, їe winnym znikniкcia stalkerуw jest medyk.</text>
 	</string>
 	<string id="zat_b22_find_proof_name">
-		<text>Исчезновение сталкеров: найти доказательства вины Тремора</text>
+		<text>Znikanie Stalkerуw: Znajdџ dowody winy Tremora</text>
 	</string>
 	<string id="zat_b22_find_proof_text">
-		<text>Нужно определить, не оставил ли Тремор каких-либо свидетельств своей вины в исчезновении сталкеров.</text>
+		<text>Konieczne jest ustalenie, czy Tremor pozostawiі jakiekolwiek dowody swojej winy w znikniкciu stalkerуw.</text>
 	</string>
 	<string id="zat_b28_heli_3_crash_name">
-		<text>«Скат-3»: исследовать место падения</text>
+		<text>Skat-3: Zbadaj miejsce katastrofy</text>
 	</string>
 	<string id="zat_b28_heli_3_crash_text">
-		<text>Исследовать место падения вертолёта «Скат-3».</text>
+		<text>Powinienem zbadaж miejsce katastrofy њmigіowca Skat-3.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_1">
-		<text>Нужно принести артефакт по заданию Бороды. Однако время форы уже вышло, теперь конкуренты тоже ищут заказ.</text>
+		<text>Muszк przynieњж artefakt na polecenie Brody. Jednak czas na fory juї min№і, teraz konkurenci rуwnieї szukaj№ zlecenia.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_2">
-		<text>Нужно принести артефакт для Бороды. Не стоит забывать, что конкуренты тоже пытаются выполнить этот заказ.</text>
+		<text>Muszк przynieњж artefakt dla Brody. Nie mogк zapominaж, їe konkurenci rуwnieї staraj№ siк zrealizowaж to zamуwienie.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_3">
-		<text>Нужно принести артефакт для Бороды, однако сигнал от другой группы свидетельствует, что они уже нашли нужный. Есть возможность отследить сигнал и опередить конкурентов.</text>
+		<text>Muszк przynieњж artefakt dla Brody, ale sygnaі od innej grupy wskazuje, їe znaleџli juї wіaњciwy. Moїliwe jest њledzenie sygnaіu i wyprzedzenie konkurencji.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_4">
-		<text>Нужно принести артефакт для Бороды, однако другая группа уже выполнила заказ. Теперь за артефакт удастся выручить только половину цены.</text>
+		<text>Muszк przynieњж artefakt dla Brody, ale inna grupa juї wykonaіa zamуwienie. Teraz za artefakt bкdzie moїna dostaж tylko poіowк ceny.</text>
 	</string>
 	<string id="zat_b29_simple_bring_text_5">
-		<text>Нужно принести артефакт по заданию Бороды.</text>
+		<text>Muszк przynieњж artefakt na polecenie Brody.</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_16">
-		<text>Артефакты на заказ: принести артефакт «Грави»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Grawi"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_17">
-		<text>Артефакты на заказ: принести артефакт «Глаз»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Oko"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_18">
-		<text>Артефакты на заказ: принести артефакт «Пузырь»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Baсka"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_19">
-		<text>Артефакты на заказ: принести артефакт «Пустышка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Pustka"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_20">
-		<text>Артефакты на заказ: принести артефакт «Золотая Рыбка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Zіota Rybka"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_21">
-		<text>Артефакты на заказ: принести артефакт «Пламя»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Pіomieс"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_22">
-		<text>Артефакты на заказ: принести артефакт «Светляк»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Њwietlik"</text>
 	</string>
 	<string id="zat_b29_simple_bring_title_23">
-		<text>Артефакты на заказ: принести артефакт «Снежинка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Њnieїynka"</text>
 	</string>
 	<string id="zat_b29_simple_find_text_1">
-		<text>Нужно найти артефакт по заданию Бороды, но время форы вышло. Теперь конкуренты тоже ищут заказ.</text>
+		<text>Muszк znaleџж artefakt zgodnie z instrukcjami Brody, ale czas uіatwienia min№і. Teraz konkurencja rуwnieї szuka zamуwienia.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_2">
-		<text>Нужно найти артефакт по заданию Бороды. Не стоит забывать, что конкуренты тоже ищут заказ.</text>
+		<text>Muszк znaleџж artefakt zgodnie z instrukcjami Brody. Muszк pamiкtaж, їe konkurencja rуwnieї szuka zamуwienia.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_3">
-		<text>Нужно найти артефакт по заданию Бороды, однако пришел сигнал от другой группы - они уже нашли артефакт. Есть возможность отследить сигнал и опередить конкурентов.</text>
+		<text>Muszк znaleџж artefakt na polecenie Brody, ale sygnaі nadszedі od innej grupy - juї znaleџli artefakt. Moїliwe jest њledzenie sygnaіu i wyprzedzenie konkurencji.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_4">
-		<text>Нужно найти артефакт по заданию Бороды, но другая группа уже выполнила заказ. Теперь можно получить только половину цены за артефакт.</text>
+		<text>Muszк znaleџж artefakt na polecenie Brody, ale inna grupa juї wykonaіa zamуwienie. Teraz mogк dostaж tylko poіowк ceny.</text>
 	</string>
 	<string id="zat_b29_simple_find_text_5">
-		<text>Нужно найти артефакт по заданию Бороды.</text>
+		<text>Muszк znaleџж artefakt zgodnie z instrukcjami Brody.</text>
 	</string>
 	<string id="zat_b29_simple_find_title_16">
-		<text>Артефакты на заказ: найти артефакт «Грави»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Grawi"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_17">
-		<text>Артефакты на заказ: найти артефакт «Глаз»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Oko"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_18">
-		<text>Артефакты на заказ: найти артефакт «Пузырь»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Baсka"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_19">
-		<text>Артефакты на заказ: найти артефакт «Пустышка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Pustka"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_20">
-		<text>Артефакты на заказ: найти артефакт «Золотая Рыбка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Zіota Rybka"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_21">
-		<text>Артефакты на заказ: найти артефакт «Пламя»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Pіomieс"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_22">
-		<text>Артефакты на заказ: найти артефакт «Светляк»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Њwietlik"</text>
 	</string>
 	<string id="zat_b29_simple_find_title_23">
-		<text>Артефакты на заказ: найти артефакт «Снежинка»</text>
+		<text>Artefakt na Zamуwienie: Przynieњ "Њnieїynka"</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_find_name">
-		<text>«Компас»: найти Ноя и узнать, где можно достать этот редкий артефакт</text>
+		<text>Kompas: Znajdџ Noe i dowiedz siк, gdzie moїesz zdobyж ten rzadki artefakt</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_find_text">
-		<text>Необходимо найти Ноя на старой барже и узнать, где можно достать редкий артефакт «Компас». Борода уже давно ищет этот артефакт и готов хорошо заплатить за него.</text>
+		<text>Muszк znaleџж Noe na starej barce i dowiedzieж siк, gdzie mogк zdobyж rzadki artefakt "Kompas". Broda od dawna szuka tego artefaktu i jest gotуw dobrze za niego zapіaciж.</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_give_name">
-		<text>«Компас»: принести артефакт Бороде</text>
+		<text>Kompas: Przynieњ artefakt do Brody</text>
 	</string>
 	<string id="zat_b30_compass_to_sultan_task_find_name">
-		<text>«Компас»: узнать у Ноя, где можно добыть артефакт</text>
+		<text>Kompas: Zapytaj Noego, gdzie moїesz zdobyж artefakt</text>
 	</string>
 	<string id="zat_b30_compass_to_sultan_task_find_text">
-		<text>Султан хочет перехватить артефакт, который ищет Борода. Нужно найти Ноя на старой барже и узнать, где можно добыть артефакт.</text>
+		<text>Suіtan chce przechwyciж artefakt, ktуrego szuka Broda. Muszк odnaleџж Noe na starej barce i dowiedzieж siк, gdzie mogк zdobyж artefakt.</text>
 	</string>
 	<string id="zat_b30_compass_to_sultan_task_give_name">
-		<text>«Компас»: принести артефакт Султану</text>
+		<text>Kompas: Przynieњ artefakt do Suіtana</text>
 	</string>
 	<string id="zat_b30_compass_to_sultan_task_give_text">
-		<text>Артефакт, который дал Ной, и есть тот самый «Компас», нужный Султану.</text>
+		<text>Artefakt, ktуry daі Noe, to ten sam "Kompas", ktуrego potrzebuje Suіtan.</text>
 	</string>
 	<string id="zat_b30_percent_task_name">
-		<text>Тёмный бизнес: получить от Бороды проценты</text>
+		<text>Czarny Interes: Zabierz od Brody haracz</text>
 	</string>
 	<string id="zat_b30_percent_task_text">
-		<text>Имеет смысл забрать у Бороды причитающийся процент с его доходов.</text>
+		<text>Sensowne jest odebranie Brodzie procentu od jego dochodуw.</text>
 	</string>
 	<string id="zat_b30_sultan_task_1_name">
-		<text>Заманчивый бизнес: поговорить с Султаном</text>
+		<text>Czarny Interes: Porozmawiaj z Suіtanem</text>
 	</string>
 	<string id="zat_b30_sultan_task_1_text">
-		<text>Торговец Сыч считает, что Борода не выполняет условия сделки, и советует обратится за помощью к местному авторитету - Султану.</text>
+		<text>Kupiec Sycz uwaїa, їe Broda nie wywi№zuje siк z warunkуw umowy i radzi mu, aby zwrуciі siк o pomoc do wіadz lokalnych - Suіtana.</text>
 	</string>
 	<string id="zat_b30_sultan_task_2_name">
-		<text>Тёмный бизнес: забрать детекторы у сталкеров</text>
+		<text>Czarny Interes: Zabierz detektory stalkerom</text>
 	</string>
 	<string id="zat_b30_sultan_task_2_text">
-		<text>Необходимо любым способом отобрать прототипы детекторов у сталкеров, которые ищут артефакты для Бороды. Когда Борода лишится детекторов, ему придётся согласиться на условия Султана.</text>
+		<text>W jakikolwiek sposуb konieczne jest odebranie prototypуw detektorуw stalkerom, ktуrzy szukaj№ artefaktуw dla Brody. Kiedy Broda straci swoje detektory, bкdzie musiaі zgodziж siк na warunki Suіtana.</text>
 	</string>
 	<string id="zat_b30_sultan_task_3_name">
-		<text>Тёмный бизнес: поговорить с Султаном</text>
+		<text>Czarny Interes: Porozmawiaj z Suіtanem</text>
 	</string>
 	<string id="zat_b30_sultan_task_3_text">
-		<text>Борода уже лишился детекторов. Нужно прийти к Султану и узнать, решил ли он проблему с другими поставщиками Бороды.</text>
+		<text>Broda straciі juї swoje detektory. Muszк iњж do Suіtana i dowiedzieж siк, czy rozwi№zaі problem z innymi dostawcami Brody.</text>
 	</string>
 	<string id="zat_b30_sultan_task_4_name">
-		<text>Тёмный бизнес: заставить Бороду работать на Султана</text>
+		<text>Czarny Interes: Spraw, by Broda pracowaі dla Suіtana</text>
 	</string>
 	<string id="zat_b30_sultan_task_4_text">
-		<text>Теперь Борода не сможет вести дела самостоятельно: у него нет ни поставщиков, ни детекторов. Нужно заставить его работать на Султана.</text>
+		<text>Teraz Broda nie bкdzie mуgі sam prowadziж interesуw: nie ma ani dostawcуw, ani detektorуw. Muszк zmusiж go do pracy dla Suіtana.</text>
 	</string>
 	<string id="zat_b30_sultan_task_6_name">
-		<text>Тёмный бизнес: узнать о нынешних делах Бороды</text>
+		<text>Czarny Interes: Dowiedz siк o bieї№cych sprawach Brody</text>
 	</string>
 	<string id="zat_b30_sultan_task_6_text">
-		<text>Необходимо узнать, какими делами в данный момент занимается Борода. Это поможет перекрыть каналы его поставок.</text>
+		<text>Muszк dowiedzieж siк, w jakie sprawy Beard jest obecnie zaangaїowany. Pomoїe to odci№ж іaсcuchy dostaw.</text>
 	</string>
 	<string id="zat_b30_sultan_task_7_name">
-		<text>Тёмный бизнес: забрать второй детектор у сталкеров</text>
+		<text>Czarny Interes: Weџ drugi detektor od stalkerуw</text>
 	</string>
 	<string id="zat_b30_sultan_task_7_text">
-		<text>Необходимо любым способом отобрать прототипы детекторов у сталкеров, которые ищут артефакты для Бороды. Когда Борода лишится детекторов, ему придётся согласиться на условия Султана.</text>
+		<text>Muszк w jakiњ sposуb odebraж prototypy detektorуw stalkerom, ktуrzy szukaj№ artefaktуw dla Brody. Kiedy Broda straci swoje detektory, bкdzie musiaі zgodziж siк na warunki Suіtana.</text>
 	</string>
 	<string id="zat_b30_task_1_name">
-		<text>Заманчивый бизнес: принести Гарину три детектора «Велес»</text>
+		<text>Kusz№cy Biznes: Przynieњ trzy detektory Veles do Garina</text>
 	</string>
 	<string id="zat_b30_task_1_text">
-		<text>Торговец Сыч предложил участвовать в одном прибыльном деле. Для этого надо найти три детектора «Велес», отнести их в бункер учёных и отдать Гарину.</text>
+		<text>Handlarz Sycz zaproponowaі udziaі w jednym dochodowym biznesie. W tym celu muszк znaleџж trzy detektory Veles, zabraж je do bunkra naukowcуw i przekazaж Garinowi.</text>
 	</string>
 	<string id="zat_b30_task_2_name">
-		<text>Заманчивый бизнес: дождаться получения детекторов Сычом</text>
+		<text>Kusz№cy Biznes: Poczekaj, aї Sycz odbierze detektory</text>
 	</string>
 	<string id="zat_b30_task_2_text">
-		<text>Гарин взял детекторы и сказал, что сам переправит их Сычу обратно. Необходимо подождать, пока Гарин поработает с детекторами, а потом узнать у Сыча результаты.</text>
+		<text>Garin wzi№і detektory i powiedziaі, їe sam odeњle je do Sycza. Trzeba poczekaж, aї Garin zacznie pracowaж z detektorami, a nastкpnie poprosiж Sycza o wyniki.</text>
 	</string>
 	<string id="zat_b30_task_3_name">
-		<text>Заманчивый бизнес: поговорить с Сычом</text>
+		<text>Kusz№cy Biznes: Porozmawiaj z Syczem</text>
 	</string>
 	<string id="zat_b30_task_3_text">
-		<text>Торговец Сыч по рации передал, что у него возникли проблемы, и попросил зайти к нему.</text>
+		<text>Hanldarz Sycz przez radio poinformowaі, їe ma problemy i poprosiі o przybycie do niego.</text>
 	</string>
 	<string id="zat_b30_task_4_name">
-		<text>Заманчивый бизнес: убедить Бороду следовать договоренности</text>
+		<text>Kusz№cy Biznes: Przekonaj Brodк do przestrzegania umowy</text>
 	</string>
 	<string id="zat_b30_task_4_text">
-		<text>Торговец Сыч считает что Борода не выполняет условия сделки. Необходимо поговорить с Бородой и вынудить того придерживаться договорённостей.</text>
+		<text>Handlarz Sycz uwaїa, їe Broda nie wywi№zuje siк z warunkуw umowy. Konieczna jest rozmowa z Brod№ i zmuszenie go do przestrzegania umowy.</text>
 	</string>
 	<string id="zat_b30_task_5_name">
-		<text>Заманчивый бизнес: потребовать долю у Сыча</text>
+		<text>Kusz№cy Biznes: Zaї№daj dziaіki od Sycza</text>
 	</string>
 	<string id="zat_b30_task_5_text">
-		<text>Борода не признаёт, что должен Сычу. Необходимо выяснить, кто из торговцев прав, и потребовать у провинившегося свою долю.</text>
+		<text>Broda nie przyznaje siк, їe jest coњ winien dla Sycza. Trzeba siк dowiedzieж, ktуry z kupcуw ma racjк i zaї№daж jego czкњci od sprawcy.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_01">
-		<text>Сталкер Коряга просит раздобыть контейнер с его вещами. Контейнер он спрятал в старый «Запорожец», но после землетрясения машина провалилась в разлом. Сам Коряга опасается спускаться вниз: там водятся снорки.</text>
+		<text>Stalker Kulawy prosi o pojemnik z jego rzeczami. Ukryі go w starym Zaporoїcu, ale po trzкsieniu ziemi samochуd wpadі w rozpadlinк. Sam Kulawy boi siк zejњж: podobno s№ tam snorki.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_02">
-		<text>Контейнер Коряги получен. Теперь нужно отнести его владельцу и по-честному разделить содержимое.</text>
+		<text>Zdobyіem pojemnik Kulawego. Teraz muszк przekazaж go wіaњcicielowi i uczciwie podzieliж siк zawartoњci№.</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_name">
-		<text>Логово кровососов: рассказать сталкерам</text>
+		<text>Legowisko Krwiopijcуw: Powiedz stalkerom</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_inform_stalkers_text">
-		<text>Нужно сообщить сталкерам о логове кровососов, обнаруженном под ВНЗ «Круг».</text>
+		<text>Konieczne muszк poinformowaж stalkerуw o kryjуwce krwiopijcуw, odkrytej pod WNZ "Koіo".</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_name">
-		<text>Логово кровососов: рассказать Бороде</text>
+		<text>Legowisko Krwiopijcуw: Powiedz Brodzie</text>
 	</string>
 	<string id="zat_b38_den_of_the_bloodsucker_tell_barman_about_all_text">
-		<text>Необходимо рассказать Бороде о логове кровососов, обнаруженном под ВНЗ «Круг»: он знает, что предпринять для безопасности сталкеров.</text>
+		<text>Trzeba powiedzieж Brodzie o kryjуwce krwiopijcуw, odkrytej pod WNZ "Koіo": wie, co zrobiж dla bezpieczeсstwa stalkerуw.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_name">
-		<text>Исчезновение сталкеров: следовать за Глухарем</text>
+		<text>Znikanie Stalkerуw: Pod№їaj za Gіuszcem</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_clean_den_of_the_bloodsucker_text">
-		<text>Глухарь просит обследовать вместе с ним заброшенное здание ВНЗ. Он заметил кровососов и хочет проверить, нет ли тут охотника.</text>
+		<text>Gіuszec prosi o zbadanie z nim opuszczonego budynku WNZ. Zauwaїyі krwiopijcуw i chce sprawdziж, czy nie ma tu іowcy.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_deal_with_medic_name">
-		<text>Исчезновение сталкеров: разобраться, что произошло</text>
+		<text>Znikanie Stalkerуw: Dowiedz siк, co siк staіo</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_deal_with_medic_text">
-		<text>Кажется, Тремор не так уж безобиден. Нужно разобраться, что здесь произошло.</text>
+		<text>Wygl№da na to, їe Tremor nie jest tak nieszkodliwy. Muszк dowiedzieж siк, co siк tutaj staіo.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_name">
-		<text>Исчезновение сталкеров: найти Глухаря</text>
+		<text>Znikanie Stalkerуw: Znajdџ Gіuszca</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_cop_near_port_krans_text">
-		<text>Глухарь зачем-то пошёл к портовым кранам - возможно, что-то узнал про пропавших сталкеров. Нужно поискать его там.</text>
+		<text>Z jakiegoњ powodu Gіuszec trafiі do portowych їurawi – byж moїe dowiedziaі siк czegoњ o zaginionych stalkerach. Muszк go tam poszukaж.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_name">
-		<text>Исчезновение сталкеров: разузнать, где Глухарь</text>
+		<text>Znikanie Stalkerуw: Dowiedz siк, gdzie Gіuszec</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_out_where_is_cop_text">
-		<text>Глухаря нет на его привычном месте. Стоит спросить у Бороды, куда тот отправился.</text>
+		<text>Gіuszec nie jest na swoim zwykіym miejscu. Warto zapytaж Brodк, dok№d poszedі.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_name">
-		<text>Исчезновение сталкеров: найти пропавшего охотника</text>
+		<text>Znikanie Stalkerуw: Znajdџ zaginionego іowcк</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_find_to_be_missing_hunter_text">
-		<text>Глухарь просил помочь в поисках пропавшего охотника, который искал логово кровососов. Судя по имеющимся сведениям, именно кровососы причастны ко всем недавним исчезновениям сталкеров.</text>
+		<text>Gіuszec poprosiі o pomoc w poszukiwaniach zaginionego myњliwego, ktуry szukaі legowiska krwiopijcуw. S№dz№c po dostкpnych informacjach, to krwiopijcy s№ zamieszani we wszystkie niedawne znikniкcia stalkerуw.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_name">
-		<text>Исчезновение сталкеров: выбраться из логова кровососов</text>
+		<text>Znikanie Stalkerуw: Wyjdџ z legowiska krwiopijcуw</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_get_out_from_den_of_the_bloodsucker_text">
-		<text>В подвале обнаружилось логово кровососов, причём твари находятся в состоянии странного оцепенения. Нужно выбраться отсюда - и при этом очень желательно не шуметь.</text>
+		<text>W piwnicy odkryto legowisko krwiopijcуw, a stworzenia s№ w dziwnym otкpieniu. Trzeba siк st№d wydostaж - i jednoczeњnie nie haіasowaж.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_name">
-		<text>Исчезновение сталкеров: встретиться с Глухарём</text>
+		<text>Znikanie Stalkerуw: Spotkaj siк z Gіuszcem</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_24h_past_text">
-		<text>Пожалуй, стоит встретится с Глухарём и поговорить о дальнейших поисках охотника.</text>
+		<text>Byж moїe warto spotkaж siк z Gіuszcem i porozmawiaж o dalszych poszukiwaniach іowcy.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_later_name">
-		<text>Исчезновение сталкеров: встретиться с Глухарём позже</text>
+		<text>Znikanie Stalkerуw: Spotkaj siк pуџniej z Gіuszcem</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_cop_later_text">
-		<text>В здании не оказалось никаких следов Данилы-охотника. Однако Глухарь, кажется, озадачен тем, что удалось обнаружить внутри ВНЗ; он просит встретится с ним позже - хочет разузнать какие-то детали.</text>
+		<text>W budynku nie byіo њladуw іowcy Danila. Jednak Gіuszec wydaje siк byж zdziwiony tym, co znalazіem w WNZ. Prosi o spotkanie z nim pуџniej - chce poznaж szczegуіy.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_ment_name">
-		<text>Исчезновение сталкеров: встретиться с Глухарем</text>
+		<text>Znikanie Stalkerуw: Spotkaj siк z Gіuszcem</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_meet_ment_text">
-		<text>В месте, указанном Глухарём, был только мёртвый кровосос и никаких следов охотника Данилы. Но сам Глухарь, очевидно, нашёл что-то интересное и просит присоединиться к нему.</text>
+		<text>W miejscu wskazanym przez Gіuszca byі tylko martwy krwiopijca i їadnych њladуw іowcy Danila. Ale sam Gіuszec oczywiњcie znalazі coњ interesuj№cego i prosi o doі№czenie do niego.</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_text">
-		<text>Как выяснилось, в исчезновении сталкеров виноваты не кровососы, а Тремор - медик со «Скадовска».</text>
+		<text>Jak siк okazaіo, to nie krwiopijcy byli winni znikniкcia stalkerуw, ale Tremor, lekarz ze Skadowska.</text>
 	</string>
 	<string id="zat_b3_get_tools_1_2_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_1_2_text">
-		<text>Кардан просил найти два набора инструментов: один для тонкой работы, другой для грубой. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o dwa zestawy narzкdzi: jeden do dobrej pracy, drugi do ciкїkiej pracy. Technik zapіaci za narzкdzia, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_get_tools_1_3_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_1_3_text">
-		<text>Кардан просил найти два набора инструментов: один для грубой работы, другой для калибровки. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o dwa zestawy narzкdzi: jeden do ciкїkiej pracy, drugi do kalibracji. Technik zapіaci za narzкdzia, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_get_tools_1_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_1_text">
-		<text>Кардан просил найти набор инструментов для грубой работы. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o zestaw narzкdzi do ciкїkiej pracy. Technik zapіaci za narzкdzie, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_get_tools_2_3_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_2_3_text">
-		<text>Кардан просил найти два набора инструментов: один для тонкой работы, другой для калибровки. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o dwa zestawy narzкdzi: jeden do dobrej pracy, drugi do kalibracji. Technik zapіaci za narzкdzie, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_get_tools_2_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_2_text">
-		<text>Кардан просил найти набор инструментов для тонкой работы. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o zestaw narzкdzi do drobnej pracy. Technik zapіaci za narzкdzie, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_get_tools_3_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_get_tools_3_text">
-		<text>Кардан просил найти набор инструментов для калибровки. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o zestaw narzкdzi do kalibracji. Technik zapіaci za narzкdzie, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b3_mechanic_toolkit_search_name">
-		<text>Инструменты: принести инструменты Кардану</text>
+		<text>Narzкdzia: Przynieњ narzкdzia do Kardana</text>
 	</string>
 	<string id="zat_b3_mechanic_toolkit_search_text">
-		<text>Кардан просил найти три набора инструментов: для грубой работы, для тонкой работы плюс набор для калибровки. Техник заплатит за инструмент и, кроме того, сможет обеспечить более сложную модернизацию оружия или бронежилета.</text>
+		<text>Kardan poprosiі o trzy zestawy narzкdzi: do drobnej pracy, do ciкїkiej pracy oraz zestaw do kalibracji. Technik zapіaci za narzкdzia, a dodatkowo bкdzie w stanie zapewniж bardziej zіoїone ulepszenia broni lub pancerza.</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_01_name">
-		<text>Лагерь наёмников: забрать любую найденную информацию</text>
+		<text>Obуz Najemnikуw: Odzyskaj wszelkie znalezione informacje</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_01_text">
-		<text>Торговец Сыч обещал хорошо заплатить за любой носитель информации, найденный в лагере наёмников на станции переработки отходов. Его интересуют планы наёмников.</text>
+		<text>Handlarz Sycz obiecaі dobrze zapіaciж za kaїdy noњnik danych znaleziony w obozie najemnikуw na stacji Recyklingu. Interesuj№ go plany najemnikуw.</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_02_name">
-		<text>Лагерь наёмников: унести с собой любую найденную информацию</text>
+		<text>Obуz Najemnikуw: Zabierz ze sob№ wszelkie znalezione informacje</text>
 	</string>
 	<string id="zat_b40_reconnoitre_merc_camp_02_text">
-		<text>Торговец Сыч обещал хорошо заплатить за любой носитель информации, найденный в лагере наёмников на станции переработки отходов. Его интересуют планы наёмников.</text>
+		<text>Handlarz Sycz obiecaі dobrze zapіaciж za kaїdy noњnik danych znaleziony w obozie najemnikуw na stacji Recyklingu. Interesuj№ go plany najemnikуw.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_barge_name">
-		<text>Три товарища: узнать о судьбе Баржи</text>
+		<text>Trzej Towarzysze: Dowiedz siк o losie Bargi</text>
 	</string>
 	<string id="zat_b44_tech_buddies_barge_text">
-		<text>Кардан просил передать извинения своему товарищу - сталкеру по кличке Баржа. Они разругались, и тот ушёл в неизвестном направлении.</text>
+		<text>Kardan poprosiі o przekazanie przeprosin swojemu towarzyszowi - stalkerowi o kswyce Barga. Pokіуcili siк, a on poszedі w nieznanym kierunku.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_both_name">
-		<text>Три товарища: узнать о судьбе Баржи и Шутника</text>
+		<text>Trzej Towarzysze: Dowiedz siк o losie Bargi i Szutnika</text>
 	</string>
 	<string id="zat_b44_tech_buddies_both_text">
-		<text>Кардан просил передать извинения своим товарищам - сталкерам Барже и Шутнику. После ссоры ребята ушли в неизвестном направлении.</text>
+		<text>Kardan poprosiі o przekazanie przeprosin swoim towarzyszom - stalkerom Bardze i Szutnikowi. Po kіуtni chіopaki poszli w nieznanym kierunku.</text>
 	</string>
 	<string id="zat_b44_tech_buddies_joker_name">
-		<text>Три товарища: узнать о судьбе Шутника</text>
+		<text>Trzej Towarzysze: Dowiedz siк o losie Szutnika</text>
 	</string>
 	<string id="zat_b44_tech_buddies_joker_text">
-		<text>Кардан просил передать извинения своему товарищу - сталкеру по кличке Шутник. Они разругались, и тот ушёл в неизвестном направлении.</text>
+		<text>Kardan poprosiі o przekazanie przeprosin swojemu przyjacielowi – stalkerowi o ksywce Szutnik. Pokіуcili siк, a on poszedі w nieznanym kierunku.</text>
 	</string>
 	<string id="zat_b51_nimble_items_get_order_name">
-		<text>Особый заказ: забрать товар</text>
+		<text>Specjalne Zamуwienie: Odbierz przedmiot</text>
 	</string>
 	<string id="zat_b51_nimble_items_get_order_text">
-		<text>Заказ доставлен, необходимо забрать его у Шустрого.</text>
+		<text>Zamуwienie zostaіo dostarczone, muszк je odebraж z Їwawy.</text>
 	</string>
 	<string id="zat_b51_nimble_items_wait_order_name">
-		<text>Особый заказ: ожидать доставки</text>
+		<text>Specjalne Zamуwienie: Poczekaj na dostawк</text>
 	</string>
 	<string id="zat_b51_nimble_items_wait_order_text">
-		<text>Заказ сделан. Нужно подождать, пока Шустрый достанет товар.</text>
+		<text>Zamуwienie zostaіo zіoїone. Muszк poczekaж, aї Їwawy dostanie towar.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_name">
-		<text>Репутация: найти Корягу</text>
+		<text>Reputacja: Znajdџ Korjagк</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text">
-		<text>Нужно найти Корягу и заставить его прикусить язык. Шустрый никогда не торговал краденым, а вот Коряга, скорее всего, здорово привык врать. В последний раз его видели у портовых кранов - возможно, он всё ещё там.</text>
+		<text>Muszк znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Їwawy nigdy nie handlowaі kradzionymi towarami, ale Korjaga najprawdopodobniej byі bardzo przyzwyczajony do kіamstwa. Ostatnio widziano go przy dџwigach portowych - moїe nadal tam jest.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text_2">
-		<text>Нужно найти Корягу и заставить его прикусить язык. У портовых кранов Коряги нет - но, возможно, бандиты знают, где он.</text>
+		<text>Muszк znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Przy portowych dџwigach nie ma go - ale byж moїe bandyci wiedz№, gdzie jest.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text_3">
-		<text>Нужно найти Корягу и заставить его прикусить язык. Кажется, бандиты замешаны в этом деле и знают, где искать Корягу.</text>
+		<text>Musisz znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Wygl№da na to, їe bandyci s№ zamieszani w tк sprawк i wiedz№, gdzie go szukaж.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text_4">
-		<text>Нужно найти Корягу и заставить его прикусить язык. Пока нет никаких зацепок относительно его местонахождения.</text>
+		<text>Musisz znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Jak dot№d nie ma їadnych wskazуwek co do jego miejsca pobytu.</text>
 	</string>
 	<string id="zat_b52_reputation_find_snag_text_5">
-		<text>Нужно найти Корягу и заставить его прикусить язык. Судя по КПК, найденному у одного из бандитов, Корягу ищут люди Султана. Однако где именно его искать, не известно.</text>
+		<text>Musisz znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. S№dz№c po PDA, znalezionym w jednym z bandytуw, ludzie Suіtana szuka Korjagi. Nie wiem, gdzie dokіadnie szukaж.</text>
 	</string>
 	<string id="zat_b52_reputation_know_there_snog_name">
-		<text>Репутация: узнать, куда пропал Коряга</text>
+		<text>Reputacja: Dowiedz siк, gdzie znikn№і Korjaga</text>
 	</string>
 	<string id="zat_b52_reputation_know_there_snog_text">
-		<text>На прежнем месте Коряги нет. Следует расспросить местных - возможно, кто-то видел, куда он делся.</text>
+		<text>W poprzednim miejscu nie ma Korjagi. Powinienem zapytaж miejscowych - moїe ktoњ widziaі, dok№d poszedі.</text>
 	</string>
 	<string id="zat_b52_reputation_know_there_snog_text_2">
-		<text>Нужно найти Корягу и заставить его прикусить язык. На прежнем месте его нет. Возможно, Султан знает, где найти Корягу.</text>
+		<text>Muszк znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Nie ma go w swojej pierwotnej lokalizacji. Byж moїe Suіtan wie, gdzie go znaleџж.</text>
 	</string>
 	<string id="zat_b52_reputation_know_there_snog_text_3">
-		<text>Нужно найти Корягу и заставить его прикусить язык. На прежнем месте Коряги нет; возможно, Борода знает что-нибудь.</text>
+		<text>Muszк znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Nie ma Koryagi w tym miejscu. Moїe Broda coњ wie.</text>
 	</string>
 	<string id="zat_b52_reputation_tell_snag_name">
-		<text>Репутация: поговорить с Корягой</text>
+		<text>Reputacja: Porozmawiaj z Korjag№</text>
 	</string>
 	<string id="zat_b52_reputation_tell_snag_text">
-		<text>Нужно найти Корягу и заставить его прикусить язык. Шустрый никогда не торговал краденым, а вот Коряга, скорее всего, здорово привык врать.</text>
+		<text>Muszк znaleџж Korjagк i zmusiж go do ugryzienia siк w jкzyk. Їwawy nigdy nie handlowaі kradzionymi towarami, ale Korjaga najprawdopodobniej byі bardzo przyzwyczajony do kіamstwa.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_name">
-		<text>Логово кровососов: найти вентиляционную шахту</text>
+		<text>Legowisko Krwiopijcуw: Znajdџ szyb wentylacyjny</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_destroy_lair_text">
-		<text>Найти вентиляционную шахту, чтобы пустить отравляющий газ в логово кровососов.</text>
+		<text>Znajdџ szyb wentylacyjny, aby uwolniж truj№cy gaz do legowiska krwiopijcуw.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_name">
-		<text>Логово кровососов: найти отравляющий газ</text>
+		<text>Legowisko Krwiopijcуw: Znajdџ truj№cy gaz</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text">
-		<text>Для уничтожения логова необходим отравляющий газ. Сыч должен знать, где такую штуку можно найти.</text>
+		<text>Do zniszczenia legowiska potrzebny jest truj№cy gaz. Sycz musi wiedzieж, gdzie coњ takiego moїna znaleџж.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_find_gas_text_2">
-		<text>Для уничтожения логова необходим отравляющий газ. Сыч утверждает, что баллоны с газом должны иметься в брошенной военной автоколонне.</text>
+		<text>Do zniszczenia legowiska potrzebny jest truj№cy gaz. Sycz twierdzi, їe butle z gazem powinny znajdowaж siк w opuszczonym konwoju wojskowym.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_get_gas_name">
-		<text>Логово кровососов: найти ключи для контейнера</text>
+		<text>Legowisko Krwiopijcуw: Znajdџ klucze do kontenera</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_get_gas_text">
-		<text>В найденой документации упоминаются ключи к контейнеру с газовым баллоном. Необходимо их найти.</text>
+		<text>Znaleziona dokumentacja wspomina o kluczach do kontenera z butl№ gazow№. Trzeba je znaleџж.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_name">
-		<text>Логово кровососов: найти способ открыть контейнер с газовым баллоном</text>
+		<text>Legowisko Krwiopijcуw: Znajdџ sposуb na otwarcie kontenera z butl№ z gazem</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_open_gas_box_text">
-		<text>Контейнер, в котором хранится баллон с газом, закрыт. Необходимо найти способ открыть его.</text>
+		<text>Kontener, w ktуrym przechowywana jest butla z gazem, jest zamkniкty. Muszк znaleџж sposуb, aby go otworzyж.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_place_gas_name">
-		<text>Логово кровососов: установить газовый баллон</text>
+		<text>Legowisko Krwiopijcуw: Zainstaluj butlк z gazem</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_place_gas_text">
-		<text>Установить газовый баллон в систему вентиляции подвалов ВНЗ. Газ, проникнув через вентиляционную шахту, заполнит подвалы и уничтожит кровососов.</text>
+		<text>Powinienem zainstalowaж butlк z gazem w systemie wentylacji piwnicy WNZ. Gaz przedostaj№cy siк przez szyb wentylacyjny wypeіni piwnice i zabije krwiopijcуw.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_name">
-		<text>Логово кровососов: сообщить Бороде об уничтожении логова</text>
+		<text>Legowisko Krwiopijcуw: Poinformuj Brodк o zniszczeniu legowiska</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_tell_stalkers_about_destroy_lair_text">
-		<text>Имеет смысл сообщить Бороде о том, что логово кровососов уничтожено и «Скадовск» теперь вне опасности.</text>
+		<text>Powinienem poinformowaж Brodк, їe legowisko krwiopijcуw zostaіo zniszczone, a Skadows jest teraz bezpieczne.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_name">
-		<text>Логово кровососов: повернуть вентиль</text>
+		<text>Legowisko Krwiopijcуw: Przekrкж zawуr</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_twist_vintil_text">
-		<text>Повернуть вентиль, чтобы ядовитый газ проник через вентиляционную шахту в подвалы, где находится логово кровососов.</text>
+		<text>Trzeba przekrкciж zawуr tak, aby truj№cy gaz przedostaі siк przez szyb wentylacyjny do piwnic, w ktуrych znajduje siк legowisko krwiopijcуw.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_name">
-		<text>Логово кровососов: выждать, пока подействует газ</text>
+		<text>Legowisko Krwiopijcуw: Poczekaj, aї gaz zadziaіa</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_wait_destroy_text">
-		<text>Надо убедится, что газ попал в логово и все кровососы уничтожены.</text>
+		<text>Muszк mieж pewnoњж, їe gaz dostaі siк do legowiska i wszyscy krwiopijcy zostali zlikwidowani.</text>
 	</string>
 	<string id="zat_b5_come_to_bandits_name">
-		<text>Сделка: встретиться с бандитами возле лесничества</text>
+		<text>Umowa: Poznaj bandytуw w pobliїu leњnictwa</text>
 	</string>
 	<string id="zat_b5_come_to_bandits_text">
-		<text>Султан попросил поучаствовать в сделке с одним барыгой. Надо сопроводить людей Султана к месту встречи и прикрывать их на случай непредвиденных обстоятельств.</text>
+		<text>Suіtan poprosiі o udziaі w ukіadzie z jednym handlarzem. Muszк eskortowaж ludzi Suіtana na miejsce spotkania i osіaniaж ich na wypadek nieprzewidzianych okolicznoњci.</text>
 	</string>
 	<string id="zat_b5_come_to_dealer_name">
-		<text>Сделка: встретиться с торговцем</text>
+		<text>Oferta: Poznaj kupca</text>
 	</string>
 	<string id="zat_b5_come_to_dealer_text">
-		<text>Сыч предложил работу - охранять какого-то торговца во время сделки. Очевидно, сделка имеет сомнительный характер и в процессе могут возникнуть неприятности.</text>
+		<text>Sycz zaproponowaі pracк - aby chroniж jakiegoњ kupca podczas transakcji. Oczywiњcie transakcja ma charakter w№tpliwy i mog№ pojawiж siк kіopoty.</text>
 	</string>
 	<string id="zat_b5_come_to_stalkers_name">
-		<text>Сделка: встретиться со сталкерами возле лесничества</text>
+		<text>Oferta: Spotkaj siк z stalkerami w pobliїu leњnictwa</text>
 	</string>
 	<string id="zat_b5_come_to_stalkers_text">
-		<text>Встретиться со сталкерами возле лесничества и помочь им предотвратить сделку между бандитами и продавцом оружия.</text>
+		<text>Spotkaj siк ze stalkerami w pobliїu leњnictwa i pomуї im zapobiec paktowi miкdzy bandytami a handlarzem broni№.</text>
 	</string>
 	<string id="zat_b5_cover_dealer_name">
-		<text>Сделка: охранять торговца</text>
+		<text>Umowa: Chroс kupca</text>
 	</string>
 	<string id="zat_b5_cover_dealer_text">
-		<text>По словам торговца, задача проста: охранять его во время сделки.</text>
+		<text>Wedіug kupca zadanie jest proste: chroniж go podczas transakcji.</text>
 	</string>
 	<string id="zat_b5_intercept_talking_name">
-		<text>Сделка: подслушать разговор</text>
+		<text>Oferta: Podsіuchaj rozmowк</text>
 	</string>
 	<string id="zat_b5_intercept_talking_text">
-		<text>Сталкеры хотят подслушать разговор между бандитами и торговцем оружием.</text>
+		<text>Stalkerzy chc№ podsіuchaж rozmowк bandytуw z handlarzem broni№.</text>
 	</string>
 	<string id="zat_b5_kill_dealer_name">
-		<text>Сделка: предотвратить покупку оружия</text>
+		<text>Oferta: Nie dopuњж do zakupu broni</text>
 	</string>
 	<string id="zat_b5_kill_dealer_text">
-		<text>Надо любым способом предотвратить сделку между бандитами и барыгой.</text>
+		<text>Jest to w jakikolwiek sposуb konieczne, aby zapobiec paktowi miкdzy bandytami a handlarzem.</text>
 	</string>
 	<string id="zat_b5_kill_stalkers_name">
-		<text>Сделка: убрать свидетелей</text>
+		<text>Umowa: Pozb№dџ siк њwiadkуw</text>
 	</string>
 	<string id="zat_b5_kill_stalkers_text">
-		<text>Сделка с барыгой сорвалась. Нужно убрать всех свидетелей.</text>
+		<text>Umowa z handlarzem nie doszіa do skutku. Wszyscy њwiadkowie musz№ zostaж usuniкci.</text>
 	</string>
 	<string id="zat_b5_protect_dealer_name">
-		<text>Сделка: защитить торговца</text>
+		<text>Umowa: Chroс handlarza</text>
 	</string>
 	<string id="zat_b5_protect_dealer_text">
-		<text>Необходимо защитить торговца. Кроме того, он приказал убрать всех свидетелей сделки, в том числе и собственных клиентов.</text>
+		<text>Handlarz musi byж chroniony. Ponadto nakazaі usuniкcie wszystkich њwiadkуw transakcji, w tym wіasnych klientуw.</text>
 	</string>
 	<string id="zat_b5_search_body_name">
-		<text>Сделка: обыскать торговца</text>
+		<text>Oferta: Przeszukaj handlarza</text>
 	</string>
 	<string id="zat_b5_search_body_text">
-		<text>У торговца могла остаться важная информация. Нужно её забрать - может пригодиться.</text>
+		<text>Handlarz moїe mieж jakieњ waїne informacje. Muszк go przeszukaж - moїe siк przydaж.</text>
 	</string>
 	<string id="zat_b5_secure_bandits_name">
-		<text>Сделка: прикрывать бандитов во время сделки</text>
+		<text>Umowa: Osіaniaj bandytуw podczas umowy</text>
 	</string>
 	<string id="zat_b5_secure_bandits_text">
-		<text>Пока бандиты будут договариваться с барыгой, надо быть начеку и, в случае чего, прикрыть их.</text>
+		<text>Podczas gdy bandyci bкd№ negocjowaж z handlarzem, muszк byж w pogotowiu i w nagіym przypadku ich osіaniaж.</text>
 	</string>
 	<string id="zat_b5_speak_dealer_name">
-		<text>Сделка: поговорить с торговцем</text>
+		<text>Umowa: Porozmawiaj z handlarzem</text>
 	</string>
 	<string id="zat_b5_speak_dealer_text">
-		<text>Условия сделки с торговцем выполнены, остаётся забрать награду.</text>
+		<text>Warunki umowy z handlarzem s№ speіnione, pozostaje odebraж nagrodк.</text>
 	</string>
 	<string id="zat_b5_talk_barmen_name">
-		<text>Сделка: получить награду у Бороды</text>
+		<text>Oferta: Odbierz nagrodк od Brody</text>
 	</string>
 	<string id="zat_b5_talk_barmen_text">
-		<text>Борода обещал награду, если сделка между бандитами и барыгой будет сорвана. Поскольку теперь сделка наверняка не состоится, можно отправляться за наградой.</text>
+		<text>Broda obiecaі nagrodк, jeњli umowa miкdzy bandytami a handlarzem zostanie zerwana. Poniewaї teraz transakcja nie dojdzie do skutku, mogк iњж po nagrodк.</text>
 	</string>
 	<string id="zat_b5_talk_to_sultan_name">
-		<text>Сделка: поговорить с главарём бандитов</text>
+		<text>Umowa: Porozmawiaj z przywуdc№ bandytуw</text>
 	</string>
 	<string id="zat_b5_talk_to_sultan_text">
-		<text>Надо сообщить главарю бандитов о готовности принять участие в сделке.</text>
+		<text>Konieczne jest poinformowanie przywуdcy bandytуw o gotowoњci do wziкcia udziaіu w transakcji.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_name">
-		<text>Наезд: решить, что предпринять</text>
+		<text>Najazd: Zdecyduj, co zrobiж</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_name">
-		<text>Наезд: напасть на сталкеров</text>
+		<text>Najazd: Zaatakuj stalkerуw</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_reward_name">
-		<text>Наезд: получить награду</text>
+		<text>Najazd: Odbierz nagrodк</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_reward_text">
-		<text>Нападение на лагерь отбито, можно поговорить со сталкерами и получить награду. Скорее всего, сталкерам пришлось бы туго, если бы они не были предупреждены о нападении.</text>
+		<text>Atak na obуz zostaі odparty, mogк porozmawiaж ze stalkerami i otrzymaж nagrodк. Najprawdopodobniej stalkerom byіoby ciкїko, gdyby nie zostali ostrzeїeni o ataku.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_text">
-		<text>Группа сталкеров решила превратиться в банду и грабить своих же вчерашних коллег. Пора решать как быть: принять участие в наезде, предупредить будущих жертв или не вмешиваться?</text>
+		<text>Grupa stalkerуw postanowiіa zamieniж siк w gang i obrabowaж swoich byіych kolegуw. Czas zdecydowaж, co zrobiж: wzi№ж udziaі w ataku, ostrzec przyszіe ofiary czy nie interweniowaж?</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_wait_name">
-		<text>Наезд: дождаться назначенного времени</text>
+		<text>Najazd: Poczekaj na wyznaczony czas</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_time_name">
-		<text>Наезд: дождаться подходящего момента</text>
+		<text>Najazd: Czekaj na odpowiedni moment</text>
 	</string>
 	<string id="zat_b33_zaporojec_name">
-		<text>Недоступный тайник: принести Коряге контейнер</text>
+		<text>Niedostкpna Skrytka: Zanieњ pojemnik do Koriagi</text>
 	</string>
 	<string id="zat_b5_talk_stalkers_name">
-		<text>Сделка: поговорить с лидером отряда сталкеров</text>
+		<text>Umowa: Porozmawiaj z liderem oddziaіu stalkerуw</text>
 	</string>
 	<string id="zat_b5_talk_stalkers_text">
-		<text>Сделка сорвана, торговец оружием мёртв. Необходимо поговорить с лидером отряда сталкеров</text>
+		<text>Umowa zostaіa zerwana, handlarz broni№ nie їyje. Muszк porozmawiaж z przywуdc№ oddziaіu stalkerуw</text>
 	</string>
 	<string id="zat_b38_disappearance_stalkers_tell_barmen_about_medic_name">
-		<text>Исчезновение сталкеров: рассказать на «Скадовске» о том, что произошло</text>
+		<text>Znikniкcie Stalkerуw: Opowiedz na Skadowsku co zaszіo</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_open_container_text">
-		<text>Необходимо открыть контейнер найденными ключами и достать из него баллон с отравляющим газом</text>
+		<text>Muszк otworzyж kontener ze znalezionymi kluczami i wyci№gn№ж z niego butlк z truj№cym gazem.</text>
 	</string>
 	<string id="zat_b57_den_of_the_bloodsucker_open_container_name">
-		<text>Логово кровососов: достать газовый баллон из контейнера</text>
+		<text>Legowisko Krwiopijcуw: Zabierz butlк z pojemnika</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_backstab_name">
-		<text>Наезд: атаковать грабителей</text>
+		<text>Najazd: Zaatakuj zіodziei</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_backstab_text">
-		<text>Надо напасть на грабителей со спины, чтобы помочь сталкерам отразить нападение.</text>
+		<text>Konieczne jest zaatakowanie zіodziei od tyіu, aby pomуc stalkerom odeprzeж atak.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_meet_name">
-		<text>Наезд: встретиться с грабителями</text>
+		<text>Najazd: Spotkaj siк ze zіodziejami</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_text">
-		<text>Участвовать с грабителями в нападении на лагерь сталкеров.</text>
+		<text>Doі№czyіem do rabusi w ataku na obуz stalkerуw.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_name">
-		<text>Наезд: влиться в ряды грабителей</text>
+		<text>Najazd: Doі№cz do szeregуw rabusiуw</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_stalkers_text">
-		<text>Сталкеры попросили помочь им отразить атаку грабителей. Нужно влиться в ряды грабителей, тогда во время нападения можно будет спокойно напасть на них со спины.</text>
+		<text>Stalkerzy poprosili o pomoc w odparciu ataku rabusiуw. Muszк wst№piж w szeregi rabusiуw, a podczas ataku mogк strzeliж im w plecy.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_meet_text">
-		<text>Грабители должны ждать возле «Шевченко». Нужно будет с ними встретится, чтобы участвовать в наезде на сталкеров.</text>
+		<text>Rabusie powinni czekaж w pobliїu Szewczenki. Bкdк musiaі siк z nimi spotkaж, aby wzi№ж udziaі w nalocie na stalkerуw.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_wait_text">
-		<text>Дождаться времени встречи с грабителями: те хотят напасть на лагерь сталкеров поздно ночью, в темноте. Условленное место встречи - «Шевченко».</text>
+		<text>Zostaіo poczekaж na spotkanie z rabusiami: chc№ zaatakowaж obуz stalkerуw pуџno w nocy, po ciemku. Umуwionym miejscem spotkania jest Szewczenko.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_reward_name">
-		<text>Наезд: поговорить с грабителями</text>
+		<text>Najazd: Porozmawiaj ze zіodziejami</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_raiders_reward_text">
-		<text>Нападение на сталкеров прошло успешно. Теперь надо переговорить с подельниками.</text>
+		<text>Atak na stalkerуw zakoсczyі siк sukcesem. Teraz muszк porozmawiaж z moimi wspуlnikami.</text>
 	</string>
 	<string id="zat_b7_stalkers_raiders_time_text">
-		<text>Необходимо дождаться момента, когда грабители будут отвлечены наездом. Тогда можно будет ударить им в спину, чтобы помочь сталкерам на «Шевченко».</text>
+		<text>Trzeba poczekaж na moment, kiedy rabusie rozprosz№ siк podczas napadu. Wtedy bкdк mуgі dџgn№ж ich w plecy, aby pomуc stalkerom na Szewczence.</text>
 	</string>
 	<string id="zat_b30_sultan_task_8_name">
-		<text>Тёмный бизнес: начать работать на Бороду</text>
+		<text>Czarny Interes: Zacznij pracк dla Brody</text>
 	</string>
 	<string id="zat_b30_sultan_task_8_text">
-		<text>Чтобы отобрать прототипы детекторов у сталкеров, работающих на Бороду, необходимо влиться в их ряды. Это позволит разведать лагерь конкурентов</text>
+		<text>Aby odebraж prototypowe detektory stalkerom pracuj№cym dla Brody, muszк wst№piж w ich szeregi. Pozwoli mi to na zwiad obozowiska konkurentуw.</text>
 	</string>
 	<string id="zat_b33_zaporojec_text_03">
-		<text>Необходимо взять контейнер и отнести его владельцу.</text>
+		<text>Konieczne muszк zabraж kontener i zanieњж go wіaњcicielowi.</text>
 	</string>
 	<string id="zat_b100_guide_maps_01_text">
-		<text>В бортовом компьютере вертолёта «Скат-2» были карты местности между Затоном и «Юпитером». Стоит найти того, кому эти карты могут понадобиться.</text>
+		<text>Komputer pokіadowy њmigіowca Skat-2 zawier mapy obszaru miкdzy Zatonem a Jupiterem. Warto znaleџж kogoњ, kto moїe potrzebowaж tych kart.</text>
 	</string>
 	<string id="zat_b20_ask_a_stalkers_name">
-		<text>Путь на плато: расспросить сталкеров</text>
+		<text>Droga na Pіaskowyї: Zapytaj stalkerуw</text>
 	</string>
 	<string id="zat_b20_ask_a_stalkers_text">
-		<text>Судя по всему, на плато не удастся попасть прямым путём. Необходимо расспросить местных сталкеров о других возможных путях.</text>
+		<text>Podobno nie moїna dostaж siк na pіaskowyї bezpoњredni№ tras№. Koniecznie muszк spytaж lokalnych stalkerуw o inne moїliwe sposoby.</text>
 	</string>
 	<string id="zat_b30_compass_to_barmen_task_give_text">
-		<text>Полученный у Ноя артефакт и есть тот самый «Компас», что нужен Бороде.</text>
+		<text>Artefakt otrzymany od Noego to ten sam Kompas, ktуrego potrzebuje Broda.</text>
 	</string>
 	<string id="artefact_drag_eye_find">
-		<text>Превосходство : Найти артефакт "Глаз Дракона"</text>
+		<text>Supremacja: Znajdџ artefakt "Smocze Oko"</text>
 	</string>
 	<string id="artefact_drag_eye_find_f_2">
-		<text>Превосходство : Отдать артефакт учёному</text>
+		<text>Supremacja: Daj artefakt naukowcowi</text>
 	</string>
 	<string id="artefact_drag_eye_find_3">
-		<text>Вы нашли артефакт "Глаз дракона"! Теперь отнесите его учёным для исследований.</text>
+		<text>Znalazіem artefakt Smocze Oko! Rzeczywiњcie tak wygl№da. Cуї, trzeba zanieњж go naukowcom.</text>
 	</string>
 	<string id="artefact_drag_eye_find_2">
-		<text>У Вас есть цельный детектор Сварог. Теперь Вам не составит труда найти артефакт "Глаз Дракона".</text>
+		<text>Udaіo mi siк zdobyж detektor Swarуg. Teraz to nie bкdzie problemu ze znalezieniem artefaktуw takich jak "Smocze Oko".</text>
 	</string>
 	<string id="artefact_drag_eye_find_1">
-		<text>Учёные попросили Вас найти артефакт "Глаз Дракона". Воспользуйтесь прототипом детектора Сварог, или поговорите с Инфернисом.</text>
+		<text>Naukowcy poprosili mnie o odnalezienie artefaktu "Smocze Oko". Mam dwie opcje: uїyж prototypowego detektora Svarog lub porozmawiaж z Infernisem...</text>
 	</string>
 	<string id="artefact_drag_eye_find_g">
-		<text>Превосходство : Найти артефакт "Гелий"</text>
+		<text>Supremacja: Znajdџ artefakt "Hel"</text>
 	</string>
 	<string id="artefact_drag_eye_find_all">
-		<text>Учёные попросили Вас найти артефакт. Воспользуйтесь детектором Сварог.</text>
+		<text>Naukowcy poprosili mnie o odnalezienie artefaktu. Muszк uїyж do tego detektora Swarуg.</text>
 	</string>
 	<string id="artefact_drag_eye_find_all_comp">
-		<text>Вы нашли артефакт "Глаз дракона"! Теперь отнесите его учёным для исследований.</text>
+		<text>Znalazіem artefakt Smocze Oko! Wystarczy zanieњж naukowcom do badaс.</text>
 	</string>
 </string_table>
