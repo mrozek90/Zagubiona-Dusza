@@ -52,7 +52,7 @@
 		<text>Jeœli niektórzy NPC zachowuj¹ siê niestabilnie (nie ma mo¿liwoœci mówienia lub NPC krêci siê lub jest zamro¿ony w miejscu) - zapisz i prze³aduj.</text>
 	</string>
 	<string id="ls_tip_number">
-		<text>Numer </text>
+		<text>Numer : </text>
 	</string>
 	<string id="ls_tip_1">
 		<text>Jeœli niektórzy NPC zachowuj¹ siê niestabilnie (brak mo¿liwoœci mówienia lub NPC krêci siê lub zastyga w miejscu) - zapisz i wczytaj ponownie.</text>
