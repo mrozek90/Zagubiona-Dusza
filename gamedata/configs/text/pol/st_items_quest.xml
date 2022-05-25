@@ -103,7 +103,7 @@
 		<text>PDA Czorta</text>
 	</string>
 	<string id="heck_pda_desc">
-		<text>PDA zawiera wiele ciekawych informacji, ale najwa¿niejszy jest ostatni wpis: \n"Mirotworec powiedzia³ nam, ¿e jeden z niewiernych jedzie w³aœnie w to miejsce. Dobrze, ¿e mojemu bratu uda³o siê wst¹piæ w szeregi Powinnoœci. Teraz najwa¿niejsze jest przygotowanie siê, gotowoœæ do ataku. Pob³ogos³aw mnie, Œwiêty Monolicie!”.</text>
+		<text>PDA zawiera wiele ciekawych informacji, ale najwa¿niejszy jest ostatni wpis: \n"Mirotworec powiedzia³ nam, ¿e jeden z niewiernych idzie w³aœnie w to miejsce. Dobrze, ¿e mojemu bratu uda³o siê wst¹piæ w szeregi Powinnoœci. Teraz najwa¿niejsze jest przygotowanie siê, gotowoœæ do ataku. Pob³ogos³aw mnie, Œwiêty Monolicie!”.</text>
 	</string>
 	<string id="zone_document_info">
 		<text>Dokumenty na przepustkê do Zony</text>
@@ -247,7 +247,7 @@
 		<text>Notatka Zjawy</text>
 	</string>
 	<string id="st_jup_b10_notes_02_desc">
-		<text>Notatka na kartce w kratkê: Strie³ok, zostawi³em drugi dekoder na wszelki wypadek w naszej skrytce w Prypeci. Teraz jedziemy ze Zjaw¹ na Agroprom, tutaj zostawimy dodatkowy sprzêt. Jakby co, weŸ wszystko. Powodzenia! Kie³".</text>
+		<text>Notatka na kartce w kratkê: Strie³ok, zostawi³em drugi dekoder na wszelki wypadek w naszej skrytce w Prypeci. Teraz idziemy ze Zjaw¹ na Agroprom, tutaj zostawimy dodatkowy sprzêt. Jakby co, weŸ wszystko. Powodzenia! Kie³".</text>
 	</string>
 	<string id="st_jup_b10_notes_02_name">
 		<text>Notatka Strie³oka</text>
