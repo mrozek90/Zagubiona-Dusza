@@ -646,7 +646,7 @@
         <text>Handlarz w naszej bazie. Wiêc, co mogê jeszcze dla Ciebie zrobiæ?</text>
     </string>
     <string id="orest_first_dialog_end_4">
-        <text>Interesuje mnie stalker o imieniu Stre³ok. A jeszcze bardziej interesuje mnie jego przybli¿ona lokalizacja. Co mi mo¿esz o tym powiedzieæ?</text>
+        <text>Interesuje mnie stalker o imieniu Strie³ok. A jeszcze bardziej interesuje mnie jego przybli¿ona lokalizacja. Co mi mo¿esz o tym powiedzieæ?</text>
     </string>
     <string id="orest_first_dialog_end_5">
         <text>Strie³ok... Strie³ok... Ach, pamiêtam! On i jego grupa udali siê do centrum Strefy. Mo¿e gdzieœ pad³. Tutaj ostatnio jeden z Was równie¿ zainteresowa³ siê Strie³okiem.</text>
@@ -700,7 +700,7 @@
         <text>Dlaczego wybra³eœ Agroprom?</text>
     </string>
     <string id="shkir_gg_first_dialog_1">
-        <text>Poniewa¿ tutaj jest g³ówna baza Powinnoœci. Znaj¹ nasz cel, byæ mo¿e poszukuj¹ te¿ grupy Strie³ki. Mo¿emy po³¹czyæ si³y, by szybciej go znaleŸæ.</text>
+        <text>Poniewa¿ tutaj jest g³ówna baza Powinnoœci. Znaj¹ nasz cel, byæ mo¿e poszukuj¹ te¿ grupy Strie³oka. Mo¿emy po³¹czyæ si³y, by szybciej go znaleŸæ.</text>
     </string>
     <string id="shkir_gg_first_dialog_2">
         <text>Po³¹czyæ si³y z tymi, którzy zabili Kane'a i Fobosa i prawie zabili Sitha?</text>
@@ -721,10 +721,10 @@
         <text>Kry³ow powiedzia³, ¿e wys³a³ tylko trzech bojowników, którzy zginêli w anomalii. Dowiedzia³em siê równie¿, ¿e czêœæ Powinnoœciowców, zarówno w Agropromie, jak i w Czerwonym Lesie, to Monolity, którzy bez trudnoœci wst¹pili w ich szeregi. Oni ju¿ s¹ skoñczeni.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_3">
-        <text>Skomplikowane... Dobra, dowiedzia³eœ siê czegoœ o Grupie Stre³ka?</text>
+        <text>Skomplikowane... Dobra, dowiedzia³eœ siê czegoœ o Grupie Strie³oka?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_4">
-        <text>Tak, dowiedzia³em siê. Najemnik, który równie¿ polowa³ na Stre³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów lochy instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Stre³okiem. Zamierzam zejœæ do lochów Agropromu w poszukiwaniu informacji. W koñcu wszystko Ci opowiem.</text>
+        <text>Tak, dowiedzia³em siê. Najemnik, który równie¿ polowa³ na Strie³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów lochy instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Strie³okiem. Zamierzam zejœæ do lochów Agropromu w poszukiwaniu informacji. W koñcu wszystko Ci opowiem.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_5">
         <text>Idziesz tam sam?</text>
@@ -748,7 +748,7 @@
         <text>Có¿ to za "dzieñ dziecka"?</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_4">
-        <text>Pomyœl. Dziœ zdobêdziemy ich zaufanie, a jutro mog¹ nam powiedzieæ o grupie Stre³ka.</text>
+        <text>Pomyœl. Dziœ zdobêdziemy ich zaufanie, a jutro mog¹ nam powiedzieæ o grupie Strie³oka.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_5">
         <text>Hmm... Dobrze. Mimo wszystko Wint jest bezu¿yteczny - zero, jak ¿o³nierz. W rêkach - Vintorez, ale nie wie, jak go wykorzystaæ.</text>

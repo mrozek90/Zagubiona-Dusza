@@ -58,7 +58,7 @@
         <text>ChodŸmy.</text>
     </string>
     <string id="dolg_first_dialog_2">
-        <text>To ja zadajê tutaj zadaje pytania... A teraz odpowiedz mi, draniu. Jaki jest Twój pseudonim?</text>
+        <text>To ja zadajê tutaj pytania... A teraz odpowiedz mi, draniu. Jaki jest Twój pseudonim?</text>
     </string>
     <string id="dolg_first_dialog_3">
         <text>Uh.. Sektor, wolny stalker...</text>
@@ -277,7 +277,7 @@
         <text>Jakbyœ mia³ rozum, ¿eby myœleæ. Zabi³eœ w³asnych ludzi... Nie s¹dzi³eœ, ¿e ktokolwiek prze¿yje?</text>
     </string>
     <string id="red_shkir_last_dialog_end_10">
-        <text>Wiem, wiem, nie martw siê. A jednak nie mów, ¿e nigdy o tym nie myœla³eœ. Kogo ta grupa Stre³ki mog³a tak dra¿niæ, ¿e cztery oddzia³y doœwiadczonych najemników zosta³y wys³ane, by j¹ zabiæ?</text>
+        <text>Wiem, wiem, nie martw siê. A jednak nie mów, ¿e nigdy o tym nie myœla³eœ. Kogo ta grupa Strie³oka mog³a tak dra¿niæ, ¿e cztery oddzia³y doœwiadczonych najemników zosta³y wys³ane, by j¹ zabiæ?</text>
     </string>
     <string id="red_shkir_last_dialog_end_11">
         <text>Myœla³em o tym na samym pocz¹tku zlecenia. Ale nie przywi¹zywa³em do tego du¿ej wagi, w koñcu to nie moja sprawa..</text>
@@ -286,7 +286,7 @@
         <text>Nie da³em.. Ale by³oby warto.. Wtedy mo¿e wszystko by³oby inaczej..</text>
     </string>
     <string id="red_shkir_last_dialog_end_13">
-        <text>Nie przeci¹gaj. Kto da³ zlecenie na grupê Stre³oka?</text>
+        <text>Nie przeci¹gaj. Kto da³ zlecenie na grupê Strie³oka?</text>
     </string>
     <string id="red_shkir_last_dialog_end_14">
         <text>%c[1,1,255,1]O-Œwiadomoœæ.</text>
@@ -322,7 +322,7 @@
       <text>Ok, powiedzmy, ¿e Ci wierzê. Ale co to wszystko ma wspólnego ze Strie³okiem i jego grup¹?</text>
   </string>
   <string id="red_shkir_last_dialog_end_24">
-      <text>Grupie Stre³ka uda³o siê dostaæ do elektrowni j¹drowej w Czarnobylu, dziêki czemu bêd¹ mogli rozwik³aæ zagadkê powstania Zony, jednoczeœnie przebijaj¹c siê przez oddzia³y Monolitów, które strzeg³y sarkofagu.</text>
+      <text>Grupie Strie³oka uda³o siê dostaæ do elektrowni j¹drowej w Czarnobylu, dziêki czemu bêd¹ mogli rozwik³aæ zagadkê powstania Zony, jednoczeœnie przebijaj¹c siê przez oddzia³y Monolitów, które strzeg³y sarkofagu.</text>
   </string>
   <string id="red_shkir_last_dialog_end_25">
       <text>Opowiedz mi o frakcji Monolitu. Pozna³em jej przedstawicieli, ale niewiele o nich wiem.</text>
@@ -334,7 +334,7 @@
       <text>Wiêc co siê sta³o z Fraktorem?.</text>
   </string>
   <string id="red_shkir_last_dialog_end_28">
-      <text>Ju¿ mówiê. Grupie Stre³ki uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ich ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Stre³ka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – by³y to Monolity.</text>
+      <text>Ju¿ mówiê. Grupie Strie³oka uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ich ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Strie³oka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – by³y to Monolity.</text>
   </string>
   <string id="red_shkir_last_dialog_end_29">
       <text>Chcesz powiedzieæ..</text>
@@ -406,7 +406,7 @@
       <text>Zabawnie to s³yszeæ, ale o co chodzi?</text>
   </string>
   <string id="red_shkir_last_dialog_end_5">
-      <text>Jaka jest prawda? Zapewne chcia³eœ sam zabiæ grupê Stre³ka, ¿eby obci¹æ ca³¹ kwotê za kontrakt, a nie inaczej.</text>
+      <text>Jaka jest prawda? Zapewne chcia³eœ sam zabiæ grupê Strie³oka, ¿eby obci¹æ ca³¹ kwotê za kontrakt, a nie inaczej.</text>
   </string>
   <string id="red_shkir_last_dialog_end_50">
       <text>Zastrzel mnie. Jestem zmêczony drêczeniem siê myœl¹c, ¿e wszystko jest tak¹ pod³oœci¹, a¿ sprawia mi ból wewn¹trz. OszczêdŸ mi tego uczucia. Tak czy siak tu umrê.</text>
@@ -436,7 +436,7 @@
       <text>Dzia³asz mi na nerwy.</text>
   </string>
   <string id="red_shkir_last_dialog_end_8">
-      <text>Jak pewnie przez ca³y kontrakt. Czy wiesz, kto zaaran¿owa³ ten kontrakt? Kto zamówi³ Grupê Stre³ka?</text>
+      <text>Jak pewnie przez ca³y kontrakt. Czy wiesz, kto zaaran¿owa³ ten kontrakt? Kto zamówi³ Grupê Strie³oka?</text>
   </string>
   <string id="red_shkir_last_dialog_end_9">
       <text>Najemnik nie powinien interesowaæ siê takimi rzeczami - wiesz o tym lepiej ode mnie.</text>
@@ -496,7 +496,7 @@
       <text>[Pocz¹tek fabu³y]</text>
   </string>
   <string id="shkir_first_dialog_1">
-      <text>Jesteœmy na miejscu. Klient zap³aci³ pokaŸn¹ kwotê za szefów pewnej grupy Stre³ka. Na razie musimy siê tutaj zadomowiæ.</text>
+      <text>Jesteœmy na miejscu. Klient zap³aci³ pokaŸn¹ kwotê za szefów pewnej grupy Strie³oka. Na razie musimy siê tutaj zadomowiæ.</text>
   </string>
   <string id="shkir_first_dialog_2">
       <text>Czego powinienem oczekiwaæ od tej grupy?</text>
@@ -562,7 +562,7 @@
       <text>Jaki jest plan?</text>
   </string>
   <string id="sith_first_dialog_1">
-      <text>Jak wiesz, musimy dowiedzieæ siê, gdzie jest grupa Stre³ki. Ci stalkerzy nie osiedlili siê tylko w miejscu, gdzie kiedyœ by³ Leœnik, który wed³ug naocznych œwiadków by³ œciœle zwi¹zany z ich grup¹. Oczywiœcie nie jest faktem, ¿e ci ludzie wiedz¹, kto to jest, ale...</text>
+      <text>Jak wiesz, musimy dowiedzieæ siê, gdzie jest grupa Strie³oka. Ci stalkerzy nie osiedlili siê tylko w miejscu, gdzie kiedyœ by³ Leœnik, który wed³ug naocznych œwiadków by³ œciœle zwi¹zany z ich grup¹. Oczywiœcie nie jest faktem, ¿e ci ludzie wiedz¹, kto to jest, ale...</text>
   </string>
   <string id="sith_first_dialog_2">
       <text>Ale nie mamy wielkiego wyboru, prawda?</text>
@@ -838,7 +838,7 @@
       <text>Bolt, ja liczê na Twój uk³ad. Jeœli jesteœ bezu¿yteczn¹ kup¹ gówna, to co powstrzyma mnie przed walniêciem Ciê teraz?</text>
   </string>
   <string id="sith_shkir_dialog_2_5">
-      <text>Co takiego? Chcesz mnie wykoñczyæ? A co potem? Który z was bêdzie liderem dru¿yny? Ty? Karp? Wint? Mo¿e Sith lub Topór? Nie macie ¿adnych planów co dalej i jak szukaæ Stre³oka. Teraz nie ma sensu siê k³óciæ ani strzelaæ. Dopóki jesteœmy sojusznikami, po co utrudniaæ nam obojgu sprawê? Po wykonaniu kontraktu rozejdziemy siê na wszystkie cztery strony.</text>
+      <text>Co takiego? Chcesz mnie wykoñczyæ? A co potem? Który z was bêdzie liderem dru¿yny? Ty? Karp? Wint? Mo¿e Sith lub Topór? Nie macie ¿adnych planów co dalej i jak szukaæ Strie³oka. Teraz nie ma sensu siê k³óciæ ani strzelaæ. Dopóki jesteœmy sojusznikami, po co utrudniaæ nam obojgu sprawê? Po wykonaniu kontraktu rozejdziemy siê na wszystkie cztery strony.</text>
   </string>
   <string id="sith_shkir_dialog_2_6">
       <text>Nie widzia³em, ¿ebyœ cokolwiek robi³. Nie szlochaj tutaj z powodu swoich powi¹zañ i pozycji lidera.</text>
@@ -880,7 +880,7 @@
       <text>Kontyntynuj.</text>
   </string>
   <string id="smirnow_dopros_12">
-      <text>Stalker nazywa³ siê Stre³ok. Ucieka³ przed najemnikiem do tunelu prowadz¹cego do Limañska - tam wysadzi³ przejœcie, ¿eby go nie dorwaæ.</text>
+      <text>Stalker nazywa³ siê Strie³ok. Ucieka³ przed najemnikiem do tunelu prowadz¹cego do Limañska - tam wysadzi³ przejœcie, ¿eby go nie dorwaæ.</text>
   </string>
   <string id="smirnow_dopros_13">
       <text>Czy wiesz coœ jeszcze?</text>
@@ -901,7 +901,7 @@
       <text>Rozumiem, wiêc nie zadajê zbyt wielu pytañ..</text>
   </string>
   <string id="smirnow_dopros_5">
-      <text>Podobasz mi siê. Co wiesz o tych stalkerach? [Poka¿ zdjêcie grupy Stre³ka]</text>
+      <text>Podobasz mi siê. Co wiesz o tych stalkerach? [Poka¿ zdjêcie grupy Strie³oka]</text>
   </string>
   <string id="smirnow_dopros_6">
       <text>Tak... rozpoznajê jednego.</text>
