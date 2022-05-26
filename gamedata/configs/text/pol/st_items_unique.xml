@@ -70,10 +70,10 @@
 		<text>Specjalna modyfikacja karabinu szturmowego AKM-74/2U, przeznaczona dla elitarnych jednostek najemnych oddzia³ów szturmowych. Nie wiadomo, w jaki sposób trafi³a do stalkera o imieniu Chrust. Wiadomo jednak, ¿e uda³o mu siê jeszcze bardziej poprawiæ jego w³aœciwoœci, do³¹czaj¹c powiêkszony magazynek na 45 nabojów i dodaj¹c mo¿liwoœæ zamontowania t³umika.</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison">
-		<text>Naboje 5,56x45 Trucizna</text>
+		<text>Naboje 5,56x45 Zatrute</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison_s">
-		<text>5,56x45 Trucizna</text>
+		<text>5,56x45 Zatrute</text>
 	</string>
 	<string id="st_ammo-5.56x45-poison_descr">
 		<text>Naboje przeciwpancerne 5,56x45 impregnowane specjaln¹ trucizn¹. G³ówn¹ cech¹ trucizny jest transmutacja leukocytów z ich póŸniejszym wyginiêciem. Trucizna mo¿e powodowaæ bia³aczkê, aw du¿ych iloœciach prowadzi do natychmiastowej œmierci.</text>

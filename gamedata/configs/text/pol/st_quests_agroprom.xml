@@ -55,7 +55,7 @@
 	</string>
 
 	<string id="agr_sim_3_clear_1">
-		<text>Sedno wyprawy: Oczyœæ bagno</text>
+		<text>Sedno wyprawy: Oczyœæ Bajoro</text>
 	</string>
 	<string id="agr_sim_3_clear_2">
 		<text>Szaleñce w kombinezonach Powinnoœci? Byæ mo¿e w tym miejscu znajdê odpowiedŸ, co za powinnoœciowcy byli w Czerwonym Lesie. W koñcu, jak powiedzia³ Kry³ow, to nie s¹ powinnoœciowcy, których wys³a³. A mo¿e po prostu k³amie. Zobaczymy...</text>
@@ -100,10 +100,10 @@
 		<text>%c[50,255,50,50]Co tu siê sta³o? Czy to, co powiedzia³ Infernis, jest prawd¹? Czy to jest koniec...</text>
 	</string>
 	<string id="shkir_backstabber_situation_3">
-		<text>%c[50,255,50,50]ZnajdŸ Sitha</text>
+		<text>ZnajdŸ Sitha</text>
 	</string>
 	<string id="shkir_backstabber_situation_4">
-		<text>Nie mogê uwierzyæ, ¿e to siê naprawdê dzieje! Dobra, mam nadziejê, ¿e przynajmniej Sith prze¿y³. Karaœ powiedzia³, ¿e poszed³ w kierunku mostu z promieniowaniem PSI. Muszê go jak najszybciej znaleŸæ.</text>
+		<text>Nie mogê uwierzyæ, ¿e to siê naprawdê dzieje! Dobra, mam nadziejê, ¿e przynajmniej Sith prze¿y³. Karaœ powiedzia³, ¿e poszed³ w kierunku tunelu z promieniowaniem PSI. Muszê go jak najszybciej znaleŸæ.</text>
 	</string>
 
 	<string id="infernis_karas_find_1">
@@ -113,7 +113,7 @@
 		<text>Infernis móg³ dok³adnie zobaczyæ, gdzie po strzelaninie poszed³ Szkir ze swoim byd³em.</text>
 	</string>
 	<string id="infernis_karas_find_3">
-		<text>Rozs¹dek: Wróæ do Karpia</text>
+		<text>Rozs¹dek: Wróæ do Karasia</text>
 	</string>
 	<string id="infernis_karas_find_4">
 		<text>Cholera, zupe³nie zapomnia³em o Karasiu! Muszê jak najszybciej do niego wróciæ, a dopiero potem udaæ siê w stronê podziemi.</text>

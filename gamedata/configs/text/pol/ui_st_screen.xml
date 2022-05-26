@@ -73,7 +73,7 @@
 		<text>Wróæ na pocz¹tek lokacji ($$ACTION_USE$$)</text>
 	</string>
 	<string id="i_must_return_to_karas">
-		<text>%c[50,255,50,50] Cholera, zupe³nie zapomnia³em o Karasie! Trzeba jak najszybciej do niego wróciæ, a dopiero potem udaæ siê w stronê lochów.</text>
+		<text>%c[50,255,50,50] Cholera, zupe³nie zapomnia³em o Karasiu! Trzeba jak najszybciej do niego wróciæ, a dopiero potem udaæ siê w stronê podziemi.</text>
 	</string>
 	<string id="forgotten_first_coming">
 		<text>%c[123,1,255,123] D³ugo szuka³am tego miejsca. Po d³ugim czasie uda³o mi siê go znaleŸæ...</text>

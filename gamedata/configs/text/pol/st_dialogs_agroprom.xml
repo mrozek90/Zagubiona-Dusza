@@ -364,7 +364,7 @@
         <text>Chcia³byœ do³¹czyæ? Potrzebujê partnera do jednego z nich.</text>
     </string>
     <string id="inquisitor_quest_dialog_4">
-        <text>Czym w³aœciwie ono polega?</text>
+        <text>Na czym w³aœciwie ono polega?</text>
     </string>
     <string id="inquisitor_quest_dialog_5">
         <text>Nie, ¿ycie jest dla mnie cenniejsze.</text>
@@ -373,7 +373,7 @@
         <text>W s¹siednim budynku - w zak³adzie "Agroprom" znikn¹³ przywódca Samotników - nazywa siê Orest. Dowiedzia³em siê od miejscowych - ktoœ powiedzia³ mu o nowych artefaktach w pobliskim tunelu, a on podepta³. Nie mia³ specjalnej ochrony, ale Ty i ja jesteœmy normalnie wyposa¿eni. Wszystko co musimy zrobiæ to pójœæ, znaleŸæ go, zabraæ do bazy. A przynajmniej to, co z niego zosta³o...</text>
     </string>
     <string id="inquisitor_quest_dialog_7">
-        <text>Interesuj¹ce. Wchodzê w to.</text>
+        <text>Interesuj¹ce. Wchodzê w to. Co trzeba zrobiæ?</text>
     </string>
     <string id="inquisitor_quest_dialog_8">
         <text>Ciekawe, ale to nie dla mnie.</text>
@@ -412,7 +412,7 @@
         <text>A dlaczego nie spojrzeæ... Tak, rzeczywiœcie, nie widzia³em jeszcze takiego artefaktu. Pos³uchaj, czy mo¿esz mi go daæ? Nasi w³aœnie je badaj¹, aby lepiej wiedzieæ, jak dzia³a Zona.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_5">
-        <text>A mo¿e lepiej by³oby, gdybym zostawi³ to sobie? Nagle to on pomóg³ Orestowi tak d³ugo przetrwaæ pod polem PSI..</text>
+        <text>A mo¿e lepiej by³oby, gdybym zostawi³ to sobie? W koñcu to on pomóg³ Orestowi tak d³ugo przetrwaæ pod polem PSI..</text>
     </string>
     <string id="inquisitor_quest_dialog_end_6">
         <text>Co chcesz za ten artefakt?</text>
@@ -445,10 +445,10 @@
         <text>Sk¹d wiesz o tunelu?</text>
     </string>
     <string id="karas_end_dialog_6">
-        <text>Inkwizytor powiedzia³ mi, poprosi³ o pomoc.. Musia³em siê zgodziæ... A teraz idŸ do Sitha..</text>
+        <text>Inkwizytor powiedzia³ mi, poprosi³ o pomoc.. Powinienem siê zgodziæ... A teraz idŸ do Sitha..</text>
     </string>
     <string id="karas_end_dialog_7">
-        <text>Wrócê i szybko zabierzemy Ciê do bazy. Trzymaj siê!</text>
+        <text>Wrócê i szybko zabiorê Ciê do bazy. Trzymaj siê!</text>
     </string>
     <string id="karas_mayor_z_first_dialog_0">
         <text>Co tu siê sta³o? Jak Karaœ siê tu dosta³?</text>
@@ -526,13 +526,13 @@
         <text>Interesuj¹ nas Twoi ¿o³nierze.</text>
     </string>
     <string id="krilow_first_dialog_1">
-        <text>Nie mam w tej chwili ¿adnych ¿o³lnierzy, nie mogê pomóc.</text>
+        <text>Nie mam w tej chwili ¿adnych wolnych ¿o³nierzy, nie mogê pomóc.</text>
     </string>
     <string id="krilow_first_dialog_10">
         <text>text in default(przystojny Adrian)</text>
     </string>
     <string id="krilow_first_dialog_11">
-        <text>[Poka¿ zdjêcie]</text>
+        <text>[Poka¿ zdjêcie grupy Strie³oka]</text>
     </string>
     <string id="krilow_first_dialog_12">
         <text>Tak, znam jednego. Ale czy powinienem Ci o nim powiedzieæ?</text>
@@ -547,7 +547,7 @@
         <text>Stoi.</text>
     </string>
     <string id="krilow_first_dialog_16">
-        <text>Niedaleko st¹d na bagnach stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakichœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujê, czy jest to warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
+        <text>Niedaleko st¹d na bajorze stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakichœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujê, czy jest to warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
     </string>
     <string id="krilow_first_dialog_17">
         <text>Sam sobie poradzê. Podaj mi wspó³rzêdne.</text>
@@ -568,7 +568,7 @@
         <text>W sumie zaatakowa³o nas oko³o 10 ch³opa.</text>
     </string>
     <string id="krilow_first_dialog_7">
-        <text>Ktoœ próbuje nas wrobiæ, nie wys³a³em ¿olnierzy do zniszczenia najemników, zw³aszcza kilkunastu.</text>
+        <text>Ktoœ próbuje nas wrobiæ, nie wys³a³em ¿olnierzy do zniszczenia najemników. Zw³aszcza kilkunastu ¿o³nierzy.</text>
     </string>
     <string id="krilow_first_dialog_8">
         <text>Wiêc mamy zagadkê... Dobra, chcia³em zapytaæ o coœ innego. Poka¿ê Ci teraz zdjêcie, chcia³bym prosiæ o opowiedzenie wszystkiego, co wiesz o tych ludziach.</text>
@@ -595,7 +595,7 @@
         <text>A co z informacjami?</text>
     </string>
     <string id="krilow_first_dialog_end_end_3">
-        <text>Oczywiœcie, tak... Generalnie znam jednego z tych stalkerów, jeden najemnik go szuka³... "Blizna", na pewno! Pomóg³ nam oczyœciæ loch i tam znalaz³ informacje o tym w³aœnie stalkerze. Myœlê, ¿e powinieneœ tam iœæ. Za koszarami znajduje siê w³az, nie bêdzie Ci trudno go znaleŸæ...</text>
+        <text>Oczywiœcie, tak... Generalnie znam jednego z tych stalkerów, jeden najemnik go szuka³... "Szrama", na pewno! Pomóg³ nam oczyœciæ podziemia i tam znalaz³ informacje o tym w³aœnie stalkerze. Myœlê, ¿e powinieneœ tam iœæ. Za koszarami znajduje siê w³az, nie bêdzie Ci trudno go znaleŸæ...</text>
     </string>
     <string id="krilow_first_dialog_end_end_4">
         <text>Dobrze, dziêkujê.</text>
@@ -691,7 +691,7 @@
         <text>Oto nowy technik dla Ciebie, nazywa siê Wint.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_1">
-        <text>Dziêkujê, Sektorze, ju¿ tyle razy nam pomaga³eœ. Jeœli chcesz, zawsze chêtnie przyjmê Ciê w Samotnoœci.</text>
+        <text>Dziêkujê, Sektorze, ju¿ tyle razy nam pomaga³eœ. Jeœli chcesz, zawsze chêtnie przyjmê Ciê do Samotników.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_2">
         <text>Zobaczymy.</text>
@@ -715,7 +715,7 @@
         <text>Podobno ci z Powinnoœci w Czerwonym Lesie byli fanatykami.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_1">
-        <text>Tak? A jak to zrozumia³eœ?</text>
+        <text>Tak? A jak do tego doszed³eœ?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_2">
         <text>Kry³ow powiedzia³, ¿e wys³a³ tylko trzech bojowników, którzy zginêli w anomalii. Dowiedzia³em siê równie¿, ¿e czêœæ Powinnoœciowców, zarówno w Agropromie, jak i w Czerwonym Lesie, to Monolity, którzy bez trudnoœci wst¹pili w ich szeregi. Oni ju¿ s¹ skoñczeni.</text>
@@ -724,7 +724,7 @@
         <text>Skomplikowane... Dobra, dowiedzia³eœ siê czegoœ o Grupie Strie³oka?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_4">
-        <text>Tak, dowiedzia³em siê. Najemnik, który równie¿ polowa³ na Strie³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów lochy instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Strie³okiem. Zamierzam zejœæ do lochów Agropromu w poszukiwaniu informacji. W koñcu wszystko Ci opowiem.</text>
+        <text>Tak, dowiedzia³em siê trochê. Najemnik, który równie¿ polowa³ na Strie³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów lochy instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Strie³okiem. Zamierzam zejœæ do lochów Agropromu w poszukiwaniu informacji. PóŸniej wszystko Ci opowiem.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_5">
         <text>Idziesz tam sam?</text>
