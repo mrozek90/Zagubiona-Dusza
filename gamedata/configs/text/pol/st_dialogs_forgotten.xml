@@ -586,7 +586,7 @@
         <text>Jak to siê wszystko skoñczy³o?</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_9">
-        <text>Tak, ¿e w koñcu siê pok³óciliœmy, wymówiliœmy do siebie obraŸliwe s³owa i ka¿dy poszed³ swoj¹ drog¹ - Szwed poszed³ na Bagna, szukaæ pomocy i tych, którzy jej potrzebowali. Sania Smirnov trafi³ na Wysypisko z tego samego powodu. Ja – do Doliny Mroku, gdzie wszed³em w Swobodê. Woron i Chrust zostali najemnikami, ale ka¿dy pod innym dowództwem, ¿eby siê nie gryŸæ. Anakonda zacz¹³ uganiaæ siê za babami, a Czy¿ popad³ w Powinnoœæ. Co siê sta³o z Fraktorem, gdzie jest i czy w ogóle ¿yje - nikt nie wie. A tak wszystko siê dobrze zaczê³o...</text>
+        <text>Tak, ¿e w koñcu siê pok³óciliœmy, wymówiliœmy do siebie obraŸliwe s³owa i ka¿dy poszed³ swoj¹ drog¹ - Szwed poszed³ na Bagna, szukaæ pomocy i tych, którzy jej potrzebowali. Sania Smirnov trafi³ na Wysypisko z tego samego powodu. Ja – do Doliny Mroku, gdzie wszed³em w Wolnoœæ. Woron i Chrust zostali najemnikami, ale ka¿dy pod innym dowództwem, ¿eby siê nie gryŸæ. Anakonda zacz¹³ uganiaæ siê za babami, a Czy¿ popad³ w Powinnoœæ. Co siê sta³o z Fraktorem, gdzie jest i czy w ogóle ¿yje - nikt nie wie. A tak wszystko siê dobrze zaczê³o...</text>
     </string>
     <string id="for_infernis_info_dialog_0">
         <text>Co mo¿esz powiedzieæ o ludziach tutaj?</text>
@@ -607,7 +607,7 @@
         <text>Chyba nie bêdzie zainteresowany, znam go od lat. No tak, w zasadzie mo¿esz mu pokazaæ tê zbrojê, mo¿e siê uda. Ale nie zapomnij o pieni¹dzach. Zastanów siê, ile czasu mo¿e zaj¹æ naprawa kamizelki kuloodpornej - to bardzo ¿mudna praca. W wolnym czasie robienie tego nie wchodzi w grê, wiêc cena bêdzie godna.</text>
     </string>
     <string id="for_infernis_info_dialog_2">
-        <text>Jesteœ ze Swobody. S³ysza³em, ¿e nie masz najlepszych relacji z naukowcami.</text>
+        <text>Jesteœ z Wolnoœci. S³ysza³em, ¿e nie masz najlepszych relacji z naukowcami.</text>
     </string>
     <string id="for_infernis_info_dialog_3">
         <text>Jak powiedzieæ. W interesie Wolnoœci jest studiowanie Zony i próba uczynienia jej nadaj¹c¹ siê do zamieszkania dla wszystkich ludzi. Ale nie zapominaj, ¿e wiêkszoœæ to anarchiœci z krwi i pogardzaj¹ nowoczesnym rz¹dem w obliczu garstki ludzi, którzy doj¹ miasta i kraje. A teraz pamiêtajmy, z kim wspó³pracuj¹ oficjalni naukowcy? Zgadza siê - z wojskiem. Dla kogo pracuje wojsko? Zgadza siê - do w³adzy. Na tym polega ca³a wrogoœæ. No i plus – naukowcy lubi¹ wspó³pracowaæ z Powinnoœci¹, którego celem jest zniszczenie Zony. Wiêc tak to.</text>
@@ -616,10 +616,10 @@
         <text>A jednak nie wyjaœni³eœ, dlaczego jesteœ z naukowcami.</text>
     </string>
     <string id="for_infernis_info_dialog_5">
-        <text>Wszystko jest bardzo proste – Jekyll nie jest zainteresowany wspó³prac¹ z w³adzami i innymi naukowcami pracuj¹cymi dla w³adz. Uwa¿a, ¿e jeœli dane, które wykopywa³ przez lata, wpadn¹ w niepowo³ane rêce, to Zona dobiegnie koñca. Podobnie jak Swoboda wierzy, ¿e Strefa powinna byæ otwarta dla innych, powinna byæ badana, a nie niszczona lub w jakiœ sposób zatrzymywana. Podoba³o mi siê, jak bawi³ siê tymi artefaktami, wiêc postanowi³em mu pomóc. Niemniej bêdzie to bardziej przydatne ni¿ bezu¿yteczne wojny z Powinnoœci¹, najemnikami, wyrodkami lub kimœ innym.</text>
+        <text>Wszystko jest bardzo proste – Jekyll nie jest zainteresowany wspó³prac¹ z w³adzami i innymi naukowcami pracuj¹cymi dla w³adz. Uwa¿a, ¿e jeœli dane, które wykopywa³ przez lata, wpadn¹ w niepowo³ane rêce, to Zona dobiegnie koñca. Podobnie jak Wolnoœæ wierzy, ¿e Strefa powinna byæ otwarta dla innych, powinna byæ badana, a nie niszczona lub w jakiœ sposób zatrzymywana. Podoba³o mi siê, jak bawi³ siê tymi artefaktami, wiêc postanowi³em mu pomóc. Niemniej bêdzie to bardziej przydatne ni¿ bezu¿yteczne wojny z Powinnoœci¹, najemnikami, wyrodkami lub kimœ innym.</text>
     </string>
     <string id="for_infernis_info_dialog_6">
-        <text>A jak zareagowali na to pozostali Swobodziœci?</text>
+        <text>A jak zareagowali na to pozostali Wolnoœciowcy?</text>
     </string>
     <string id="for_infernis_info_dialog_7">
         <text>A jak mogli zareagowaæ na to, ¿e jeden z cz³onków grupy wyjecha³ na pomoc naukowcom? Nikt tak naprawdê nie wdawa³ siê w szczegó³y, teraz dla wiêkszoœci jestem apostat¹. Poniewa¿ jestem w grupie - nie jestem atakowany, ale te¿ nie traktuj¹ mnie jak przyjaciela. Ale jest w tym plus – im mniej osób wie o istnieniu tego miejsca, tym mniej ka¿dy ma problemów.</text>
@@ -850,7 +850,7 @@
         <text>A sk¹d to wzi¹³eœ?</text>
     </string>
     <string id="for_lab_infernis_artefacts_dialog_4">
-        <text>Nie by³by tak pewny swoich s³ów i czynów, gdyby zrozumia³, ¿e jest skazany na wiecznoœæ tutaj. Dlatego, gdy le¿a³, pod³¹czy³em do niego urz¹dzenie œledz¹ce. Mam jeszcze z czasów Swobody. Dziêki temu trackerowi bêdziemy mogli okreœliæ jego lokalizacjê. Jeœli nagle wstanie i zacznie gdzieœ iœæ, zobaczê to. Jeœli zniszczy czujnik, sygna³ zostanie utracony i po niego wrócimy.</text>
+        <text>Nie by³by tak pewny swoich s³ów i czynów, gdyby zrozumia³, ¿e jest skazany na wiecznoœæ tutaj. Dlatego, gdy le¿a³, pod³¹czy³em do niego urz¹dzenie œledz¹ce. Mam jeszcze z czasów Wolnoœci. Dziêki temu trackerowi bêdziemy mogli okreœliæ jego lokalizacjê. Jeœli nagle wstanie i zacznie gdzieœ iœæ, zobaczê to. Jeœli zniszczy czujnik, sygna³ zostanie utracony i po niego wrócimy.</text>
     </string>
     <string id="for_lab_infernis_artefacts_dialog_5">
         <text>Czyli chcesz w ten sposób wy³udziæ od niego informacjê o wyjœciu, jeœli takowe jest w ogóle?</text>
@@ -1588,7 +1588,7 @@
         <text>Naukowy Powinnoœæ.</text>
     </string>
     <string id="for_professor_kilorik_reward_dialog_6">
-        <text>Naukowy Swoboda.</text>
+        <text>Naukowy Wolnoœæ.</text>
     </string>
     <string id="for_professor_kilorik_reward_dialog_7">
         <text>Naukowy Najemnika.</text>

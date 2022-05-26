@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+Wolności<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="dm_anomalies_10">
 		<text>Na Zatonie jest miejsce, gdzie powstało "smażenie" pod wodą. Nazywają to Kotłem, ponieważ z ziemi bije para, jak z prawdziwego kotła. Jeśli uważasz, że para jest absurdem, jesteś głęboko w błędzie. Doświadczeni stalkerzy mówią: taka anomalia parowa uderza nie słabiej, jeśli nie mocniej niż zwykłe "smażenie". Temperatura może trochę niższa, ale za to ta wilgotność! I piecze dłużej. Podobno znaleźli tam zwykłe, ogniste artefakty.</text>
@@ -232,7 +232,7 @@
 		<text>Czy słyszałeś o wiosce Kopaczy? Kiedy doszło do pierwszego wypadku w elektrowni atomowej w Czarnobylu, była ona tak pokryta promieniowaniem, że postanowili zakopać ją do samiutkiego dachu. Z domów pozostały tylko kopce radioaktywne. Mówią, że to miejsce było przerażające już wtedy i nikt tak naprawdę nie wie, co się tam teraz dzieje. Wszyscy je omijają - boją się... A jeśli na próżno je omijają? Może Klondike artefaktów właśnie tam jest?</text>
 	</string>
 	<string id="dm_information_17">
-		<text>Czy wiesz, że teraz w Janowie jest tylko dwóch stalkerów, którzy mogą wyczuć zbliżającą się Emisję? Jednym z nich jest Kostopraw, nasz medyk, a drugim Zulu, były "powinnościowiec". Niedawno się stamtąd wyprowadziłem. Kiedy powinnościowce przybyli na stację "Janów", byli tam już bojownicy "Swobody" - i oczywiście nadejście "Powinności" nie podobało im się. Podczas potyczki zginęła połowa obu jednostek, no i rykoszetem oberwało także kilku wolnych stalkerów. To wtedy Zulu krzyknął: "ukryj wszystkich, nadchodzi Emisja". Nie było dokąd iść, "Powinność" ze "Swobodą" ogłosił rozejm i schronili się na stacji. A Zulus niemal natychmiast po tym opuścili "Powinność" i osiedlił się obok stacji, na wieży.</text>
+		<text>Czy wiesz, że teraz w Janowie jest tylko dwóch stalkerów, którzy mogą wyczuć zbliżającą się Emisję? Jednym z nich jest Kostopraw, nasz medyk, a drugim Zulu, były "powinnościowiec". Niedawno się stamtąd wyprowadziłem. Kiedy powinnościowce przybyli na stację "Janów", byli tam już bojownicy "Wolności" - i oczywiście nadejście "Powinności" nie podobało im się. Podczas potyczki zginęła połowa obu jednostek, no i rykoszetem oberwało także kilku wolnych stalkerów. To wtedy Zulu krzyknął: "ukryj wszystkich, nadchodzi Emisja". Nie było dokąd iść, "Powinność" z "Wolnością" ogłosił rozejm i schronili się na stacji. A Zulus niemal natychmiast po tym opuścili "Powinność" i osiedlił się obok stacji, na wieży.</text>
 	</string>
 	<string id="dm_information_18">
 		<text>Tak, mówią wiele dziwnych rzeczy, ale wierzyć we wszystko, to nie szanować siebie. Opowiadacze mówili jak to biegają odporne na naboje psy, dar od Zony! Ale o dziwo, kilku stalkerów ze stacji Janow już powiedziało, że widzieli UFO. Podobno wygląda jak czarny dysk o średnicy pięciu metrów. Chociaż inni mówią, że to mógł być samolot, bo na początku nikt nie był nawet szczególnie zaniepokojony. Tylko że wśród naocznych świadków okazał się były pilot i tak później powiedział – nigdy w życiu nie widział czegoś takiego.</text>
@@ -241,13 +241,13 @@
 		<text>Z nowych rzeczy, tylko smutne... Dobrzy stalkerzy znikają jeden po drugim, a potem ich ciała znajdują się bez kropli krwi. Krwiopijcy Liadscy, a nawet całe stado, to jak postawienie drinka! Ech, gdybym mógł znaleźć dziurę, w której siedzą - to ołowiem, suki, bym wypchał! Eh, co nam pozostało? Nawet do kibla chodzić tylko w parach? Tak, ot wolne życie stalkera ...</text>
 	</string>
 	<string id="dm_information_20">
-		<text>Jest nowy żart. Chłopaki ze Swobody zdobyli PDA legendarnego założyciela Powinności - i wiecie co? Okazuje się, że podstępem przekonał swoich bojowników, że dowództwo porzuciło ich w Zonie i na tą okoliczność zebrał obecną grupę! Tak, ale w Strefie podłość nie idzie na marne: wkrótce ten przystojny mężczyzna wpadł w bańkę przestrzenną - i siup do następnego świata! Zgadza się... A ja, głupiec, wciąż myślałem o przejściu do "Powinności"! Nie, niech maszerują beze mnie, zwykłe roboty...</text>
+		<text>Jest nowy żart. Chłopaki z Wolności zdobyli PDA legendarnego założyciela Powinności - i wiecie co? Okazuje się, że podstępem przekonał swoich bojowników, że dowództwo porzuciło ich w Zonie i na tą okoliczność zebrał obecną grupę! Tak, ale w Strefie podłość nie idzie na marne: wkrótce ten przystojny mężczyzna wpadł w bańkę przestrzenną - i siup do następnego świata! Zgadza się... A ja, głupiec, wciąż myślałem o przejściu do "Powinności"! Nie, niech maszerują beze mnie, zwykłe roboty...</text>
 	</string>
 	<string id="dm_information_21">
 		<text>Nowy oddział "Powinność". Pojawił się jak z powietrza! Pomyśl tylko: grupa powinnościowców opuszcza Janów, a kiedy wracają, jest ich już prawie trzy razy więcej! Czy oni poddają się klonowaniu?... Chociaż, wiesz, nie zdziwiłbym się, gdyby tak było: tak byłoby w przypadku powinnościowców! Sami przecież chyba odróżniają się tylko tytułem.</text>
 	</string>
 	<string id="dm_information_22">
-		<text>Nowy oddział "Swobody". Pojawił się jak z powietrza! Pomyślcie tylko: grupa Swobody opuszcza Janów, a kiedy wracają, jest ich już prawie trzy razy więcej! Cóż, nie rozmnażają się przez pączkowanie?.. Chociaż w ogóle pasuje to do nich. Trawa, zaciągnie się, zakorzenie się - i powiedzmy, rozmnażanie się wegetatywnie...</text>
+		<text>Nowy oddział "Wolności". Pojawił się jak z powietrza! Pomyślcie tylko: grupa Wolności opuszcza Janów, a kiedy wracają, jest ich już prawie trzy razy więcej! Cóż, nie rozmnażają się przez pączkowanie?.. Chociaż w ogóle pasuje to do nich. Trawa, zaciągnie się, zakorzenie się - i powiedzmy, rozmnażanie się wegetatywnie...</text>
 	</string>
 	<string id="dm_information_23">
 		<text>Znasz Gontę i jego chłopaków? Przez długi czas mieli czarną smugę: Danila zniknęła, Krab został ranny ... Ale teraz zniknął biały: osiedlili się z naukowcami, wykonując dla nich pomiary. Powiedz mi, szczęśliwe chłopaki? Praca, jak sądzę, nie jest brudna, a jeśli masz szczęście, zarwiesz również oficjalne przepustki.</text>
@@ -265,7 +265,7 @@
 		<text>Według naocznych świadków bunkier naukowców jest teraz strzeżony przez dzielnych bojowników Powinności. Zastanawiam się, jacy powinnościowce z tego korzystają? Czy naprawdę mają nadzieję, że naukowcy z wdzięczności wymyślą dla nich pistolet plazmowy do prowadzenia desantu? Och, ci obrońcy...</text>
 	</string>
 	<string id="dm_information_28">
-		<text>Mówią, że bunkra naukowców strzeże teraz "Swoboda"... Ciekawe, czy naukowcy nie boją się, że ich okazy badawcze mogą z łatwością zostać zjarane w lufkach? Z drugiej strony nie pozostaje to bez korzyści: jeśli ktoś chce zaatakować bunkier, najpierw trzeba będzie go szukać w tej zasłonie dymnej i jednocześnie nie zgubić się w centrach.</text>
+		<text>Mówią, że bunkra naukowców strzeże teraz "Wolność"... Ciekawe, czy naukowcy nie boją się, że ich okazy badawcze mogą z łatwością zostać zjarane w lufkach? Z drugiej strony nie pozostaje to bez korzyści: jeśli ktoś chce zaatakować bunkier, najpierw trzeba będzie go szukać w tej zasłonie dymnej i jednocześnie nie zgubić się w centrach.</text>
 	</string>
 	<string id="dm_information_29">
 		<text>Widziałeś Jupiter, który jest fabryką sprzętu radiowego? Przerażające miejsce! Chuj wie, co się tam dzieje: anomalie wydają się być takie same, a mutantów nie ma więcej niż gdziekolwiek indziej... nadal nie chcesz tam iść. W brzuchu czuję - że to bezwartościowe miejsce.</text>
@@ -280,10 +280,10 @@
 		<text>Och, słyszałeś o Gariku? Ten stalker, który pracował dla naukowców. Nie można go teraz nazwać "nieskazitelny rozum", wyrwał oficjalną przepustkę do Zony, zgadza się! Musiał zabrać łup z domu w Strefie, ale wziął, rozumiesz, i pojechał do Prypeci! Cóż, uwierzyłbyś w to?.. Myśleli, że zginął jak wielu - ale nie! To prawda, że stalkerowi zawsze mało: spotkał tam wojsko. Teraz go to nie obchodzi, ma przepustkę, a zwykli stalkerzy nie mają powodu, żeby tam zachodzić.</text>
 	</string>
 	<string id="dm_information_32">
-		<text>No cóż... "Swoboda" i "Powinność" znów walczą, nie podzielili się skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam "Swobodowcy" – podobno "Powinność" nie miało szczęścia.</text>
+		<text>No cóż... "Wolność" i "Powinność" znów walczą, nie podzielili się skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam ludzie "Wolności" – podobno "Powinność" nie miało szczęścia.</text>
 	</string>
 	<string id="dm_information_33">
-		<text>No cóż... "Obowiązek" i "Swoboda" znów walczą, nie podzielili niektórych skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam "powinnościowce" - najwyraźniej "Swoboda" nie miało szczęścia.</text>
+		<text>No cóż... "Obowiązek" i "Wolność" znów walczą, nie podzielili niektórych skrzyniami. Mówią, że tam było dużo broni, wystarczyłyby żeby wyposażyć trzy dywizje! Nie wiem, który z nich ukrył tyle broni, ale arsenał nie był marny. Zaniepokoił wszystkich stalkerów na Janowie. To dobrze, że odeszli, inaczej byłoby jak ostatnim razem... Teraz stacjonują tam "powinnościowce" - najwyraźniej "Wolność" nie miało szczęścia.</text>
 	</string>
 	<string id="dm_information_34">
 		<text>To było niedawno: grupa stalkerów wyskoczyła do tuneli w pobliżu Jupitera i natknęła się na coś – a raczej na kogoś. Najpierw pistolety chłopaków zostały wytrącone z ich rąk, a potem wleciały w nich wszelkiego rodzaju pierdoły. Na ogół sami nie potrafią tak naprawdę wyjaśnić, co się tam wydarzyło, chociaż stracili tam dwóch.</text>
@@ -301,7 +301,7 @@
 		<text>Wiesz Ty co? Po prostu zaczęli gadać, że widzieli chimerę i że jak ktoś w mgnieniu oka rozprawił się z nią. Wygląda na to, że stalkerzy nie są już takimi leszczami! Teraz mutanci, którzy sami zabijali stada stalkerów, idą na rzeź... Chociaż, jak mówią, był to doświadczony myśliwy, ma już na swoim koncie tyle mutantów, ile myśmy komarów wytłukli.</text>
 	</string>
 	<string id="dm_information_39">
-		<text>Czy słyszałeś, jakich ludzi Swoboda rekrutuje do swoich szeregów? Był tu jeden – Flint, cały czas snujący bajki o swoich wyczynach, ale jak się okazało – łajdak, których jest niewielu! Zostawił swojego towarzysza w anomalii na śmierć, a sam uciekł po łup. A potem pojawiły się jego nowe "wyczyny": na przykład w Zatonie prawie nakarmił chimerę myśliwymi... Wcześniej miałem lepszy stosunek do Swobody... Nie... lepiej iść solo niż mieć takich przyjaciół!</text>
+		<text>Czy słyszałeś, jakich ludzi Wolność rekrutuje do swoich szeregów? Był tu jeden – Flint, cały czas snujący bajki o swoich wyczynach, ale jak się okazało – łajdak, których jest niewielu! Zostawił swojego towarzysza w anomalii na śmierć, a sam uciekł po łup. A potem pojawiły się jego nowe "wyczyny": na przykład w Zatonie prawie nakarmił chimerę myśliwymi... Wcześniej miałem lepszy stosunek do Wolności... Nie... lepiej iść solo niż mieć takich przyjaciół!</text>
 	</string>
 	<string id="dm_information_4">
 		<text>No... chimerę na Zatonie załatwili: grupa Gonty pracowała razem z jakimś stalkerem... Ej! Przecież wyglądał jak Ty... to Ty, prawda? Cóż, jeśli tak to możesz opowiedzieć tą historię z "pierwszej ręki", że tak powiem... Za wszystko... dziękuję! Życie bez dodatkowego mutanta co zżerał stalkerów stało się nieco spokojniejsze.</text>
@@ -346,7 +346,7 @@
 		<text>Czy słyszałeś o wiosce Kopaczy? Kiedy doszło do pierwszego wypadku w elektrowni atomowej w Czarnobylu, była tak pokryta promieniowaniem, że postanowili pogrzebać całą wioskę. Z domów we wsi pozostały tylko kopce radioaktywne. Mówią, że to miejsce było straszne już wtedy i nikt tak naprawdę nie wie, co się tam teraz dzieje - starają się nie wędrować.</text>
 	</string>
 	<string id="dm_information_52">
-		<text>Nic nowego - ale może nie słyszałeś. Siedzimy tu przytuleni ze Swobodą, nie dlatego, że tak bardzo nam się to podoba: zmusiły nas okoliczności. Kiedy tu przybyliśmy, Swobodowcy natychmiast nas zaatakowali. Odpieraliśmy atak - choć oni, te ćpuny, też nieźle strzelali ale jeszcze trochę, a byśmy ich porobili! A potem, w środku bitwy, Zulus wyczuł zbliżanie się emisji – i nie mylił się. Cóż, ogólnie rzecz biorąc, nie było dokąd pójść – musieliśmy odłożyć starcie ze Swobodą. Ale nie rozumiem Zulu: dlaczego opuścił Powinność po tym bałaganie?</text>
+		<text>Nic nowego - ale może nie słyszałeś. Siedzimy tu przytuleni z Wolnością, nie dlatego, że tak bardzo nam się to podoba: zmusiły nas okoliczności. Kiedy tu przybyliśmy, wolnościowcy natychmiast nas zaatakowali. Odpieraliśmy atak - choć oni, te ćpuny, też nieźle strzelali ale jeszcze trochę, a byśmy ich porobili! A potem, w środku bitwy, Zulus wyczuł zbliżanie się emisji – i nie mylił się. Cóż, ogólnie rzecz biorąc, nie było dokąd pójść – musieliśmy odłożyć starcie z Wolnością. Ale nie rozumiem Zulu: dlaczego opuścił Powinność po tym bałaganie?</text>
 	</string>
 	<string id="dm_information_53">
 		<text>Niedawno nasz wywiad poinformował, że niezidentyfikowany obiekt latający przeleciał nad stacją Janow... tak, UFO! Aby uniknąć głupich pytań, od razu wyjaśnię: UFO to nie tylko spodek z Marsjanami, to każdy latający syf – nawet kawałek sklejki, nawet sonda atmosferyczna – którego obserwatorzy nie mogli zidentyfikować.</text>
@@ -364,10 +364,10 @@
 		<text>Mamy nowe posiłki, i to jakie! Oddział dawnych Monolitów! Nie byle początkujący żółtodziób, ale prawdziwi wojownicy. Oczywiście po Monolicie ich mózgi jeszcze do końca się nie ułożyły, ale to jest do naprawienia: nasz ksiądz... czyli zastępca komendanta ds. pracy wychowawczo-psychologicznej – on się nimi zaopiekuje.</text>
 	</string>
 	<string id="dm_information_58">
-		<text>Mówią, że Swoboda zaciągnął w swoje szeregi dawnych „monolitów”. Bzdury, plotki? Ale idźcie i zobaczcie: naprawdę mają nowy oddział i najwyraźniej nie pochodzi on z granic Strefy. Prawdopodobnie Svoboda ma się źle, a może narkotyki kompletnie powaliły ich mózgi… Kogo wezmą dalej – oddział zombie? Pluton Burera?</text>
+		<text>Mówią, że Wolność zaciągnął w swoje szeregi dawnych „monolitów”. Bzdury, plotki? Ale idźcie i zobaczcie: naprawdę mają nowy oddział i najwyraźniej nie pochodzi on z granic Strefy. Prawdopodobnie Svoboda ma się źle, a może narkotyki kompletnie powaliły ich mózgi… Kogo wezmą dalej – oddział zombie? Pluton Burera?</text>
 	</string>
 	<string id="dm_information_59">
-		<text>Wkrótce na tym terenie zostanie przywrócony porządek: Powinność zajęło kluczowe pozycje w okolicy. Dobrze okopaliśmy się w Janowie, a teraz jest nasza całodobowa ochrona w pobliżu bunkra naukowców. Czas na Swobodę, aby zebrać dobytek i się stąd wydostać. W Strefie nie ma miejsca dla anarchistów!</text>
+		<text>Wkrótce na tym terenie zostanie przywrócony porządek: Powinność zajęło kluczowe pozycje w okolicy. Dobrze okopaliśmy się w Janowie, a teraz jest nasza całodobowa ochrona w pobliżu bunkra naukowców. Czas na Wolność, aby zebrać dobytek i się stąd wydostać. W Strefie nie ma miejsca dla anarchistów!</text>
 	</string>
 	<string id="dm_information_6">
 		<text>Nowy cud świata - trzeźwy Cardan! W ogóle nie pije, wyobrażasz sobie? Chłopaki w Skadowsku zapytali go, gdzie znalazł tak skutecznego medium, a on po prostu się śmieje: podobno wiewiórka zakodowała jakimś 62 kodem.</text>
@@ -382,7 +382,7 @@
 		<text>Kolejne zwycięstwo Powinności! Anarchiści stali się dość bezczelni – cóż, zapłacili cenę za swoją arogancję. Wpadli do naszego tajnego magazynu i zdecydowali, że ujdzie im to na sucho... Ale nieważne! Nakryliśmy ich i zastrzeliliśmy wszystkich jak wściekłych tuszkanów!</text>
 	</string>
 	<string id="dm_information_63">
-		<text>Od dawna było wiadomo, że w Swobodzie są tylko szumowiny, lecz tutaj ujawniono pewne szczegóły biografii jednego z tych niedorobionych czegewarów. Głowa Swobody nazywał się Flint, ale wcześniej był znany jako stalker Soroka. Pod tym pseudonimem pojawił się na Zatonie i zagroził grupie łowców mutantów - po prostu ich wrobił. W rezultacie chłopaki zostali prawie rozerwani przez chimerę, a ten drań zabrał ich sprzęt i przybył tutaj, do Janowa. Gdy tylko włożył swój mundur Swobody, natychmiast zaczął praktykować swój nowy zawód: wrzucił swojego partnera w anomalię, aby odebrać mu artefakt. Tak wygląda Swoboda w akcji...</text>
+		<text>Od dawna było wiadomo, że w Wolności są tylko szumowiny, lecz tutaj ujawniono pewne szczegóły biografii jednego z tych niedorobionych czegewarów. Głowa Wolności nazywał się Flint, ale wcześniej był znany jako stalker Soroka. Pod tym pseudonimem pojawił się na Zatonie i zagroził grupie łowców mutantów - po prostu ich wrobił. W rezultacie chłopaki zostali prawie rozerwani przez chimerę, a ten drań zabrał ich sprzęt i przybył tutaj, do Janowa. Gdy tylko włożył swój mundur Wolności, natychmiast zaczął praktykować swój nowy zawód: wrzucił swojego partnera w anomalię, aby odebrać mu artefakt. Tak wygląda Wolność w akcji...</text>
 	</string>
 	<string id="dm_information_7">
 		<text>Nowy budynek Noego! Jest taka stara atrakcja Zatonu - stalker o imieniu Noe. Wujek jest doświadczony, konkretny i jednocześnie stuknięty. Jego ostatnim pomysłem jest uratowanie wszystkich stalkerów przed nadchodzącą apokalipsą, więc próbuje zbudować arkę ze starej barki... Jeśli chodzi o mnie, jest to jednoosobowy program o nazwie "wariatkowo". Jeśli zdecydujesz się tam zajrzeć, przede wszystkim nie drażnij Noego. Jest stuknięty, owszem, ale generalnie całkiem nieszkodliwy.</text>
@@ -445,13 +445,13 @@
 		<text>Możesz zapytać Wano: zawsze kręci się przy barze w Janowie. Wszedł w komitywę z bandytami, po raz trzeci idzie zanieść dług, a końca nie widać... Wygląda na to, że stalker jest doświadczony, może przejść przez każdą anomalię z zamkniętymi oczami, ale ciągle wpada w jakieś kłopoty. Już wielokrotnie proponowano mu odejście: Zona jest duża, nie zechcesz - nie znajdziesz... Jest dumny, nie chce uciekać i oczywiście nikt tak naprawdę nie chce mu pomóc uporać się z bandytami.</text>
 	</string>
 	<string id="dm_job_7">
-		<text>Tak, co to za praca ... Bandyci są całkowicie szaleni - złapali Mitię i zażądali okupu. A Mitia był przecież jednym z pierwszych stalkerów, którzy przybyli do Janowa, zaaranżował wszystko tutaj, aby można było ukryć się przed Emisją - a teraz okazuje się, że nie ma nikogo, kto by go uratował. Swoboda i Powinność nie mają czasu na to: jak zwykle chcą sobie nawzajem poderżnąć gardła, ale reszta... co mogę powiedzieć, jeśli grupa Mitaja nie może zdecydować, jak go uwolnić! Jeśli nagle chcesz im pomóc, znajdź Medwiediewa - był na stacji przy barze.</text>
+		<text>Tak, co to za praca ... Bandyci są całkowicie szaleni - złapali Mitię i zażądali okupu. A Mitia był przecież jednym z pierwszych stalkerów, którzy przybyli do Janowa, zaaranżował wszystko tutaj, aby można było ukryć się przed Emisją - a teraz okazuje się, że nie ma nikogo, kto by go uratował. Wolność i Powinność nie mają czasu na to: jak zwykle chcą sobie nawzajem poderżnąć gardła, ale reszta... co mogę powiedzieć, jeśli grupa Mitaja nie może zdecydować, jak go uwolnić! Jeśli nagle chcesz im pomóc, znajdź Medwiediewa - był na stacji przy barze.</text>
 	</string>
 	<string id="dm_job_8">
 		<text>Azot, technik z Janowa, właśnie pytał, kto może mu dostarczyć materiały. W końcu jest nie tylko wyjątkowy w broni, ale także grzebie w elektronice! Tylko sama wiedza nie wystarczy, a on nie ma materiałów, więc pyta wszystkich... Główny problem jest taki: wszystko już dawno zostało skradzione w bezpiecznych miejscach i nikt nie chce łazić w niebezpieczne miejsca za jakimiś babelotami. Azot powiedział, że jak ktoś przyniesie mu coś odpowiedniego, to nie pozostanie dłużny.</text>
 	</string>
 	<string id="dm_job_9">
-		<text>Słyszałem, że wujek Jar ze stacji w Janowie szukał jakiegoś stalkera do interesu. Nie jest jasne, dlaczego nie chce kontaktować się ze swoimi ludźmi ze Swobody? Nie sądzę, żeby to było coś przestępczego... idź do niego jak chcesz i zapytaj go o co chodzi. Może Ci podpasuje.</text>
+		<text>Słyszałem, że wujek Jar ze stacji w Janowie szukał jakiegoś stalkera do interesu. Nie jest jasne, dlaczego nie chce kontaktować się ze swoimi ludźmi ze Wolności? Nie sądzę, żeby to było coś przestępczego... idź do niego jak chcesz i zapytaj go o co chodzi. Może Ci podpasuje.</text>
 	</string>
 	<string id="dm_job_do_not_know_1">
 		<text>Hmm... nie wiem.</text>
@@ -1006,7 +1006,7 @@
 		<text>Znajduje się tu stara podstacja, zwana też Żelaznym Lasem. Jeśli tam jesteś, zrozumiesz dlaczego. Mówią więc, że po Emisji znaleziono tam kilka artefaktów. Pod względem niebezpieczeństwa miejsce jest takie sobie - no cóż, "elektry" mogą troche porazić no i... To prawda, że wciąż są poltergeisty. Jeśli nie miałeś czasu się schować, obsypią Cię różnego rodzaju śmieciami.</text>
 	</string>
 	<string id="dm_job_12">
-		<text>Roboty? Szczerze mówiąc, nie wiem. Ale jeśli masz szansę jakoś pomóc Swobodzie, leć do naszego szefa w Janowie. W południowym skrzydle znajdziesz Lokiego - tam właśnie będzie. Ogólnie rzecz biorąc, jeśli wierzysz w postęp ludzkości, w jej świadomość, w wartość darów Zony, to będzie Twój dobry wybór.</text>
+		<text>Roboty? Szczerze mówiąc, nie wiem. Ale jeśli masz szansę jakoś pomóc Wolności, leć do naszego szefa w Janowie. W południowym skrzydle znajdziesz Lokiego - tam właśnie będzie. Ogólnie rzecz biorąc, jeśli wierzysz w postęp ludzkości, w jej świadomość, w wartość darów Zony, to będzie Twój dobry wybór.</text>
 	</string>
 	<string id="dm_job_13">
 		<text>Nie wiem. Jeśli jednak znajdziesz coś, co może nam pomóc w walce z Zoną lub naszymi wrogami, skontaktuj się z dowódcą oddziału ekspedycyjnego "Powinności" podpułkownikiem Szulga. Dowodzi Stacją Janowa, znajdziesz go w północnym skrzydle. Mogę powiedzieć na pewno: każdy cywil, który przyczyni się do sprawy "Powinności" na pewno zostanie nagrodzony.</text>

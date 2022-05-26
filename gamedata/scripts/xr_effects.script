@@ -3429,7 +3429,7 @@ local mat_table = {
 
 function jup_b200_count_found(actor)
 	local cnt = 0
-						
+
 	for k,v in pairs(mat_table) do
 		local material_obj = get_story_object(v)
 		if material_obj then
@@ -3442,18 +3442,18 @@ function jup_b200_count_found(actor)
 			end
 		end
 	end
-	
+
 	cnt = cnt + xr_logic.pstor_retrieve(actor, "jup_b200_tech_materials_brought_counter", 0)
 	xr_logic.pstor_store(actor, "jup_b200_tech_materials_found_counter", cnt)
 end
 
-function NpcKickActor() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[actor\bullet_hit_3]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function NpcKickActor()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[actor\bullet_hit_3]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 db.actor:set_actor_direction(cDir.x,cDir.y,0)
-level.add_cam_effector("camera_effects\\surge_02.anm", 2532, false, "") 
-xr_effects.disable_ui(db.actor, nil) 
+level.add_cam_effector("camera_effects\\surge_02.anm", 2532, false, "")
+xr_effects.disable_ui(db.actor, nil)
 end
 
 function SpawnDuty()
@@ -3466,21 +3466,21 @@ function SpawnSith()
 alife():create("sith_2",vector():set(-119.8660736084,4.7180314064026,-257.46728515625),7602,1)
 end
 
-function NpcKickActor2() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[actor\bullet_hit_3]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function NpcKickActor2()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[actor\bullet_hit_3]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 db.actor:set_actor_direction(cDir.x,cDir.y,0)
-level.add_cam_effector("camera_effects\\head_shot.anm", 2532, false, "") 
-xr_effects.disable_ui(db.actor, nil) 
+level.add_cam_effector("camera_effects\\head_shot.anm", 2532, false, "")
+xr_effects.disable_ui(db.actor, nil)
 end
 
-function NpcKickActor3() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[affects\hit_fist]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function NpcKickActor3()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[affects\hit_fist]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 db.actor:set_actor_direction(cDir.x,cDir.y,0)
-level.add_pp_effector("doomlord_hit.ppe", 2532, false, "") 
+level.add_pp_effector("doomlord_hit.ppe", 2532, false, "")
 end
 
 function set_actor(actor, npc)
@@ -3503,99 +3503,99 @@ function set_super_neutral(actor, npc)
 npc:set_character_community("ecolog", 0, 0)
 end
 
-function Svd() 
-local sObj1 = sound_object([[weapons\n_svd_shot]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function Svd()
+local sObj1 = sound_object([[weapons\n_svd_shot]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function Usp() 
-local sObj1 = sound_object([[weapons\n_usp_shot]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function Usp()
+local sObj1 = sound_object([[weapons\n_usp_shot]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function Spas() 
-local sObj1 = sound_object([[weapons\n_spas12_shot]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function Spas()
+local sObj1 = sound_object([[weapons\n_spas12_shot]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function in_stalker(actor, npc) 
- printf("actor now in [stalker] community") 
- if db.actor then 
- db.actor:set_character_community("stalker", 0, 0) 
- end 
- return true 
+function in_stalker(actor, npc)
+ printf("actor now in [stalker] community")
+ if db.actor then
+ db.actor:set_character_community("stalker", 0, 0)
+ end
+ return true
  end
 
- function in_bandit(actor, npc) 
- printf("actor now in [bandit] community") 
- if db.actor then 
- db.actor:set_character_community("bandit", 0, 0) 
- end 
- return true 
+ function in_bandit(actor, npc)
+ printf("actor now in [bandit] community")
+ if db.actor then
+ db.actor:set_character_community("bandit", 0, 0)
+ end
+ return true
  end
 
- function in_dolg(actor, npc) 
- printf("actor now in [dolg] community") 
- if db.actor then 
- db.actor:set_character_community("dolg", 0, 0) 
- end 
- return true 
+ function in_dolg(actor, npc)
+ printf("actor now in [dolg] community")
+ if db.actor then
+ db.actor:set_character_community("dolg", 0, 0)
+ end
+ return true
  end
 
- function in_freedom(actor, npc) 
- printf("actor now in [freedom] community") 
- if db.actor then 
- db.actor:set_character_community("freedom", 0, 0) 
- end 
- return true 
+ function in_freedom(actor, npc)
+ printf("actor now in [freedom] community")
+ if db.actor then
+ db.actor:set_character_community("freedom", 0, 0)
+ end
+ return true
  end
 
- function in_ecolog(actor, npc) 
- printf("actor now in [ecolog] community") 
- if db.actor then 
- db.actor:set_character_community("ecolog", 0, 0) 
- end 
- return true 
+ function in_ecolog(actor, npc)
+ printf("actor now in [ecolog] community")
+ if db.actor then
+ db.actor:set_character_community("ecolog", 0, 0)
+ end
+ return true
  end
 
- function in_army(actor, npc) 
- printf("actor now in [army] community") 
- if db.actor then 
- db.actor:set_character_community("army", 0, 0) 
- end 
- return true 
+ function in_army(actor, npc)
+ printf("actor now in [army] community")
+ if db.actor then
+ db.actor:set_character_community("army", 0, 0)
+ end
+ return true
  end
 
- function in_monolith(actor, npc) 
- printf("npc now in [monolith] community") 
- if db.npc then 
- db.npc:set_character_community("monolith", 0, 0) 
- end 
- return true 
+ function in_monolith(actor, npc)
+ printf("npc now in [monolith] community")
+ if db.npc then
+ db.npc:set_character_community("monolith", 0, 0)
+ end
+ return true
  end
 
- function in_zombied(actor, npc) 
- printf("actor now in [zombied] community") 
- if db.actor then 
- db.actor:set_character_community("zombied", 0, 0) 
- end 
- return true 
+ function in_zombied(actor, npc)
+ printf("actor now in [zombied] community")
+ if db.actor then
+ db.actor:set_character_community("zombied", 0, 0)
+ end
+ return true
  end
 
- function in_actor(actor, npc) 
- printf("actor now in [actor] community") 
- if db.actor then 
- db.actor:set_character_community("actor", 0, 0) 
- end 
- return true 
+ function in_actor(actor, npc)
+ printf("actor now in [actor] community")
+ if db.actor then
+ db.actor:set_character_community("actor", 0, 0)
+ end
+ return true
  end
 
-function in_killer(actor, npc) 
- printf("actor now in [killer] community") 
- if db.actor then 
- db.actor:set_character_community("killer", 0, 0) 
- end 
- return true 
+function in_killer(actor, npc)
+ printf("actor now in [killer] community")
+ if db.actor then
+ db.actor:set_character_community("killer", 0, 0)
+ end
+ return true
  end
 
 function sith_help()
@@ -3692,7 +3692,7 @@ function hit_actor_psy(actor, npc, p)
 end
 
 function hit_psy(actor, npc, p)
-level.add_pp_effector("psi.ppe", 1974, true) 
+level.add_pp_effector("psi.ppe", 1974, true)
 end
 
 function hit_ultra_psy(actor, npc, p)
@@ -3757,26 +3757,26 @@ function SpawnDeathSith()
 alife():create("agr_sith_2_death",vector():set(237.197570800781,-0.19998499751091,58.7668418884277),349059,108):on_death()
 end
 
-function Actor_Death_Bad_Ending() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[weapons\f1_explode]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
-db.actor:set_actor_direction(cDir.x,cDir.y,0)
-level.add_cam_effector("camera_effects\\shell_shock.anm", 2532, false, "") 
-xr_effects.disable_ui(db.actor, nil) 
-end
-
-function RedForestElectroShock() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[weapons\gauss\gauss_shot]]) 
-local sObj2 = sound_object([[affects\hit_fist]]) 
+function Actor_Death_Bad_Ending()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[weapons\f1_explode]])
 sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
-sObj2:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+db.actor:set_actor_direction(cDir.x,cDir.y,0)
+level.add_cam_effector("camera_effects\\shell_shock.anm", 2532, false, "")
+xr_effects.disable_ui(db.actor, nil)
 end
 
-function RFES2() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[anomaly\electra_blast1]]) 
+function RedForestElectroShock()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[weapons\gauss\gauss_shot]])
+local sObj2 = sound_object([[affects\hit_fist]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
+sObj2:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
+end
+
+function RFES2()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[anomaly\electra_blast1]])
 sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
@@ -3793,20 +3793,20 @@ function hit_actor_shkir(actor, npc, p)
 	actor:hit(h)
 end
 
-function RFB1() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[device\bridge\bridge_start]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function RFB1()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[device\bridge\bridge_start]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function RFB2() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[device\bridge\bridge_stop]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function RFB2()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[device\bridge\bridge_stop]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
 function sector_shot_answer()
-news_manager.send_replica(db.actor, "%c[255,1,255,255]Sektor\\n%c[default]S³yszê strza³y. Sk¹d pochodzi?", nil, "default", 12000)
+news_manager.send_replica(db.actor, "%c[255,1,255,255]Sektor\\n%c[default]S³yszê strza³y. Sk¹d pochodz¹?", nil, "default", 12000)
 end
 
 function SpawnEnemyDogs()
@@ -3910,20 +3910,20 @@ function sith_go_on_old()
 news_manager.send_replica(db.actor, "%c[255,1,255,255]Stih\\n%c[default]Do diab³a z tym, Sektor, wspinaj siê po tych drutach, jestem za Tob¹!", nil, "default", 5000)
 end
 
-function RFB3() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[device\bridge\bridge_not_working]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function RFB3()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[device\bridge\bridge_not_working]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function Rpg() 
-local sObj1 = sound_object([[weapons\t_rpg7_explosion]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function Rpg()
+local sObj1 = sound_object([[weapons\t_rpg7_explosion]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
-function Rpg2() 
-local sObj1 = sound_object([[weapons\rpg7_explode]]) 
-sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d) 
+function Rpg2()
+local sObj1 = sound_object([[weapons\rpg7_explode]])
+sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
 -- ????? ??????? ???? ?????????????? ??? ??
@@ -4058,9 +4058,9 @@ function for_stalkers_polylog_15()
 news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]OTWORZYÆ OGIEÑ!", nil, "default", 5000)
 end
 
-function bsa_sound() 
-local cDir = device().cam_dir 
-local sObj1 = sound_object([[monsters\bloodsucker\attack_1]]) 
+function bsa_sound()
+local cDir = device().cam_dir
+local sObj1 = sound_object([[monsters\bloodsucker\attack_1]])
 sObj1:play_at_pos(db.actor, vector():set(0,0,0), 0, sound_object.s2d)
 end
 
@@ -4068,7 +4068,7 @@ function for_bloodsucker_dream_video_end(actor, npc)
 	db.actor:give_info_portion("for_bloodsucker_dream_video_end")
 end
 
-function for_inf_bs_rep_1() 
+function for_inf_bs_rep_1()
 news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Infernis, widzê go!", nil, "default", 5000)
 end
 
@@ -4096,7 +4096,7 @@ function for_lab_inf_replica_2()
 news_manager.send_replica(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Co siê dzieje?!", nil, "default", 5000)
 end
 
-function for_lab_inf_replica_3() 
+function for_lab_inf_replica_3()
 news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Moja g³owa!", nil, "default", 5000)
 end
 
@@ -4104,7 +4104,7 @@ function for_lab_inf_replica_4()
 news_manager.send_replica(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]A co najwa¿niejsze – dlaczego ja te¿ to czujê?!", nil, "default", 5000)
 end
 
-function for_lab_inf_replica_5() 
+function for_lab_inf_replica_5()
 news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Musimy siê st¹d wydostaæ!", nil, "default", 5000)
 end
 
@@ -4160,7 +4160,7 @@ function sith_mask_give()
 	new_quests.sith_mask_give()
 end
 
-function lim_fra_sek_inf_1() 
+function lim_fra_sek_inf_1()
 news_manager.send_tip(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Infernis, znalaz³em Twojego przyjaciela. Powiedz wszystkim, ¿eby wrócili.", nil, "default", 10000)
 end
 
@@ -4172,19 +4172,19 @@ function set_gs(actor, npc)
 npc:set_character_community("gone_soul", 0, 0)
 end
 
-function in_gs(actor, npc) 
- printf("actor now in [gone_soul] community") 
- if db.actor then 
- db.actor:set_character_community("gone_soul", 0, 0) 
- end 
- return true 
+function in_gs(actor, npc)
+ printf("actor now in [gone_soul] community")
+ if db.actor then
+ db.actor:set_character_community("gone_soul", 0, 0)
+ end
+ return true
  end
 
 function for_lab_escaping_1()
 news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Wreszcie po³¹czenie dzia³a! Sektor po lewej, szybko biegnij do bunkra! Gdzie w ogóle jesteœ teraz?", nil, "default", 10000)
 end
 
-function for_lab_escaping_2() 
+function for_lab_escaping_2()
 news_manager.send_tip(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Jestem w budynku, w którym kopa³eœ groby! Co siê sta³o? S³yszê karabin maszynowy.", nil, "default", 10000)
 end
 

@@ -61,7 +61,7 @@
         <text>Major, idziesz z nami?</text>
     </string>
     <string id="agr_mayor_z_good_dialog_1">
-        <text>Hmm... Karasie nie potrzebuj¹ pomocy?</text>
+        <text>Hmm... Karaœ potrzebuje pomocy?</text>
     </string>
     <string id="agr_mayor_z_good_dialog_2">
         <text>Dok³adnie.</text>
@@ -439,7 +439,7 @@
         <text>Potrzebujesz pomocy, chodŸmy do bazy stalkerów!</text>
     </string>
     <string id="karas_end_dialog_4">
-        <text>Za póŸno... Za d³ugo przebywa³eœ w laboratorium... IdŸ do Sitha... On te¿ prze¿y³... Poszed³ w kierunku tunelu z promieniowaniem PSI...</text>
+        <text>Za póŸno... Za d³ugo przebywa³eœ w podziemiach... IdŸ do Sitha... On te¿ prze¿y³... Poszed³ w kierunku tunelu z promieniowaniem PSI...</text>
     </string>
     <string id="karas_end_dialog_5">
         <text>Sk¹d wiesz o tunelu?</text>
@@ -457,7 +457,7 @@
         <text>Jakiœ bojownik wolnoœci przyniós³ go tutaj. Przyszed³ i poszed³. Nie strzela³, niczego nie wyjaœnia³, poszed³ bez s³owa.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_2">
-        <text>Swobodowiec?</text>
+        <text>Wolnoœciowiec?</text>
     </string>
     <string id="karas_mayor_z_first_dialog_3">
         <text>Tak. W jakimœ przemalowanym kombinezonie stalkera.</text>
@@ -466,7 +466,7 @@
         <text>Dobra, teraz to nie ma znaczenia. Jak siê miewa Karaœ?</text>
     </string>
     <string id="karas_mayor_z_first_dialog_end_0">
-        <text>U mnie wszystko w porz¹dku. Rany wkrótce siê zagoj¹. Ten swobodowiec postawi³ mnie na nogi. Teraz chcê tylko odpocz¹æ.</text>
+        <text>U mnie wszystko w porz¹dku. Rany wkrótce siê zagoj¹. Ten wolnoœciowiec postawi³ mnie na nogi. Teraz chcê tylko odpocz¹æ.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_end_1">
         <text>Rozumiem.</text>
@@ -667,7 +667,7 @@
         <text>Czy potrzebujesz pomocy?</text>
     </string>
     <string id="orest_vint_stalkers_dialog_1">
-        <text>Dobrze, ¿e pytasz. W koñcu te¿ mieliœmy technika w bazie, podobnie jak w bazie Powinnoœci, tylko teraz on i kilku stalkerów pojechali do Czerwonego Lasu na nalot. Oczywiœcie ufam Aidarowi, ale na wszystko trzeba siê przygotowaæ. Jeœli nagle nie wróci, wielu w naszej bazie bêdzie trudno, dostaæ siê do punktu kontrolnego Powinnoœci, ¿eby rzeczy by³y dla Was naprawione po zawy¿onej cenie, a potem powrót do bazy nie jest zbyt przyjemny. Tak to wygl¹da. Ale Kry³ow nie chce zrezygnowaæ ze swojej techniki, có¿, to zrozumia³e. O czym ja mówiê - mo¿e masz ludzi, których znasz, którzy s¹ mniej lub bardziej zaznajomieni z broni¹ lub zbroj¹? Czy móg³byœ kogoœ takiego znaleŸæ?</text>
+        <text>Dobrze, ¿e pytasz. W koñcu te¿ mieliœmy technika w bazie, podobnie jak u Powinnoœci, tylko teraz on i kilku stalkerów wyruszy³o do Czerwonego Lasu na rajd. Oczywiœcie ufam Aidarowi, ale na wszystko trzeba siê przygotowaæ. Jeœli nagle siê oka¿e, ¿e nie wróci, to tutejszym stalkerom bêdzie ciê¿ko. Sprzêt naprawiony w bazie Powinnoœci po zawy¿onej cenie to nic przyjemnego, a jeszcze trzeba siê nachodziæ. Tak wiêc tak to wygl¹da. Kry³ow nie chce zrezygnowaæ ze swojego technika, có¿.. To zrozumia³e. Do rzeczy - znasz mo¿e ludzi, którzy s¹ mniej lub bardziej zaznajomieni z napraw¹ broni, lub kombinezonów ? Da³byœ radê kogoœ takiego znaleŸæ? </text>
     </string>
     <string id="orest_vint_stalkers_dialog_2">
         <text>Hmm.. Tak, jest jeden. Spróbujê go przekonaæ.</text>
@@ -718,13 +718,13 @@
         <text>Tak? A jak do tego doszed³eœ?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_2">
-        <text>Kry³ow powiedzia³, ¿e wys³a³ tylko trzech bojowników, którzy zginêli w anomalii. Dowiedzia³em siê równie¿, ¿e czêœæ Powinnoœciowców, zarówno w Agropromie, jak i w Czerwonym Lesie, to Monolity, którzy bez trudnoœci wst¹pili w ich szeregi. Oni ju¿ s¹ skoñczeni.</text>
+        <text>Kry³ow powiedzia³, ¿e wys³a³ tylko trzech bojowników, którzy zginêli w anomalii. Dowiedzia³em siê równie¿, ¿e czêœæ Powinnoœciowców, zarówno w Agropromie, jak i w Czerwonym Lesie, to Monolitowcy, którzy bez trudnoœci wst¹pili w ich szeregi. Oni ju¿ s¹ skoñczeni.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_3">
         <text>Skomplikowane... Dobra, dowiedzia³eœ siê czegoœ o Grupie Strie³oka?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_4">
-        <text>Tak, dowiedzia³em siê trochê. Najemnik, który równie¿ polowa³ na Strie³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów lochy instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Strie³okiem. Zamierzam zejœæ do lochów Agropromu w poszukiwaniu informacji. PóŸniej wszystko Ci opowiem.</text>
+        <text>Tak, dowiedzia³em siê trochê. Najemnik, który równie¿ polowa³ na Strie³oka, nazywa³ siê Szrama. Pomóg³ powinnoœci oczyœciæ z mutantów podziemia instytutu badawczego, w których znalaz³ dokumenty zwi¹zane ze Strie³okiem. Zamierzam zejœæ do podziemi Agropromu w poszukiwaniu informacji. PóŸniej wszystko Ci opowiem.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_5">
         <text>Idziesz tam sam?</text>
@@ -751,7 +751,7 @@
         <text>Pomyœl. Dziœ zdobêdziemy ich zaufanie, a jutro mog¹ nam powiedzieæ o grupie Strie³oka.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_5">
-        <text>Hmm... Dobrze. Mimo wszystko Wint jest bezu¿yteczny - zero, jak ¿o³nierz. W rêkach - Vintorez, ale nie wie, jak go wykorzystaæ.</text>
+        <text>Hmm... Dobrze. Mimo wszystko Wint jest bezu¿yteczny - zero, jako ¿o³nierz. W rêkach - Vintorez, ale nie wie, jak go wykorzystaæ.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_6">
         <text>Có¿, nie ma mowy.</text>
@@ -778,10 +778,10 @@
         <text>Sith, pamiêtasz, jak mówi³eœ mi, ¿e mi pomo¿esz, kiedy o to poproszê? Wiêc teraz chcê znaleŸæ i zniszczyæ Szkira za wszelk¹ cenê. Rêce mnie œwie¿bia³y ¿eby mu jebn¹æ, ale teraz to miarka siê przebra³a...</text>
     </string>
     <string id="sith_genesis_dialog_7">
-        <text>Cieszê siê, ¿e nasze œcie¿ki siê zbieg³y. Pomogê Ci bez dwóch zdañ. A propos, by³eœ w laboratorium? Co tam znalaz³eœ?</text>
+        <text>Cieszê siê, ¿e nasze œcie¿ki siê zbieg³y. Pomogê Ci bez dwóch zdañ. A propos, by³eœ w podziemiach? Co tam znalaz³eœ?</text>
     </string>
     <string id="sith_genesis_dialog_8">
-        <text>Znalaz³em notatkê... Czekaj, zgadza siê! W lochach znalaz³em stalkera, który dok³adnie widzia³ ca³¹ zasadzkê. Widzia³, dok¹d poszed³ po tym Szkir. Zaraz wracam.</text>
+        <text>Znalaz³em notatkê... Czekaj, zgadza siê! W podziemiach znalaz³em stalkera, który dok³adnie widzia³ ca³¹ zasadzkê. Widzia³, dok¹d poszed³ po tym Szkir. Zaraz wracam.</text>
     </string>
     <string id="sith_rescue_dialog_0">
         <text>Dziêkujê bracie, po raz kolejny uratowa³eœ mi ¿ycie.</text>

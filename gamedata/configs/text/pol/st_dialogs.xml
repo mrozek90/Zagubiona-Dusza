@@ -103,7 +103,7 @@
         <text>Figas! Tak, zdecydowanie wszyscy! Taka bomba, a Ty co!... Ten tego... jeœli nie masz ochoty go dŸwign¹æ, daj cynk po cichu do Sycza na Skadowsku. Zdobêdziesz forsê i nie bêdziesz robi³ sobie wrogów przy okazji. A ja mam mordê w kuble!</text>
     </string>
     <string id="about_quests_dialog_bandit_22">
-        <text>Nie no, sam g³ówkuj: po lewej - Powinnoœæ, po prawej - Swoboda, stalkerom dupy przyros³y do siedzeñ, a ja teraz wci¹¿ muszê niebo œledziæ?!</text>
+        <text>Nie no, sam g³ówkuj: po lewej - Powinnoœæ, po prawej - Wolnoœæ, stalkerom dupy przyros³y do siedzeñ, a ja teraz wci¹¿ muszê niebo œledziæ?!</text>
     </string>
     <string id="about_quests_dialog_bandit_23">
         <text>Ch³opcy powiedzieli, ¿e jeden w ¯elaznym Lesie ko³ysa³ siê na drutach, jak ten kot, który jest na ³añcuchu dooko³a... Nadal nie ma tam czego szukaæ oprócz guza. Jeœli Emisja nie bêdzie wyssie, to poltergeist z³amie czaszkê.</text>
@@ -250,7 +250,7 @@
         <text>Czy wiesz, kto móg³ ukraœæ rzeczy z osobistego schowka?</text>
     </string>
     <string id="about_quests_dialog_dolg_131">
-        <text>Masz coœ z g³ow¹? W naszej bazie to by siê nie wydarzy³o, ale tych dziwaków ze Swobody jest wielu. Byliby pierwsz¹ opcj¹, której bym szuka³. Tak, namiêtnie!</text>
+        <text>Masz coœ z g³ow¹? W naszej bazie to by siê nie wydarzy³o, ale tych dziwaków z Wolnoœci jest wielu. Byliby pierwsz¹ opcj¹, której bym szuka³. Tak, namiêtnie!</text>
     </string>
     <string id="about_quests_dialog_dolg_14">
         <text>Kto tutaj rozumie deszyfrowanie?</text>
@@ -361,7 +361,7 @@
         <text>Lepszej ochrony ni¿ oddzia³ Powinnoœci, nie znajd¹. O czym Ty mówisz to idŸ do podpu³kownika Szulgi na Janowie. Myœlê, ¿e nie bêdzie problemów, szybko siê zgodzi.</text>
     </string>
     <string id="about_quests_dialog_dolg_402">
-        <text>Dopóki co najmniej jeden ze Swobody dla nich pracuje, nasi tam nie je¿d¿¹. Ca³y dzieñ obok tych æpunów - tak, lepiej od razu siê zastrzeliæ!</text>
+        <text>Dopóki co najmniej jeden z Wolnoœci dla nich pracuje, nasi tam nie je¿d¿¹. Ca³y dzieñ obok tych æpunów - tak, lepiej od razu siê zastrzeliæ!</text>
     </string>
     <string id="about_quests_dialog_dolg_42">
         <text>Teraz Powinnoœæ nie musi szukaæ drogi do Prypeci, ale zbierane s¹ informacje. Wed³ug niepotwierdzonych doniesieñ tunele pod fabryk¹ Jupiter biegn¹ a¿ do miasta. Aby wyjaœniæ te informacje, musisz szczegó³owo zbadaæ wszystkie obiekty na terenie zak³adu.</text>
@@ -418,7 +418,7 @@
         <text>Nie ma o czym myœleæ: oczywiœcie nasi. Z Powinnoœci. To wielce doœwiadczeni ludzie, którzy nie raz pracowali z naukowcami. IdŸ do podpu³kownika Szulgi, on jest odpowiedzialny za takie rzeczy.</text>
     </string>
     <string id="about_quests_dialog_dolg_72">
-        <text>Kto chce tam pracowaæ, jeœli Swobodziœci pilnuj¹ bunkra? Tak, ci pacyfiœci s¹ cholernie naæpani i strzel¹ do siebie od razu.</text>
+        <text>Kto chce tam pracowaæ, jeœli wolnoœciowcy pilnuj¹ bunkra? Tak, ci pacyfiœci s¹ cholernie naæpani i strzel¹ do siebie od razu.</text>
     </string>
     <string id="about_quests_dialog_dolg_8">
         <text>Znalaz³em bardzo dziwny artefakt. Czy mo¿esz mi powiedzieæ, gdzie znaleŸæ kupca?</text>
@@ -481,7 +481,7 @@
         <text>Kto tutaj rozumie deszyfrowanie?</text>
     </string>
     <string id="about_quests_dialog_freedom_141">
-        <text>Wygl¹da na to, ¿e Azot na Janowie jest amatorem. Tylko nie powiem Ci na pewno, osobiœcie nie musia³em z nim rozmawiaæ: wydaje siê, ¿e jest na powinnoœciach, a to oznacza, ¿e tak naprawdê nie lubi Swobody.</text>
+        <text>Wygl¹da na to, ¿e Azot na Janowie jest amatorem. Tylko nie powiem Ci na pewno, osobiœcie nie musia³em z nim rozmawiaæ: wydaje siê, ¿e jest na powinnoœciach, a to oznacza, ¿e tak naprawdê nie lubi Wolnoœci.</text>
     </string>
     <string id="about_quests_dialog_freedom_143">
         <text>Tak, tak naprawdê nie znam lokalnych specjalistów. Ty koleœ, jak bêdziesz w Janowie, zapytaj tam naszych ch³opaków, na pewno Ci powiedz¹.</text>
@@ -607,7 +607,7 @@
         <text>S³ysza³em od wolnych ludzi, ¿e jest taka sprytny goœæ - ¯wawy - wiêc mo¿esz od niego dostaæ prawie wszystko. To znaczy, rozumiesz - wszelkiego rodzaju sprzêt, kufry - nie, substancj - nie. Zwykle krêci siê w Skadowsku, jak ju¿...</text>
     </string>
     <string id="about_quests_dialog_freedom_502">
-        <text>Trudne pytanie, cz³owieku... Có¿, my w Swobodzie takich rzeczy w ogóle nie nosimy, a wiêc – pyta³bym wokó³ stalkerów Zatonu. Wygl¹da na to, ¿e ktoœ robi takie rzeczy...</text>
+        <text>Trudne pytanie, cz³owieku... Có¿, my w Wolnoœci takich rzeczy w ogóle nie nosimy, a wiêc – pyta³bym wokó³ stalkerów Zatonu. Wygl¹da na to, ¿e ktoœ robi takie rzeczy...</text>
     </string>
     <string id="about_quests_dialog_freedom_503">
         <text>Koleœ, po co Ci to? On nie walczy. Chocia¿... Jeœli siê nad tym zastanowiæ, oczywiœcie jest korzyœæ. Dym nie dusi, a s³oñce nie oœlepia tak... Trzeba bêdzie sobie taki sobie za³atwiæ. Chcia³bym tylko wiedzieæ gdzie...</text>
@@ -640,7 +640,7 @@
         <text>Czy wiesz, kto mo¿e wykonywaæ pomiary dla naukowców?</text>
     </string>
     <string id="about_quests_dialog_freedom_71">
-        <text>Myœlê, ¿e nasi ludzie bêd¹ pasowaæ. W Swobodzie nie ma g³upich ludzi, a czego nie wiemy, pytamy w bunkrze. Jesteœmy gotowi z entuzjazmem pomagaæ postêpowi naukowemu! Ty, weŸ no porozmawiaj z Lokim na Janowie na ten temat.</text>
+        <text>Myœlê, ¿e nasi ludzie bêd¹ pasowaæ. W Wolnoœci nie ma g³upich ludzi, a czego nie wiemy, pytamy w bunkrze. Jesteœmy gotowi z entuzjazmem pomagaæ postêpowi naukowemu! Ty, weŸ no porozmawiaj z Lokim na Janowie na ten temat.</text>
     </string>
     <string id="about_quests_dialog_freedom_72">
         <text>Chêtnie wspó³pracowalibyœmy z m¹drymi kolesiami, tylko oni maj¹ teraz zabezpieczenie w postaci Powinnoœci. A teraz spójrz na jajog³owych - uwa¿aj ¿e te celowe przygarniêcie pancerniaków bêdzie zdrowe. ¯e s¹ tam tylko przelotem... Nic dobrego z tego nie wyniknie.</text>
@@ -901,10 +901,10 @@
         <text>Czy znasz Wano ze stacji Janów? Uczciwy facet i œwietny stalker... tylko naiwny - koszmar! Oto ktoœ, zdecydowanie musi pójœæ, gdzie jest wiêcej anomalii i mniej ludzi. Strefa kocha go i chroni, ale tutaj zawsze jest drañ gotowy do oszustwa.</text>
     </string>
     <string id="about_quests_dialog_stalkers_54">
-        <text>Wiêc s³uchaj, cz³owieku. Mówi¹, ¿e na po³udnie od systemu obrony przeciwlotniczej, w pobli¿u wyschniêtego jeziora, zobaczyli grupê ludzi. I mówi¹ te¿, ¿e to nie s¹ zwykli stalkerzy z Swobody lub Powinnoœci, ale najbardziej monolityczni ludzie! Wiêc myœle. I powiem tak: jeœli potrzebujesz ludzi, aby poszli do Prypeci, lepiej nie znaleŸæ... Rany, cz³owieku! Naæpany jesteœ? ¯artujê! Chc¹c poradziæ sobie z tymi fanatykami to musisz byæ... no w³aœnie, kim?.</text>
+        <text>Wiêc s³uchaj, cz³owieku. Mówi¹, ¿e na po³udnie od systemu obrony przeciwlotniczej, w pobli¿u wyschniêtego jeziora, zobaczyli grupê ludzi. I mówi¹ te¿, ¿e to nie s¹ zwykli stalkerzy z Wolnoœci lub Powinnoœci, ale najbardziej monolityczni ludzie! Wiêc myœle. I powiem tak: jeœli potrzebujesz ludzi, aby poszli do Prypeci, lepiej nie znaleŸæ... Rany, cz³owieku! Naæpany jesteœ? ¯artujê! Chc¹c poradziæ sobie z tymi fanatykami to musisz byæ... no w³aœnie, kim?.</text>
     </string>
     <string id="about_quests_dialog_stalkers_55">
-        <text>Mo¿e s³ysza³eœ o Brodzie? Widzia³eœ jego kwaœn¹ minê? W ogóle to jest dowódca, prowadzi nowy oddzia³ Swobody. Œlepy zauwa¿y: z jakiegoœ powodu œwie¿bi go w Janowie, oj œwie¿bi... Powinieneœ spróbowaæ z nim porozmawiaæ. Zobacz, czy siê zgodzi.</text>
+        <text>Mo¿e s³ysza³eœ o Brodzie? Widzia³eœ jego kwaœn¹ minê? W ogóle to jest dowódca, prowadzi nowy oddzia³ Wolnoœci. Œlepy zauwa¿y: z jakiegoœ powodu œwie¿bi go w Janowie, oj œwie¿bi... Powinieneœ spróbowaæ z nim porozmawiaæ. Zobacz, czy siê zgodzi.</text>
     </string>
     <string id="about_quests_dialog_stalkers_56">
         <text>Mo¿e s³ysza³eœ o Brodzie - lidera nowego oddzia³u Powinnoœci? Widzia³eœ jego kwaœn¹ minê?  Œlepy zauwa¿y: z jakiegoœ powodu œwie¿bi go w Janowie, oj œwie¿bi... Powinieneœ spróbowaæ z nim porozmawiaæ. Zobacz, czy siê zgodzi.</text>

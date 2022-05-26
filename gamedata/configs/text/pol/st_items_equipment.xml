@@ -49,10 +49,10 @@
 		<text>Badacze przejawów Strefy, ma³o znanego klanu, zagubili siê gdzieœ na bagnach. Nikt nie wie na pewno, jaka jest ich liczba, czym siê zajmuj¹ i do jakich celów d¹¿¹. Ale ci rzadcy stalkerzy, którzy przybyli z bagien, mówi¹ o facetach w b³êkitnym kamufla¿u. Naszywki grupy musz¹ byæ trzymane w tajemnicy przed ich wojownikami, poniewa¿ mo¿e to prowadziæ do powa¿nych konfliktów. Jednak sprzedaj¹c odpowiednim kupcom, mo¿esz zyskaæ dobre pieni¹dze.</text>
 	</string>
 	<string id="st_freedom_fp">
-		<text>Naszywka Swobody</text>
+		<text>Naszywka Wolnoœci</text>
 	</string>
 	<string id="st_freedom_fp_descr">
-		<text>Anarchiœci i œmia³kowie, którzy og³osili siê bojownikami o wolnoœæ na terenie Strefy i dlatego s¹ w ci¹g³ym konflikcie z jednostkami wojskowymi, wojskowymi stalkerami i grup¹ Powinnoœci. Swobodziœci uwa¿aj¹, ¿e informacji o tym, co dzieje siê w Strefie, nie da siê ukryæ przed ludzkoœci¹, kwestionuj¹c tym samym monopol organizacji rz¹dowych na posiadanie lokalnych tajemnic i cudów. Naszywki grupy musz¹ byæ trzymane w tajemnicy przed ich wojownikami, poniewa¿ mo¿e to prowadziæ do powa¿nych konfliktów. Jednak sprzedaj¹c odpowiednim kupcom, mo¿esz uzyskaæ dobre pieni¹dze.</text>
+		<text>Anarchiœci i œmia³kowie, którzy og³osili siê bojownikami o wolnoœæ na terenie Strefy i dlatego s¹ w ci¹g³ym konflikcie z jednostkami wojskowymi, wojskowymi stalkerami i grup¹ Powinnoœci. Wolnoœciowcy uwa¿aj¹, ¿e informacji o tym, co dzieje siê w Strefie, nie da siê ukryæ przed ludzkoœci¹, kwestionuj¹c tym samym monopol organizacji rz¹dowych na posiadanie lokalnych tajemnic i cudów. Naszywki grupy musz¹ byæ trzymane w tajemnicy przed ich wojownikami, poniewa¿ mo¿e to prowadziæ do powa¿nych konfliktów. Jednak sprzedaj¹c odpowiednim kupcom, mo¿esz uzyskaæ dobre pieni¹dze.</text>
 	</string>
 	<string id="st_stalker_fp">
 		<text>Naszywka Stalkerów</text>
@@ -76,7 +76,7 @@
 		<text>Naszywka Powinnoœci</text>
 	</string>
 	<string id="st_dolg_fp_descr">
-		<text>WyraŸnie grupa paramilitarna, charakteryzuj¹ca siê œcis³¹ dyscyplin¹: jej cz³onkowie faktycznie ¿yj¹ zgodnie z statutem. Tylko przedstawiciele "Powinnoœci" nie handluj¹ unikalnymi tworami Strefy ze œwiatem zewnêtrznym: wed³ug plotek wszystkie artefakty znalezione przez tych ludzi s¹ przekazywane naukowcom. Ka¿dy bojownik uwa¿a za swój g³ówny cel ochronê œwiata przed wp³ywem Strefy. Wiêkszoœæ operacji ugrupowania jest zwi¹zana z eksterminacj¹ potworów, wiêc naloty s³u¿bowe czêsto ratuj¹ zwyk³ych stalkerów przed wieloma pal¹cymi problemami. Od d³u¿szego czasu i wœciekle toczy wojnê z grup¹ Swobody. Naszywki grupy musz¹ byæ trzymane w tajemnicy przed ich wojownikami, poniewa¿ mo¿e to prowadziæ do powa¿nych konfliktów. Jednak sprzedaj¹c odpowiednim kupcom, mo¿esz uzyskaæ dobre pieni¹dze.</text>
+		<text>WyraŸnie grupa paramilitarna, charakteryzuj¹ca siê œcis³¹ dyscyplin¹: jej cz³onkowie faktycznie ¿yj¹ zgodnie z statutem. Tylko przedstawiciele "Powinnoœci" nie handluj¹ unikalnymi tworami Strefy ze œwiatem zewnêtrznym: wed³ug plotek wszystkie artefakty znalezione przez tych ludzi s¹ przekazywane naukowcom. Ka¿dy bojownik uwa¿a za swój g³ówny cel ochronê œwiata przed wp³ywem Strefy. Wiêkszoœæ operacji ugrupowania jest zwi¹zana z eksterminacj¹ potworów, wiêc naloty s³u¿bowe czêsto ratuj¹ zwyk³ych stalkerów przed wieloma pal¹cymi problemami. Od d³u¿szego czasu i wœciekle toczy wojnê z grup¹ Wolnoœci. Naszywki grupy musz¹ byæ trzymane w tajemnicy przed ich wojownikami, poniewa¿ mo¿e to prowadziæ do powa¿nych konfliktów. Jednak sprzedaj¹c odpowiednim kupcom, mo¿esz uzyskaæ dobre pieni¹dze.</text>
 	</string>
 	<string id="st_monolith_fp">
 		<text>Naszywka Monolitu</text>

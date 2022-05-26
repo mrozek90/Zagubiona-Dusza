@@ -79,7 +79,7 @@
 		<text>Jeden z najlepszych œrodków ochrony osobistej. Sk³ada siê z trzech elementów - he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu. Kamizelka sk³ada siê z kilku grubych warstw kewlaru i mo¿e byæ wzmocniona p³ytami tytanowymi lub stalowymi. Nie wyposa¿ony w pojemnik na artefakty.</text>
 	</string>
 	<string id="svoboda_radiation_outfit_name">
-		<text>Kombinezon pancerny Promieñ Swobody</text>
+		<text>Kombinezon pancerny Promieñ Wolnoœci</text>
 	</string>
 	<string id="svoboda_radiation_outfit_description">
 		<text>Jeden z najlepszych œrodków ochrony osobistej. Sk³ada siê z trzech elementów - he³mu taktycznego, ciê¿kiej kamizelki pancernej i wzmocnionego kombinezonu. Kamizelka sk³ada siê z kilku grubych warstw kevlaru i mo¿e byæ wzmocniona p³ytami tytanowymi lub stalowymi. Wyposa¿ony we wbudowany pojemnik na artefakty.</text>
@@ -160,7 +160,7 @@
 		<text>Egzoszkielet Powinnoœæ</text>
 	</string>
 	<string id="fr_exo_outfit_name">
-		<text>Egzoszkielet Swoboda</text>
+		<text>Egzoszkielet Wolnoœæ</text>
 	</string>
 	<string id="ba_exo_outfit_name">
 		<text>Egzoszkielet Bandyta</text>
@@ -181,7 +181,7 @@
 		<text>Egzoszkielet przeprojektowany, aby pasowa³ do stylu grupy Bandytów. Nie ró¿ni siê tak bardzo od orygina³u, nie bior¹c pod uwagê charakterystycznej dla stylu grupy kolorystyki. Jednak niektóre czêœci zosta³y zast¹pione nowszymi, co wskazuje na czêœciow¹ poprawê niektórych cech.</text>
 	</string>
 	<string id="fr_exo_outfit_description">
-		<text>Egzoszkielet, przeprojektowany, by pasowa³ do stylu grupy Swobody. Nie ró¿ni siê tak bardzo od orygina³u, nie bior¹c pod uwagê charakterystycznej dla stylu grupy kolorystyki. Jednak niektóre czêœci zosta³y zast¹pione nowszymi, co wskazuje na czêœciow¹ poprawê niektórych cech.</text>
+		<text>Egzoszkielet, przeprojektowany, by pasowa³ do stylu grupy Wolnoœci. Nie ró¿ni siê tak bardzo od orygina³u, nie bior¹c pod uwagê charakterystycznej dla stylu grupy kolorystyki. Jednak niektóre czêœci zosta³y zast¹pione nowszymi, co wskazuje na czêœciow¹ poprawê niektórych cech.</text>
 	</string>
 	<string id="ki_exo_outfit_description">
 		<text>Egzoszkielet przeprojektowany, aby pasowa³ do stylu grupy Najemników. Nie ró¿ni siê tak bardzo od orygina³u, nie bior¹c pod uwagê charakterystycznej dla stylu grupy kolorystyki. Jednak niektóre czêœci zosta³y zast¹pione nowszymi, co wskazuje na czêœciow¹ poprawê niektórych cech.</text>
@@ -196,7 +196,7 @@
 		<text>Naukowy Kombinezon Powinnoœæ</text>
 	</string>
 	<string id="fr_scientific_outfit_name">
-		<text>Naukowy Kombinezon Swoboda</text>
+		<text>Naukowy Kombinezon Wolnoœæ</text>
 	</string>
 	<string id="ki_scientific_outfit_name">
 		<text>Naukowy Kombinezon Najemników</text>
@@ -208,7 +208,7 @@
 		<text>Zwyk³y kombinezon SEVA, przeprojektowany, aby pasowa³ do stylu grupy Powinnoœæ. Nieco poprawiona wydajnoœæ.</text>
 	</string>
 	<string id="fr_scientific_outfit_desc">
-		<text>Zwyk³y kombinezon SEVA, przeprojektowany, aby pasowa³ do stylu grupy Swobody. Nieco poprawiona wydajnoœæ.</text>
+		<text>Zwyk³y kombinezon SEVA, przeprojektowany, aby pasowa³ do stylu grupy Wolnoœci. Nieco poprawiona wydajnoœæ.</text>
 	</string>
 	<string id="ki_scientific_outfit_desc">
 		<text>Zwyk³y kombinezon SEVA, przeprojektowany, aby pasowa³ do stylu grupy Najemników. Nieco ulepszone funkcje.</text>
@@ -310,7 +310,7 @@
 		<text>Kombinezon Stra¿nik Wolnoœci</text>
 	</string>
 	<string id="svoboda_light_outfit_description">
-		<text>Niezwykle lekki kombinezon stalkera produkowany przez rzemieœlników grupy Swoboda. Do krawiectwa u¿ywano tkaniny poddanej obróbce kompozycj¹ Swobody, która znacznie podnosi w³aœciwoœci ochronne w warunkach nieprawid³owej aktywnoœci. Wyposa¿ony we wbudowan¹ kamizelkê kuloodporn¹ i pojemniki na artefakty.</text>
+		<text>Niezwykle lekki kombinezon stalkera produkowany przez rzemieœlników grupy Wolnoœci. Do krawiectwa u¿ywano tkaniny poddanej obróbce kompozycj¹ Wolnoœci, która znacznie podnosi w³aœciwoœci ochronne w warunkach nieprawid³owej aktywnoœci. Wyposa¿ony we wbudowan¹ kamizelkê kuloodporn¹ i pojemniki na artefakty.</text>
 	</string>
 	<string id="svoboda_light_outfit_name">
 		<text>Kombinezon Wiatr Wolnoœci</text>
@@ -352,7 +352,7 @@
 		<text>Kombinezon stalkera, produkowany przez rzemieœlników, to po³¹czenie dwuwarstwowej gumowanej tkaniny z podszewk¹ z pleksiglasu i wbudowanym kamizelk¹ kuloodporn¹. Pomimo tego, ¿e kamizelkê kuloodporn¹ przebija nawet pocisk pistoletowy, kombinezon jest bardzo powszechny ze wzglêdu na jego tanioœæ i szerokie mo¿liwoœci ulepszeñ. Wyposa¿ony we wbudowane pojemniki na artefakty.</text>
 	</string>
 	<string id="svoboda_heavy_outfit_description">
-		<text>Kombinezony stalkera ze wzmocnion¹ kamizelk¹ kuloodporn¹, produkowane przez rzemieœlników z grupy Swoboda, s¹ udanym po³¹czeniem walki i anomalnej ochrony. Wbudowana kamizelka kuloodporna wykonana z p³yt pancernych i kewlaru u³o¿onego w kilku warstwach jest w stanie zatrzymaæ pocisk pistoletowy. W celu ochrony przed wp³ywami anomalii materia³ kombinezonu jest impregnowany kompozycj¹ "Suweren". Wyposa¿ony w pojemnik na artefakty.</text>
+		<text>Kombinezony stalkera ze wzmocnion¹ kamizelk¹ kuloodporn¹, produkowane przez rzemieœlników z grupy Wolnoœæ, s¹ udanym po³¹czeniem walki i anomalnej ochrony. Wbudowana kamizelka kuloodporna wykonana z p³yt pancernych i kewlaru u³o¿onego w kilku warstwach jest w stanie zatrzymaæ pocisk pistoletowy. W celu ochrony przed wp³ywami anomalii materia³ kombinezonu jest impregnowany kompozycj¹ "Suweren". Wyposa¿ony w pojemnik na artefakty.</text>
 	</string>
 	<string id="dolg_heavy_outfit_description">
 		<text>Wczesny model kombinezonu Powinnoœci, to kuloodporna kamizelka si³ specjalnych z serii PS3-9, przystosowana do u¿ytku w Strefie. Potrafi chroniæ przed automatycznymi pociskami, ale jest bardzo nieporêczny i prawie nie zapewnia ochrony przed anomalnymi skutkami. Nie przewiduje siê instalacji pojemników na artefakty, ale istnieje mo¿liwoœæ zainstalowania ró¿nych systemów pomocniczych.</text>
