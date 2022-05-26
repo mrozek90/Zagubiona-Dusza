@@ -94,10 +94,10 @@
 	</string>
 
 	<string id="shkir_backstabber_situation_1">
-		<text>%c[50,255,50,50]Co siê sta³o...</text>
+		<text>Co siê sta³o...</text>
 	</string>
 	<string id="shkir_backstabber_situation_2">
-		<text>%c[50,255,50,50]Co tu siê sta³o? Czy to, co powiedzia³ Infernis, jest prawd¹? Czy to jest koniec...</text>
+		<text>Co tu siê sta³o? Czy to, co powiedzia³ Infernis, jest prawd¹? Czy to jest koniec...</text>
 	</string>
 	<string id="shkir_backstabber_situation_3">
 		<text>ZnajdŸ Sitha</text>
