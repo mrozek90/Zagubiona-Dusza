@@ -6,29 +6,29 @@ use_camp = false
 can_select_weapon = false
 
 [meet@agr_sith_2_meet]
-close_anim = nil 
-close_victim = nil 
-far_anim = nil 
-far_victim = nil 
-close_distance = 0 
-far_distance = 0 
-close_snd_distance = 3 
-abuse = false 
-use = {=actor_enemy} false, true 
-allow_break = false 
+close_anim = nil
+close_victim = nil
+far_anim = nil
+far_victim = nil
+close_distance = 0
+far_distance = 0
+close_snd_distance = 3
+abuse = false
+use = {=actor_enemy} false, true
+allow_break = false
 meet_on_talking = false
 
 [meet@agr_sith_2_meet_2]:meet@agr_sith_2_meet
 meet_dialog = sith_rescue_dialog 
 
 [walker@base]
-path_walk = sith_pris_walk 
-path_look = sith_pris_look 
+path_walk = sith_pris_walk
+path_look = sith_pris_look
 invulnerable = true
-combat_ignore_cond = true 
-combat_ignore_keep_when_attacked = true 
-gather_items_enabled = false 
-help_wounded_enabled = false 
+combat_ignore_cond = true
+combat_ignore_keep_when_attacked = true
+gather_items_enabled = false
+help_wounded_enabled = false
 corpse_detection_enabled = false
 on_info = {+agr_second_freak_squad_died} %=set_killer% remark@base
 
@@ -36,11 +36,11 @@ on_info = {+agr_second_freak_squad_died} %=set_killer% remark@base
 on_info = walker@base_2
 
 [walker@base_2]
-path_walk = sith_walk 
+path_walk = sith_walk
 path_look = sith_look
 invulnerable = true
-combat_ignore_cond = true 
-combat_ignore_keep_when_attacked = true 
-gather_items_enabled = false 
-help_wounded_enabled = false 
+combat_ignore_cond = true
+combat_ignore_keep_when_attacked = true
+gather_items_enabled = false
+help_wounded_enabled = false
 corpse_detection_enabled = false

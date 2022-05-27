@@ -108,7 +108,7 @@
 <actor_dialog>shkir_gg_first_dialog_end</actor_dialog>
 <actor_dialog>shkir_vint_stalkers_dialog</actor_dialog>
 <actor_dialog>actor_break_dialog</actor_dialog>
-		
+
   </specific_character>
 
 	<specific_character id="agr_topor" team_default="1">
@@ -223,7 +223,7 @@
     <visual>actors\stalker_merc\stalker_merc_cam</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_vintorez = 1 \n
       ammo_9x39_ap = 1 \n
       wpn_usp = 1 \n
@@ -257,7 +257,7 @@
     <visual>actors\stalker_merc\stalker_merc_cam</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_vintorez = 1 \n
       ammo_9x39_ap = 1 \n
       wpn_usp = 1 \n
@@ -291,7 +291,7 @@
     <visual>actors\stalker_merc\stalker_merc_cam</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_vintorez = 1 \n
       ammo_9x39_ap = 1 \n
       wpn_usp = 1 \n
@@ -307,8 +307,8 @@
 #include "gameplay\character_criticals_4.xml"
 #include "gameplay\character_dialogs.xml"
   </specific_character>
-  
-  
+
+
 
   <specific_character id="agr_base_barman" team_default = "1">
     <name>agr_base_barman</name>
@@ -462,7 +462,7 @@
 		<actor_dialog>krilow_first_dialog</actor_dialog>
 		<actor_dialog>krilow_first_dialog_end</actor_dialog>
 		<actor_dialog>krilow_first_dialog_end_end</actor_dialog>
-		
+
   </specific_character>
 
 
@@ -549,7 +549,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_2_mask</visual>
     <supplies>
       [spawn] \n
-      
+
  	  wpn_lr300 \n
       ammo_5.56x45_ap = 1 \n
       wpn_beretta  \n
@@ -581,7 +581,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_2_mask</visual>
     <supplies>
       [spawn] \n
-      
+
  	  wpn_lr300 \n
       ammo_5.56x45_ap = 1 \n
       wpn_beretta  \n
@@ -613,7 +613,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_2_mask</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_rpg7 \n
       ammo_og-7b  = 10 \n
       wpn_hpsa \n
@@ -649,7 +649,7 @@
       [spawn] \n
 
       wpn_wincheaster1300 \n
-      ammo_12x70_buck = 1 \n      
+      ammo_12x70_buck = 1 \n
       wpn_beretta \n
       ammo_9x19_fmj = 1 \n
       grenade_rgd5 = 2 \n
@@ -746,7 +746,7 @@
     <visual>actors\stalker_order\stalker_order_2</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_sig550 \n
       ammo_5.56x45_ap = 1 \n
       wpn_hpsa \n
@@ -775,7 +775,7 @@
     <visual>actors\stalker_order\stalker_order_2</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_groza \n
       ammo_9x39_ap = 1 \n
       wpn_desert_eagle \n
@@ -804,7 +804,7 @@
 		<visual>actors\stalker_order\stalker_order</visual>
 		<supplies>
       [spawn] \n
-	  
+
       wpn_g36 \n
       ammo_5.56x45_ap = 1 \n
       wpn_beretta = 1 \n
@@ -887,7 +887,7 @@
     </supplies>
 #include "gameplay\character_criticals_4.xml"
 
-		<start_dialog>sith_resñue_dialog</start_dialog>
+		<start_dialog>sith_rescue_dialog</start_dialog>
 
   </specific_character>
 
@@ -951,7 +951,7 @@
       [spawn] \n
 
       wpn_wincheaster1300 \n
-      ammo_12x70_buck = 1 \n      
+      ammo_12x70_buck = 1 \n
       wpn_beretta \n
       ammo_9x19_fmj = 1 \n
       grenade_rgd5 = 2 \n
@@ -1015,7 +1015,7 @@
     <visual>actors\stalker_soldier\stalker_soldier_5</visual>
     <supplies>
       [spawn] \n
-	  
+
       wpn_fn2000 \n
       ammo_5.56x45_ap = 1 \n
       wpn_beretta \n
@@ -1029,7 +1029,7 @@
 #include "gameplay\character_criticals_4.xml"
 #include "gameplay\character_dialogs.xml"
   </specific_character>
-  
+
   <specific_character id="khan" team_default = "1">
     <name>khan</name>
     <icon>ui_inGame2_Soldier_4</icon>
@@ -1046,7 +1046,7 @@
     <visual>actors\stalker_soldier\stalker_soldier_4</visual>
     <supplies>
       [spawn] \n
-	  
+
       wpn_ak74 \n
       ammo_5.56x45_ap = 1 \n
       wpn_desert_eagle \n
@@ -1060,8 +1060,8 @@
 #include "gameplay\character_criticals_4.xml"
 #include "gameplay\character_dialogs.xml"
   </specific_character>
-  
-  
+
+
   <specific_character id="vedun" team_default = "1">
     <name>vedun</name>
     <icon>ui_inGame2_neutral_nauchniy</icon>
@@ -1079,7 +1079,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_nauchniy</visual>
     <supplies>
       [spawn] \n
-      
+
       wpn_val \n
       ammo_9x39_ap = 1 \n
 	  wpn_walther = 1, silencer \n
@@ -1115,7 +1115,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_4</visual>
     <supplies>
       [spawn] \n
- 	  
+
       wpn_val \n
       ammo_9x39_ap = 1 \n
       wpn_sig220 = 1 \n
@@ -1149,13 +1149,13 @@
     <visual>actors\stalker_neutral\stalker_neutral_nauchniy</visual>
     <supplies>
       [spawn] \n
-	  
+
       wpn_g36 \n
       ammo_5.56x45_ap = 1 \n
-	  
+
       wpn_sig220 = 1 \n
       ammo_9x19_fmj = 1 \n
-	  
+
       grenade_rgd5 = 1 \n
 #include "gameplay\character_items.xml"
 #include "gameplay\character_food.xml"
@@ -1185,7 +1185,7 @@
     <supplies>
       [spawn] \n
       wpn_fort = 1 \n
-      
+
       wpn_ak74 \n
       ammo_5.45x39_fmj = 1 \n
       ammo_9x18_fmj = 1 \n
@@ -1218,7 +1218,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_2_mask</visual>
     <supplies>
       [spawn] \n
-      
+
  	  wpn_ak74u  \n
       ammo_5.45x39_fmj = 1 \n
       wpn_pm \n
@@ -1251,7 +1251,7 @@
     <visual>actors\stalker_neutral\stalker_neutral_2</visual>
     <supplies>
       [spawn] \n
-      
+
  	  wpn_ak74u = 1 \n
       ammo_5.45x39_fmj = 1 \n
       wpn_hpsa = 1 \n
@@ -1286,7 +1286,7 @@
     <visual>actors\stalker_nebo\stalker_nebo_2</visual>
     <supplies>
       [spawn] \n
-      
+
  	  wpn_ak74u  \n
       ammo_5.45x39_fmj = 1 \n
       wpn_pm \n
@@ -1300,7 +1300,7 @@
 #include "gameplay\character_criticals_4.xml"
 
 		<start_dialog>vitaliy_start_dialog</start_dialog>
-		
+
   </specific_character>
 
   <specific_character id="nikita_halikov" team_default = "1">
@@ -1320,7 +1320,7 @@
     <visual>actors\stalker_ucheniy\stalker_ucheniy_exo_2</visual>
     <supplies>
       [spawn] \n
- 	  
+
       wpn_rg-6 \n
       ammo_vog-25 = 1 \n
       grenade_f1 = 5 \n
