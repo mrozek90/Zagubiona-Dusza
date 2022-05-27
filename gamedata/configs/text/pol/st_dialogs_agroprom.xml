@@ -58,7 +58,7 @@
         <text>W porz¹dku..</text>
     </string>
     <string id="agr_mayor_z_good_dialog_0">
-        <text>Major, idziesz z nami?</text>
+        <text>Majorze, idziesz z nami?</text>
     </string>
     <string id="agr_mayor_z_good_dialog_1">
         <text>Hmm... Karaœ potrzebuje pomocy?</text>
@@ -67,7 +67,7 @@
         <text>Dok³adnie.</text>
     </string>
     <string id="agr_mayor_z_good_dialog_3">
-        <text>Dobra... Nie podoba mi siê ten pomys³, ale skoro wszyscy id¹, ja te¿ pójdê z Tob¹.</text>
+        <text>Dobra... Nie podoba mi siê ten pomys³, ale skoro wszyscy id¹ to ja te¿ pójdê z Tob¹.</text>
     </string>
     <string id="agr_mayor_z_good_dialog_4">
         <text>Piêknie!</text>
@@ -85,13 +85,13 @@
         <text>Oczywiœcie, Najemniku. Stalkerzy staraj¹ siê pomóc swoim przyjacio³om. Jesteœ dobry w byciu przywódc¹.</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_4">
-        <text>Dziêkujê... Tak wiêc Orest pójdzie do wspó³rzêdnych nr 1, Inkwizytor - do wspó³rzêdnych nr 2, Wint - do wspó³rzêdnych nr 3, Zwiagincew - do wspó³rzêdnych nr 4, Smirnow - do wspó³rzêdnych nr 5. Wspó³rzêdna numer 6 jest moja. Ju¿ rzuci³em je na wasze PDA. Jeœli ktoœ znajdzie coœ interesuj¹cego, wyœlij wszystkim innym cynk, by nie szukali dalej. W ka¿dym razie wyœlê Ci sygna³ z wiadomoœci¹ - coœ znalaz³em, czy nie. Jeœli po dwóch godzinach nie otrzymasz mojej wiadomoœci, uznaj, ¿e nie ¿yjê. To wszystko, naprzód!</text>
+        <text>Dziêkujê... Tak wiêc Orest pójdzie do wspó³rzêdnych nr 1, Inkwizytor - do wspó³rzêdnych nr 2, Wint - do wspó³rzêdnych nr 3, Zwiagincew - do wspó³rzêdnych nr 4, Smirnow - do wspó³rzêdnych nr 5. Wspó³rzêdna numer 6 jest moja. Ju¿ rzuci³em je na wasze PDA. Jeœli ktoœ znajdzie coœ interesuj¹cego, niech wyœle innym cynk, by nie szukali dalej. W ka¿dym razie wyœlê sygna³ z wiadomoœci¹ - coœ znalaz³em, czy nie. Jeœli po dwóch godzinach nie otrzymacie mojej wiadomoœci, uznajcie, ¿e nie ¿yjê. To wszystko, naprzód!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_0">
         <text>Cholera, ch³opaki. Trzymaj¹ tam Sitha! Nie ma czasu do stracenia!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_1">
-        <text>Obmówmy plan na prêdce</text>
+        <text>Obmówmy plan na prêdce.</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_2">
         <text>Jest nas szeœciu, ich - trzech. Wszystko jest oczywiste.</text>
@@ -142,7 +142,7 @@
         <text>Hmm.. Muszê siê zastanowiæ, kto bêdzie pilnowaæ t¹ bazê...</text>
     </string>
     <string id="agr_orest_good_dialog_4">
-        <text>[Cisza]</text>
+        <text>[Milcz]</text>
     </string>
     <string id="agr_orest_good_dialog_5">
         <text>Potrafi¹ jednak o siebie zadbaæ. A Ty przecie¿ zrobi³eœ du¿o dla mnie i samotników w ogóle. Po prostu nie mogê Ci odmówiæ.</text>
@@ -178,7 +178,7 @@
         <text>Dosta³em Twojego SMS.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_1">
-        <text>Jesteœmy starymi pomocnikami Szkira. Mam nadziejê, ¿e nie zabrak³o Ci pamiêci... Zapomnia³eœ, kto to jest?</text>
+        <text>Jesteœmy starymi pomocnikami Szkira. Mam nadziejê, ¿e nie zabrak³o Ci pamiêci... Pamiêtasz, kto to jest?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_2">
         <text>Co?..</text>
@@ -214,7 +214,7 @@
         <text>Nie bardzo. Powiedz, czego potrzebujesz?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_5">
-        <text>Nie lubisz pustej paplaniny? Dobra, ale najpierw zabierz swoje psy na 20 metrów, to jest osobisty bazar.</text>
+        <text>Nie lubisz pustej paplaniny? Dobra, ale najpierw zabierz swoje psy na 20 metrów, to jest osobisty interes.</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_6">
         <text>No dobrze, ale niech Twoi faceci te¿ odejd¹.</text>
@@ -271,7 +271,7 @@
         <text>Wint, wydaje mi siê, ¿e Sith zosta³ wziêty do niewoli. Zbieram oddzia³, ¿eby go uwolniæ. Idziesz ze mn¹?</text>
     </string>
     <string id="agr_vint_good_dialog_1">
-        <text>Tak, nie ma ze mnie wiêcej po¿ytku ni¿ ze strzelca.</text>
+        <text>Mhm... Nie ma ze mnie ¿adnego po¿ytku...</text>
     </string>
     <string id="agr_vint_good_dialog_2">
         <text>Czy Szkir Ci to powiedzia³?</text>
@@ -328,7 +328,7 @@
         <text>Nie, to wszystko. Dziêki za odpowiedzi, ju¿ idê.</text>
     </string>
     <string id="infernis_return_dialog_9">
-        <text>Powodzenia mœcicielu</text>
+        <text>Powodzenia mœcicielu.</text>
     </string>
     <string id="inquisitor_quest_dialog_0">
         <text>Fajna zbrojka. Sk¹d to masz?</text>
@@ -783,41 +783,41 @@
     <string id="sith_genesis_dialog_8">
         <text>Znalaz³em notatkê... Czekaj, zgadza siê! W podziemiach znalaz³em stalkera, który dok³adnie widzia³ ca³¹ zasadzkê. Widzia³, dok¹d poszed³ po tym Szkir. Zaraz wracam.</text>
     </string>
-    <string id="sith_rescue_dialog_0">
+    <string id="sith_res?ue_dialog_0">
         <text>Dziêkujê bracie, po raz kolejny uratowa³eœ mi ¿ycie.</text>
     </string>
-    <string id="sith_rescue_dialog_1">
+    <string id="sith_res?ue_dialog_1">
         <text>To by³a nie tylko moja zas³uga. To dziêki tym facetom i jeszcze jedna osoba... Gdyby nie on, nie wiedzia³ bym, ¿e jesteœ tutaj przetrzymywany.</text>
     </string>
-    <string id="sith_rescue_dialog_2">
+    <string id="sith_res?ue_dialog_2">
         <text>Czy mogê poznaæ tê osobê?</text>
     </string>
-    <string id="sith_rescue_dialog_3">
+    <string id="sith_res?ue_dialog_3">
         <text>Byæ mo¿e.</text>
     </string>
-    <string id="sith_rescue_dialog_4">
+    <string id="sith_res?ue_dialog_4">
         <text>Dobra, zajmiemy siê tym póŸniej. Dowiedzia³eœ siê czegoœ o Szkirze?</text>
     </string>
-    <string id="sith_rescue_dialog_5">
+    <string id="sith_res?ue_dialog_5">
         <text>Tak. Te stworzenia, które wziê³y Ciê do niewoli, s¹ czymœ w rodzaju jego roboli. By³o ich kilku i najprawdopodobniej gdzieœ jeszcze s¹. Dowiedzia³em siê równie¿, ¿e Szkir prawdopodobnie uda³ siê w kierunku magazynów wojskowych, a stamt¹d - do Czerwonego Lasu.</text>
     </string>
-    <string id="sith_rescue_dialog_6">
+    <string id="sith_res?ue_dialog_6">
         <text>Jasne. Wiêc mamy gdzie zacz¹æ szukaæ?</text>
     </string>
-    <string id="sith_rescue_dialog_7">
+    <string id="sith_res?ue_dialog_7">
         <text>Zgadza siê.</text>
     </string>
-    <string id="sith_rescue_dialog_8">
+    <string id="sith_res?ue_dialog_8">
         <text>To w porz¹dku. Ale myœlê, ¿e teraz jest czas na odpoczynek.</text>
     </string>
-    <string id="sith_rescue_dialog_9">
+    <string id="sith_res?ue_dialog_9">
         <text>Tak...</text>
     </string>
     <string id="smirnow_good_dialog_0">
         <text>Jak siê tu dosta³eœ?</text>
     </string>
     <string id="smirnow_good_dialog_1">
-        <text>Kiedy wyszed³eœ, uciek³em stamt¹d, bo by³em pewien, ¿e ktoœ inny bêdzie siedzia³ w domu po Leœniku. Pomyœla³em, ¿e baza Samotników na Agropromie bêdzie bezpiecznym miejscem do odpoczynku..</text>
+        <text>Kiedy poszed³eœ, uciek³em stamt¹d, bo by³em pewien, ¿e ktoœ inny najedzie dom Leœnika. Pomyœla³em, ¿e baza Samotników na Agropromie bêdzie bezpiecznym miejscem do odpoczynku.</text>
     </string>
     <string id="smirnow_good_dialog_2">
         <text>Rozumiem.</text>
@@ -826,7 +826,7 @@
         <text>Dobrze, ¿e pozwolili mi ¿yæ. Po co tu wszyscy jesteœcie, polowanie?</text>
     </string>
     <string id="smirnow_good_dialog_4">
-        <text>Wygl¹da na to, ¿e mój partner jest przetrzymywany w niewoli. Zebra³em oddzia³, z którym chcê go uwolniæ. Idziesz ze mn¹?</text>
+        <text>Mój partner jest przetrzymywany w niewoli. Zebra³em oddzia³, z którym chcê go uwolniæ. Idziesz ze mn¹?</text>
     </string>
     <string id="smirnow_good_dialog_5">
         <text>Pójdê. Zd¹¿ê jeszcze odpocz¹æ.</text>

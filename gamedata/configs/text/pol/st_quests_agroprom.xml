@@ -84,7 +84,7 @@
 		<text>Szukanie informacji: Porozmawiaj ze Szkirem</text>
 	</string>
 	<string id="shkir_prelast_dialog_2">
-		<text>Szkir jak zwykle zaszy³ siê. Sam chodzê na zlecenia, aby uzyskaæ informacje. Wydaje mi siê, ¿e to ja jestem liderem dru¿yny, a nie Szkir. Jednak patrz¹c na jego zachowanie, przywódca mo¿e siê wkrótce zmieniæ.</text>
+		<text>Szkir jak zwykle zaszy³ siê. Sam chodzê na zlecenia, aby uzyskaæ informacje. Wydaje mi siê, ¿e to ja jestem liderem oddzia³u, a nie Szkir. Jednak patrz¹c na jego zachowanie, przywódca mo¿e siê wkrótce zmieniæ.</text>
 	</string>
 	<string id="shkir_prelast_dialog_3">
 		<text>Szukanie informacji: ZejdŸ do podziemia Agropromu</text>
@@ -216,7 +216,7 @@
 		<text>Kwestia ¿ycia: Porozmawiaj z oddzia³em o wspó³rzêdnych</text>
 	</string>
 	<string id="agr_freak_first_end_3">
-		<text>Wiêc to s¹ poplecznicy Szkira? Nie mam pojêcia, jak mogli po³o¿yæ ca³¹ bazê. A w PDA - wspó³rzêdne... Porozmawiam z oddzia³em.</text>
+		<text>Wiêc to s¹ poplecznicy Szkira? Nie mam pojêcia, jak mogli po³o¿yæ ca³¹ bazê. A w PDA - wspó³rzêdne... Porozmawiam z ch³opakami.</text>
 	</string>
 	<string id="agr_coordinate_6_find_1">
 		<text>Kwestia ¿ycia: Wyszukaj miejsce o wspó³rzêdnych #6</text>
@@ -225,7 +225,7 @@
 		<text>Wspó³rzêdne prowadz¹ do podziemi Agropromu. Ciekawe...</text>
 	</string>
 	<string id="agr_freak_second_end_1">
-		<text>Kwestia ¿ycia: Poinformuj dru¿ynê o przybli¿onej lokalizacji Sitha</text>
+		<text>Kwestia ¿ycia: Poinformuj oddzia³ o przybli¿onej lokalizacji Sitha</text>
 	</string>
 	<string id="agr_freak_second_end_2">
 		<text>Sitha zawlekli w stronê Jantaru? Muszê siê spieszyæ!</text>

@@ -97,10 +97,10 @@
 		<text>Notatka Strie³oka</text>
 	</string>
 	<string id="strelok_note_desc">
-		<text>Notatka na odwrocie starego dokumentu: \n„Doktorze, powiedz Zjawie i innym, ¿e jadê do Czarnobyla. Jeœli nie mo¿esz zaj¹æ siê skrytk¹, poproœ jakiegoœ m¹drego faceta. Ufam ka¿demu, komu ufasz. S".</text>
+		<text>Notatka na odwrocie starego dokumentu: \n„Doktorze, powiedz Zjawie i innym, ¿e idê do Czarnobyla. Jeœli nie mo¿esz zaj¹æ siê skrytk¹, poproœ jakiegoœ m¹drego faceta. Ufam ka¿demu, komu ufasz. S".</text>
 	</string>
 	<string id="heck_pda_info">
-		<text>PDA Charta</text>
+		<text>PDA Czarta</text>
 	</string>
 	<string id="heck_pda_desc">
 		<text>PDA zawiera wiele ciekawych informacji, ale najwa¿niejszy jest ostatni wpis: \n"Mirotworec powiedzia³ nam, ¿e jeden z niewiernych idzie w³aœnie w to miejsce. Dobrze, ¿e mojemu bratu uda³o siê wst¹piæ w szeregi Powinnoœci. Teraz najwa¿niejsze jest przygotowanie siê, gotowoœæ do ataku. Pob³ogos³aw mnie, Œwiêty Monolicie!”.</text>
@@ -241,7 +241,7 @@
 		<text>PDK Morgana</text>
 	</string>
 	<string id="st_jup_b10_notes_01_desc">
-		<text>Notatka na odwrocie starego dokumentu: Zjawo, biorê swoje rzeczy. Specjalne podziêkowania za automat - bez niego jestem jak bez r¹k. W zamian zostawiam od Doktora komplet leków. Uda³o mi siê uwiêziæ najemnika na swoim tropie, wiêc nie bêdê ich potrzebowaæ... miejmy nadziejê. Teraz jadê na spotkanie z Fangiem: uda³o mu siê z³o¿yæ dekoder. Jeœli masz czas, spotkamy siê w zwyk³ym miejscu. Strie³ok".</text>
+		<text>Notatka na odwrocie starego dokumentu: Zjawo, biorê swoje rzeczy. Specjalne podziêkowania za automat - bez niego jestem jak bez r¹k. W zamian zostawiam od Doktora komplet leków. Uda³o mi siê uwiêziæ najemnika na swoim tropie, wiêc nie bêdê ich potrzebowaæ... miejmy nadziejê. Teraz idê na spotkanie z Fangiem: uda³o mu siê z³o¿yæ dekoder. Jeœli masz czas, spotkamy siê w zwyk³ym miejscu. Strie³ok".</text>
 	</string>
 	<string id="st_jup_b10_notes_01_name">
 		<text>Notatka Zjawy</text>
