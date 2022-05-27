@@ -265,7 +265,7 @@
 		<text>Autozapis...</text>
 	</string>
 	<string id="st_can_use_weapon_now">
-		<text>Teraz mo¿esz zdobyæ broñ.</text>
+		<text>Teraz mo¿esz wyci¹gn¹æ broñ.</text>
 	</string>
 	<string id="st_codelock">
 		<text>Zamek szyfrowy ($$ACTION_USE$$)</text>

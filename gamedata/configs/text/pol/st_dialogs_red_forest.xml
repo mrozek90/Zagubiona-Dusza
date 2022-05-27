@@ -676,7 +676,7 @@
       <text>Szkir to zrobi³... Nie mogê w to uwierzyæ! Monstrum, co za stworzenie!</text>
   </string>
   <string id="sith_return_gamma_dialog_10">
-      <text>Nie, to za d³ugo. Poradzê sobie, sam powiedzia³eœ, ¿e musimy kupiæ czas.</text>
+      <text>Nie, to za d³ugo. Poradzê sobie, sam powiedzia³eœ, ¿e musimy kupiæ sobie czas.</text>
   </string>
   <string id="sith_return_gamma_dialog_11">
       <text>Przygotuj siê, Sith.</text>
@@ -706,10 +706,10 @@
       <text>Tak?</text>
   </string>
   <string id="sith_return_gamma_dialog_2">
-      <text>Przewiduj¹c.. Istniej¹ dwie hipotetyczne opcje, dok¹d móg³by siê udaæ. Nie... s¹ trzy opcje.</text>
+      <text>Przewiduj¹c... Istniej¹ dwie hipotetyczne opcje dok¹d móg³by siê udaæ. Nie... s¹ trzy opcje.</text>
   </string>
   <string id="sith_return_gamma_dialog_20">
-      <text>Most zosta³ podniesiony i tylko Topor i Szkir mieli konsole. Z ty³u jest te¿ prze³¹cznik, ale trzeba siê do niego dostaæ.</text>
+      <text>Most zosta³ podniesiony a tylko Topor i Szkir mieli konsole. Z ty³u jest te¿ prze³¹cznik, ale trzeba siê do niego dostaæ.</text>
   </string>
   <string id="sith_return_gamma_dialog_21">
       <text>Czy Topór by³ z Tob¹, kiedy by³em w podziemiach?</text>
@@ -730,7 +730,7 @@
       <text>Rozumiem, ¿e coœ posz³o nie tak?</text>
   </string>
   <string id="sith_return_gamma_dialog_2_1">
-      <text>Wygl¹da na to, ¿e siê zaci¹³. Prawdopodobnie Szkir próbowa³ uniemo¿liwiæ nam dotarcie do Limañska. A mo¿e celowo tak to zaaran¿owa³, ¿e myœleliœmy, ¿e pojedzie do Limañska - a ukryje siê w zupe³nie innym kierunku.</text>
+      <text>Wygl¹da na to, ¿e siê zaci¹³. Prawdopodobnie Szkir próbowa³ uniemo¿liwiæ nam dotarcie do Limañska. A mo¿e celowo tak to zaaran¿owa³, ¿e myœleliœmy, ¿e pójdzie do Limañska - a ukryje siê w zupe³nie innym kierunku.</text>
   </string>
   <string id="sith_return_gamma_dialog_2_2">
       <text>To rozdzielamy siê czy nie?</text>
@@ -745,7 +745,7 @@
       <text>Limañsk i magazyny?</text>
   </string>
   <string id="sith_return_gamma_dialog_4">
-      <text>Tak. I opuszczona kopalnia, w której "Powinnoœæ" Ciê Porwali.. Mam pomys³, jak to zrobiæ. Ale chêtnie Ciê wys³ucham, jeœli masz jakiœ plan.</text>
+      <text>Tak. I opuszczona kopalnia, w której "Powinnoœæ" Ciê porwa³a... Mam pomys³, jak to zrobiæ. Ale chêtnie Ciê wys³ucham, jeœli masz jakiœ plan.</text>
   </string>
   <string id="sith_return_gamma_dialog_5">
       <text>Mam jeden pomys³. Ale chêtnie Ciê wys³ucham, jeœli masz jakiœ plan.</text>
@@ -754,10 +754,10 @@
       <text>Powiedz, mi skoñczy³y siê pomys³y.</text>
   </string>
   <string id="sith_return_gamma_dialog_7">
-      <text>Ja lepiej znam drogê do Limañska, wiêc pojadê w tym kierunku i sprawdzê szpital, a Ty zajmiesz siê kopalni¹ i magazynami.</text>
+      <text>Ja lepiej znam drogê do Limañska, wiêc pojadê w tym kierunku i sprawdzê Szpital, a Ty zajmiesz siê kopalni¹ i magazynami.</text>
   </string>
   <string id="sith_return_gamma_dialog_8">
-      <text>Mogê iœæ w do kopalni, a jeœli nikogo tam nie znajdê, przejdê siê do magazynów. Pojedziesz do Limañska i do szpitala. Szkir nie móg³ posun¹æ siê dalej ni¿ do szpitala. Pewnie wybiera siê za Ocala³ym.</text>
+      <text>Mogê iœæ do kopalni, a jeœli nikogo tam nie znajdê, przejdê siê do magazynów. Pojedziesz do Limañska i do Szpitala. Szkir nie móg³ posun¹æ siê dalej ni¿ do Szpitala. Pewnie wybiera siê za Ocala³ym.</text>
   </string>
   <string id="sith_return_gamma_dialog_9">
       <text>Bêdziesz potrzebowaæ pomocy w kopalni, a co jeœli to kolejna zasadzka?</text>

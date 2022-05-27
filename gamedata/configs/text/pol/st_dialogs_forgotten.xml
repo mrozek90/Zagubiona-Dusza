@@ -448,7 +448,7 @@
         <text>Profesor wyznaczy³ mi zadanie poszukiwania artefaktów. A miejsca, w których znajduj¹ siê artefakty, s¹ pe³ne mutantów i zombie. Nie jestem pewien, czy dam radê sam.</text>
     </string>
     <string id="for_infernis_fch_dialog_3">
-        <text>Zadanie. Zadanie jest dobre. Pamiêtam, kiedy otrzyma³em swój pierwszy kontrakt... Huh? Wiêc o czym mówimy? Ach, zombie! Dobra, pomogê. Mo¿emy przemarszowaæ a w razie czego bêdziemy siê kryæ na wzajem. Kryæ siê... haha Tak?</text>
+        <text>Zadanie. Zadanie jest dobre. Pamiêtam, kiedy otrzyma³em swój pierwszy kontrakt... Huh? Wiêc o czym mówimy? Ach, zombie! Dobra, pomogê. Mo¿emy przemarszowaæ a w razie czego bêdziemy siê kryæ na wzajem. Przykryæ siê... haha Tak?</text>
     </string>
     <string id="for_infernis_fch_dialog_4">
         <text>Co z Tob¹?</text>
@@ -598,7 +598,7 @@
         <text>Rozumiem.</text>
     </string>
     <string id="for_infernis_info_dialog_11">
-        <text>Wiesz, ma szczêœcie, ¿e znalaz³ mnie i Anakondê. Przez kilka miesiêcy pobytu tutaj bardzo mu pomog³em. Ustawi³em przynajmniej te pieprzone skanery, które wykrywaj¹ obecnoœæ artefaktów w anomalnych polach, a teraz nie musi wysy³aæ innych na pewn¹ œmieræ, aby znaleŸæ artefakty, które mog¹ nie znajdowaæ siê w tych anomalnych strefach. Teraz widzi tam wszystko.\nZadaniem Anakondy jest znalezienie kamizelek kuloodpornych w stanie nadaj¹cym siê do naprawy, naprawienie tych kamizelek i sprzedanie ich profesorowi. Za to dostaje lepsze pieni¹dze, ni¿ móg³ otrzymaæ w Zonie.</text>
+        <text>Wiesz, ma szczêœcie, ¿e znalaz³ mnie i Anakondê. Przez kilka miesiêcy pobytu tutaj bardzo mu pomogliœmy. Ja - ustawi³em te cholerne skanery, które wykrywaj¹ obecnoœæ artefaktów w anomalnych polach. Teraz nie musi wysy³aæ innych na pewn¹ œmieræ, aby znaleŸæ artefakty w tych anomalnych strefach. Teraz widzi tam wszystko.\nZadaniem Anakondy jest znalezienie kamizelek kuloodpornych w stanie nadaj¹cym siê do naprawy, naprawienie tych kamizelek i sprzedanie ich profesorowi. Za to dostaje lepsze pieni¹dze, ni¿ móg³ otrzymaæ w Zonie.</text>
     </string>
     <string id="for_infernis_info_dialog_12">
         <text>Znaczy, ¿e mo¿e te¿ naprawiæ moj¹?</text>
@@ -616,7 +616,7 @@
         <text>A jednak nie wyjaœni³eœ, dlaczego jesteœ z naukowcami.</text>
     </string>
     <string id="for_infernis_info_dialog_5">
-        <text>Wszystko jest bardzo proste – Jekyll nie jest zainteresowany wspó³prac¹ z w³adzami i innymi naukowcami pracuj¹cymi dla w³adz. Uwa¿a, ¿e jeœli dane, które wykopywa³ przez lata, wpadn¹ w niepowo³ane rêce, to Zona dobiegnie koñca. Podobnie jak Wolnoœæ wierzy, ¿e Strefa powinna byæ otwarta dla innych, powinna byæ badana, a nie niszczona lub w jakiœ sposób zatrzymywana. Podoba³o mi siê, jak bawi³ siê tymi artefaktami, wiêc postanowi³em mu pomóc. Niemniej bêdzie to bardziej przydatne ni¿ bezu¿yteczne wojny z Powinnoœci¹, najemnikami, wyrodkami lub kimœ innym.</text>
+        <text>Wszystko jest bardzo proste – Jekyll nie jest zainteresowany wspó³prac¹ z w³adzami i innymi naukowcami pracuj¹cymi dla w³adz. Uwa¿a, ¿e jeœli dane, które wykopywa³ przez lata, wpadn¹ w niepowo³ane rêce, to Zona dobiegnie koñca. Podobnie jak Wolnoœæ wierzy, ¿e Strefa powinna byæ otwarta dla innych, powinna byæ badana, a nie niszczona lub w jakiœ sposób zatrzymywana. Podoba³o mi siê, jak bawi³ siê tymi artefaktami, wiêc postanowi³em mu pomóc. Niemniej bêdzie to bardziej przydatne ni¿ bezu¿yteczne wojny z Powinnoœci¹, najemnikami, renegatami lub kimœ innym.</text>
     </string>
     <string id="for_infernis_info_dialog_6">
         <text>A jak zareagowali na to pozostali Wolnoœciowcy?</text>
@@ -628,7 +628,7 @@
         <text>Sk¹d profesor w ogóle wiedzia³ o tym miejscu?</text>
     </string>
     <string id="for_infernis_info_dialog_9">
-        <text>Tu pracowa³ jego zmar³y krewny. Podobnie jak sam profesor, mia³ obsesjê na punkcie badania zjawisk paranormalnych. NajwyraŸniej geny to przekaza³y.</text>
+        <text>Tu pracowa³ jego zmar³y krewny. Podobnie jak sam profesor, mia³ obsesjê na punkcie badania zjawisk paranormalnych. NajwyraŸniej jest to u nich rodzinne.</text>
     </string>
     <string id="for_infernis_profkil_dialog_0">
         <text>S³ysza³eœ o sytuacji z Kilorikiem i profesorem?</text>
@@ -1243,7 +1243,7 @@
         <text>Nie myœla³em o tym, profesorze..</text>
     </string>
     <string id="for_professor_first_dialog_11">
-        <text>Uwa¿am, ¿e ¿adnych potrzebnych informacji nie nale¿y przekazywaæ za darmo. Dlatego nie masz innego wyjœcia, jak tylko zaakceptowaæ moje warunki. Có¿, mo¿esz spróbowaæ sam to znaleŸæ, ale w takim razie dlaczego przeby³eœ tak d³ug¹ drogê? Jestem pewien, ¿e jesteœ zmêczony podró¿¹.</text>
+        <text>Uwa¿am, ¿e ¿adnych potrzebnych informacji nie nale¿y przekazywaæ za darmo. Dlatego nie masz innego wyjœcia, jak tylko zaakceptowaæ moje warunki. Có¿, mo¿esz spróbowaæ sam ich znaleŸæ, ale w takim razie dlaczego przeby³eœ tak d³ug¹ drogê? Jestem pewien, ¿e by³byœ zmêczony podró¿¹.</text>
     </string>
     <string id="for_professor_first_dialog_12">
         <text>I to delikatnie mówi¹c...</text>
@@ -1276,16 +1276,16 @@
         <text>Tak, kontrakt. Kilka zadañ zwi¹zanych z badaniem artefaktów. To proste - jeœli jesteœ doœwiadczonym stalkerem, mo¿esz to zrobiæ w oko³o tydzieñ.</text>
     </string>
     <string id="for_professor_first_dialog_8">
-        <text>Co do diab³a za badania? Nie rozumiesz ¿e nie mam na to czasu. JU¯ muszê go znaleŸæ, w ka¿dej chwili mo¿e opuœciæ Zonê i nie mogê do tego dopuœciæ!</text>
+        <text>Jakie do cholery badania? Nie rozumiesz ¿e nie mam na to czasu? NATYCHMIAST muszê ich znaleŸæ, w ka¿dej chwili mog¹ opuœciæ Zonê i nie mogê do tego dopuœciæ!</text>
     </string>
     <string id="for_professor_first_dialog_9">
-        <text>Proszê o uspokojenie, skarbeñku. W oparciu o to, co us³yszeli stra¿nicy bunkra, nie planuje opuœciæ Strefy Wykluczenia w przez najbli¿szy miesi¹c. W zwi¹zku z tym masz czas – zarówno na niezbêdne w tej chwili badania, jak i na poszukiwanie go, gdy oczywiœcie dowiesz siê, dok¹d siê uda³.\nPoniewa¿ nigdy Ciê nie spotka³em, chcê Ciê uprzedziæ - Jeœli chcesz mi groziæ, to pamiêtaj, ¿e zarówno w bunkrze, jak i na zewn¹trz s¹ ludzie, którzy... Powiedzmy sobie, ¿e nie pochwal¹ tych dzia³añ.</text>
+        <text>Proszê o uspokojenie, skarbeñku. W oparciu o to, co us³yszeli stra¿nicy bunkra, oni nie planuj¹ opuœciæ Strefy Wykluczenia w przez najbli¿szy miesi¹c. W zwi¹zku z tym masz czas – zarówno na niezbêdne w tej chwili badania, jak i na poszukiwanie ich. Oczywiœcie gdy dowiesz siê, dok¹d siê udali.\nPoniewa¿ nigdy Ciê nie spotka³em, chcê Ciê uprzedziæ - Jeœli chcesz mi groziæ, to pamiêtaj, ¿e zarówno w bunkrze, jak i na zewn¹trz s¹ ludzie, którzy... Powiedzmy sobie, ¿e nie pochwal¹ takich dzia³añ.</text>
     </string>
     <string id="for_professor_first_dialog_end_0">
         <text>Jestem gotowy na kontrakt. Jakie jest pierwsze zadanie?</text>
     </string>
     <string id="for_professor_first_dialog_end_1">
-        <text>Prawdê mówi¹c, oszuka³em Ciê, mówi¹c, ¿e zadanie bêdzie bardzo proste. Faktem jest, ¿e ostatnio nasz bunkier by³ obiektem czêstych ataków mutantów i zombie. Oczywiœcie nasi ludzie walcz¹ bez problemu, bo s¹ ju¿ do tego przyzwyczajeni, ale tutaj problem jest inny. Mutanty te zaczê³y pojawiaæ siê bardzo blisko naszych baz, dlatego ataki nie ustaj¹. Ale prawdziwy problem polega na tym, ¿e wszystkie te mutanty znajduj¹ siê w miejscach, w których kiedyœ pojawia³y siê artefakty! Czy wiesz, czym s¹ artefakty?</text>
+        <text>Prawdê mówi¹c, oszuka³em Ciê, mówi¹c, ¿e zadanie bêdzie bardzo proste. Faktem jest, ¿e ostatnio nasz bunkier by³ obiektem czêstych ataków mutantów i zombie stalkerów. Oczywiœcie nasi ludzie walcz¹ bez problemu, bo s¹ ju¿ do tego przyzwyczajeni, ale tutaj problem jest inny. Mutanty te zaczê³y pojawiaæ siê bardzo blisko naszych baz, dlatego ataki nie ustaj¹. Ale prawdziwy problem polega na tym, ¿e wszystkie te mutanty znajduj¹ siê w miejscach, w których kiedyœ pojawia³y siê artefakty! Czy wiesz, czym s¹ artefakty?</text>
     </string>
     <string id="for_professor_first_dialog_end_10">
         <text>Ha-ha-ha-ha, nie, no co Ty... To ju¿ najprawdopodobniej stalkerzy s¹ zainteresowani dobrobytem finansowym.</text>
@@ -1519,10 +1519,10 @@
         <text>Dziêki, to wszystko.</text>
     </string>
     <string id="for_professor_info_dialog_7">
-        <text>Wiele lat temu mój ojciec pracowa³ tutaj, prowadz¹c badania nad anomaliami, które pojawi³y siê po tym, co wydarzy³o siê w elektrowni j¹drowej w Czarnobylu. To miejsce by³o tajnym laboratorium, ale z jakiegoœ powodu dekadê póŸniej pozosta³o puste. Chcê tylko kontynuowaæ jego pracê, której siê poœwiêci³. Ale tym razem - nie dla w³adz, które zbeszta³y go tak bardzo, ¿e nawet rodzina nie wie nic o tym, gdzie jest - ale dla siebie. Twórca przede wszystkim powinien panowaæ nad wszystkim co wynalaz³.</text>
+        <text>Wiele lat temu mój ojciec pracowa³ tutaj. Prowadzi³ badania nad anomaliami, które pojawi³y siê po tym, co wydarzy³o siê w elektrowni j¹drowej w Czarnobylu. To miejsce by³o tajnym laboratorium, ale z jakiegoœ powodu dekadê póŸniej zosta³o puste. Chcê tylko kontynuowaæ jego pracê, której siê poœwiêci³. Ale tym razem - nie dla w³adz, które zbeszta³y go tak bardzo, ¿e nawet rodzina nie wie nic o tym co siê z nim sta³o - ale dla siebie. Twórca przede wszystkim powinien panowaæ nad wszystkim co wynalaz³.</text>
     </string>
     <string id="for_professor_info_dialog_8">
-        <text>Tak go nazywaj¹ stalkerzy. W rzeczywistoœci miejsce to ma naukow¹ nazwê - "Obiekt Y-13". NajwyraŸniej nie brzmi to w stylu stalkerów, wiêc postanowili nadaæ mu swoje imiê.</text>
+        <text>Tak nazywaj¹ stalkerzy. W rzeczywistoœci miejsce to ma naukow¹ nazwê - "Obiekt Y-13". NajwyraŸniej nie brzmi to w stylu stalkerów, wiêc postanowili nadaæ mu swoj¹ nazwê.</text>
     </string>
     <string id="for_professor_info_dialog_9">
         <text>Bez zaginionych naukowców przez d³ugi czas oko³o 20 osób. W bunkrze i wokó³ niego jest teraz mniej ludzi. Niektórzy stalkerzy nie wrócili ¿ywi po wykonaniu swoich zadañ, niektórzy jeszcze nie wrócili. Nie ujawniamy tego miejsca, poniewa¿ du¿a liczba znaj¹cych siê na rzeczy stalkerów mo¿e doprowadziæ do ryzyka wycieku informacji, a w konsekwencji problemów z w³adzami. Technicznie moje badania naukowe nie s¹ legalne, bo nie mam pozwolenia na prowadzenie badañ w tym miejscu.</text>
@@ -1615,7 +1615,7 @@
         <text>Kontyntynuj.</text>
     </string>
     <string id="for_professor_nikson_dialog_3">
-        <text>Na kilka dni przed Twoim przybyciem uda³o mi siê aktywowaæ specjalne urz¹dzenie, które pozwala na przekazanie energii artefaktu do opancerzonego skafandra! A ten kombinezon by³ w stanie uzyskaæ niesamowity poziom ochrony, którego w tej chwili nic nie mo¿e przenikn¹æ. A niedawno moi pracownicy dostali mi to samo urz¹dzenie – ró¿nica zewnêtrzna dotyczy tylko koloru. Komora zbroi by³a niebieska, ale ta nowa jest czerwona. I, jakkolwiek niefortunnie mo¿e to zabrzmieæ, nie by³em w stanie okreœliæ, do czego siê nadaje. Próbowa³em powtórzyæ eksperyment z kamizelk¹ kuloodporn¹, ale w rezultacie kombinezon pancerny zosta³ po prostu zniszczony. Oczywiœcie, jeœli niebieska komora zosta³a zaprojektowana na zbrojê, to czerwona jest przeznaczona na broñ, mo¿na by pomyœleæ. My te¿ tak myœleliœmy, kiedy próbowaliœmy umieœciæ tam broñ, ale rezultat by³ taki sam. Pistolet, karabin, strzelba, roz³adowane - nic siê nie zmieni³o, broñ po prostu nie nadawa³a siê do u¿ytku. A zamiast tkaniny w kamizelce kuloodpornej powsta³ tylko popió³. I s¹ dwie opcje - albo problem polega na tym, ¿e to urz¹dzenie jest przeznaczone do czegoœ innego...</text>
+        <text>Na kilka dni przed Twoim przybyciem uda³o mi siê aktywowaæ specjalne urz¹dzenie, które pozwala na przekazanie energii artefaktu do opancerzonego skafandra! A ten kombinezon by³ w stanie uzyskaæ niesamowity poziom ochrony, którego w tej chwili nic nie mo¿e przenikn¹æ. A niedawno moi pracownicy dostali mi to samo urz¹dzenie – ró¿nica zewnêtrzna dotyczy tylko koloru. Komora zbroi by³a niebieska, ale ta nowa jest czerwona. I, jakkolwiek niefortunnie mo¿e to zabrzmieæ, nie by³em w stanie okreœliæ, do czego siê nadaje. Próbowa³em powtórzyæ eksperyment z kamizelk¹ kuloodporn¹, ale w rezultacie kamizelka zosta³a po prostu zniszczona. Oczywiœcie, jeœli niebieska komora zosta³a zaprojektowana na zbrojê, to czerwona jest przeznaczona na broñ, mo¿na by pomyœleæ. My te¿ tak myœleliœmy, kiedy próbowaliœmy umieœciæ tam broñ, ale rezultat by³ taki sam. Pistolet, karabin, strzelba, roz³adowane - nic siê nie zmieni³o, broñ po prostu nie nadawa³a siê do u¿ytku. A zamiast tkaniny w kamizelce kuloodpornej powsta³ tylko popió³. I s¹ dwie opcje - albo problem polega na tym, ¿e to urz¹dzenie jest przeznaczone do czegoœ innego...</text>
     </string>
     <string id="for_professor_nikson_dialog_4">
         <text>Albo..?</text>

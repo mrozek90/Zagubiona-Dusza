@@ -25,7 +25,7 @@
         <text>W czym?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_3">
-        <text>Kiedy zgodzi³eœ siê pomóc mi w sprawie Orestesa. Chyba nie myœlisz, ¿e by³oby tak ró¿owo?</text>
+        <text>Kiedy zgodzi³eœ siê pomóc mi w sprawie Oresta. Chyba nie myœlisz, ¿e by³oby tak ró¿owo?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_4">
         <text>No to jesteœmy kwita.</text>
@@ -40,7 +40,7 @@
         <text>W czym?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_3">
-        <text>Kiedy zgodzi³eœ siê pojechaæ ze mn¹ do Orestesa. Czy myœlisz, ¿e by³oby tak ró¿owo?</text>
+        <text>Kiedy zgodzi³eœ siê pójœæ ze mn¹ do Oresta. Chyba nie myœlisz, ¿e by³oby tak ró¿owo?</text>
     </string>
     <string id="agr_inquisitor_last_ge_dialog_has_artefact_4">
         <text>No to jesteœmy kwita.</text>
@@ -160,16 +160,16 @@
         <text>No to okazuje siê, ¿e jesteœmy kwita.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_0">
-        <text>Sith i ja chcemy do³¹czyæ do Twojego klanu..</text>
+        <text>Sith i ja chcemy do³¹czyæ do Twojej grupy.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_1">
-        <text>Idealne rozwi¹zanie! W rzeczywistoœci wszystko jest proste. Bycie stalkerem oznacza bycie cz³owiekiem. Pomó¿ towarzyszowi w trudnym momencie, nie zdradzaj, nie pope³niaj pod³oœci, podziel siê apteczk¹ lub kawa³kiem chleba, os³aniaj plecy w walce, podziel siê noclegiem przy ognisku..</text>
+        <text>Idealne rozwi¹zanie! W rzeczywistoœci wszystko jest proste. Bycie stalkerem oznacza bycie cz³owiekiem. Pomó¿ towarzyszowi w trudnym momencie, nie zdradzaj, nie pope³niaj pod³oœci, podziel siê apteczk¹ lub kawa³kiem chleba, os³aniaj plecy w walce, podziel siê miejscem przy ognisku.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_2">
         <text>Zda³em sobie sprawê, ¿e po prostu trzeba byæ normaln¹ osob¹. Zgadzam siê ze wszystkim.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_3">
-        <text>Witaj w klanie Samotników, przyjacielu! Myœlê, ¿e nie potrzebujesz ju¿ sprzêtu, wiêc mo¿esz iœæ. Jeœli chcesz, mo¿esz przyjœæ do mnie po zadania.</text>
+        <text>Witaj w grupie Samotników, przyjacielu! Myœlê, ¿e nie potrzebujesz ju¿ sprzêtu, wiêc mo¿esz iœæ. Jeœli chcesz, mo¿esz przyjœæ do mnie po zadania.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_4">
         <text>Dziêkujê. Pójdê.</text>
@@ -787,7 +787,7 @@
         <text>Dziêkujê bracie, po raz kolejny uratowa³eœ mi ¿ycie.</text>
     </string>
     <string id="sith_rescue_dialog_1">
-        <text>To by³a nie tylko moja zas³uga. To dziêki tym facetom i jeszcze jedna osoba... Gdyby nie on, nie wiedzia³ bym, ¿e jesteœ tutaj przetrzymywany.</text>
+        <text>To by³a nie tylko moja zas³uga. To dziêki tym facetom i jeszcze jednej osobie... Gdyby nie on, nie wiedzia³ bym, ¿e jesteœ tutaj przetrzymywany.</text>
     </string>
     <string id="sith_rescue_dialog_2">
         <text>Czy mogê poznaæ tê osobê?</text>
@@ -799,10 +799,10 @@
         <text>Dobra, zajmiemy siê tym póŸniej. Dowiedzia³eœ siê czegoœ o Szkirze?</text>
     </string>
     <string id="sith_rescue_dialog_5">
-        <text>Tak. Te stworzenia, które wziê³y Ciê do niewoli, s¹ czymœ w rodzaju jego roboli. By³o ich kilku i najprawdopodobniej gdzieœ jeszcze s¹. Dowiedzia³em siê równie¿, ¿e Szkir prawdopodobnie uda³ siê w kierunku magazynów wojskowych, a stamt¹d - do Czerwonego Lasu.</text>
+        <text>Tak. Te oprychy, które wziê³y Ciê do niewoli, s¹ czymœ w rodzaju jego przydupasów. By³o ich kilku i najprawdopodobniej gdzieœ jeszcze s¹. Dowiedzia³em siê równie¿, ¿e Szkir prawdopodobnie uda³ siê w kierunku magazynów wojskowych, a stamt¹d - do Czerwonego Lasu.</text>
     </string>
     <string id="sith_rescue_dialog_6">
-        <text>Jasne. Wiêc mamy gdzie zacz¹æ szukaæ?</text>
+        <text>Jasne. Wiêc wiemy gdzie zacz¹æ poszukiwania?</text>
     </string>
     <string id="sith_rescue_dialog_7">
         <text>Zgadza siê.</text>

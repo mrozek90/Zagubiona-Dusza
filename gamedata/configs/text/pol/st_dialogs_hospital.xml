@@ -4,10 +4,10 @@
         <text>Œwietna robota! Jeœli chcesz zarobiæ dodatkowe pieni¹dze, udaj siê do Zapomnianych Ziem po kontrakt. W bunkrze niedaleko st¹d porozmawiaj z profesorem, on tam kieruje ca³¹ prac¹.</text>
     </string>
     <string id="shved_first_dialog_end_0">
-        <text>Dziêkujê za pomoc. Po prostu nigdy nie chodzi³em w kierunku szpitala, ale myœlê ¿e tam przycupnê i zastanowiê siê dok¹d iœæ dalej. Mo¿e nie jest za póŸno... Wiesz dok¹d poszed³ ten najemnik?</text>
+        <text>Dziêkujê za pomoc. Po prostu nigdy nie chodzi³em w kierunku szpitala, ale myœlê ¿e przycupnê tam i zastanowiê siê dok¹d iœæ dalej. Mo¿e nie jest za póŸno... Wiesz dok¹d poszed³ ten najemnik?</text>
     </string>
     <string id="shved_first_dialog_end_1">
-        <text>Tak.</text>
+        <text>Powiedz mi.</text>
     </string>
     <string id="shved_first_dialog_end_2">
         <text>Pozwól, ¿e zaznaczê Ci na mapie kierunek, w którym poszed³.</text>
@@ -16,7 +16,7 @@
         <text>[Dalej...]</text>
     </string>
     <string id="shved_first_dialog_end_4">
-        <text>O tu, gdzieœ tam... Mo¿e jest tam jakaœ œcie¿ka, nie wiem, przepraszam.</text>
+        <text>O tu... gdzieœ tam... Mo¿e jest tam jakaœ œcie¿ka, nie wiem, przepraszam.</text>
     </string>
     <string id="shved_first_dialog_end_5">
         <text>Dziêki i za to.</text>
