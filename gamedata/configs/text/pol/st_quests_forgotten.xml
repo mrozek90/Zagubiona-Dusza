@@ -6,7 +6,7 @@
 		<text>Prawa naukowców: Dotrzyj do Zapomnianych Ziem</text>
 	</string>
 	<string id="for_kilorik_find_2">
-		<text>Za pomoc Kilorikowi przes³a³ mi do PDK dane o pewnej bazie naukowców, gdzie bêdzie czeka³a na mnie nagroda za pomoc. Byæ mo¿e ludzie bêd¹ mogli opowiedzieæ coœ o Szkirze.</text>
+		<text>Za pomoc Kilorikowi przes³a³ mi do PDK dane o pewnej bazie naukowców, gdzie bêdzie czeka³a na mnie nagroda za pomoc. Byæ mo¿e tamtejsi ludzie bêd¹ mogli opowiedzieæ coœ o Szkirze.</text>
 	</string>
 	<string id="for_kilorik_find_3">
 		<text>Prawa naukowców: Porozmawiaj z Profesorem</text>
@@ -62,7 +62,7 @@
 		<text>Kwestia Psychiki: Porozmawiaj z partnerem</text>
 	</string>
 	<string id="for_hrust_quest_2">
-		<text>Dobrze, ¿e znalaz³em partnera do tego zadania. Czujê, ¿e sam nie wytrzymam tej umowy.</text>
+		<text>Dobrze, ¿e dosta³em partnera do tego zadania. Czujê, ¿e sam nie zniós³ bym tej umowy.</text>
 	</string>
 	<string id="for_hrust_quest_3">
 		<text>Pytanie Psychiki: Zniszcz upiory</text>
@@ -135,7 +135,7 @@
 		<text>Lekarstwo na strach: Porozmawiaj z Infernisem</text>
 	</string>
 	<string id="for_bloodsucker_quest_12">
-		<text>Ma racjê we wszystkim. Jeœli zatrzyma mnie jakiœ krwiopijca, to jak mogê stawiæ czo³a Szkirze?</text>
+		<text>Ma racjê we wszystkim. Jeœli zatrzyma mnie jakiœ krwiopijca, to jak mogê stawiæ czo³a Szkirowi?</text>
 	</string>
 	<string id="for_bloodsucker_quest_13">
 		<text>Lekarstwo na strach: IdŸ do lasu i zapoluj na krwiopijcê</text>
@@ -157,13 +157,13 @@
 		<text>Spacer: ZnajdŸ kontakt</text>
 	</string>
 	<string id="for_professor_find_weapons_2">
-		<text>Nigdy bym nie pomyœla³, ¿e przegapiê bezu¿yteczne zadania do biegania tam iz powrotem. Po tym wszystkim, przez co przeszed³em, spacer w ramach kontraktu bêdzie dla mnie odpoczynkiem.</text>
+		<text>Nigdy bym nie pomyœla³, ¿e zatêskniê za bezu¿ytecznymi zadaniami do biegania tam iz powrotem. Po tym wszystkim przez co przeszed³em, spacer w ramach zadania bêdzie dla mnie odpoczynkiem.</text>
 	</string>
 	<string id="for_professor_find_weapons_3">
 		<text>Spacer: Daj PDA profesorowi</text>
 	</string>
 	<string id="for_professor_find_weapons_4">
-		<text>A ten jest martwy. Czy przynajmniej jedno zadanie przebiega g³adko, bez strat? Kontakt ma PDA, przynajmniej jakieœ Ÿród³o informacji mo¿e siê przydaæ profesorowi.</text>
+		<text>Kontakt jest martwy. Czy przynajmniej jedno zadanie przebiega g³adko, bez strat? Ma przy sobie PDA, przynajmniej jakieœ Ÿród³o informacji. Mo¿e przydaæ siê profesorowi.</text>
 	</string>
 
 	<string id="for_drunk_quest_1">

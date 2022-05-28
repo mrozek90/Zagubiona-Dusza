@@ -10,7 +10,7 @@
         <text>Inkwizytor, potrzebujê pomocy...</text>
     </string>
     <string id="agr_inquisitor_good_dialog_1">
-        <text>Tak, tak... ju¿ s³ysza³em. W tym obozie nadal nie mam nic do roboty. Ja te¿ z Tob¹ pójdê.</text>
+        <text>Tak, tak... ju¿ s³ysza³em. W tym obozie i tak nie mam nic do roboty. Ja te¿ z Tob¹ pójdê.</text>
     </string>
     <string id="agr_inquisitor_good_dialog_2">
         <text>Dziêkujê.</text>
@@ -55,7 +55,7 @@
         <text>Lepiej ni¿ by³o. Sam sobie poradzê, Sektor. WeŸ kogo chcesz.</text>
     </string>
     <string id="agr_karas_good_dialog_1">
-        <text>W porz¹dku..</text>
+        <text>W porz¹dku.</text>
     </string>
     <string id="agr_mayor_z_good_dialog_0">
         <text>Majorze, idziesz z nami?</text>
@@ -85,7 +85,7 @@
         <text>Oczywiœcie, Najemniku. Stalkerzy staraj¹ siê pomóc swoim przyjacio³om. Jesteœ dobry w byciu przywódc¹.</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_4">
-        <text>Dziêkujê... Tak wiêc Orest pójdzie do wspó³rzêdnych nr 1, Inkwizytor - do wspó³rzêdnych nr 2, Wint - do wspó³rzêdnych nr 3, Zwiagincew - do wspó³rzêdnych nr 4, Smirnow - do wspó³rzêdnych nr 5. Wspó³rzêdna numer 6 jest moja. Ju¿ rzuci³em je na wasze PDA. Jeœli ktoœ znajdzie coœ interesuj¹cego, niech wyœle innym cynk, by nie szukali dalej. W ka¿dym razie wyœlê sygna³ z wiadomoœci¹ - coœ znalaz³em, czy nie. Jeœli po dwóch godzinach nie otrzymacie mojej wiadomoœci, uznajcie, ¿e nie ¿yjê. To wszystko, naprzód!</text>
+        <text>Dziêkujê... Tak wiêc Orest pójdzie do wspó³rzêdnych #1, Inkwizytor - do wspó³rzêdnych #2, Wint - do wspó³rzêdnych #3, Zwiagincew - do wspó³rzêdnych #4, Smirnow - do wspó³rzêdnych #5. Wspó³rzêdna #6 jest moja. Ju¿ rzuci³em je na wasze PDA. Jeœli ktoœ znajdzie coœ interesuj¹cego, niech wyœle innym cynk, by nie szukali dalej. W ka¿dym razie wyœlê sygna³ z wiadomoœci¹ czy coœ znalaz³em, czy nie. Jeœli po dwóch godzinach nie otrzymacie mojej wiadomoœci, uznajcie, ¿e nie ¿yjê. To wszystko, naprzód!</text>
     </string>
     <string id="agr_npc_random_kill_freaks_dialog_0">
         <text>Cholera, ch³opaki. Trzymaj¹ tam Sitha! Nie ma czasu do stracenia!</text>
@@ -124,7 +124,7 @@
         <text>Inkwizytor móg³by zaopiekowaæ siê obozem.</text>
     </string>
     <string id="agr_orest_bad_dialog_6">
-        <text>Istotnie. A Ty przecie¿ zrobi³eœ du¿o dla mnie i samotników w ogóle. Po prostu nie mo¿e Ci odmówiæ.</text>
+        <text>Istotnie. A Ty przecie¿ zrobi³eœ du¿o dla mnie i samotników. Po prostu nie mo¿e Ci odmówiæ.</text>
     </string>
     <string id="agr_orest_bad_dialog_7">
         <text>Dziêkujê.</text>
@@ -145,7 +145,7 @@
         <text>[Milcz]</text>
     </string>
     <string id="agr_orest_good_dialog_5">
-        <text>Potrafi¹ jednak o siebie zadbaæ. A Ty przecie¿ zrobi³eœ du¿o dla mnie i samotników w ogóle. Po prostu nie mogê Ci odmówiæ.</text>
+        <text>Potrafi¹ jednak o siebie zadbaæ. A Ty przecie¿ zrobi³eœ du¿o dla mnie i samotników. Po prostu nie mogê Ci odmówiæ.</text>
     </string>
     <string id="agr_orest_good_dialog_6">
         <text>Dziêkujê.</text>
@@ -169,13 +169,13 @@
         <text>Zda³em sobie sprawê, ¿e po prostu trzeba byæ normaln¹ osob¹. Zgadzam siê ze wszystkim.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_3">
-        <text>Witaj w grupie Samotników, przyjacielu! Myœlê, ¿e nie potrzebujesz ju¿ sprzêtu, wiêc mo¿esz iœæ. Jeœli chcesz, mo¿esz przyjœæ do mnie po zadania.</text>
+        <text>Witaj w grupie Samotników, przyjacielu! Myœlê, ¿e nie potrzebujesz sprzêtu, wiêc mo¿esz iœæ. Jeœli chcesz, mo¿esz przyjœæ do mnie po zadania.</text>
     </string>
     <string id="agr_orest_last_ge_dialog_end_4">
-        <text>Dziêkujê. Pójdê.</text>
+        <text>Dziêkujê. Pójdê ju¿.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_0">
-        <text>Dosta³em Twojego SMS.</text>
+        <text>Dosta³em Twojego SMSa.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_1">
         <text>Jesteœmy starymi pomocnikami Szkira. Mam nadziejê, ¿e nie zabrak³o Ci pamiêci... Pamiêtasz, kto to jest?</text>
@@ -190,7 +190,7 @@
         <text>Nie bardzo. Powiedz, o co chodzi?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_5">
-        <text>Nie lubisz pustej paplaniny? A oto Twoje zadanie - w tunelu, w którym znaleŸliœmy Twojego pomocnika... Krótko mówi¹c, szeptali mi, ¿e tam znajduje siê nowy artefakt. Leæ i go poszukaj. Jak tylko go znajdziesz, uderz mnie od razu, zwrócimy Ci Twojego pomocnika i powiemy Szkirowi, ¿e zdo³a³ uciec.</text>
+        <text>Nie lubisz pustej paplaniny? A oto Twoje zadanie - w tunelu, przy którym znaleŸliœmy Twojego pomocnika... Krótko mówi¹c, szeptali mi, ¿e tam znajduje siê nowy artefakt. Leæ i go poszukaj. Jak tylko go znajdziesz, uderz mnie od razu, zwrócimy Ci Twojego pomocnika i powiemy Szkirowi, ¿e zdo³a³ uciec.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_6">
         <text>Co jeœli nie znajdê niczego w tunelu?</text>
@@ -202,7 +202,7 @@
         <text>Dosta³em Twój SMS.</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_1">
-        <text>Jesteœmy starymi pomocnikami Szkira. Mam nadziejê, ¿e nie zabrak³o Ci pamiêci... Zapomnia³eœ, kto to jest?</text>
+        <text>Jesteœmy starymi pomocnikami Szkira. Mam nadziejê, ¿e nie zabrak³o Ci pamiêci... Pamiêtasz, kto to jest?</text>
     </string>
     <string id="agr_shkir_bros_good_dialog_2">
         <text>No i?</text>
@@ -304,7 +304,7 @@
         <text>Cieszê siê, ¿e Ciê znalaz³em. Mam do Ciebie kilka pytañ.</text>
     </string>
     <string id="infernis_return_dialog_1">
-        <text>Mogê spróbowaæ na nie odpowiedzieæ, ale najpierw oddaj notatkê, któr¹ tu zabra³eœ. Ju¿ jej nie potrzebujesz, a potem muszê zg³osiæ siê do Doktora.</text>
+        <text>Mogê spróbowaæ na nie odpowiedzieæ, ale najpierw oddaj notatkê, któr¹ st¹d zabra³eœ. Ju¿ jej nie potrzebujesz, a potem muszê zg³osiæ siê do Doktora.</text>
     </string>
     <string id="infernis_return_dialog_2">
         <text>Bierz.</text>
@@ -370,7 +370,7 @@
         <text>Nie, ¿ycie jest dla mnie cenniejsze.</text>
     </string>
     <string id="inquisitor_quest_dialog_6">
-        <text>W s¹siednim budynku - w zak³adzie "Agroprom" znikn¹³ przywódca Samotników - nazywa siê Orest. Dowiedzia³em siê od miejscowych - ktoœ powiedzia³ mu o nowych artefaktach w pobliskim tunelu, a on podepta³. Nie mia³ specjalnej ochrony, ale Ty i ja jesteœmy normalnie wyposa¿eni. Wszystko co musimy zrobiæ to pójœæ, znaleŸæ go, zabraæ do bazy. A przynajmniej to, co z niego zosta³o...</text>
+        <text>W s¹siednim budynku - w zak³adzie "Agroprom" znikn¹³ przywódca Samotników - nazywa siê Orest. Dowiedzia³em siê od miejscowych. Ktoœ powiedzia³ mu o nowych artefaktach w pobliskim tunelu, a on podepta³ tam. Nie mia³ specjalnej ochrony, ale Ty i ja jesteœmy normalnie wyposa¿eni. Wszystko co musimy zrobiæ to pójœæ tam, znaleŸæ go, zabraæ do bazy. A przynajmniej to, co z niego zosta³o...</text>
     </string>
     <string id="inquisitor_quest_dialog_7">
         <text>Interesuj¹ce. Wchodzê w to. Co trzeba zrobiæ?</text>
@@ -385,7 +385,7 @@
         <text>Wracam do bazy. Pójdziesz ze mn¹?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_1">
-        <text>Nie, trochê tu odpocznê, pójdê póŸniej. A Ty jak dowiedzia³eœ siê czegoœ od Oresta?</text>
+        <text>Nie, trochê tu odpocznê, pójdê póŸniej. A Ty jak, dowiedzia³eœ siê czegoœ od Oresta?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_10">
         <text>Tak, ale nic szczególnego. W³aœciwie wolê zostawiæ to dla siebie.</text>
@@ -403,16 +403,16 @@
         <text>Trzymaj.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_2">
-        <text>Tak. Orest rzeczywiœcie znalaz³ tam nowy artefakt. On mi to da³. Rzucisz okiem?</text>
+        <text>Tak. Orest rzeczywiœcie znalaz³ tam nowy artefakt. Da³ mi go... Rzucisz okiem?</text>
     </string>
     <string id="inquisitor_quest_dialog_end_3">
         <text>Nie, nic specjalnego. Dobra, pójdê ju¿.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_4">
-        <text>A dlaczego nie spojrzeæ... Tak, rzeczywiœcie, nie widzia³em jeszcze takiego artefaktu. Pos³uchaj, czy mo¿esz mi go daæ? Nasi w³aœnie je badaj¹, aby lepiej wiedzieæ, jak dzia³a Zona.</text>
+        <text>A dlaczego nie spojrzeæ... Tak, rzeczywiœcie, nie widzia³em jeszcze takiego artefaktu. Pos³uchaj, mo¿esz mi go daæ? Nasi w³aœnie je badaj¹, aby lepiej wiedzieæ jak dzia³a Zona.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_5">
-        <text>A mo¿e lepiej by³oby, gdybym zostawi³ to sobie? W koñcu to on pomóg³ Orestowi tak d³ugo przetrwaæ pod polem PSI..</text>
+        <text>A mo¿e lepiej by³oby, gdybym zostawi³ to sobie? W koñcu to on pomóg³ Orestowi tak d³ugo przetrwaæ w polu PSI.</text>
     </string>
     <string id="inquisitor_quest_dialog_end_6">
         <text>Co chcesz za ten artefakt?</text>
@@ -463,7 +463,7 @@
         <text>Tak. W jakimœ przemalowanym kombinezonie stalkera.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_4">
-        <text>Dobra, teraz to nie ma znaczenia. Jak siê miewa Karaœ?</text>
+        <text>Dobra, teraz to nie ma znaczenia. Sprawdzê jak siê ma Karaœ.</text>
     </string>
     <string id="karas_mayor_z_first_dialog_end_0">
         <text>U mnie wszystko w porz¹dku. Rany wkrótce siê zagoj¹. Ten wolnoœciowiec postawi³ mnie na nogi. Teraz chcê tylko odpocz¹æ.</text>
@@ -511,7 +511,7 @@
         <text>Znajdzie siê jakaœ robota?</text>
     </string>
     <string id="kilorik_first_dialog_6">
-        <text>Pracujê dla profesora, który ma obsesjê na punkcie badania artefaktów. Ostatnio po Strefie rozesz³a siê plotka, ¿e w tunelu niedaleko Agropromu pojawi³y siê nowe artefakty. Zosta³em wys³any tu, ¿ebym przeszuka³ ten tunel. I nawet nie wiem, co tam na mnie czeka. Stalkerzy powiedzieli, ¿e mieszka³ tam kontroler, a sam tunel by³ pokryty promieniowaniem. Jesteœ najemnikiem, prawda? Czy móg³byœ za pewn¹ op³at¹ zbadaæ ten tunel, a potem daæ mi znaæ, czy jest coœ, po co warto siê tam udaæ?</text>
+        <text>Pracujê dla profesora, który ma obsesjê na punkcie badania artefaktów. Ostatnio po Strefie rozesz³a siê plotka, ¿e w tunelu niedaleko Agropromu pojawi³y siê nowe artefakty. Zosta³em wys³any tu, ¿eby przeszukaæ ten tunel. I nawet nie wiem, co tam na mnie czeka. Stalkerzy powiedzieli, ¿e mieszka³ tam kontroler, a sam tunel by³ pokryty promieniowaniem psionicznym. Jesteœ najemnikiem, prawda? Czy móg³byœ za pewn¹ op³at¹ zbadaæ ten tunel, a potem daæ mi znaæ, czy jest coœ, po co warto siê tam udaæ?</text>
     </string>
     <string id="kilorik_first_dialog_7">
         <text>O jakiej kwocie mówimy?</text>
@@ -547,7 +547,7 @@
         <text>Stoi.</text>
     </string>
     <string id="krilow_first_dialog_16">
-        <text>Niedaleko st¹d na bajorze stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakichœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujê, czy jest to warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
+        <text>Niedaleko st¹d na bajorze stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakiœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujê, czy jest to warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
     </string>
     <string id="krilow_first_dialog_17">
         <text>Sam sobie poradzê. Podaj mi wspó³rzêdne.</text>
@@ -589,7 +589,7 @@
         <text>Wszystko w porz¹dku, generale?</text>
     </string>
     <string id="krilow_first_dialog_end_end_1">
-        <text>Tak, chyba.. Dziêki za pomoc. Trzymaj siê, jakoœ Ci podziêkujê.</text>
+        <text>Tak, chyba... Dziêki za pomoc. Trzymaj siê, jakoœ Ci podziêkujê.</text>
     </string>
     <string id="krilow_first_dialog_end_end_2">
         <text>A co z informacjami?</text>
@@ -661,7 +661,7 @@
         <text>Jasne. Có¿, pora na mnie.</text>
     </string>
     <string id="orest_first_dialog_end_9">
-        <text>Poczekaj chwilê! Ten stalker, który powiedzia³ mi o artefaktach, mia³ racjê - w tym tunelu naprawdê by³y nowe artefakty. Znalaz³em jeden, mo¿esz go wzi¹æ dla siebie. Mimo wszystko uratowa³eœ mi ¿ycie, a gdybyœ siê spóŸni³, i tak zabra³byœ go. A wiêc powiedzmy, ¿e w nagrodê za zaryzykowanie w³asnego ¿ycia dla dobra drugiego.</text>
+        <text>Poczekaj chwilê! Ten stalker, który powiedzia³ mi o artefaktach, mia³ racjê - w tym tunelu naprawdê by³y nowe artefakty. Znalaz³em jeden, mo¿esz go wzi¹æ dla siebie. Mimo wszystko uratowa³eœ mi ¿ycie, a gdybyœ siê spóŸni³, i tak zabra³byœ go... Wiêc powiedzmy, ¿e w nagrodê za zaryzykowanie w³asnego ¿ycia dla dobra drugiego.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_0">
         <text>Czy potrzebujesz pomocy?</text>
@@ -766,7 +766,7 @@
         <text>Czyli to znaczy, ¿e Szkir to wszystko zaaran¿owa³?</text>
     </string>
     <string id="sith_genesis_dialog_3">
-        <text>Tak.. Nagle opuœci³ bazê, szed³em za nim niepostrze¿enie. Spojrza³em z innego wzgórza, wezwa³ kogoœ przez radio. Ostrzeg³em wszystkich w bazie, ¿e coœ jest nie tak. Potem wróci³ – obserwowaæ, a w razie potrzeby pomóc.. Helikopter wyl¹dowa³ z uzbrojonymi bandytami. A konkretnie kim byli – nie mam bladego pojêcia, kombinezony by³y nijakie. Takich ludzi jeszcze nie widzia³em. To by³a pora¿ka, zauwa¿yli mnie w ostatniej chwili, kiedy ju¿ zacz¹³em biec. Kim s¹ ci stalkerzy - najprawdopodobniej nie znam jego wspólników. Byæ mo¿e kontrakt by³ tylko przykrywk¹. Nikt nie zna jego prawdziwych planów.</text>
+        <text>Tak... Nagle opuœci³ bazê, szed³em za nim niepostrze¿enie. Przygl¹da³em siê z innego wzgórza, wezwa³ kogoœ przez radio. Ostrzeg³em wszystkich w bazie, ¿e coœ jest nie tak. Potem wróci³ – obserwowaæ, a w razie potrzeby pomóc.. Helikopter wyl¹dowa³ z uzbrojonymi bandytami. A kim byli konkretnie – nie mam bladego pojêcia, kombinezony by³y nijakie. Takich ludzi jeszcze nie widzia³em. To by³a pora¿ka, zauwa¿yli mnie w ostatniej chwili, kiedy ju¿ zacz¹³em biec. Kim s¹ ci stalkerzy - najprawdopodobniej nie znam jego wspólników. Byæ mo¿e kontrakt by³ tylko przykrywk¹. Nikt nie zna jego prawdziwych planów.</text>
     </string>
     <string id="sith_genesis_dialog_4">
         <text>A gdzie oni poszli - tego, jak rozumiem, te¿ nie wiesz..?</text>
@@ -874,7 +874,7 @@
         <text>Co ciekawego mo¿esz powiedzieæ?</text>
     </string>
     <string id="vitaliy_start_dialog_4">
-        <text>Niedawno znokautowa³em wyrodków z Bagien. Nareszcie mo¿na mieszkaæ w tych miejscach! Pomóg³ nam jeden najemnik z blizn¹ na twarzy. Gdyby nie on, pewnie by mnie tu w ogóle nie by³o. Najwa¿niejsze jest to, ¿eby jakaœ inna istota nie wlaz³a teraz na bagna.</text>
+        <text>Niedawno znokautowa³em renegatów z Bagien. Nareszcie mo¿na mieszkaæ w tych miejscach! Pomóg³ nam jeden najemnik z blizn¹ na twarzy. Gdyby nie on, pewnie by mnie tu w ogóle nie by³o. Najwa¿niejsze jest to, ¿eby jakaœ inna istota nie wlaz³a teraz na bagna.</text>
     </string>
     <string id="vitaliy_start_dialog_5">
         <text>¯egnaj.</text>

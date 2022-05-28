@@ -13,19 +13,19 @@
         <text>Prze¿yliœmy z nimi i teraz szukamy Szkira, by pomœciæ ludzi i zawrzeæ kontrakt.</text>
     </string>
     <string id="for_dre_dialog_12">
-        <text>Dobra decyzja. W takim razie ¿yczê Ci powodzenia z Sithem. A Fobos pocz¹tkowo brzêcza³ nam o swoim "najlepszym przyjacielu".</text>
+        <text>Dobra decyzja. W takim razie ¿yczê Ci powodzenia z Sithem. Fobos trochê brzêcza³ nam o swoim "najlepszym przyjacielu".</text>
     </string>
     <string id="for_dre_dialog_13">
         <text>Przeka¿ê Sithowi pozdrowienia, kiedy wydostanê siê st¹d. Mam nadziejê, ¿e wkrótce siê zobaczymy.</text>
     </string>
     <string id="for_dre_dialog_2">
-        <text>We w³asnej osobie. Grupa "Delta", jeœli to pamiêtasz.</text>
+        <text>We w³asnej osobie. Grupa "Delta", jeœli pamiêtasz.</text>
     </string>
     <string id="for_dre_dialog_3">
         <text>Co to za miejsce?</text>
     </string>
     <string id="for_dre_dialog_4">
-        <text>Szczerze mówi¹c, sam nie mam pojêcia. Po tym, jak z Fobosem zostaliœmy pobici przez powinnoœciowców w Czerwonym Lesie, minê³o trochê czasu i obudziliœmy siê tutaj. Kilka tygodni póŸniej pojawi³ siê tutaj Suchoj. Tutaj, jak rozumiem, s¹ najemnicy, którzy jakoœ wyró¿nili siê w naszych grupach.</text>
+        <text>Szczerze mówi¹c, sam nie mam pojêcia. Po tym, jak z Fobosem zostaliœmy pobici przez powinnoœciowców w Czerwonym Lesie, minê³o trochê czasu i obudziliœmy siê tutaj. Kilka tygodni póŸniej pojawi³ siê tutaj Suchoj. Tutaj, jak rozumiem s¹ najemnicy, którzy jakoœ wyró¿nili siê w naszych grupach.</text>
     </string>
     <string id="for_dre_dialog_5">
         <text>Wydaje siê, ¿e jest to miejsce dla duchów poleg³ych. Czy to oznacza, ¿e ja te¿ jestem martwy?</text>
@@ -43,7 +43,7 @@
         <text>Szkir zdradzi³ wszystkie grupy, prawie wszyscy zostali zabici.</text>
     </string>
     <string id="for_dre_dialog_end_0">
-        <text>Twoja dywizja, gdzie tam.. Opa, Sektor!</text>
+        <text>Twoja dywizja, gdzie tam... Opa, Sektor!</text>
     </string>
     <string id="for_dre_dialog_end_1">
         <text>Infernis, do cholery! Ty te¿ wyszed³eœ z laboratorium!</text>
@@ -136,7 +136,7 @@
         <text>To jak, idziemy?</text>
     </string>
     <string id="for_hrust_first_dialog_end_1">
-        <text>Dziwne, nigdzie nie ma zombie. Nawet nie widzia³em szcz¹tków. Mo¿liwe, ¿e obudzi³y siê zjawy..</text>
+        <text>Dziwne, nigdzie nie ma zombie. Nawet nie widzia³em szcz¹tków. Mo¿liwe, ¿e obudzi³y siê zjawy...</text>
     </string>
     <string id="for_hrust_first_dialog_end_2">
         <text>Zjawy?</text>
@@ -157,7 +157,7 @@
         <text>Czy wszystko w porz¹dku?</text>
     </string>
     <string id="for_hrust_search_dialog_1">
-        <text>W sumie.. Stymulatory nadal dzia³aj¹, wiêc na razie jest w porz¹dku. Có¿,zdecydujmy  od czego zacz¹æ nasze poszukiwania?</text>
+        <text>W sumie.. Stymulatory nadal dzia³aj¹, wiêc na razie jest w porz¹dku. Có¿, zdecydujmy od czego zacz¹æ nasze poszukiwania?</text>
     </string>
     <string id="for_hrust_search_dialog_2">
         <text>Nie mamy wiele czasu. S¹ dwa budynki z wejœciami, mo¿emy siê rozdzieliæ.</text>
@@ -220,7 +220,7 @@
         <text>Nie rozumiem, jak to siê sta³o. Cia³o porusza³o siê samo..</text>
     </string>
     <string id="for_hrust_zb_death_dialog_7">
-        <text>O kurwa.. Mia³am szczêœcie, ¿e poszed³em z Tob¹ na ten.. W ka¿dym razie ¿yjemy, jest super! ChodŸmy szybko kuœtykaæ do profesora. Czuje siê jakbym tego bunkra nie widzia³ od stu lat...</text>
+        <text>O kurwa.. Mia³am szczêœcie, ¿e poszed³em  tam z Tob¹... W ka¿dym razie ¿yjemy, jest super! ChodŸmy szybko kuœtykaæ do profesora. Czuje siê jakbym tego bunkra nie widzia³ od stu lat...</text>
     </string>
     <string id="for_hrust_zb_death_dialog_8">
         <text>Idziemy.</text>
@@ -319,7 +319,7 @@
         <text>A co to ma z tym wspólnego?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_18">
-        <text>Pomyœl sam. Zdrajca dzia³a³ na Agropromie. Przeszukiwa³eœ wtedy podziemia. Tutaj trafi³eœ na krwiopijcê, który w kilka sekund by³ w stanie zmia¿d¿yæ trzech doœwiadczonych stalkerów. I w obu sytuacjach jesteœ jedynym ¿ywym. I wtedy pojawia siê pytanie - o co chodzi?</text>
+        <text>Pomyœl sam. Zdrajca dzia³a³ na Agropromie gdy przeszukiwa³eœ wtedy podziemia. Tutaj trafi³eœ na krwiopijcê, który w kilka sekund by³ w stanie zmia¿d¿yæ trzech doœwiadczonych stalkerów. I w obu sytuacjach jesteœ jedynym ¿ywym. I wtedy pojawia siê pytanie - w czym rzecz?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_19">
         <text>Nawet o tym nie pomyœla³em.</text>
@@ -361,7 +361,7 @@
         <text>Z³apanie krwiopijcy nie jest najgorszym planem. Rozumiem, ¿e coœ posz³o nie tak?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_5">
-        <text>Stalker, który sta³ na przynêcie, zosta³ rozerwany na kawa³ki w minutê. Moje nogi prawie zdrêtwia³y, kiedy zobaczy³em, co siê z nim tam sta³o. Po kilku sekundach ju¿ biega³ wokó³ mnie, zabijaj¹c po drodze ka¿dego z moich partnerów. A najgorsze jest to, ¿e nawet go nie uderzyliœmy, bo go nie widzieliœmy! Ca³y czas by³ niewidzialny i zosta³ zauwa¿ony tylko podczas ataku. Nie wiem jak, ale uda³o mi siê stamt¹d uciec.</text>
+        <text>Stalker, który sta³ na przynêcie, zosta³ rozerwany na kawa³ki w sekundê. Moje nogi prawie zdrêtwia³y, kiedy zobaczy³em, co siê z nim tam sta³o. Po kilku sekundach ju¿ biega³ wokó³ mnie, zabijaj¹c po drodze ka¿dego z moich partnerów. A najgorsze jest to, ¿e nawet go nie trafiliœmy, bo go nie widzieliœmy! Ca³y czas by³ niewidzialny i zosta³ zauwa¿ony tylko podczas ataku. Nie wiem jak, ale uda³o mi siê stamt¹d uciec.</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_6">
         <text>Ach, to jest to... Boisz siê, bo prawie Ciê zabi³? Czy z powodu czegoœ innego?</text>
@@ -370,7 +370,7 @@
         <text>W jakim sensie?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_8">
-        <text>Mi by siê zrobi³o szkoda, ¿e w taki sposób straci³em partnerów. Chocia¿ to te¿ w pewnym stopniu od nich zale¿a³o.. Jeœli znajomy sam b³aga o nó¿, to go ma..</text>
+        <text>Mi by siê zrobi³o szkoda, ¿e w taki sposób straci³em partnerów. Chocia¿ to te¿ w pewnym stopniu od nich zale¿a³o. Jeœli znajomy sam b³aga o nó¿, to go dostaje...</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_9">
         <text>Czy kiedykolwiek by³eœ w podobnej sytuacji?</text>
@@ -928,7 +928,7 @@
         <text>Pamiêtam.. Jak pi³em z Tob¹ w bunkrze. Tak porz¹dnie.. Cholera, znowu g³owa pêka!..</text>
     </string>
     <string id="for_lab_infernis_first_dialog_4">
-        <text>Wiêc œmia³o, napij siê, a potem co?</text>
+        <text>Wiêc œmia³o. Napiliœmy siê, a potem co?</text>
     </string>
     <string id="for_lab_infernis_first_dialog_5">
         <text>Potem pamiêtam urywki.. Poszliœmy gdzieœ, powiedzia³eœ, ¿e znasz dobre miejsce. Wtedy ju¿ byliœmy w jakimœ korytarzu to krzyczysz, ¿e mnie przed czymœ uratujesz. S³ychaæ by³o te¿ tam krwiopijców.</text>
@@ -1003,7 +1003,7 @@
         <text>Albo siê zaciê³y, albo Szkir mo¿e coœ dopowiedzieæ.\n%c[255,1,255,255]Szkir\n%c[default]Chcia³bym, ¿ebyœ nie by³ takim idiot¹. Ja te¿ chcê siê st¹d wydostaæ, po co Ciê teraz oszukiwaæ?</text>
     </string>
     <string id="for_lab_infernis_shkir_dialog_end_5">
-        <text>Mo¿e spróbujê skontaktowaæ siê z Sithem? Przeœlê mu swoje wspó³rzêdne, jednoczeœnie dowiemy siê gdzie jesteœmy. Otworzy drzwi z zewn¹trz, a wtedy na pewno bêdziesz zginiesz, Szkir.</text>
+        <text>Mo¿e spróbujê skontaktowaæ siê z Sithem? Przeœlê mu swoje wspó³rzêdne, jednoczeœnie dowiemy siê gdzie jesteœmy. Otworzy drzwi z zewn¹trz, a wtedy na pewno bêdziesz martwy, Szkir.</text>
     </string>
     <string id="for_lab_infernis_shkir_dialog_end_6">
         <text>...\n%c[255,1,255,255]Szkir\n%c[default]Ju¿ mnie chuj strzela przez te Twoje próby zabicia mnie. Czy zapomnia³eœ, co powiedzia³em o mojej zbroi? Ani kule, ani no¿e jej nie przebij¹.</text>
@@ -1213,7 +1213,7 @@
         <text>Infernis i ja wykoñczyliœmy tego krwiopijcê.</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_end_end_1">
-        <text>¯e co wy, przepraszam, zrobiliœcie? Ten krwiopijca, który niedawno zabi³ trzech przeœladowców, jest ju¿ martwy?</text>
+        <text>¯e co wy, przepraszam, zrobiliœcie? Ten krwiopijca, który niedawno zabi³ trzech stalkerów, jest ju¿ martwy?</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_end_end_2">
         <text>Oto jego macki. Czarny, nie tak jak reszta krwiopijców. Infernis pomóg³ mi sobie z tym poradziæ i mo¿e potwierdziæ moje s³owa.</text>
@@ -1654,10 +1654,10 @@
         <text>Bez w¹tpienia. Dobra, wróæmy do dokumentów. Oto, czego potrzebujesz.</text>
     </string>
     <string id="for_professor_nikson_dialog_end_5">
-        <text>Czy jesteœ zaskoczony? Wys³a³ nas dwojga na pewn¹ œmieræ - na wyjœciu spotkaliœmy kontrolera, dla którego te mentalne tortury s¹ najlepszym sposobem na zaw³adniêcie nami. Wci¹¿ mi, kurwa, mózg p³ywa przez to, przez co przeszed³em.</text>
+        <text>Jesteœ zaskoczony? Wys³a³eœ nas dwojga na pewn¹ œmieræ - na wyjœciu spotkaliœmy kontrolera, dla którego te mentalne tortury s¹ najlepszym sposobem na zaw³adniêcie nami. Wci¹¿ mi, kurwa, mózg p³ywa przez to, przez co przeszed³em.</text>
     </string>
     <string id="for_professor_nikson_dialog_end_6">
-        <text>Czekaj, czekaj, jaki kontroler? Nie mia³em pojêcia, ¿e tam, oprócz zombie i niektórych "widm", o których opowiadali stalkerzy, mieszka ktoœ jeszcze. Naprawdê nie wiedzia³em, ¿e to siê stanie. Gdybym wiedzia³, wyposa¿y³bym Ciê znacznie lepiej. Ja równie¿ jestem zainteresowany uzyskaniem wyników, minimalizuj¹c ryzyko utraty ludzi.</text>
+        <text>Czekaj, czekaj, jaki kontroler? Nie mia³em pojêcia, ¿e tam, oprócz zombie i niektórych "zjaw", o których opowiadali stalkerzy, mieszka ktoœ jeszcze. Naprawdê nie wiedzia³em, ¿e to siê stanie. Gdybym wiedzia³, wyposa¿y³bym Ciê znacznie lepiej. Ja równie¿ jestem zainteresowany uzyskaniem wyników, minimalizuj¹c ryzyko utraty ludzi.</text>
     </string>
     <string id="for_professor_nikson_dialog_end_7">
         <text>Dobra, do diab³a z tym. Mam dokumenty. Te, których potrzebujesz.</text>
