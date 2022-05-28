@@ -1,319 +1,319 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="ammo-11.43x23-fmj">
-		<text>Патроны .45 ACP</text>
+		<text>Naboje .45 ACP</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_descr">
-		<text>Патрон калибра .45 с оболочечной пулей остаётся популярным уже более сотни лет. Тяжёлая пуля при относительно слабом пороховом заряде летит с не слишком большой скоростью, но обладает значительным останавливающим действием.</text>
+		<text>Naboje kaliber .45 z pіaszczem jest popularny od ponad stu lat. Ciкїki pocisk ze stosunkowo sіabym іadunkiem prochu leci z niezbyt duї№ prкdkoњci№, ale ma znaczny efekt obalaj№cy.</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
 		<text>.45 ACP</text>
 	</string>
 	<string id="ammo-11.43x23-hydro">
-		<text>Патроны .45 ACP Hydroshock</text>
+		<text>Naboje .45 ACP Hydroshock</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_descr">
-		<text>Нестандартный тип патрона для калибра .45 ACP - полуоболочечная пуля с экспансивной выемкой и стальным сердечником. Этой комбинации полуоболочечной экспансивной и бронебойной пуль свойственны как все достоинства, так и все недостатки обоих типов.</text>
+		<text>Niestandardowy typ naboju do kalibru .45 ACP to pocisk pуіpіaszczowy z ekspansywnym wyciкciem i stalowym rdzeniem. Ta kombinacja pуіpociskуw ekspansywnych i przeciwpancernych ma wszystkie zalety i wady obu typуw.</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
 		<text>.45 Hydro</text>
 	</string>
 	<string id="ammo-12x70-buck">
-		<text>Патроны 12х70 дробь</text>
+		<text>Naboje 12x70 Њrut</text>
 	</string>
 	<string id="ammo-12x70-buck_descr">
-		<text>Обычный патрон 12-го калибра, снаряжённый дробью диаметром 6 мм. На близких дистанциях обладает огромным убойным и останавливающим действием. Предназначен для стрельбы только из гладкоствольного оружия.</text>
+		<text>Zwykіy nabуj kalibru 12 іadowany њrutem o њrednicy 6 mm. Z bliskiej odlegіoњci ma efekt њmiercionoњny i obalaj№cy. Przeznaczony do strzelania wyі№cznie z broni gіadkolufowej.</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12х70 др</text>
+		<text>12x70 њr</text>
 	</string>
 	<string id="ammo-12x76-zhekan">
-		<text>Патроны 12x76 жекан</text>
+		<text>Naboje 12x76 Їuk</text>
 	</string>
 	<string id="ammo-12x76-zhekan_descr">
-		<text>Патрон 12-го калибра с безоболочечной пулей. Обычно используется для охоты на крупных животных, но подходит и для других целей: его тяжёлая пуля не пробивает, а фактически продавливает бронежилеты.</text>
+		<text>Nabуj kalibru 12 z pociskiem bez pіaszcza. Zwykle uїywany do polowania na duїe zwierzкta, ale nadaje siк rуwnieї do innych celуw: jego ciкїka kula faktycznie przebija kamizelkк kuloodporn№.</text>
 	</string>
 	<string id="ammo-12x76-zhekan_s">
-		<text>12x76 жк</text>
+		<text>12x76 їk</text>
 	</string>
 	<string id="ammo-5.45x39-ap">
-		<text>Патроны 5,45x39 мм БП</text>
+		<text>Naboje 5,45x39 BP</text>
 	</string>
 	<string id="ammo-5.45x39-ap_descr">
-		<text>Армейский патрон калибра 5,45x39 мм 7Н22 с бронебойной пулей используется в автоматических винтовках многих стран - участниц Варшавского договора. Внутри пули находится бронебойный сердечник из твёрдого сплава. Эффективен против бронежилетов.</text>
+		<text>Wojskowe naboje kaliber 5,45x39mm 7N22 z pociskiem przeciwpancernym stosowany jest w karabinach automatycznych wielu krajуw - czіonkуw Ukіadu Warszawskiego. Wewn№trz pocisku znajduje siк przebijaj№cy pancerz rdzeс z twardego stopu. Skuteczny przeciwko kamizelkom kuloodpornym.</text>
 	</string>
 	<string id="ammo-5.45x39-ap_s">
-		<text>5,45x39 БП</text>
+		<text>5,45x39 BP</text>
 	</string>
 	<string id="ammo-5.45x39-fmj">
-		<text>Патроны 5,45x39 мм</text>
+		<text>Naboje 5,45x39 FMJ</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_descr">
-		<text>Патрон калибра 5,45x39 мм 7Н10 с пулей повышенной пробиваемости используется в автоматических винтовках многих стран - участниц Варшавского договора. Благодаря уменьшению импульса отдачи и увеличению дальности полета пули обеспечивает более высокую точность боя в сравнении со старым патроном калибра 7,62 мм.</text>
+		<text>Nabуj kalibru 5,45x39mm 7N10 z pociskiem o zwiкkszonej penetracji stosowany jest w karabinach automatycznych wielu krajуw - czіonkуw Ukіadu Warszawskiego. Zmniejszaj№c moment odrzutu i zwiкkszaj№c zasiкg pocisku, zapewnia wiкksz№ celnoњж w porуwnaniu ze starym nabojem kalibru 7,62 mm.</text>
 	</string>
 	<string id="ammo-5.45x39-fmj_s">
 		<text>5,45x39</text>
 	</string>
 	<string id="ammo-5.56x45-ap">
-		<text>Патроны 5,56x45 мм AP</text>
+		<text>Naboje 5,56x45 AP</text>
 	</string>
 	<string id="ammo-5.56x45-ap_descr">
-		<text>НАТОвский патрон калибра 5,56х45 мм c повышенной пробивающей способностью, известный под индексом SS190/М855. Эффективен против бронежилетов. Широко используется в стрелковом оружии армий и спецслужб стран Запада.</text>
+		<text>Nabуj NATO kalibru 5,56x45 mm o zwiкkszonej penetracji, znany pod indeksem SS190/M855. Skuteczny przeciwko kamizelkom kuloodpornym. Jest szeroko stosowany w broni strzeleckiej armii i sіuїb specjalnych krajуw zachodnich.</text>
 	</string>
 	<string id="ammo-5.56x45-ap_s">
-		<text>5,56х45 AP</text>
+		<text>5,56x45 AP</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
-		<text>Патроны 5,56х45 мм</text>
+		<text>Naboje 5,56x45 SS</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_descr">
-		<text>Малоимпульсный НАТОвский патрон калибра 5,56х45 мм, разработанный для ведения прицельного огня очередями. Известен под индексом SS109. Обладает прекрасными баллистическими характеристиками.</text>
+		<text>Niskoimpulsowy nabуj NATO o kalibrze 5,56x45 mm, przeznaczony do strzelania seriami. Znany pod indeksem SS109. Posiada doskonaіe wіaњciwoњci balistyczne.</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
-		<text>5,56х45</text>
+		<text>5,56x45 SS</text>
 	</string>
 	<string id="ammo-7.62x54-7h14">
-		<text>Патроны 7,62x54 мм 7H1</text>
+		<text>Naboje 7,62x54 7H1</text>
 	</string>
 	<string id="ammo-7.62x54-7h14_descr">
-		<text>Специально разработанный снайперский патрон калибра 7,62 мм. Пуля оснащена стальным сердечником. В сравнении со стандартным патроном того же калибра обладает улучшенными баллистическими характеристиками и повышенной пробивающей способностью.</text>
+		<text>Specjalnie zaprojektowany nabуj snajperski 7,62mm. Kula wyposaїona jest w stalowy rdzeс. W porуwnaniu ze standardowym nabojem tego samego kalibru ma ulepszone wіaњciwoњci balistyczne i zwiкkszon№ siік penetracji.</text>
 	</string>
 	<string id="ammo-7.62x54-7h14_s">
 		<text>7,62x54 7H1</text>
 	</string>
 	<string id="ammo-7.62x54-ap">
-		<text>Патроны 7,62x54 мм ПП</text>
+		<text>Naboje 7,62x54 AP</text>
 	</string>
 	<string id="ammo-7.62x54-ap_descr">
-		<text>Недорогой стандартный патрон калибра 7,62 мм. В силу конструктивных особенностей мало подходит для снайперских винтовок и используется в качестве боепитания пулемёта РП-74.</text>
+		<text>Niedrogi standardowy nabуj kaliber 7,62 mm. Ze wzglкdu na swoje cechy konstrukcyjne nie nadaje siк do karabinуw snajperskich i jest uїywany jako amunicja do karabinu maszynowego RP-74.</text>
 	</string>
 	<string id="ammo-7.62x54-ap_s">
-		<text>7,62x54 ПП</text>
+		<text>7,62x54 AP</text>
 	</string>
 	<string id="ammo-9x18-fmj">
-		<text>Патроны 9х18 мм</text>
+		<text>Naboje 9x18 FMJ</text>
 	</string>
 	<string id="ammo-9x18-fmj_descr">
-		<text>Под металлической оболочкой пули этого боеприпаса скрыты стальной сердечник и свинцовая рубашка. Обладает хорошим останавливающим действием, однако малоэффективен против бронежилетов.</text>
+		<text>Pod metalowym pіaszczem pocisku tej amunicji ukryty jest stalowy rdzeс i oіowiany pіaszcz. Ma dobry efekt obalania, ale jest nieskuteczny w przypadku kamizelek kuloodpornych.</text>
 	</string>
 	<string id="ammo-9x18-fmj_s">
-		<text>9х18</text>
+		<text>9x18 FMJ</text>
 	</string>
 	<string id="ammo-9x18-pmm">
-		<text>Патроны 9х18 мм +P+</text>
+		<text>Naboje 9x18 +P+</text>
 	</string>
 	<string id="ammo-9x18-pmm_descr">
-		<text>Патрон с пулей повышенного останавливающего действия, где европейская маркировка +Р+ обозначает «очень высокое давление в стволе». По сравнению с обычным патроном скорость пули увеличена на треть. Малоэффективен против бронежилетов.</text>
+		<text>Nabуj z pociskiem o zwiкkszonej sile raїenia, gdzie europejskie oznaczenie +P+ oznacza „bardzo wysokie ciњnienie w lufie”. W porуwnaniu z konwencjonalnym nabojem prкdkoњж pocisku jest zwiкkszona o jedn№ trzeci№. Nieskuteczny przeciwko kamizelkom kuloodpornym.</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
-		<text>9х18 +P+</text>
+		<text>9x18 +P+</text>
 	</string>
 	<string id="ammo-9x19-fmj">
-		<text>Патроны 9х19 мм FMJ</text>
+		<text>Naboje 9x19 FMJ</text>
 	</string>
 	<string id="ammo-9x19-fmj_descr">
-		<text>Стандартный патрон калибра 9х19 мм с оболочечной пулей. Обладает хорошими баллистическими характеристиками и при этом недорог в изготовлении, что и обусловило широкое его распространение. Малоэффективен против бронежилетов.</text>
+		<text>Standardowy nabуj kaliber 9x19 mm z pociskiem w pіaszczu. Ma dobre wіaњciwoњci balistyczne, a jednoczeњnie jest niedrogi w produkcji, co doprowadziіo do jego szerokiej dystrybucji. Nieskuteczny przeciwko kamizelkom kuloodpornym.</text>
 	</string>
 	<string id="ammo-9x19-fmj_s">
-		<text>9х19 FMJ</text>
+		<text>9x19 FMJ</text>
 	</string>
 	<string id="ammo-9x19-pbp">
-		<text>Патроны 9x19 мм JHP</text>
+		<text>Naboje 9x19 JHP</text>
 	</string>
 	<string id="ammo-9x19-pbp_descr">
-		<text>Полуоболочечная пуля с экспансивной выемкой имеет высокое останавливающее действие и не склонна к рикошетам. Используется в основном как «полицейский» боеприпас и в гражданском оружии индивидуальной защиты. Малоэффективен против бронежилетов.</text>
+		<text>Pocisk pуіpіaszczowy z pustym otworem ma duї№ siік raїenia i nie jest podatny na rykoszety. Wykorzystywana jest gіуwnie jako amunicja „policyjna” oraz w cywilnej broni osobistej. Nieskuteczny przeciwko kamizelkom kuloodpornym.</text>
 	</string>
 	<string id="ammo-9x19-pbp_s">
 		<text>9x19 JHP</text>
 	</string>
 	<string id="ammo-9x39-ap">
-		<text>Патроны 9x39 мм СП-6</text>
+		<text>Naboje 9x39 SP-6</text>
 	</string>
 	<string id="ammo-9x39-ap_descr">
-		<text>Дозвуковой «автоматный» патрон СП-6 оснащён полуоболочечной пулей с частично открытым сердечником из закалённой стали. Требует использования глушителя для обеспечения бесшумной стрельбы. Распространён в некоторых странах - участницах Варшавского договора. Эффективен против бронежилетов.</text>
+		<text>Poddџwiкkowy „automatyczny” nabуj SP-6 jest wyposaїony w pуіskorupowy pocisk z czкњciowo otwartym rdzeniem ze stali hartowanej. Wymaga uїycia tіumika, aby zapewniж ciche strzelanie. Ukazuje siк w niektуrych krajach – czіonkуw Ukіadu Warszawskiego. Skuteczny przeciwko kamizelkom kuloodpornym.</text>
 	</string>
 	<string id="ammo-9x39-ap_s">
-		<text>9x39 СП-6</text>
+		<text>9x39 SP-6</text>
 	</string>
 	<string id="ammo-9x39-pab9">
-		<text>Патроны 9х39 мм СП-5</text>
+		<text>Naboje 9x39 SP-5</text>
 	</string>
 	<string id="ammo-9x39-pab9_descr">
-		<text>Дозвуковой «снайперский» патрон СП-5 оснащён пулей с биметаллической оболочкой. Полость позади стального сердечника заполнена свинцом. Требует использования глушителя для обеспечения бесшумной стрельбы. Распространён в некоторых странах - участницах Варшавского договора.</text>
+		<text>Poddџwiкkowy nabуj „snajperski” SP-5 jest wyposaїony w pocisk z bimetalicznym pіaszczem. Wnкka za stalowym rdzeniem jest wypeіniona oіowiem. Wymaga uїycia tіumika, aby zapewniж ciche strzelanie. Ukazuje siк w niektуrych krajach – czіonkуw Ukіadu Warszawskiego.</text>
 	</string>
 	<string id="ammo-9x39-pab9_s">
-		<text>9х39 мм СП-5</text>
+		<text>9x39 SP-5</text>
 	</string>
 	<string id="ammo-gauss">
-		<text>Аккумуляторы</text>
+		<text>Baterie</text>
 	</string>
 	<string id="ammo-m209">
-		<text>Граната M203</text>
+		<text>Granat M203</text>
 	</string>
 	<string id="ammo-m209_descr">
-		<text>Граната подствольного гранатомёта М203 калибром 40 мм. Радиус эффективной зоны поражения осколками составляет около 5 м.</text>
+		<text>Granat podlufowy do granatnika M203 kaliber 40 mm. Promieс efektywnej strefy zniszczenia przez odіamki wynosi okoіo 5 m.</text>
 	</string>
 	<string id="ammo-m209_s">
 		<text>M203</text>
 	</string>
 	<string id="ammo-og-7b">
-		<text>ОГ-7B «Карандаш»</text>
+		<text>OG-7B "Oіуwek"</text>
 	</string>
 	<string id="ammo-og-7b_descr">
-		<text>Осколочно-фугасная противопехотная граната. При помощи пусковой установки РПГ-7 позволяет поражать укрывшегося противника на расстоянии, превышающем дальность броска ручной гранаты.</text>
+		<text>Granat przeciwpiechotny odіamkowo-burz№cy. Przy pomocy wyrzutni RPG-7 pozwala trafiж ukrytego przeciwnika na odlegіoњж przekraczaj№c№ zasiкg rzutu granatu rкcznego.</text>
 	</string>
 	<string id="ammo-og-7b_s">
-		<text>ОГ-7B</text>
+		<text>OG-7B</text>
 	</string>
 	<string id="ammo-vog-25">
-		<text>Граната ВОГ-25</text>
+		<text>Granat VOG-25</text>
 	</string>
 	<string id="ammo-vog-25_descr">
-		<text>Осколочная граната подствольного гранатомёта ГП-25 «Костёр»; используется также в комплексе ОЦ-14 «Гроза» и гранатомёте РГ-6. Радиус эффективной зоны поражения осколками составляет около 5 м.</text>
+		<text>Granat odіamkowy podlufowy do granatnika GP-25 „Їar”. Jest rуwnieї uїywany w OTs-14 Groza i granatniku RG-6. Promieс efektywnej strefy zniszczenia przez odіamki wynosi okoіo 5 m.</text>
 	</string>
 	<string id="ammo-vog-25_s">
-		<text>ВОГ-25</text>
+		<text>VOG-25</text>
 	</string>
 	<string id="st_addon_scope">
-		<text>Прицел ПСО-1</text>
+		<text>Celownik PSO-1</text>
 	</string>
 	<string id="st_addon_scope_descr">
-		<text>Широко распространённый оптический прицел советского производства фиксированной кратности (5 диоптрий). Оснащён шкалой для определения дальности до цели. Для установки на оружие используется стандартное в странах - участницах Варшавского договора крепление типа «ласточкин хвост».</text>
+		<text>Powszechny celownik optyczny produkcji sowieckiej o staіym powiкkszeniu (5 dioptrii). Wyposaїony w skalк do okreњlenia odlegіoњci do celu. Do montaїu na broni uїywany jest montaї na jaskуіczy ogon, standard w krajach Ukіadu Warszawskiego.</text>
 	</string>
 	<string id="st_addon_scope_groza">
-		<text>Прицел ПО 4x34</text>
+		<text>Celownik PO 4x34</text>
 	</string>
 	<string id="st_addon_scope_groza_descr">
-		<text>Прицелы оптические постоянного и переменного увеличения устанавливаются на охотничье нарезное оружие и предназначены для прицельной наводки его при стрельбе. На оружие прицелы монтируются при помощи специальных кронштейнов.</text>
+		<text>Celownik optyczny o staіym i zmiennym powiкkszeniu montuje siк na myњliwskiej broni gwintowanej i jest przeznaczony do celowania podczas strzelania. Przyrz№d celowniczy montuje siк na broni za pomoc№ specjalnych wspornikуw.</text>
 	</string>
 	<string id="st_addon_scope_detector">
-		<text>Прицел ПСО-1 х5 «Детектор»</text>
+		<text>Celownik PSO-1 x5 Detektor</text>
 	</string>
 	<string id="st_addon_scope_detector_descr">
-		<text>Оптический прицел фиксированной кратности (5 диоптрий) со встроенной системой захвата цели на основе тепловизора. Предназначен для использования группами специального назначения. Для установки на оружие используется стандартное в странах - участницах Варшавского договора крепление типа «ласточкин хвост».</text>
+		<text>Celownik optyczny o staіym powiкkszeniu (5 dioptrii) z wbudowanym systemem akwizycji celu opartym na kamerze termowizyjnej. Zaprojektowany do uїytku przez zespoіy siі specjalnych. Do montaїu na broni uїywany jest przez jaskуіczy ogon, standard w krajach Ukіadu Warszawskiego.</text>
 	</string>
 	<string id="st_addon_scope_night_vision">
-		<text>Прицел ПСО-1 х5 «Ночь»</text>
+		<text>Celownik PSO-1 x5 Noc</text>
 	</string>
 	<string id="st_addon_scope_night_vision_descr">
-		<text>Ночной бесподсветочный прицел фиксированной кратности (5 диоптрий). Предназначен для ведения боя в условиях отсутствия источников света. Для установки на оружие используется стандартное в странах - участницах Варшавского договора крепление типа «ласточкин хвост».</text>
+		<text>Celownik nocny nieoњwietlony o staіym powiкkszeniu (5 dioptrii). Przeznaczony do walki w przypadku braku џrуdeі њwiatіa. Montaї do broni uїywany jest przez jaskуіczy ogon, standard w krajach Ukіadu Warszawskiego.</text>
 	</string>
 	<string id="st_addon_scope_susat">
-		<text>Прицел ACOG 4х</text>
+		<text>Celownik ACOG 4x</text>
 	</string>
 	<string id="st_addon_scope_susat_custom_descr">
-		<text>Регулируемый дальномерный прицел настраиваемой кратности (от 1,6 до 4 диоптрий) с возможностью самостоятельной регулировки для повышения точности ведения огня. Устанавливается на планку Пикатинни.</text>
+		<text>Regulowany celownik dalmierzowy z regulowanym powiкkszeniem (od 1,6 do 4 dioptrii) z moїliwoњci№ samodzielnej regulacji w celu poprawy celnoњci strzaіu. Montowany na szynie Picatinny.</text>
 	</string>
 	<string id="st_addon_scope_susat_descr">
-		<text>Оптический прицел фиксированной кратности (4 диоптрии). Чаще всего используется для ведения прицельного огня из лёгкого стрелкового оружия на средние и большие дистанции. Устанавливается на планку Пикатинни. </text>
+		<text>Celownik optyczny o staіym powiкkszeniu (4 dioptrie). Najczкњciej uїywany do strzelania celowanego z broni strzeleckiej na њrednich i dіugich dystansach. Montowany na szynie Picatinny. </text>
 	</string>
 	<string id="st_addon_scope_susat_dusk">
-		<text>Прицел ACOG х1.6 «Сумерки»</text>
+		<text>Celownik ACOG x1,6 Zmierzch</text>
 	</string>
 	<string id="st_addon_scope_susat_dusk_descr">
-		<text>Оптический прицел ACOG фиксированной кратности (1,6 диоптрии) с повышенной контрастностью. Предназначен для ведения ближнего боя в условиях недостаточной освещённости. Устанавливается на планку Пикатинни.</text>
+		<text>Celownik optyczny ACOG o staіym powiкkszeniu (1,6 dioptrii) o podwyїszonym kontraњcie. Przeznaczony do walki w zwarciu w warunkach sіabego oњwietlenia. Montowany na szynie Picatinny.</text>
 	</string>
 	<string id="st_addon_scope_susat_night_vision">
-		<text>Прицел ACOG х4 «Ночь»</text>
+		<text>Celownik ACOG x4 Noc</text>
 	</string>
 	<string id="st_addon_scope_susat_night_vision_descr">
-		<text>Оптический прицел фиксированной кратности (4 диоптрии) с интегрированным прибором ночного видения. Предназначен для ведения боя на дальних дистанциях в отсутствие источников света. Устанавливается на планку Пикатинни.</text>
+		<text>Celownik optyczny o staіym powiкkszeniu (4 dioptrie) ze zintegrowanym noktowizorem. Przeznaczony do walki na duїe odlegіoњci przy braku џrуdeі њwiatіa. Montowany na szynie Picatinny.</text>
 	</string>
 	<string id="st_addon_scope_susat_x1.6">
-		<text>Прицел ACOG 1.6х</text>
+		<text>Celownik ACOG 1.6x</text>
 	</string>
 	<string id="st_addon_scope_susat_x1.6_descr">
-		<text>Оптический прицел фиксированной кратности (1,6 диоптрии). Предназначен для ведения боя на малых и средних дистанциях. Устанавливается на планку Пикатинни.</text>
+		<text>Celownik optyczny o staіym powiкkszeniu (1,6 dioptrii). Przeznaczony do walki na krуtkim i њrednim dystansie. Montowany na szynie Picatinny.</text>
 	</string>
 	<string id="st_addon_scope_x2.7">
-		<text>Прицел ПСО-1 2.7х</text>
+		<text>Celownik PSO-1 2.7x</text>
 	</string>
 	<string id="st_addon_scope_x2.7_descr">
-		<text>Оптический прицел фиксированной кратности (2,7 диоптрии). Оптимизирован для боя на средних дистанциях, а также для использования в условиях городской застройки. Для установки на оружие используется стандартное в странах - участницах Варшавского договора крепление типа «ласточкин хвост».</text>
+		<text>Celownik optyczny o staіym powiкkszeniu (2,7 dioptrii). Zoptymalizowany do walki na њrednich dystansach, a takїe do uїytku na terenach miejskich. Montaї do broni jest przez jaskуіczy ogon, standard w krajach Ukіadu Warszawskiego.</text>
 	</string>
 	<string id="st_addon_silencer">
-		<text>Глушитель 9мм</text>
+		<text>Tіumik 9mm</text>
 	</string>
 	<string id="st_addon_silencer_descr">
-		<text>Прибор для беззвучной и беспламенной стрельбы для пистолетов и пистолетов-пулемётов калибра 9мм.</text>
+		<text>Urz№dzenie do cichego i bezpіomieniowego strzelania do pistoletуw i pistoletуw maszynowych kalibru 9mm.</text>
 	</string>
 	<string id="st_addon_silencer_45">
-		<text>Глушитель .45ACP</text>
+		<text>Tіumik .45ACP</text>
 	</string>
 	<string id="st_addon_silencer_45_descr">
-		<text>Прибор бесшумной стрельбы для пистолетов 45-го калибра.</text>
+		<text>Tіumik do pistoletуw kalibru 45.</text>
 	</string>
 	<string id="st_addon_silencer_545u">
-		<text>Глушитель ПБС-4</text>
+		<text>Tіumik PBS-4</text>
 	</string>
 	<string id="st_addon_silencer_545u_descr">
-		<text>ПБС-4. Прибор для беззвучной и беспламенной стрельбы из 5,45-мм автомата Калашникова укороченного (АКС-74У).</text>
+		<text>PBS-4. Urz№dzenie do cichego i bezpіomieniowego strzelania ze skrуconego karabinu szturmowego Kaіasznikowa 5,45 mm (AKS-74U).</text>
 	</string>
 	<string id="st_addon_silencer_556">
-		<text>Глушитель НАТО</text>
+		<text>Tіumik NATO</text>
 	</string>
 	<string id="st_addon_silencer_556_descr">
-		<text>Прибор для беззвучной и беспламенной стрельбы для штурмовых винтовок стандарта НАТО калибра 5,56х45.</text>
+		<text>Ciche i bezpіomieniowe urz№dzenie do karabinуw szturmowych NATO w kalibrze 5,56x45.</text>
 	</string>
 	<string id="st_grenade_f1">
-		<text>Граната Ф-1</text>
+		<text>Granat F-1</text>
 	</string>
 	<string id="st_grenade_f1_descr">
-		<text>Ручная оборонительная граната; её осколки способны пробивать бронежилеты средней степени защиты, а взрывная волна поражает цели в радиусе до 7 м. В руки сталкеров попадает обычно в процессе меновых отношений с военными.</text>
+		<text>Granat rкczny. Jego fragmenty s№ w stanie przebiж kamizelki kuloodporne o њrednim stopniu ochrony, a fala uderzeniowa uderza w cele w promieniu do 7 m. Zwykle wpada w rкce stalkerуw w procesie wymiany z wojskiem.</text>
 	</string>
 	<string id="st_grenade_launcher">
-		<text>ГП-25 «Костёр»</text>
+		<text>GP-25 Їar</text>
 	</string>
 	<string id="st_grenade_launcher_descr">
-		<text>Однозарядный, заряжаемый с дула подствольный гранатомёт для автоматических винтовок стран - участниц Варшавского договора. Ударно-спусковой механизм самовзводный, с ручным предохранителем и автоматической блокировкой выстрела при неправильной установке. Для снаряжения используются боеприпасы ВОГ-25.</text>
+		<text>Jednostrzaіowy, іadowany odprzodowo granatnik podlufowy do karabinуw automatycznych krajуw Ukіadu Warszawskiego. Mechanizm spustowy jest samonapinaj№cy, z rкcznym zabezpieczeniem i automatycznym blokowaniem strzaіu w przypadku nieprawidіowej instalacji. Do wyposaїenia uїywana jest amunicja VOG-25.</text>
 	</string>
 	<string id="st_grenade_launcher_m203">
 		<text>M203</text>
 	</string>
 	<string id="st_grenade_launcher_m203_descr">
-		<text>Модификация однозарядного гранатомета М203 с укороченным на три дюйма стволом и креплением для установки на планку Пикатинни. Благодаря смене крепления данная модель нашла очень широкое применение во всём мире.</text>
+		<text>Modyfikacja jednostrzaіowego granatnika M203 z luf№ skrуcon№ o 3 cale i montaїem na szynie Picatinny. Dziкki zmianie zapiкcia model ten znalazі bardzo szerokie zastosowanie na caіym њwiecie.</text>
 	</string>
 	<string id="st_grenade_rgd5">
-		<text>Граната РГД-5</text>
+		<text>Granat RPG-5</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>Наступательная ручная граната с небольшим радиусом поражения осколками. Радиус поражения взрывной волной составляет около 5 м. Часто используется сталкерами для выкуривания мутантов из нор.</text>
+		<text>Ofensywny granat rкczny o maіym promieniu odіamania. Promieс wybuchu wynosi okoіo 5 m. Jest czкsto uїywany przez stalkerуw do wypalania mutantуw z ich nor..</text>
 	</string>
 	<string id="st_grenade_smoke">
-		<text>Дымовая граната</text>
+		<text>Granat Dymny</text>
 	</string>
 	<string id="st_grenade_smoke_descr">
-		<text>Ручная дымовая граната. Предназначена для установки дымовой завесы. Время формирования завесы - 10 секунд.</text>
+		<text>Rкczny granat dymny. Przeznaczony jest do tworzenia zasіony dymnej. Czas formowania kurtyny - 10 sekund.</text>
 	</string>
 	<string id="st_knife">
-		<text>Нож</text>
+		<text>Nуї</text>
 	</string>
 	<string id="st_wpn_abakan">
-		<text>АН-94 «Абакан»</text>
+		<text>AN-94 Abakan</text>
 	</string>
 	<string id="st_wpn_ak74">
-		<text>АКС-74</text>
+		<text>AKS-74</text>
 	</string>
 	<string id="st_wpn_ak74u">
-		<text>АКС-74У</text>
+		<text>AKS-74U</text>
 	</string>
 	<string id="st_wpn_beretta">
 		<text>Beretta M92</text>
 	</string>
 	<string id="st_wpn_bm16">
-		<text>Обрез БМ-16</text>
+		<text>Strzelba BM-16</text>
 	</string>
 	<string id="st_wpn_bm16_descr">
-		<text>Обрез обычного охотничьего ружья с горизонтальным расположением стволов, значительно более компактный и лёгкий, чем обычная двустволка. Один из самых распространённых видов оружия у бандитов, поскольку удобен для скрытого ношения и очень эффективен в ближнем бою.</text>
+		<text>Obciкta strzelba konwencjonalnej strzelby myњliwskiej z poziom№ luf№, znacznie bardziej kompaktowa i lїejsza niї konwencjonalna strzelba dwulufowa. Jeden z najczкstszych rodzajуw broni wњrуd bandytуw, poniewaї jest wygodny do noszenia w ukryciu i bardzo skuteczny w walce w zwarciu.</text>
 	</string>
 	<string id="st_wpn_colt1911">
 		<text>Colt M1911A1</text>
 	</string>
 	<string id="st_wpn_desert_eagle_nimble">
-		<text>Desert Eagle «Черный ястреб»</text>
+		<text>Desert Eagle Czarny Jastrz№b</text>
 	</string>
 	<string id="st_wpn_desert_eagle_nimble_descr">
-		<text>Штучная работа, в основу которой легла конструкция Desert Eagle. Детали подогнаны очень тщательно, что позволило добится беспрецедентной точности боя.</text>
+		<text>Praca na podstawie projektu Desert Eagle. Detale spasowane s№ bardzo starannie, co pozwoliіo na osi№gniкcie niespotykanej dot№d dokіadnoњci bitwy.</text>
 	</string>
 	<string id="st_wpn_eagle">
 		<text>Desert Eagle</text>
@@ -322,31 +322,31 @@
 		<text>FN F2000</text>
 	</string>
 	<string id="st_wpn_fort">
-		<text>Форт-12</text>
+		<text>Fort-12</text>
 	</string>
 	<string id="st_wpn_g36">
 		<text>HK G36</text>
 	</string>
 	<string id="st_wpn_gauss">
-		<text>Гаусс-пушка</text>
+		<text>Pistolet Gaussa</text>
 	</string>
 	<string id="st_wpn_groza">
-		<text>ОЦ-14 «Гроза»</text>
+		<text>OTs-14 Groza</text>
 	</string>
 	<string id="st_wpn_groza_descr">
-		<text>Автоматно-гранатометный комплекс, на 70% унифицированный с автоматами типа АК-74 (основные отличия - калибр 9х39 мм, компоновочная схема «булл-пап» и более широкие возможности для модернизации). Разработан для вооружения подразделений быстрого реагирования. Очень ценим военными и сталкерами за способность надёжно поражать защищённого бронежилетом или расположенного в укрытии противника.</text>
+		<text>System automatu i granatnika, zunifikowany w 70% z karabinami szturmowymi typu AK-74 (gіуwne rуїnice to kaliber 9x39 mm, ukіad bullpup i wiкksze moїliwoњci modernizacji). Zaprojektowany do wyposaїenia jednostek szybkiego reagowania. Bardzo doceniamy wojsko i stalkerуw za umiejкtnoњж skutecznego trafienia wroga chronionego kamizelk№ kuloodporn№ lub znajduj№cego siк w schronie.</text>
 	</string>
 	<string id="st_wpn_groza_nimble">
-		<text>ОЦ-14 «Шторм»</text>
+		<text>OTs-14 Burza</text>
 	</string>
 	<string id="st_wpn_groza_nimble_descr">
-		<text>Опытный образец автоматно-гранатометного комплекса, российская модификация стандартного ОЦ-14 «Гроза», созданная специально для действующих в Зоне спецподразделений. Отличается увеличенной ёмкостью магазина.</text>
+		<text>Prototyp systemu automatu i granatnika, rosyjska modyfikacja standardowego OTs-14 Burza, stworzona specjalnie dla siі specjalnych dziaіaj№cych w Strefie. Rуїni siк zwiкkszon№ pojemnoњci№ sklepu.</text>
 	</string>
 	<string id="st_wpn_hpsa">
 		<text>Browning HP-SA</text>
 	</string>
 	<string id="st_wpn_hpsa_descr">
-		<text>Модифицированная модель пистолета первой половины ХХ века. Несмотря на почтенный возраст, популярность данной модели во всём мире по-прежнему весьма высока.</text>
+		<text>Zmodyfikowany model pistoletu z pierwszej poіowy xx wieku. Mimo sкdziwego wieku popularnoњж tego modelu na caіym њwiecie jest nadal bardzo wysoka.</text>
 	</string>
 	<string id="st_wpn_l85">
 		<text>L85A2</text>
@@ -358,146 +358,145 @@
 		<text>MP5</text>
 	</string>
 	<string id="st_wpn_mp5_descr">
-		<text>Данный пистолет-пулемёт заслуженно пользуется огромной популярностью благодаря надёжности, удобству в обращении и высокой точности стрельбы. Принятый на вооружение армейских и полицейских подразделений многих стран, он появился и на чёрном рынке и со временем добрался до Зоны.</text>
+		<text>Ten pistolet maszynowy zasіuїenie cieszy siк duї№ popularnoњci№ ze wzglкdu na swoj№ niezawodnoњж, іatwoњж obsіugi i wysok№ celnoњж. Przyjкty przez wojska i jednostki policji wielu krajуw, pojawiі siк rуwnieї na czarnym rynku i ostatecznie dotarі do Strefy.</text>
 	</string>
 	<string id="st_wpn_mp5_nimble">
-		<text>MP5 «Фрезер»</text>
+		<text>MP5 Frazer</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
-		<text>Экспериментальный пистолет-пулемёт, разработанный на базе MP5. Целью его создателей было оружие ближнего боя нового поколения: достаточно крупнокалиберное и скорострельное, но в то же время точное.</text>
+		<text>Eksperymentalny pistolet maszynowy opracowany na podstawie MP5. Celem jej twуrcуw byіa nowa generacja broni: doњж duїy kaliber i szybkostrzelna, ale jednoczeњnie celna.</text>
 	</string>
 	<string id="st_wpn_pb">
-		<text>ПБ</text>
+		<text>PB</text>
 	</string>
 	<string id="st_wpn_pkm_zulus">
-		<text>ПКМ Зулуса</text>
+		<text>PKM Zulusa</text>
 	</string>
 	<string id="st_wpn_pkm_zulus_descr">
-		<text>Этот пулемёт принадлежал Зулусу. Особенность данного образца заключается в увеличенном коробе для патронов и особо надёжной конструкции возвратного механизма. Модификции увеличили массу оружия, однако для предыдущего владельца это не было проблемой.</text>
+		<text>Ten karabin maszynowy naleїaі do Zulusa. Osobliwoњci№ tej prуbki jest powiкkszony magazynek i szczegуlnie niezawodna konstrukcja mechanizmu powrotnego. Modyfikacje zwiкkszyіy wagк broni, ale nie stanowiіo to problemu dla poprzedniego wіaњciciela.</text>
 	</string>
 	<string id="st_wpn_pm">
-		<text>ПМ</text>
+		<text>PM</text>
 	</string>
 	<string id="st_wpn_pm_actor">
-		<text>Наградной ПМ</text>
+		<text>PM Nagroda</text>
 	</string>
 	<string id="st_wpn_pm_actor_descr">
-		<text>Именной ПМ, который Дегтярёв получил в награду. Гравировка гласит: «За успешное выполнение особо опасных поручений и проявленные при этом доблесть и мужество».</text>
+		<text>Nazwany PM, ktуry Degtyarev otrzymaі w nagrodк. Na rycinie czytamy: „Za pomyњlne ukoсczenie szczegуlnie niebezpiecznych misji oraz mкstwo i odwagк okazywan№ w ten sposуb”.</text>
 	</string>
 	<string id="st_wpn_protecta">
 		<text>Protecta</text>
 	</string>
 	<string id="st_wpn_rg6">
-		<text>РГ-6</text>
+		<text>RG-6</text>
 	</string>
 	<string id="st_wpn_rg6_descr">
-		<text>Гранатомёт револьверного типа, в котором каморы барабана образованы шестью нарезными стволами. Предназначен для борьбы с противником, находящимся в укрытиях, и ведению огня по площадям; полезен также при нападении на хорошо охраняемые объекты или в бою с особо живучими тварями.</text>
+		<text>Granatnik typu rewolwerowego, w ktуrym komory bкbna tworzy szeњж gwintowanych luf. Przeznaczony do walki z wrogiem w schronach i ostrzaіu obszarуw. Przydaje siк rуwnieї podczas atakowania dobrze strzeїonych obiektуw lub w walce ze szczegуlnie wytrwaіymi stworzeniami.</text>
 	</string>
 	<string id="st_wpn_rp">
-		<text>ПКМ</text>
+		<text>PKM</text>
 	</string>
 	<string id="st_wpn_rp_descr">
-		<text>Ручная модификация армейского пулемёта с ленточным питанием. Несмотря на высокую массу и неудовлетворительную точность боя, нашёл себе достаточно широкое применение в Зоне. В основном используется для подавления превосходящего по численности противника и при зачистках логов мутантов.</text>
+		<text>Rкczna modyfikacja wojskowego karabinu maszynowego z podajnikiem taњmowym. Pomimo duїej masy i niezadowalaj№cej celnoњci walki, znalazі doњж szerokie zastosowanie w Strefie. Jest uїywany gіуwnie do stіumienia wroga, ktуry ma przewagк liczebn№ oraz podczas oczyszczania kryjуwek mutantуw.</text>
 	</string>
 	<string id="st_wpn_rpg7">
-		<text>РПГ-7</text>
+		<text>RPG-7</text>
 	</string>
 	<string id="st_wpn_sig220">
 		<text>SIG-Sauer P220</text>
 	</string>
 	<string id="st_wpn_sig220_nimble">
-		<text>SIG-Sauer P220 «Альпиец»</text>
+		<text>SIG-Sauer P220 Alpejski</text>
 	</string>
 	<string id="st_wpn_sig220_nimble_descr">
-		<text>Уникальная модель пистолета SIG-Sauer P220. Была выпущена малой партией по заказу неизвестного спецподразделения. Данная модификация характерна магазином увеличенной ёмкости, стволом из особо прочной стали и полимерным кожухом ствола.</text>
+		<text>Unikalny model pistoletu SIG-Sauer P220. Zostaі wydany w maіej partii na zamуwienie nieznanej jednostki siі specjalnych. Modyfikacja ta charakteryzuje siк magazynkiem o zwiкkszonej pojemnoњci, luf№ wykonan№ z bardzo wytrzymaіej stali oraz polimerow№ obudow№ lufy.</text>
 	</string>
 	<string id="st_wpn_sig550">
-		<text>SIG SG-550
-</text>
+		<text>SIG SG-550</text>
 	</string>
 	<string id="st_wpn_sig550_descr">
-		<text>Представитель относительно нового семейства штурмовых винтовок. Благодаря высокой надёжности, точности боя и удобству в обращении является одним из лучших образцов вооружения этого класса. В Зоне встречается нечасто и стоит немалых денег; обычно её специально заказывают для себя бывалые сталкеры.</text>
+		<text>Reprezentant stosunkowo nowej rodziny karabinуw szturmowych. Ze wzglкdu na wysok№ niezawodnoњж, celnoњж bojow№ i іatwoњж obsіugi jest to jedna z najlepszych broni tej klasy. To rzadkoњж w Strefie i kosztuje duїo pieniкdzy. Zwykle doњwiadczeni stalkerzy zamawiaj№ go specjalnie dla siebie.</text>
 	</string>
 	<string id="st_wpn_sig550_strelok">
-		<text>SIG SG-550 Стрелка</text>
+		<text>SIG SG-550 Strieіoka</text>
 	</string>
 	<string id="st_wpn_sig550_strelok_descr">
-		<text>Хоть этот экземпляр штурмовой винтовки выпущен явно не вчера, хорошо видно, что прежний владелец обращался с оружием бережно. Винтовка полностью перебрана, а её детали тщательно подогнаны друг к другу, что позволило несколько увеличить убойную силу. На прикладе аккуратно вырезаны буква «С» и 16 маленьких крестиков.</text>
+		<text>Chociaї ten przykіad karabinu szturmowego wyraџnie nie zostaі wczoraj wypuszczony na rynek, wyraџnie widaж, їe poprzedni wіaњciciel obchodziі siк z broni№ ostroїnie. Karabin zostaі caіkowicie przebudowany, a jego czкњci zostaіy dokіadnie dopasowane do siebie, co pozwoliіo nieznacznie zwiкkszyж siік њmiercionoњn№. Kolba jest starannie wyrzeџbiona w literк „S” i 16 maіych krzyїykуw.</text>
 	</string>
 	<string id="st_wpn_spas12">
 		<text>SPAS-12</text>
 	</string>
 	<string id="st_wpn_spas12_m2">
-		<text>SPAS-12 АВТ</text>
+		<text>SPAS-12 ABT</text>
 	</string>
 	<string id="st_wpn_spas12_m2_descr">
-		<text>Производится только в мастерских группировки «Долг». Данное оружие предназначено для борьбы с большими скоплениями монстров. Доработанный механизм подачи патрона обеспечивает высокую скорострельность, а ёмкость магазина увеличена до 10 патронов. Для снаряжения используются боеприпасы калибра 12х70.</text>
+		<text>Jest produkowany tylko w warsztatach grupy Powinnoњж. Ta broс jest przeznaczona do radzenia sobie z duїymi skupiskami potworуw. Zmodyfikowany mechanizm podawania naboju zapewnia duї№ szybkostrzelnoњж, a pojemnoњж magazynka zostaіa zwiкkszona do 10 nabojуw. Do wyposaїenia uїywana jest amunicja kalibru 12x70.</text>
 	</string>
 	<string id="st_wpn_spas12_nimble">
-		<text>SPAS-12 «Карабинер»</text>
+		<text>SPAS-12 Karabinier</text>
 	</string>
 	<string id="st_wpn_spas12_nimble_descr">
-		<text>Разработан специально для штурмовых подразделений на базе SPAS-12. Как и у его «родителя», механизм обеспечивает ведение автоматического огня, однако компенсация отдачи в данной модели гораздо более эффективна.</text>
+		<text>Zaprojektowany specjalnie dla jednostek szturmowych opartych na SPAS-12. Podobnie jak jego „rodzic”, mechanizm zapewnia ogieс automatyczny, ale kompensacja odrzutu w tym modelu jest znacznie skuteczniejsza.</text>
 	</string>
 	<string id="st_wpn_svd">
-		<text>СВД</text>
+		<text>SVD</text>
 	</string>
 	<string id="st_wpn_svd_descr">
-		<text>Данный тип снайперской винтовки находится на рынке вооружений вот уже добрых полвека и за это время успел зарекомендовать себя как исключительно надёжное и удобное в обращении оружие. В войсках она служит в основном для поражения удалённых целей, которые невозможно достать из автомата, но сталкеры оценили СВД во многом за то, что пуля из неё позволяет пробить даже самую толстую шкуру мутанта или хороший бронежилет.</text>
+		<text>Ten typ karabinu snajperskiego jest obecny na rynku zbrojeniowym juї od dobrych pуі wieku i przez ten czas zdoіaі ugruntowaж swoj№ pozycjк jako wyj№tkowo niezawodna i іatwa w obsіudze broс. W wojsku sіuїy gіуwnie do niszczenia odlegіych celуw, do ktуrych nie moїna dotrzeж z karabinu maszynowego, ale stalkerzy docenili SVD w duїej mierze dlatego, їe pocisk z niego moїe przebiж nawet najgrubsz№ skуrк mutanta lub dobr№ kamizelkк kuloodporn№.</text>
 	</string>
 	<string id="st_wpn_svd_nimble">
-		<text>СВД «Рысь»</text>
+		<text>SVD Ryњ</text>
 	</string>
 	<string id="st_wpn_svd_nimble_descr">
-		<text>Вариант снайперской винтовки СВД штучной сборки. Внешне не отличается от стандартного образца, но на деле демонстрирует гораздо более внушительное соотношение точности и убойной силы.</text>
+		<text>Inna wersja karabinu snajperskiego SVD. Zewnкtrznie nie rуїni siк od standardowego egzemplarza, ale w rzeczywistoњci wykazuje znacznie bardziej imponuj№cy stosunek dokіadnoњci i њmiertelnej siіy.</text>
 	</string>
 	<string id="st_wpn_svu">
-		<text>СВУ</text>
+		<text>SVU</text>
 	</string>
 	<string id="st_wpn_svu_nimble">
-		<text>СВУ-А</text>
+		<text>SVU-A</text>
 	</string>
 	<string id="st_wpn_svu_nimble_descr">
-		<text>Укороченная снайперская винтовка с увеличенным темпом стрельбы, дальнейшее развитие идеи СВУ. Ранее принадлежала Максу, легендарному хранителю группировки «Свобода».</text>
+		<text>Skrуcony karabin snajperski o zwiкkszonej szybkostrzelnoњci, dalszy rozwуj idei SVU. Wczeњniej naleїaі do Maksa, legendarnego straїnika grupy Wolnoњж.</text>
 	</string>
 	<string id="st_wpn_toz34">
-		<text>ТОЗ-34</text>
+		<text>TOZ-34</text>
 	</string>
 	<string id="st_wpn_toz34_descr">
-		<text>Широко распространённое охотничье ружьё-«вертикалка» благодаря достаточной точности и хорошему останавливающему действию обеспечивает более надёжную защиту от мутантов, чем пистолет. Очень дёшево и доступно в сравнении с большинством видов оружия, поэтому активно применяется новичками и бандитами на окраинах Зоны.</text>
+		<text>Rozpowszechniony karabin myњliwski - „pionowy”. Dziкki wystarczaj№cej celnoњci i dobrej akcji zatrzymuj№cej zapewnia bardziej niezawodn№ ochronк przed mutantami niї pistolet. Jest bardzo tani i dostкpny w porуwnaniu z wiкkszoњci№ rodzajуw broni, dlatego jest aktywnie uїywany przez pocz№tkuj№cych i bandytуw na obrzeїach Strefy.</text>
 	</string>
 	<string id="st_wpn_umirotvoritel">
-		<text>Неизвестное оружие</text>
+		<text>Nieznana Broс</text>
 	</string>
 	<string id="st_wpn_umirotvoritel_descr">
-		<text>Неизученный образец, механизм действия которого пока не установлен. Как бы то ни было, оружие явно неисправно: нажатие на спусковой крючок не приводит к какому-либо результату.</text>
+		<text>Niezbadana prуbka, ktуrej mechanizm dziaіania nie zostaі jeszcze ustalony. Tak czy inaczej, broс wyraџnie dziaіa nieprawidіowo: naciњniкcie spustu nie prowadzi do їadnego rezultatu.</text>
 	</string>
 	<string id="st_wpn_usp">
 		<text>HK USP</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Главные отличительные черты этого оружия - высочайшие надёжность и живучесть при отличной точности боя. Несмотря на некоторые недостатки (например, значительные размеры, высоко расположенный центр тяжести и массивный затвор, затрудняющий скрытое ношение) пользуется значительной популярностью среди ветеранов Зоны.</text>
+		<text>Gіуwnymi cechami wyrуїniaj№cymi tк broс s№ najwyїsza niezawodnoњж i przeїywalnoњж przy doskonaіej celnoњci bojowej. Pomimo pewnych mankamentуw (m.in. spory rozmiar, wysoko poіoїony њrodek ciкїkoњci i masywna przesіona, ktуra utrudnia noszenie w ukryciu), cieszy siк duї№ popularnoњci№ wњrуd weteranуw Strefy.</text>
 	</string>
 	<string id="st_wpn_usp_nimble">
-		<text>HK USP «Марш»</text>
+		<text>HK USP Marsz</text>
 	</string>
 	<string id="st_wpn_usp_nimble_descr">
-		<text>Компактный крупнокалиберный пистолет с коротким ходом ствола и облегчённым затвором. По имеющейся информации, некогда принадлежал наёмнику по прозвищу Волкодав. Предположительно является модификацией HK USP.</text>
+		<text>Kompaktowy pistolet duїego kalibru o krуtkim skoku i lekkim ryglu. Wedіug dostкpnych informacji naleїaі kiedyњ do najemnika o pseudonimie Woіkodaw. Przypuszczalnie modyfikacja HK USP.</text>
 	</string>
 	<string id="st_wpn_val">
-		<text>АС «Вал»</text>
+		<text>AC VAL</text>
 	</string>
 	<string id="st_wpn_vintorez">
-		<text>ВСС «Винторез»</text>
+		<text>VSS Vintorez</text>
 	</string>
 	<string id="st_wpn_vintorez_descr">
-		<text>«Винтовка снайперская специальная» предназначена для бесшумной и беспламенной снайперской стрельбы при проведении спецопераций, когда необходимо сохранить в тайне позицию стрелка. Её боеприпас обеспечивает высокие бронебойное и останавливающее действия; кроме того, данное оружие снабжено интегрированным глушителем и оптикой. Несмотря на магазин небольшой ёмкости, очень ценится сталкерами.</text>
+		<text>„Specjalny karabin snajperski” przeznaczony jest do cichego i bezpіomieniowego strzelania podczas operacji specjalnych, kiedy konieczne jest zachowanie pozycji strzelca w tajemnicy. Jego amunicja zapewnia wysok№ siік przebijania pancerza i obalania. Ponadto broс ta jest wyposaїona w zintegrowany tіumik i optykк. Mimo niewielkiej pojemnoњci magazynka jest bardzo ceniony przez stalkerуw.</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble">
-		<text>ВСС «Прибой»</text>
+		<text>VSS Przypіyw</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble_descr">
-		<text>Создан для армейских подразделений специального назначения на базе винтовки снайперской специальной «Винторез». В сравнении с «родителем» отличается уменьшенным темпом стрельбы и повышенной убойной силой.</text>
+		<text>Stworzony dla wojskowych siі specjalnych na bazie specjalnego karabinu snajperskiego „Vintorez”. W porуwnaniu z „rodzicem” ma zmniejszon№ szybkostrzelnoњж i zwiкkszon№ њmiercionoњn№ siік.</text>
 	</string>
 	<string id="st_wpn_walther">
 		<text>Walther P-99</text>
@@ -506,87 +505,87 @@
 		<text>Mossberg M590A1</text>
 	</string>
 	<string id="st_wpn_wincheaster1300_descr">
-		<text>Помповый гладкоствольный дробовик западного производства, который пользуется широкой популярностью благодаря надёжности и высокой скорости перезарядки. Все детали данного оружия снабжены антикоррозионным покрытием.</text>
+		<text>Wyprodukowana na Zachodzie strzelba gіadkolufowa typu pump-action, ktуra jest bardzo popularna ze wzglкdu na swoj№ niezawodnoњж i duї№ szybkoњж przeіadowania. Wszystkie czкњci tej broni s№ wyposaїone w powіokк antykorozyjn№.</text>
 	</string>
 	<string id="st_wpn_wincheaster1300_trapper">
-		<text>Mossberg M590A1 «Хищник»</text>
+		<text>Mossberg M590A1 Drapieїnik</text>
 	</string>
 	<string id="st_wpn_wincheaster1300_trapper_descr">
-		<text>Собранный на заказ помповый дробовик - бывшая собственность Зверобоя. Главным требованием владельца к этому оружию была способность валить самого живучего мутанта одним выстрелом.</text>
+		<text>Niestandardowa strzelba z pompk№ - dawna wіasnoњж Zweroboja. Gіуwnym wymaganiem wіaњciciela tej broni byіa umiejкtnoњж powalenia najbardziej wytrwaіego mutanta jednym strzaіem.</text>
 	</string>
 	<string id="ammo-gauss_cardan">
-		<text>Кустарные батареи</text>
+		<text>Baterie Rzemieњlnicze</text>
 	</string>
 	<string id="st_addon_scope_susat_custom">
-		<text>Прицел ACOG «Мера»</text>
+		<text>Celownik ACOG Miara</text>
 	</string>
 	<string id="st_wpn_abakan_descr">
-		<text>Современный автомат, разработанный на замену устаревающему АК-74. Одна из главных особенностей - возможность ведения огня очередями по 2 выстрела с высокой точностью, так что на расстоянии ста метров обе пули ложатся в одну точку. Это существенно увеличивает шансы поразить цель благодаря совокупному останавливающему и пробивающему действию пуль.</text>
+		<text>Nowoczesny karabin szturmowy maj№cy zast№piж starzej№cy siк AK-74. Jedn№ z gіуwnych cech jest moїliwoњж strzelania seriami po 2 strzaіy z duї№ celnoњci№, dziкki czemu na odlegіoњci stu metrуw oba pociski padaj№ w tym samym miejscu. To znacznie zwiкksza szanse trafienia w cel dziкki poі№czonemu efektowi zatrzymywania i przebijania pociskуw.</text>
 	</string>
 	<string id="st_wpn_ak74_descr">
-		<text>Автомат Калашникова образца 1974 года, с появлением которого армии стран Варшавского договора начали переходить на малокалиберный и малоимпульсный патрон. Массивный компенсатор позволяет ещё более снизить и так не слишком значительную отдачу, что положительно сказывается на точности и кучности боя во всех режимах ведения огня. Кроме того, это простое в устройстве и надёжное оружие.</text>
+		<text>Karabin szturmowy Kaіasznikowa modelu z 1974 roku, wraz z nadejњciem armii krajуw Ukіadu Warszawskiego zaczкіy przechodziж na nabуj maіego kalibru i maіo pulsacyjny. Masywny kompensator pozwala jeszcze bardziej zmniejszyж i tak juї niezbyt znacz№cy odrzut, co pozytywnie wpіywa na celnoњж i celnoњж walki we wszystkich trybach strzelania. Ponadto jest to іatwa w obsіudze i niezawodna broс.</text>
 	</string>
 	<string id="st_wpn_ak74u_descr">
-		<text>По своим габаритам и массе близок к пистолетам-пулеметам, однако устройство механизма почти полностью идентично АК-74. Малые габариты оружия позволяют успешно использовать его в условиях городской застройки и в стесненных условиях, а пробивающее действие пули довольно велико. Среди недостатков - малая прицельная дальность и склонность к быстрому перегреву.</text>
+		<text>Pod wzglкdem gabarytуw i wagi zbliїa siк do pistoletуw maszynowych, ale mechanizm jest prawie caіkowicie identyczny z AK-74. Niewielkie gabaryty broni pozwalaj№ z powodzeniem stosowaж j№ na terenach miejskich i w ciasnych warunkach, a efekt penetracji pocisku jest doњж duїy. Wњrуd mankamentуw jest krуtki zasiкg skuteczny i skіonnoњж do szybkiego przegrzewania.</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>Усовершенствованная модель пистолета, который стал классикой автоматического оружия и с честью прошёл все вооружённые конфликты XX века. Как в исходном, так и в модифицированном варианте он до сих пор выпускается десятками, если не сотнями производителей. Единственным недостатком можно считать невысокую ёмкость магазина, но в определённой степени это компенсируется мощным патроном.</text>
+		<text>Ulepszony model pistoletu, ktуry staі siк klasykiem broni automatycznej i z honorem przeszedі wszystkie konflikty zbrojne xx wieku. Zarуwno w wersji oryginalnej, jak i zmodyfikowanej jest nadal produkowany przez dziesi№tki, jeњli nie setki producentуw. Jedyn№ wadк moїna uznaж za maі№ pojemnoњж magazynka, ale do pewnego stopnia rekompensuje to potкїny nabуj.</text>
 	</string>
 	<string id="st_wpn_eagle_descr">
-		<text>Настоящая «карманная пушка» - большая, тяжёлая и обладающая чрезвычайно высокой убойной силой. Разрабатывался как специализированное оружие для охоты на среднюю и крупную дичь, а также для спортивной стрельбы по силуэтным мишеням на дальностях от пятидесяти метров. Из-за цены, массы и внушительных габаритов особого распространения в Зоне не получил.</text>
+		<text>Prawdziwy „pistolet kieszonkowy” jest duїy, ciкїki i niezwykle potкїny. Zostaіa opracowana jako broс specjalistyczna do polowania na њredni№ i duї№ zwierzynк, a takїe do strzelania sportowego do celуw sylwetkowych z odlegіoњci do piкжdziesiкciu metrуw. Ze wzglкdu na cenк, wagк i imponuj№ce gabaryty nie zyskaіa duїej dystrybucji w Strefie.</text>
 	</string>
 	<string id="st_wpn_fn2000_descr">
-		<text>Это футуристическое на вид оружие - серийно производимый автомат, оснащённый компьютеризованным прицелом-модулем управления огнём. Несмотря на внешнюю громоздкость, отличается высокой эргономичностью, удобством ведения огня и высокой надёжностью.</text>
+		<text>Ta futurystycznie wygl№daj№ca broс to masowo produkowany karabin maszynowy wyposaїony w skomputeryzowany moduі kierowania ogniem celowniczym. Pomimo zewnкtrznej masywnoњci wyrуїnia siк wysok№ ergonomi№, іatwoњci№ strzelania i wysok№ niezawodnoњci№.</text>
 	</string>
 	<string id="st_wpn_fort_descr">
-		<text>Пистолет украинского производства, предназначенный в основном для вооружения правоохранительных органов и силовых структур. Обладает лучшими по сравнению с ПМ точностью боя, приёмистостью и ёмкостью магазина. В основном попадает в Зону среди широко реализуемой здесь отбраковки (в основном это ранние образцы со всеми «детскими болезнями»). Тем не менее, пользуется спросом у сталкеров из-за достаточно высоких боевых характеристик.</text>
+		<text>Pistolet produkcji ukraiсskiej, przeznaczony gіуwnie do uzbrojenia organуw њcigania i ochrony. Ma najlepsz№ celnoњж bojow№, reakcjк przepustnicy i pojemnoњж magazynka w porуwnaniu do PM. W wiкkszoњci zalicza siк do Strefy wњrуd szeroko wdraїanych tutaj odrzuceс (w wiкkszoњci s№ to wczesne prуbki ze wszystkimi „chorobami wieku dzieciкcego”). Niemniej jednak jest poszukiwany wњrуd stalkerуw ze wzglкdu na doњж wysokie cechy bojowe.</text>
 	</string>
 	<string id="st_wpn_g36_descr">
-		<text>Воплощение новых тенденций в автоматическом оружии западного производства: принцип работы автоматики основан не на полусвободном затворе, а на коротком ходе газового поршня. Нужно сказать, изменения явно пошли на пользу: данная штурмовая винтовка представляет собой первоклассный образец современного оружия - лёгкого, надёжного и эргономичного.</text>
+		<text>Wcielenie nowych trendуw w broni automatycznej produkcji zachodniej: zasada dziaіania automatyki opiera siк nie na pуіwolnej migawce, ale na krуtkim skoku tіoka gazowego. Muszк powiedzieж, їe zmiany wyraџnie przyniosіy korzyњci: ten karabin szturmowy jest pierwszorzкdnym przykіadem nowoczesnej broni - lekkiej, niezawodnej i ergonomicznej.</text>
 	</string>
 	<string id="st_wpn_l85_descr">
-		<text>Обнаруженные при эксплуатации недостатки данной винтовки привели к тому, что большая часть оружия была модернизирована, а списанные партии через чёрный рынок попали в Зону. Главными достоинствами являются штатный четырёхкратный оптический прицел, высокая точность одиночного выстрела и высокий потенциал модернизации. При стрельбе очередями точность боя резко падает, а автоматика демонстрирует склонность к задержкам.</text>
+		<text>Wady tego karabinu wykryte podczas eksploatacji spowodowaіy, їe wiкkszoњж broni zostaіa zmodernizowana, a wycofywane partie trafiіy do Strefy przez czarny rynek. Gіуwne zalety to zwykіy czterokrotny celownik optyczny, wysoka celnoњж pojedynczego strzaіu oraz duїy potencjaі modernizacyjny. Podczas strzelania seriami celnoњж bitwy gwaіtownie spada, a automatyzacja wykazuje tendencjк do opуџniania.</text>
 	</string>
 	<string id="st_wpn_lr300_descr">
-		<text>Новая ступень в развитии знаменитой линейки оружия. Фактически изменения коснулись лишь верхней половины ствольной коробки со стволом, газоотводным узлом и затворной группой, в результате чего повысились эргономичность и надёжность, а масса, наоборот, снизилась. Данная винтовка отличается высокой точностью боя, хотя высокая чувствительность к загрязнению делает её малопригодной для использования в сложных условиях Зоны.</text>
+		<text>Nowy krok w rozwoju sіynnej linii broni. W rzeczywistoњci zmiany dotyczyіy tylko gуrnej poіowy komory zamkowej z luf№, zespoіu wylotu gazu i zespoіu zamka, co spowodowaіo zwiкkszenie ergonomii i niezawodnoњci, natomiast waga zmniejszyіa siк. Karabin ten wyrуїnia siк wysok№ celnoњci№ bojow№, chociaї wysoka wraїliwoњж na zanieczyszczenia sprawia, їe nie nadaje siк do uїycia w trudnych warunkach Strefy.</text>
 	</string>
 	<string id="st_wpn_pb_descr">
-		<text>Пистолет был разработан во второй половине ХХ века на базе пистолета ПМ для вооружения разведывательных групп и персонала спецслужб. Данная модель считается морально устаревшей, но в умелых руках это по-прежнему весьма эффективное оружие.</text>
+		<text>Pistolet zostaі opracowany w drugiej poіowie xx wieku na bazie pistoletu PM do uzbrojenia grup rozpoznawczych i personelu sіuїb specjalnych. Ten model jest uwaїany za przestarzaіy, ale w sprawnych rкkach nadal jest bardzo skuteczn№ broni№.</text>
 	</string>
 	<string id="st_wpn_pm_descr">
-		<text>Наиболее распространённый в зоне пистолет, наследие советской эпохи, ПМ - один из лучших представителей класса компактного оружия самообороны. Он отличается небольшими размерами, исключительно надёжен, прост в использовании и обслуживании. Среди недостатков - малая дальность и точность стрельбы, невысокая эффективность пули и - в сравнении с современными пистолетами того же класса - довольно большая масса при недостаточной ёмкости магазина.</text>
+		<text>Najpopularniejszy pistolet w strefie, spuњcizna epoki sowieckiej, PM jest jednym z najlepszych przedstawicieli klasy kompaktowej broni do samoobrony. Jest maіy, niezwykle niezawodny, іatwy w obsіudze i utrzymaniu. Wad№ jest krуtki zasiкg i celnoњж ognia, niska skutecznoњж pocisku oraz - w porуwnaniu z nowoczesnymi pistoletami tej samej klasy - doњж duїa masa przy niewystarczaj№cej pojemnoњci magazynka.</text>
 	</string>
 	<string id="st_wpn_protecta_descr">
-		<text>Гладкоствольный боевой дробовик, разработанный для повышения огневой мощи спецподразделений армии и полиции. Основные достоинства - высокие ёмкость магазина и практическая скорострельность; основные недостатки - внушительные габариты и масса оружия, а также невысокая скорость перезарядки. В Зоне встречается редко и применяется в основном для зачистки логов мутантов.</text>
+		<text>Gіadkolufowa strzelba bojowa przeznaczona do zwiкkszenia siіy ognia siі specjalnych armii i policji. Gіуwne zalety to duїa pojemnoњж magazynka i praktyczna szybkostrzelnoњж; gіуwne wady to imponuj№ce wymiary i masa broni, a takїe niska prкdkoњж przeіadowania. Jest rzadki w Strefie i jest uїywany gіуwnie do oczyszczania legowisk mutantуw.</text>
 	</string>
 	<string id="st_wpn_rpg7_descr">
-		<text>Гранатомёт образца 1960-х, в огромном количестве оставшийся на армейских складах, откуда и попал в Зону. Представляет собой гладкоствольное однозарядное пусковое устройство безоткатного типа. Внушительные габариты и большой вес делают это оружие не слишком распространённым среди сталкеров, но ввиду огромной разрушительной силы и простоты использования оно нашло себе верных почитателей в Зоне.</text>
+		<text>Granatnik model z lat 60., ktуry w ogromnych iloњciach pozostaі w magazynach wojskowych, sk№d trafiі do Strefy. Jest to jednostrzaіowa gіadkolufowa wyrzutnia bezodrzutowa. Imponuj№ce wymiary i duїa waga sprawiaj№, їe ta broс nie jest zbyt popularna wњrуd stalkerуw, ale ze wzglкdu na ogromn№ siік niszcz№c№ i іatwoњж uїycia znalazіa w Strefie wiernych wielbicieli.</text>
 	</string>
 	<string id="st_wpn_sig220_descr">
-		<text>Единственная оставшаяся в серийном производстве модель популярного во всём мире пистолета. Данное оружие характерно прекрасной эргономикой и отличной точностью боя. Малая ёмкость магазина компенсируется мощным патроном и надёжностью швейцарских часов. Неудивительно, что пистолет пользуется неизменным спросом у бывалых сталкеров и наёмников.</text>
+		<text>Jedyny model pistoletu popularnego na caіym њwiecie, ktуry pozostaі w masowej produkcji. Broс ta charakteryzuje siк doskonaі№ ergonomi№ i doskonaі№ celnoњci№ bojow№. Niewielk№ pojemnoњж magazynka rekompensuje potкїny wkіad i niezawodnoњж szwajcarskiego zegarka. Nic dziwnego, їe pistolet jest stale poszukiwany wњrуd doњwiadczonych stalkerуw i najemnikуw.</text>
 	</string>
 	<string id="st_wpn_spas12_descr">
-		<text>Гладкоствольный автоматический дробовик специального назначения с возможностью переключения режимов ведения огня. Разработанный ещё во второй половине ХХ столетия, продолжает применяться в качестве универсального боевого оружия полиции и штурмовых подразделений армии. Отличается высокой надёжностью и тактической гибкостью. Несмотря на большую массу, сложное устройство и высокую цену, довольно популярен в Зоне как эффективное средство борьбы против мутантов.</text>
+		<text>Automatyczna strzelba gіadkolufowa do celуw specjalnych z moїliwoњci№ przeі№czania trybуw strzelania. Opracowany w drugiej poіowie xx wieku, nadal jest uїywany jako uniwersalna broс wojskowa dla oddziaіуw szturmowych policji i wojska. Rуїni siк wysok№ niezawodnoњci№ i elastycznoњci№ taktyczn№. Pomimo duїej masy, skomplikowanego urz№dzenia i wysokiej ceny, jest doњж popularny w Strefie jako skuteczny њrodek do walki z mutantami.</text>
 	</string>
 	<string id="st_wpn_svu_descr">
-		<text>Более современный вариант снайперской винтовки СВД, в котором для уменьшения габаритов использована компоновка «булл-пап». Обладает более высоким по сравнению с «родительницей» боевым темпом стрельбы при меньшей массе, причём точность боя на малой и средней дальностях осталась примерно той же. Сегодня пользуется вполне заслуженной популярностью в войсках и среди сталкеров.</text>
+		<text>Bardziej nowoczesna wersja karabinu snajperskiego SWD, w ktуrej ukіad bullpup sіuїy do zmniejszenia wymiarуw. Ma wyїsz№ szybkostrzelnoњж bojow№ w porуwnaniu do swojego „rodzica” o mniejszej masie, a celnoњж walki na krуtkim i њrednim dystansie pozostaіa w przybliїeniu taka sama. Dziњ cieszy siк zasіuїon№ popularnoњci№ wњrуd їoіnierzy i stalkerуw.</text>
 	</string>
 	<string id="st_wpn_val_descr">
-		<text>Это оружие было создано на основе винтовки снайперской специальной «Винторез» в качестве бесшумного оружия для войск специального назначения. Оно позволяет стрелку вести эффективный огонь по защищённому бронежилетом противнику, при этом не демаскируя своей позиции. Одна из главных особенностей - использование интегрированного глушителя и патронов калибра 9х39 мм с тяжёлой пулей.</text>
+		<text>Ta broс zostaіa stworzona na bazie specjalnego karabinu snajperskiego Vintorez jako cicha broс dla siі specjalnych. Pozwala strzelcowi na prowadzenie skutecznego ognia do przeciwnika chronionego kamizelk№ kuloodporn№, jednoczeњnie nie demaskuj№c jego pozycji. Jedn№ z gіуwnych cech jest zastosowanie zintegrowanego tіumika oraz nabojуw 9x39 mm z ciкїkim pociskiem.</text>
 	</string>
 	<string id="st_wpn_gauss_descr">
-		<text>Сверхточное высокотехнологичное оружие, известное как «изделие №62», было разработано конструкторами секретных лабораторий внутри Зоны. Принцип его действия основан на разгоне пули системой электромагнитов; пуля при этом способна развивать сверхскорости, что обеспечивает колоссальную пробивную способность при почти полном отсутствии отдачи. Для обеспечения достаточной энергоёмкости аккумуляторов в последних используются частицы определёных артефактов.</text>
+		<text>Ultraprecyzyjna, zaawansowana technologicznie broс, znana jako „Produkt nr 62”, zostaіa opracowana przez projektantуw tajnych laboratoriуw wewn№trz Strefy. Zasada jego dziaіania opiera siк na przyspieszaniu pocisku przez system elektromagnesуw; jednoczeњnie pocisk jest zdolny do rozwijania superprкdkoњci, co zapewnia ogromn№ siік przebicia przy prawie caіkowitym braku odrzutu. Aby zapewniж wystarczaj№c№ pojemnoњж energetyczn№ akumulatorуw, te ostatnie wykorzystuj№ cz№stki niektуrych artefaktуw.</text>
 	</string>
 	<string id="st_wpn_beretta_descr">
-		<text>Пистолеты этой серии имеют во всём мире репутацию надёжного, хотя и несколько громоздкого оружия, и состоят на вооружении армейских и полицейских формирований многих стран. Не менее популярны и у преступников благодаря мощному патрону и ёмкому магазину. Как правило, в Зону попадают не самые новые модели.</text>
+		<text>Pistolety z tej serii ciesz№ siк њwiatow№ reputacj№ niezawodnej, choж nieco nieporкcznej broni i sіuї№ w armii i siіach policyjnych wielu krajуw. Nie mniej popularny wњrуd przestкpcуw dziкki potкїnemu nabojowi i pojemnemu magazynkowi. Z reguіy do Strefy nie trafiaj№ najnowsze modele.</text>
 	</string>
 	<string id="st_wpn_walther_descr">
-		<text>Отличный пистолет западного производства, отличающийся высокой надёжностью, ёмким магазином, хорошей точностью боя и, пожалуй, лучшей в своем классе эргономикой. Попав в Зону, стал одним из самых распространенных пистолетов как среди профессионалов, так и среди новичков при деньгах.</text>
+		<text>Znakomity pistolet produkcji zachodniej, charakteryzuj№cy siк wysok№ niezawodnoњci№, pojemnym magazynkiem, dobr№ celnoњci№ bojow№ i byж moїe najlepsz№ ergonomi№ w swojej klasie. W Strefie staі siк jednym z najpopularniejszych pistoletуw zarуwno wњrуd profesjonalistуw, jak i pocz№tkuj№cych z pieniкdzmi.</text>
 	</string>
 	<string id="ammo-gauss_descr">
-		<text>Энергетические элементы, использующие в качестве источника энергии капсулированный фрагмент артефакта «Вспышка». Изготовлены в заводских условиях при помощи высокотехнологичного оборудования.</text>
+		<text>Elementy energii, ktуre wykorzystuj№ enkapsulowany fragment artefaktu Bіysk jako џrуdіo energii. Wyprodukowane w fabryce przy uїyciu najnowoczeњniejszego sprzкtu.</text>
 	</string>
 	<string id="ammo-gauss_cardan_descr">
-		<text>Энергетические элементы пониженной ёмкости, использующие в качестве источника энергии капсулированный фрагмент артефакта «Вспышка». Пониженная ёмкость обусловлена кустарными условиями изготовления элементов.</text>
+		<text>Ogniwa energetyczne o zmniejszonej pojemnoњci, ktуre jako џrуdіo zasilania wykorzystuj№ zamkniкty fragment artefaktu Bіysk. Zmniejszona wydajnoњж wynika z rzemieњlniczych warunkуw produkcji elementуw.</text>
 	</string>
 </string_table>
