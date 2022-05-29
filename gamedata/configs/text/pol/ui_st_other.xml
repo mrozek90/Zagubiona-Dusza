@@ -184,7 +184,7 @@
 		<text>Nazwa pliku jest pusta.</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>godz.</text>
+		<text>h.</text>
 	</string>
 	<string id="ui_st_kicked_by_battleye">
 		<text>zosta³ wy³¹czony przez ochronê BattlEye:</text>

@@ -73,7 +73,7 @@
         <text>[Dalej...]</text>
     </string>
     <string id="for_guard_first_dialog_0">
-        <text>Stojê! A Ty co tu zgubi³eœ?</text>
+        <text>Stój! A Ty co tu zgubi³eœ?</text>
     </string>
     <string id="for_guard_first_dialog_1">
         <text>Przechodzi³em, co Ci do tego?</text>
@@ -115,7 +115,7 @@
         <text>Zaczynasz mnie wkurzaæ, stalkerze. Niewiele osób wie o tym miejscu, czego Ty chcesz w ogóle?</text>
     </string>
     <string id="for_guard_first_dialog_9">
-        <text>Szukam grupy stalkerów w dziwnych kombinezonach, których nikt jeszcze nie widzia³ ani nie nosi³. Te bestie s¹ zamieszane w mord moich przyjaznych oddzia³ów i chcê ich pomœciæ. Czy jest jeszcze coœ, o co chcesz zapytaæ?</text>
+        <text>Szukam grupy stalkerów w dziwnych kombinezonach, których nikt jeszcze nie widzia³ ani nie nosi³. Te bestie s¹ zamieszane w mord moich bratnich oddzia³ów i chcê ich pomœciæ. Czy jest jeszcze coœ, o co chcesz zapytaæ?</text>
     </string>
     <string id="for_hrust_first_dialog_0">
         <text>Wiêc bêdziesz moim partnerem?</text>
@@ -622,7 +622,7 @@
         <text>A jak zareagowali na to pozostali Wolnoœciowcy?</text>
     </string>
     <string id="for_infernis_info_dialog_7">
-        <text>A jak mogli zareagowaæ na to, ¿e jeden z cz³onków grupy wyjecha³ na pomoc naukowcom? Nikt tak naprawdê nie wdawa³ siê w szczegó³y, teraz dla wiêkszoœci jestem apostat¹. Poniewa¿ jestem w grupie - nie jestem atakowany, ale te¿ nie traktuj¹ mnie jak przyjaciela. Ale jest w tym plus – im mniej osób wie o istnieniu tego miejsca, tym mniej ka¿dy ma problemów.</text>
+        <text>A jak mogli zareagowaæ na to, ¿e jeden z cz³onków grupy poszed³ na pomoc naukowcom? Nikt tak naprawdê nie wdawa³ siê w szczegó³y, teraz dla wiêkszoœci jestem apostat¹. Poniewa¿ jestem w grupie - nie jestem atakowany, ale te¿ nie traktuj¹ mnie jak przyjaciela. Ale jest w tym plus – im mniej osób wie o istnieniu tego miejsca, tym mniej ka¿dy ma problemów.</text>
     </string>
     <string id="for_infernis_info_dialog_8">
         <text>Sk¹d profesor w ogóle wiedzia³ o tym miejscu?</text>
@@ -1240,7 +1240,7 @@
         <text>Co Ciê tu sprowadza, skarbeñku? Wygl¹dasz na bardzo zmêczonego.</text>
     </string>
     <string id="for_professor_first_dialog_10">
-        <text>Nie myœla³em o tym, profesorze..</text>
+        <text>Nie myœla³em o tym, profesorze.</text>
     </string>
     <string id="for_professor_first_dialog_11">
         <text>Uwa¿am, ¿e ¿adnych potrzebnych informacji nie nale¿y przekazywaæ za darmo. Dlatego nie masz innego wyjœcia, jak tylko zaakceptowaæ moje warunki. Có¿, mo¿esz spróbowaæ sam ich znaleŸæ, ale w takim razie dlaczego przeby³eœ tak d³ug¹ drogê? Jestem pewien, ¿e by³byœ zmêczony podró¿¹.</text>
