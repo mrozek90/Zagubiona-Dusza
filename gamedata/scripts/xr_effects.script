@@ -3823,7 +3823,7 @@ alife():create("dog_normal",vector():set(273.35794067383,3.7241835594177,-244.10
 end
 
 function sector_friend_answer()
-news_manager.send_tip(db.actor, "%c[255,1,255,255]Sektor%c[default] (do ka¿dego z cz³onków oddzia³u)\\nCh³opaki, myœlê, ¿e znalaz³em lokalizacjê Sitha! Zbieramy siê na wzgórzu niedaleko bagna.", nil, "default", 10000)
+news_manager.send_tip(db.actor, "%c[255,1,255,255]Sektor%c[default] (do ka¿dego z cz³onków oddzia³u)\\nCh³opaki, myœlê, ¿e znalaz³em lokalizacjê Sitha! Zbieramy siê na wzgórzu niedaleko bajora.", nil, "default", 10000)
 end
 
 function freak_enemy_message()
@@ -4015,7 +4015,7 @@ news_manager.send_replica(db.actor, "%c[50,255,50,50]Stalker w stroju Powinnoœci
 end
 
 function for_stalkers_polylog_5()
-news_manager.send_replica(db.actor, "%c[255,255,255,1]Stalker w egzoszkielecie Bandytów\\n%c[default]Musimy zdecydowaæ jak siê rozdzielamy. Chocia¿ las jest ma³y, wci¹¿ gin¹ w nim stalkery.", nil, "default", 15000)
+news_manager.send_replica(db.actor, "%c[255,255,255,1]Stalker w egzoszkielecie Bandytów\\n%c[default]Musimy zdecydowaæ jak siê rozdzielamy. Chocia¿ las jest ma³y, wci¹¿ gin¹ w nim stalkerzy.", nil, "default", 15000)
 end
 
 function for_stalkers_polylog_6()

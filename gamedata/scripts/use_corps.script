@@ -10,7 +10,7 @@ function on_use_corpse(npc)
 		if extract_value ~= 0 then
 		local bringed_money=math.floor(extract_value)
 		db.actor:give_money(bringed_money)
-		news_manager.send_tip(db.actor,"Otrzymano pieni¹dze :"..tostring(bringed_money),0,"kingpin",4000,nil)
+		news_manager.send_tip(db.actor,"Otrzymano pieni¹dze: "..tostring(bringed_money),0,"kingpin",4000,nil)
 		end
 	end
 end

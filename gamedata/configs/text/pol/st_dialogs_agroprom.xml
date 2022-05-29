@@ -79,7 +79,7 @@
         <text>Hm.. By³o do przewidzenia. I co teraz zrobisz?</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_2">
-        <text>Istnieje równie¿ szeœæ wspó³rzêdnych. Mog¹ to byæ mo¿liwe lokalizacje Sitha. Oczywiœcie jest to ma³o prawdopodobne, ale wszystko jest mo¿liwe. Pomo¿esz mi?</text>
+        <text>Istnieje równie¿ szeœæ wspó³rzêdnych. Mog¹ to byæ mo¿liwe lokalizacje Sitha. Oczywiœcie jest to ma³o prawdopodobne, ale wszystko jest mo¿liwe. Pomo¿ecie?</text>
     </string>
     <string id="agr_npc_random_coordinate_dialog_3">
         <text>Oczywiœcie, Najemniku. Stalkerzy staraj¹ siê pomóc swoim przyjacio³om. Jesteœ dobry w byciu przywódc¹.</text>
@@ -292,10 +292,10 @@
         <text>W takim razie ja z wami.</text>
     </string>
     <string id="agr_vint_good_dialog_8">
-        <text>Karaœ, jak siê czujesz?</text>
+        <text>ChodŸ. Jak siê czuje Karaœ?</text>
     </string>
     <string id="agr_vint_last_ge_dialog_0">
-        <text>Jeszcze raz dziêkujê za pomoc. Nie dam rady bez Ciebie.</text>
+        <text>Jeszcze raz dziêkujê za pomoc. Nie da³bym rady bez Ciebie.</text>
     </string>
     <string id="agr_vint_last_ge_dialog_1">
         <text>Dziêkujê za doprowadzenie mnie do bazy stalkerów. I za s³owa o Szkirze. Mia³eœ racjê – nigdy nie docenia³ pracy zespo³owej...</text>
@@ -340,10 +340,10 @@
         <text>Nic specjalnego, po prostu odwiedŸ to miejsce, znajdŸ Oresta. A jeœli go tam nie ma, spróbuj siê rozejrzeæ. Jeœli le¿y tam martwy, spróbuj poznaæ przyczynê œmierci.</text>
     </string>
     <string id="inquisitor_quest_dialog_11">
-        <text>Przyczynê œmierci? Powiedzia³eœ, ¿e istnieje promieniowanie PSI.</text>
+        <text>Przyczynê œmierci?</text>
     </string>
     <string id="inquisitor_quest_dialog_12">
-        <text>Najprawdopodobniej ju¿ umar³, ale nie mo¿emy traciæ nadziei. Jeœli naprawdê nie ¿yje, po prostu go stamt¹d wyci¹gniemy. Nie zmieni³eœ jeszcze zdania?</text>
+        <text>Najprawdopodobniej ju¿ umar³ od promieniowania PSI, ale nie mo¿emy traciæ nadziei. Jeœli naprawdê nie ¿yje, po prostu go stamt¹d wyci¹gniemy. Nie zmieni³eœ jeszcze zdania?</text>
     </string>
     <string id="inquisitor_quest_dialog_13">
         <text>Jednak zmieni³em zdanie.</text>
@@ -691,7 +691,7 @@
         <text>Oto nowy technik dla Ciebie, nazywa siê Wint.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_1">
-        <text>Dziêkujê, Sektorze, ju¿ tyle razy nam pomaga³eœ. Jeœli chcesz, zawsze chêtnie przyjmê Ciê do Samotników.</text>
+        <text>Dziêkujê, Sektorze, ju¿ tyle razy nam pomog³eœ. Jeœli chcesz, zawsze chêtnie przyjmê Ciê do Samotników.</text>
     </string>
     <string id="orest_vint_stalkers_dialog_end_2">
         <text>Zobaczymy.</text>
@@ -730,10 +730,10 @@
         <text>Idziesz tam sam?</text>
     </string>
     <string id="shkir_gg_first_dialog_end_6">
-        <text>Tak, nie oczekujê od Ciebie normalnych rozkazów.</text>
+        <text>Tak, nie oczekujê od Ciebie innych rozkazów.</text>
     </string>
     <string id="shkir_gg_first_dialog_end_7">
-        <text>Œwietnie, nie bêdê musia³ wycieraæ Ci smarka. Có¿ mogê powiedzieæ, idŸ.</text>
+        <text>Œwietnie, nie bêdê musia³ wycieraæ Ci smarka. Có¿ mogê powiedzieæ... idŸ.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_0">
         <text>Szkir, jest temat do Ciebie.</text>
@@ -742,7 +742,7 @@
         <text>Czego chcesz?</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_2">
-        <text>Stalkerzy chwilowo nie maj¹ technika. Moglibyœmy daæ im Winta, kiedy bêdziemy w bazie Powinnoœci.</text>
+        <text>Stalkerzy chwilowo nie maj¹ technika. Moglibyœmy daæ im Winta, póki bêdziemy w bazie Powinnoœci.</text>
     </string>
     <string id="shkir_vint_stalkers_dialog_3">
         <text>Có¿ to za "dzieñ dziecka"?</text>

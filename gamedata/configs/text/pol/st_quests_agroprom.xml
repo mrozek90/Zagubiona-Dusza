@@ -64,14 +64,14 @@
 		<text>Sedno wyprawy: ZnajdŸ poleg³ych powinnoœciowców</text>
 	</string>
 	<string id="agr_sim_3_clear_4">
-		<text>Powinnoœciowce, którzy mówi¹ jak monolity. Muszê dok³adnie zbadaæ zw³oki, najprawdopodobniej gdzieœ jest coœ interesuj¹cego.</text>
+		<text>Powinnoœciowcy, którzy mówi¹ jak monolity. Muszê dok³adnie zbadaæ zw³oki, najprawdopodobniej gdzieœ jest coœ interesuj¹cego.</text>
 	</string>
 
 	<string id="agr_base_end_1">
 		<text>Sedno wyprawy: Porozmawiaj z Kry³owem</text>
 	</string>
 	<string id="agr_base_end_2">
-		<text>Bardzo interesuj¹ce. Okazuje siê, ¿e Kry³ow ma w bazie zdrajcê od Monolitowców? Muszê byæ czujny.</text>
+		<text>Bardzo interesuj¹ce. Okazuje siê, ¿e Kry³ow ma w bazie wtykê Monolitów? Muszê byæ czujny.</text>
 	</string>
 	<string id="agr_base_end_3">
 		<text>Sedno wyprawy: Zakoñcz rozmowê z Kry³owem</text>
@@ -186,10 +186,10 @@
 		<text>Wint to osoba, która ma dobre relacje z Sithem, tak myœlê... Mo¿e zgodziæ siê pomóc.</text>
 	</string>
 	<string id="agr_z_good_quest_1">
-		<text>Kwestia ¿ycia: Poproœ o pomoc Zwjagintsewa</text>
+		<text>Kwestia ¿ycia: Poproœ o pomoc Zwiagintsewa</text>
 	</string>
 	<string id="agr_z_good_quest_2">
-		<text>Nie wiem, jak¹ osob¹ jest major - to jedyny sposób, aby dowiedzieæ siê...</text>
+		<text>Nie wiem, jak¹ osob¹ jest major - to jedyny sposób by dowiedzieæ siê...</text>
 	</string>
 	<string id="agr_smirnow_good_quest_1">
 		<text>Kwestia ¿ycia: porozmawiaj z Sani¹ Smirnowem</text>
