@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="for_dre_dialog_0">
-        <text>Od dawna nikogo tu nie było.. Czekaj, czy to nie wy, Fobos i Sith, na kontrakcie wpadliście do domu Leśnika?</text>
+        <text>Od dawna nikogo tu nie było. Czekaj, czy to nie Ty, Fobos i Sith, na kontrakcie wpadliście do domu Leśnika?</text>
     </string>
     <string id="for_dre_dialog_1">
         <text>Tak to ja. Sektor. A Ty, jak rozumiem, Kane?</text>
@@ -58,7 +58,7 @@
         <text>Przyjaciele? To dziwne, nikogo tu nie widzę, Sektor!</text>
     </string>
     <string id="for_dre_dialog_end_5">
-        <text>Czego?</text>
+        <text>Co?</text>
     </string>
     <string id="for_dre_dialog_end_6">
         <text>Mówię przecież że nikogo! Obudź się!</text>
@@ -271,7 +271,7 @@
         <text>Jakiś bełkot... pamiętam tylko, że się upiliśmy, upadasz, a potem... minęły trzy godziny jak pięć minut, ale ja cały czas byłem obok Ciebie... Wydawałoby się, że moja wersja jest bardziej prawdopodobna, ale skąd Ty w takim razie wziąłeś dokładnie ten sam egzemplarz modyfikacji, o którym tylko ja wiem... Czekaj, czy powiedziałeś "granaty"? Czy przypadkiem to nie te?</text>
     </string>
     <string id="for_infernis_after_drunk_dialog_end_3">
-        <text>Pokaż..</text>
+        <text>Pokaż.</text>
     </string>
     <string id="for_infernis_after_drunk_dialog_end_4">
         <text>...</text>
@@ -436,7 +436,7 @@
         <text>Z jakim znakiem?</text>
     </string>
     <string id="for_infernis_drunk_dialog_3">
-        <text>Znak, że czas skończyć ze używkami. Trzeba było - pogrążyć się w takich śmieciach.. Pilnie muszę sobie przypomnieć, co się z nami stało, a potem - wykrztusić kilka słów z Tobą i profesorem.</text>
+        <text>Znak, że czas skończyć ze używkami. Nie trzeba było pogrążać się w tych śmieciach... Pilnie muszę sobie przypomnieć, co się z nami stało, a potem - zamienić kilka słów z Tobą i Profesorem.</text>
     </string>
     <string id="for_infernis_fch_dialog_0">
         <text>Potrzebuję tutaj pomocy. Chcesz dołączyć do grupy?</text>
@@ -1231,7 +1231,7 @@
         <text>Profesorze, gdzie byliśmy z Infernisem przez te trzy godziny?</text>
     </string>
     <string id="for_professor_drunk_dialog_1">
-        <text>Trzy godziny, trzecia? Kochany, was dwoje nie było przez trzy dni! A jak dostałaś się do bunkra, skoro nie słyszałem, jak wchodzisz?</text>
+        <text>Trzy godziny? Skarbeńku, was dwoje nie było przez TRZY DNI! A jak dostałaś się do bunkra, skoro nie słyszałem jak wchodzisz?</text>
     </string>
     <string id="for_professor_first_dialog_0">
         <text>Pozdrowienia.</text>
@@ -1669,19 +1669,19 @@
         <text>[Dalej...]</text>
     </string>
     <string id="for_professor_note_dialog_0">
-        <text>Profesorze, byłem tu sam w laboratorium...</text>
+        <text>Profesorze, byłem w jakimś laboratorium...</text>
     </string>
     <string id="for_professor_note_dialog_1">
         <text>W sensie?</text>
     </string>
     <string id="for_professor_note_dialog_10">
-        <text>Tak i nie tylko. Oto dokument, który znalazłem w laboratorium. Nie wiem, czy będziesz tego potrzebować, czy nie.</text>
+        <text>W laboratorium i nie tylko. Oto dokument, który znalazłem w laboratorium. Nie wiem, czy będziesz tego potrzebować, czy nie.</text>
     </string>
     <string id="for_professor_note_dialog_11">
         <text>To... To dokumentacja badawcza mojego ojca...</text>
     </string>
     <string id="for_professor_note_dialog_12">
-        <text>Cóż, pewnie sięprzydadzą.</text>
+        <text>Cóż, pewnie się przyda.</text>
     </string>
     <string id="for_professor_note_dialog_13">
         <text>Nie masz pojęcia, jak bardzo mi pomogłeś. Całe życie chciałem wiedzieć, co naprawdę robi moja rodzina i jakie badania przeprowadzono w przeszłości. Jestem pewien, że w przyszłości bardzo mi się to przyda. Więc co chcesz wzamian za te dokumenty?</text>
@@ -1705,7 +1705,7 @@
         <text>Oznacza to, że do niszczenia takiej zbroi może być odpowiednia broń z wbudowaną energią artefaktu, którą posiada sama kamizelka. W ten sposób może się "rozładować", a kamizelka kuloodporna stanie się bezużyteczna. Jednak aby stworzyć taką broń, podobno potrzebna jest jakaś nieznana próbka. W czasie, gdy byłeś w laboratorium próbowałem wielu broni - pistoletów, strzelb, karabinów, karabinów maszynowych, załadowanych, rozładowanych, ale nic nie działało.</text>
     </string>
     <string id="for_professor_note_dialog_2">
-        <text>W ciągu tych trzech dni nieobecności Infernisa, udało mi się odwiedzić wiele miejsc. W dokumentach dowiedziałem się, że być może ma indeks „Y-13”.</text>
+        <text>W ciągu tych trzech dni nieobecności Infernisa, udało mi się odwiedzić wiele miejsc. W dokumentach dowiedziałem się, że być może ma indeks "Y-13".</text>
     </string>
     <string id="for_professor_note_dialog_20">
         <text>Infernis miał granaty, które eksplodowały z wyładowaniami anomalii.</text>
@@ -1726,7 +1726,7 @@
         <text>Byłem w tym laboratorium. I rozprawiłem się z krwiopijcami. Znalazłem tam również Szkira, informacje o które chciałem prosić. Czy jest coś, co chcesz mi powiedzieć?</text>
     </string>
     <string id="for_professor_note_dialog_7">
-        <text>Dwa tygodnie temu wysłałem go z grupą na kontrakcie, żeby oczyścili to laboratorium, żeby później mogli znaleźć informacje o badaniach mojego ojca. Jednak odkąd ich tam wysłałem, nie było od niego ani słowa, ani ducha. Jak się spodziewałem, nie mógł się stamtąd wydostać. Było zbyt wielu krwiopijców, więc musiałem zatrudnić ich jako sprzątaczy.</text>
+        <text>Dwa tygodnie temu wysłałem go z grupą na kontrakcie, żeby oczyścili to laboratorium, żeby później mogli znaleźć informacje o badaniach mojego ojca. Jednak odkąd ich tam wysłałem, nie było od niego ni słucha, ni ducha. Jak się spodziewałem, nie mógł się stamtąd wydostać. Było zbyt wielu krwiopijców, więc musiałem zatrudnić ich jako sprzątaczy.</text>
     </string>
     <string id="for_professor_note_dialog_8">
         <text>Nie wiem, co tam robili, ale znalazłem Szkira przywiązanego do drewnianego krzyża. Nikt z jego grupy nie przeżył, my z Infernisem przepędziliśmy wszystkich krwiopijców.</text>
