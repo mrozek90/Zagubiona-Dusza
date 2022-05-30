@@ -4113,19 +4113,19 @@ news_manager.send_replica(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Aha
 end
 
 function lim_heli_dialog_1()
-news_manager.send_replica(db.actor, "%c[1,1,1,255]Szakal\\n%c[default]Woron, co Ty do cholery robisz?! Jakikolwiek kundel zauwa¿y nas st¹d, czy mo¿emy lataæ normalnie?!", nil, "default", 5000)
+news_manager.send_replica(db.actor, "%c[1,1,1,255]Szakal\\n%c[default]Woron, co Ty do cholery robisz?! Jakikolwiek kundel zauwa¿y nas st¹d, czy mo¿emy lecieæ normalnie?!", nil, "default", 5000)
 end
 
 function lim_heli_dialog_2()
-news_manager.send_replica(db.actor, "%c[1,1,1,255]Woron\\n%c[default]Co Ci tam nie odpowiada, Szakal? Nadal nigdzie siê nie wci¹³em, jakich innych warunków potrzebujesz do chodzenia?", nil, "default", 10000)
+news_manager.send_replica(db.actor, "%c[1,1,1,255]Woron\\n%c[default]Co Ci tam nie odpowiada, Szakal? Nadal nigdzie siê nie wci¹³em, jakich innych warunków potrzebujesz do lotu?", nil, "default", 10000)
 end
 
 function lim_heli_dialog_3()
-news_manager.send_replica(db.actor, "%c[1,1,1,255]Wojna\\n%c[default]Mo¿e powinniœmy iœæ trochê wy¿ej?", nil, "default", 5000)
+news_manager.send_replica(db.actor, "%c[1,1,1,255]Wojna\\n%c[default]Mo¿e powinniœmy lecieæ trochê wy¿ej?", nil, "default", 5000)
 end
 
 function lim_heli_dialog_4()
-news_manager.send_replica(db.actor, "%c[1,1,1,255]Woron\\n%c[default]Wyrzucê Ciê teraz z helikoptera! Sam dojdŸ, jeœli jesteœ taki m¹dry!", nil, "default", 5000)
+news_manager.send_replica(db.actor, "%c[1,1,1,255]Woron\\n%c[default]Wyrzucê Ciê zaraz z helikoptera! Sam leæ, jeœli jesteœ taki m¹dry!", nil, "default", 5000)
 end
 
 function red_raven_search_1()
@@ -4149,7 +4149,7 @@ news_manager.send_replica(db.actor, "%c[255,255,255,1]System wyszukiwania SGS\\n
 end
 
 function red_raven_search_6()
-news_manager.send_replica(db.actor, "%c[255,255,255,1]System wyszukiwania SGS\\n%c[default]Infernis:  %c[1,1,255,1]Swoboda", nil, "default", 5000)
+news_manager.send_replica(db.actor, "%c[255,255,255,1]System wyszukiwania SGS\\n%c[default]Infernis:  %c[1,1,255,1]Wolnoœæ", nil, "default", 5000)
 end
 
 function red_raven_search_7()
@@ -4181,7 +4181,7 @@ function in_gs(actor, npc)
  end
 
 function for_lab_escaping_1()
-news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Wreszcie po³¹czenie dzia³a! Sektor po lewej, szybko biegnij do bunkra! Gdzie w ogóle jesteœ teraz?", nil, "default", 10000)
+news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Wreszcie po³¹czenie dzia³a! Sektor po lewej, szybko biegnij do bunkra! Gdzie w ogóle teraz jesteœ?", nil, "default", 10000)
 end
 
 function for_lab_escaping_2()
@@ -4193,7 +4193,7 @@ news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Zaraz w
 end
 
 function for_lab_escaping_4()
-news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Có¿, zobaczy³eœ? Szybko wejdŸ na dach i stañ za stacjonark¹! Brakuje tylko Ciebie! Dajmy im popaliæ!", nil, "default", 10000)
+news_manager.send_tip(db.actor, "%c[255,238,153,26]Infernis\\n%c[default]Co zobaczy³eœ? Szybko wejdŸ na dach i stañ za stacjonark¹! Brakuje tylko Ciebie! Dajmy im popaliæ!", nil, "default", 10000)
 end
 
 function red_deactivate()
