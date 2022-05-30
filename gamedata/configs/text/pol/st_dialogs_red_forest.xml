@@ -127,7 +127,7 @@
         <text>W sam¹ porê. Rozumiem, ¿e te¿ widzia³eœ helikopter?</text>
     </string>
     <string id="red_infernis_first_dialog_10">
-        <text>Profesor ju¿ o niej wystarczaj¹co du¿o opowiedzia³. W³aœnie wysy³a³ tam Szkira ze swoj¹ grup¹, ¿eby posprz¹ta³. Teraz szuka sposobów na zniszczenie jego specjalnej zbroi, której nie mog¹ przebiæ kule.</text>
+        <text>Profesor ju¿ o niej wystarczaj¹co du¿o opowiedzia³. W³aœnie wys³a³ tam Szkira ze swoj¹ grup¹, ¿eby posprz¹tali. Teraz szuka sposobów na zniszczenie jego specjalnej zbroi, której nie mog¹ przebiæ kule.</text>
     </string>
     <string id="red_infernis_first_dialog_11">
         <text>Wiêc jednak nadal istnieje? Wygl¹da na to, ¿e dzieje siê piek³o. Có¿, co robiæ, potem wróæ do Worona. Gdzie go widzia³eœ?</text>
@@ -145,7 +145,7 @@
         <text>Jeden z tych oszustów to mia³. Moim zdaniem to z niej strzelali w ten helikopter. Zestrzelili go jednym strza³em, ale mnie z jakiegoœ powodu nie uda³o siê strzeliæ z tego ani razu. Wiêc nie potrzebujê go, ale Tobie mo¿e siê przydaæ, jeœli chcesz znaleŸæ sposób na przebicie siê przez wspomnian¹ zbrojê. Bêdê tu przez chwilê, jeœli bêdziesz czegoœ potrzebowa³, po prostu daj mi znaæ.</text>
     </string>
     <string id="red_infernis_first_dialog_2">
-        <text>Nie zrozumia³em dok³adnie, co siê sta³o. Helikopter zapali³ siê gwa³townie, zacz¹³ spadaæ. Swoj¹ drog¹, na stacji benzynowej znalaz³em ocala³ego. Mówi, ¿e Ciê zna.</text>
+        <text>Nie zrozumia³em dok³adnie, co siê sta³o. Helikopter zapali³ siê gwa³townie, zacz¹³ spadaæ. Swoj¹ drog¹, na stacji autobusowej znalaz³em ocala³ego. Mówi, ¿e Ciê zna.</text>
     </string>
     <string id="red_infernis_first_dialog_3">
         <text>Jak to? A jak nazywa siê ten ocala³y?</text>
@@ -160,7 +160,7 @@
         <text>Dziwaki w takich kombinezonach razem ze Szkirem brali udzia³ w ataku na nasze grupy na Agropromie. Przez d³ugi czas nie rzuca³y mi siê w oczy, a teraz znowu je widzê. W laboratorium te¿.</text>
     </string>
     <string id="red_infernis_first_dialog_7">
-        <text>W³aœciwie przyjecha³em tutaj, aby sprawdziæ schowek - w rezultacie widzê w kopalni lewicowców, którzy coœ wyw¹chuj¹. Potem s³yszê z daleka, jak helikopter zaczyna huczeæ, „czy wojsko gdzieœ leci?” - myœla³em. I widzê, ¿e ci dziwacy zaczynaj¹ do niego strzelaæ. Dlaczego tego rodzaju œmieci mia³yby ³amaæ skrzyd³a naszym wojownikom? Có¿, postanowi³em pokazaæ, gdzie jest ich miejsce. A teraz okazuje siê, ¿e to s¹ najemnicy.. Dobra, jeœli chodzi o laboratorium. Mówisz o tym, w którym byliœmy niedawno?</text>
+        <text>W³aœciwie przyjecha³em tutaj, aby sprawdziæ schowek - w rezultacie widzê w kopalni renegatów, którzy coœ wêsz¹. Potem s³yszê z daleka, jak helikopter zaczyna huczeæ, "wojsko gdzieœ leci?" - myœla³em. I widzê, ¿e ci dziwacy zaczynaj¹ do niego strzelaæ. Dlaczego tego rodzaju œmieci mia³yby ³amaæ skrzyd³a naszym ¿o³nierzom? Có¿, postanowi³em pokazaæ, gdzie jest ich miejsce. A teraz okazuje siê, ¿e to s¹ najemnicy... Dobra, jeœli chodzi o laboratorium. Mówisz o tym, w którym byliœmy niedawno?</text>
     </string>
     <string id="red_infernis_first_dialog_8">
         <text>Tak, o tym. Co nie co pamiêtasz?</text>
@@ -256,7 +256,7 @@
         <text>To d³uga historia.. Cholera, nie dziwiê siê, ¿e ¿aden z cz³onków oddzia³u nie pozosta³ przy ¿yciu.</text>
     </string>
     <string id="red_raven_first_dialog_end_9">
-        <text>W porz¹dku, najwyraŸniej nie mam innego wyjœcia, jak szukaæ swojego oddzia³u w lesie.</text>
+        <text>W porz¹dku, najwyraŸniej nie mam innego wyjœcia, jak szukaæ Twojego oddzia³u w lesie.</text>
     </string>
     <string id="red_shkir_last_dialog_0">
         <text>Tak, Sektorze, nie s¹dzi³em, ¿e mo¿esz zajœæ tak daleko! Przedzieraæ siê przez t³umy moich ch³opaków, radziæ sobie z helikopterami i to wszystko sam? Ile razy w tym czasie modli³eœ siê, aby to siê uda³o? Ile razy by³eœ gotowy po¿egnaæ siê z ¿yciem? A wszystko po co? Dla zemsty? Ze wzglêdu na honor, o czym najemnicy nie wiedz¹? Jesteœ dupkiem, Sektorze! Na Twoim miejscu spieprza³ bym tak szybko, jak tylko potrafiê, ale teraz nie mo¿esz uciec...</text>
@@ -280,7 +280,7 @@
         <text>Wiem, wiem, nie martw siê. A jednak nie mów, ¿e nigdy o tym nie myœla³eœ. Kogo ta grupa Strie³oka mog³a tak dra¿niæ, ¿e cztery oddzia³y doœwiadczonych najemników zosta³y wys³ane, by j¹ zabiæ?</text>
     </string>
     <string id="red_shkir_last_dialog_end_11">
-        <text>Myœla³em o tym na samym pocz¹tku zlecenia. Ale nie przywi¹zywa³em do tego du¿ej wagi, w koñcu to nie moja sprawa..</text>
+        <text>Myœla³em o tym na samym pocz¹tku zlecenia. Ale nie przywi¹zywa³em do tego du¿ej wagi, w koñcu to nie moja sprawa.</text>
     </string>
     <string id="red_shkir_last_dialog_end_12">
         <text>Nie da³em.. Ale by³oby warto.. Wtedy mo¿e wszystko by³oby inaczej..</text>
@@ -301,22 +301,22 @@
         <text>Wydaje siê, ¿e jest na skraju œmierci, ale ¿artujesz bardziej ni¿ podczas kontraktów. Czy jest na to czas? Powiedz mi, czym jest O-Œwiadomoœæ.</text>
     </string>
     <string id="red_shkir_last_dialog_end_18">
-        <text>Od czego zacz¹æ... O-Œwiadomoœæ to grupa naukowców zlokalizowana w Sarkofagu Czarnobyla. Po wypadku w 1986 r. wybudowano laboratoria o indeksach „X” i „Y” do tajnych badañ wszystkiego, co pozosta³o w dzielnicy. Ta grupa naukowców kontroluje wszystko, co siê tu dzieje.. A dok³adniej, próbuje kontrolowaæ. Czy kiedykolwiek zastanawialiœcie siê, jak pojawi³o siê to, co stalkery nazywaj¹ Zon¹ – mutanty, anomalie, Emisje, a nawet artefakty?</text>
+        <text>Od czego zacz¹æ... O-Œwiadomoœæ to grupa naukowców zlokalizowana w Sarkofagu Czarnobyla. Po wypadku w 1986 r. wybudowano laboratoria o indeksach „X” i „Y” do tajnych badañ wszystkiego, co pozosta³o w okolicy. Ta grupa naukowców kontroluje wszystko, co siê tu dzieje.. A dok³adniej, próbuje kontrolowaæ. Czy kiedykolwiek zastanawia³eœ siê, jak pojawi³o siê to, co stalkerzy nazywaj¹ Zon¹ – mutanty, anomalie, Emisje, a nawet artefakty?</text>
     </string>
     <string id="red_shkir_last_dialog_end_19">
         <text>Powiedzmy.</text>
     </string>
     <string id="red_shkir_last_dialog_end_2">
-        <text>Myœla³em. Dlatego postanowi³em zostawiæ tych ch³opaków w Agropromie..</text>
+        <text>Myœla³em. Dlatego postanowi³em zostawiæ tych ch³opaków w Agropromie.</text>
     </string>
     <string id="red_shkir_last_dialog_end_20">
-        <text>Ziemia ma inn¹ pow³okê, która jest po³¹czona ze wszystkimi inteligentnymi istotami na Ziemi - Noosfer¹. Pocz¹tkowo C-Œwiadomoœæ chcia³a przej¹æ kontrolê nad ni¹, a co za tym idzie - nad ca³¹ ludzkoœci¹. Ale w rezultacie to tylko pogorszy³o - Noosfera wdar³a siê do œwiata materialnego i wszystko, co teraz widzisz, powsta³o w ten sposób. Wiêkszoœæ mutantów, artefaktów, anomalii itp. jest pocz¹tkowo nieudanym wynikiem eksperymentów O-Œwiadomoœci..</text>
+        <text>Ziemia ma inn¹ pow³okê, która jest po³¹czona ze wszystkimi inteligentnymi istotami na Ziemi - Noosfer¹. Pocz¹tkowo C-Œwiadomoœæ chcia³a przej¹æ kontrolê nad ni¹, a co za tym idzie - nad ca³¹ ludzkoœci¹. Ale w rezultacie to tylko pogorszy³o - Noosfera wdar³a siê do materialnego œwiata i wszystko, co teraz widzisz, powsta³o w ten sposób. Wiêkszoœæ mutantów, artefaktów, anomalii itp. jest pocz¹tkowo nieudanym wynikiem eksperymentów O-Œwiadomoœci..</text>
     </string>
     <string id="red_shkir_last_dialog_end_21">
       <text>Szkir, rozumiem, ¿e to g³upie pytanie, ale czy jesteœ pewien, ¿e ostatnio nic nie wzi¹³eœ?</text>
   </string>
   <string id="red_shkir_last_dialog_end_22">
-      <text>Czy czegoœ nie wzi¹³eœ... a czego nie mogê Ci daæ w pysk?..</text>
+      <text>Czy czegoœ nie wzi¹³eœ... szkoda ¿e nie mogê daæ Ci w pysk...</text>
   </string>
   <string id="red_shkir_last_dialog_end_23">
       <text>Ok, powiedzmy, ¿e Ci wierzê. Ale co to wszystko ma wspólnego ze Strie³okiem i jego grup¹?</text>
@@ -331,16 +331,16 @@
       <text>S¹ to zombie stworzone przez O-Œwiadomoœæ w celu ochrony centrum Zony przed obcymi. Ludzie, którymi steruje g³os którym s¹ pos³uszne. Problem polega na tym, ¿e atakuj¹ ka¿dego, kogo widz¹, uwa¿aj¹c ich za niewiernych. Czy mo¿esz sobie wyobraziæ, jak strasznie wyprano im mózgi?</text>
   </string>
   <string id="red_shkir_last_dialog_end_27">
-      <text>Wiêc co siê sta³o z Fraktorem?.</text>
+      <text>Wiêc co siê sta³o z Fraktorem?</text>
   </string>
   <string id="red_shkir_last_dialog_end_28">
-      <text>Ju¿ mówiê. Grupie Strie³oka uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ich ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Strie³oka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – by³y to Monolity.</text>
+      <text>Ju¿ mówiê. Grupie Strie³oka uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Strie³oka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – to by³y Monolitowcy.</text>
   </string>
   <string id="red_shkir_last_dialog_end_29">
-      <text>Chcesz powiedzieæ..</text>
+      <text>Chcesz powiedzieæ...</text>
   </string>
   <string id="red_shkir_last_dialog_end_3">
-      <text>I dlaczego to wszystko by³o konieczne?</text>
+      <text>Czemu to wszystko by³o konieczne?</text>
   </string>
   <string id="red_shkir_last_dialog_end_30">
       <text>Tak, masz racjê. W oddzia³ach "alfa", "beta" i "gamma" byli ludzie nale¿¹cy do grupy "Monolitu". Myœlê, ¿e po co to by³o, sam rozumiesz - O-Œwiadomoœæ musia³a kontrolowaæ sytuacjê, wiêc ich w³asnych ludzi wys³ano do oddzia³ów. Dopiero teraz grupa "delta" nie mog³a byæ kontrolowana - w ich oddziale nie by³o cz³onków "Monolitu", wiêc kierownictwo postanowi³o ich wyeliminowaæ.</text>
@@ -367,28 +367,28 @@
       <text>..Coo?</text>
   </string>
   <string id="red_shkir_last_dialog_end_38">
-      <text>Kiedy trochê podros³em, dowiedzia³em siê, ¿e tata ca³e moje ¿ycie by³ w sarkofagu - eksperymentowa³. Postanowi³em wiêc pójœæ za jego przyk³adem. Ale z biegiem czasu zacz¹³em zdawaæ sobie sprawê, ¿e ca³e to pajacowanie z próbami uchwycenia ludzkoœci to nic innego jak zombie dla ich w³asnych celów, a wœród tych "ludzi" by³ mój tata. Postanowi³em wiêc przeciwstawiæ siê zadaniu i g³osowi, który tak ostro¿nie próbowali mi wpoiæ, i potajemnie przed wszystkimi, po otrzymaniu kontraktu na zabicie Stie³oka, zniszczyæ przedstawicieli O-Œwiadomoœci, aby uratowaæ od tego mojego ojca . Matka martwi³a siê o niego i zaciekawi³o mnie, na co zamieni³ nasze pe³ne ³ez dni..</text>
+      <text>Kiedy trochê podros³em, dowiedzia³em siê, ¿e tata ca³e moje ¿ycie by³ w sarkofagu - eksperymentowa³. Postanowi³em wiêc pójœæ za jego przyk³adem. Ale z biegiem czasu zacz¹³em zdawaæ sobie sprawê, ¿e ca³e to pajacowanie z próbami uchwycenia ludzkoœci to nic innego jak zombifikowanie dla ich w³asnych celów. A wœród tych "ludzi" by³ mój tata. Postanowi³em wiêc przeciwstawiæ siê zadaniu i g³osowi, który tak ostro¿nie próbowali mi wpoiæ, i potajemnie przed wszystkimi, po otrzymaniu kontraktu na zabicie Stie³oka, zniszczyæ przedstawicieli O-Œwiadomoœci, aby uratowaæ od tego mojego ojca . Matka martwi³a siê o niego i zaciekawi³o mnie, na co zamieni³ nasze pe³ne ³ez dni..</text>
   </string>
   <string id="red_shkir_last_dialog_end_39">
       <text>Dlaczego musia³eœ zabijaæ innych najemników?</text>
   </string>
   <string id="red_shkir_last_dialog_end_4">
-      <text>Po co? Czy naprawdê chcesz wiedzieæ? Ok, za³ó¿my, ¿e zas³ugujesz na poznanie ca³ej prawdy. W koñcu przebiæ siê przez nieprzeniknion¹ zbrojê.. Cholerny profesor...</text>
+      <text>Czemu? Naprawdê chcesz wiedzieæ? Ok, za³ó¿my, ¿e zas³ugujesz na poznanie ca³ej prawdy. W koñcu przebi³eœ siê przez nieprzeniknion¹ zbrojê.. Cholerny profesor...</text>
   </string>
   <string id="red_shkir_last_dialog_end_40">
-      <text>Czy w ogóle mnie nie s³ucha³eœ? Wœród ludzi w oddzia³ach byli Monolici! Jak myœlisz, jak zareagowaliby, gdybym zacz¹³ mówiæ wszystkim, ¿e teraz jedziemy do elektrowni j¹drowej w Czarnobylu po O-Œwiadomoœæ? Lub gdybym pojecha³ tam sam? Najstraszniejsze w tym wszystkim jest to, ¿e ¿aden z Monolitów nie wiedzia³, gdzie s¹ ich towarzysze. I nawet ja nie wiedzia³em, kto by³ na misji, a kto by³ zwyk³ym najemnikiem, który chcia³ zarobiæ dodatkowe pieni¹dze.</text>
+      <text>Czy w ogóle mnie s³ucha³eœ?! Wœród ludzi w oddzia³ach byli Monolitowcy! Jak myœlisz, jak zareagowaliby, gdybym zacz¹³ mówiæ wszystkim, ¿e teraz ruszamy do elektrowni j¹drowej w Czarnobylu po O-Œwiadomoœæ? Lub gdybym poszed³ tam sam? Najstraszniejsze w tym wszystkim jest to, ¿e ¿aden z Monolitów nie wiedzia³, gdzie s¹ ich towarzysze. I nawet ja nie wiedzia³em, kto by³ pod przykrywk¹, a kto by³ zwyk³ym najemnikiem, który chcia³ zarobiæ dodatkowe pieni¹dze.</text>
   </string>
   <string id="red_shkir_last_dialog_end_41">
       <text>Dlaczego trzeba by³o to zrobiæ?</text>
   </string>
   <string id="red_shkir_last_dialog_end_42">
-      <text>Zapewne po to, by nie dopuœciæ do zdrady z mojej strony lub kogoœ innego. Dlatego przygotowa³em plan, dziêki któremu mo¿na pozbyæ siê niechcianego ogona. Wiedzia³em, ¿e Strie³ok pójdzie do Centrum Strefy, wiêc stara³em siê w ka¿dy mo¿liwy sposób wycofaæ od niego wszystkie oddzia³y, aby móg³ siê tam dostaæ, a w miêdzyczasie sam wys³a³em helikoptery na Agroprom z oddzia³ami stalkerów w kombinezony, których jeszcze w Strefie nie by³o. To s¹ moje powi¹zania, o których mówi³em na pocz¹tku kontraktu. Ch³opaki pracuj¹ dla mnie, ale nie dla O-Œwiadomoœci. Atak by³ nieoczekiwany dla wszystkich, z wyj¹tkiem Sitha, który natychmiast wszystko wypali³ i znikn¹³. Dlatego wys³a³em za nim i za Tob¹ kilka oddzia³ów - ¿ebyœcie nie mogli mnie œledziæ.</text>
+      <text>Zapewne po to, by nie dopuœciæ do zdrady z mojej strony lub kogoœ innego. Dlatego przygotowa³em plan, dziêki któremu mo¿na pozbyæ siê niechcianego ogona. Wiedzia³em, ¿e Strie³ok pójdzie do Centrum Strefy, wiêc stara³em siê w ka¿dy mo¿liwy sposób wycofaæ od niego wszystkie oddzia³y, aby móg³ siê tam dostaæ, a w miêdzyczasie sam wys³a³em helikoptery na Agroprom z oddzia³ami stalkerów w kombinezonach, których jeszcze w Strefie nie by³o. To s¹ moje powi¹zania, o których mówi³em na pocz¹tku kontraktu. Ch³opaki pracuj¹ dla mnie, ale nie dla O-Œwiadomoœci. Atak by³ nieoczekiwany dla wszystkich, z wyj¹tkiem Sitha, który natychmiast wszystko wypali³ i znikn¹³. Dlatego wys³a³em za nim i za Tob¹ kilka oddzia³ów - ¿ebyœcie nie mogli mnie œledziæ.</text>
   </string>
   <string id="red_shkir_last_dialog_end_43">
-      <text>Wiêc w¹tpi³eœ, ¿e Sith i ja mo¿emy byæ Monolitami?</text>
+      <text>Wiêc w¹tpi³eœ, ¿e Sith i ja mo¿emy byæ Monolitowcami?</text>
   </string>
   <string id="red_shkir_last_dialog_end_44">
-      <text>Dok³adnie tak. A jeœli siê zastanawiasz, ci powinnoœciowcy z Czerwonego Lasu, którzy zabrali Ciê do kopalni, równie¿ byli Monolitami. Widzisz, spoœród wszystkich najemników wyró¿nia³eœ siê swoim doœwiadczeniem, pragnieniem biznesu i umiejêtnoœci¹ wyjœcia z trudnych sytuacji. Banalny przyk³ad – wszyscy dopiero zaczêli przyzwyczajaæ siê do lasu, a Ty od razu pyta³eœ o zadanie, tym samym wzbudzaj¹c podejrzenia. Dlatego wys³a³em Ciê do kopalni, ¿eby moi ludzie wziêli Ciê do niewoli i przes³uchali. Chcia³em Ciê przetestowaæ na wszawicê, czy poddasz siê naszej grupy. A jeœli tego nie zrobisz, czy mo¿esz prze¿yæ i wydostaæ siê, gdy kilka osób do Ciebie strzela. Po zapoznaniu siê z Twoimi umiejêtnoœciami, chocia¿ tego nie pokaza³em, zacz¹³em traktowaæ Ciê bardzo powa¿nie - i przeczucie mnie nie zawiod³o. To Tobie uda³o siê, nie podejrzewaj¹c tego, odkryæ sekret Strefy i O-Œwiadomoœci. Có¿... wyp³ynê³o ju¿ ze mnie du¿o krwi... Masz jeszcze pytania?</text>
+      <text>Dok³adnie tak. A jeœli siê zastanawiasz, ci powinnoœciowcy z Czerwonego Lasu, którzy zabrali Ciê do kopalni - równie¿ byli Monolitowacami. Widzisz, spoœród wszystkich najemników wyró¿nia³eœ siê swoim doœwiadczeniem, pragnieniem zarobku i umiejêtnoœci¹ wyjœcia z trudnych sytuacji. Banalny przyk³ad – wszyscy dopiero zaczêli przyzwyczajaæ siê do lasu, a Ty od razu pyta³eœ o zadanie, tym samym wzbudzaj¹c podejrzenia. Dlatego wys³a³em Ciê do kopalni, ¿eby moi ludzie wziêli Ciê do niewoli i przes³uchali. Chcia³em Ciê przetestowaæ na wszawicê, czy poddasz siê naszej grupie. A jeœli tego nie zrobisz, czy mo¿esz prze¿yæ i wydostaæ siê, gdy kilka osób do Ciebie strzela. Po zapoznaniu siê z Twoimi umiejêtnoœciami, chocia¿ tego nie pokaza³em, zacz¹³em traktowaæ Ciê bardzo powa¿nie - i przeczucie mnie nie zawiod³o. To Tobie uda³o siê, niepostrze¿enie, odkryæ sekret Zony i O-Œwiadomoœci. Có¿... wyp³ynê³o ju¿ ze mnie du¿o krwi... Masz jeszcze pytania?</text>
   </string>
   <string id="red_shkir_last_dialog_end_45">
       <text>Tak, ostatnie.</text>
@@ -400,13 +400,13 @@
       <text>Gdzie jest teraz Sith?</text>
   </string>
   <string id="red_shkir_last_dialog_end_48">
-      <text>W tym samym miejscu, w którym zaczyna³ siê nasz kontrakt - w domu Leœnika. Skoro idziesz za nim, mogê Ciê o coœ zapytaæ?</text>
+      <text>W tym samym miejscu, w którym zaczyna³ siê nasz kontrakt - w domu Leœnika. Skoro idziesz za nim, mogê Ciê o coœ poprosiæ?</text>
   </string>
   <string id="red_shkir_last_dialog_end_49">
       <text>Zabawnie to s³yszeæ, ale o co chodzi?</text>
   </string>
   <string id="red_shkir_last_dialog_end_5">
-      <text>Jaka jest prawda? Zapewne chcia³eœ sam zabiæ grupê Strie³oka, ¿eby obci¹æ ca³¹ kwotê za kontrakt, a nie inaczej.</text>
+      <text>Jaka jest prawda? Zapewne chcia³eœ sam zabiæ grupê Strie³oka, ¿eby przyci¹æ ca³¹ kasê za kontrakt, a nie inaczej.</text>
   </string>
   <string id="red_shkir_last_dialog_end_50">
       <text>Zastrzel mnie. Jestem zmêczony drêczeniem siê myœl¹c, ¿e wszystko jest tak¹ pod³oœci¹, a¿ sprawia mi ból wewn¹trz. OszczêdŸ mi tego uczucia. Tak czy siak tu umrê.</text>
@@ -415,7 +415,7 @@
       <text>Z przyjemnoœci¹. Wiesz, Szkir, nawet Ci wspó³czujê. Ale nie mogê wybaczyæ wszystkiego, czego doœwiadczy³em, wiesz.</text>
   </string>
   <string id="red_shkir_last_dialog_end_52">
-      <text>Przynajmniej po tym, jak powiedzia³em, o wszystkim co zgromadzi³o siê w tym czasie, teraz moja dusza sta³a siê l¿ejsza. ¯egnaj, Sektor.</text>
+      <text>Przynajmniej po tym, jak powiedzia³em, o wszystkim co zgromadzi³o siê w tym czasie, teraz moja dusza sta³a siê l¿ejsza. ¯egnaj... Sektor...</text>
   </string>
   <string id="red_shkir_last_dialog_end_53">
       <text>¯egnaj, Szkir.</text>
@@ -430,7 +430,7 @@
       <text>Zwierz zdycha jak zwierz.</text>
   </string>
   <string id="red_shkir_last_dialog_end_6">
-      <text>Wydaje siê byæ doros³ym facetem, tyle przeszed³, ale rozum masz jak 15-latek.. Nie gniewaj siê, ¿artujê.</text>
+      <text>Wydajesz siê byæ doros³ym facetem, tyle przeszed³eœ, ale rozum masz jak 15-latek.. Nie gniewaj siê, ¿artujê.</text>
   </string>
   <string id="red_shkir_last_dialog_end_7">
       <text>Dzia³asz mi na nerwy.</text>
@@ -487,10 +487,10 @@
       <text>Gdzie polecia³y helikoptery? Czy by³ z nimi ktoœ jeszcze?</text>
   </string>
   <string id="red_skryabin_last_dialog_4">
-      <text>Na niebiesko.. Egzoszkielety.. Odlecieli... M-maæ.. Jak to jest... Chcia³am o wiele wiêcej..</text>
+      <text>Na niebiesko.. Egzoszkielety.. Odlecieli... M-maæ.. Jak to siê sta³o... Chcia³em o wiele wiêcej...</text>
   </string>
   <string id="red_skryabin_last_dialog_5">
-      <text>Dok¹d polecieli? Przestañ, Czi¿, nie umieraj! S³yszysz mnie?</text>
+      <text>Dok¹d polecieli? Przestañ, Skriabin, nie umieraj! S³yszysz mnie?</text>
   </string>
   <string id="shkir_first_dialog_0">
       <text>[Pocz¹tek fabu³y]</text>
@@ -643,7 +643,7 @@
       <text>Wierz sobie w te mity. A tak przy okazji, Sith, nie zmieni³eœ jeszcze zdania, ¿eby spadaæ ze Strefy?</text>
   </string>
   <string id="sith_last_dialog_22">
-      <text>Nawet nie wiem. Wygl¹da na to, ¿e nic nie trzyma mnie na Wielkiej Ziemi. Ale to miejsce równie¿ pozostawi³o nieprzyjemny œlad. A Ty, Sektorze?</text>
+      <text>Nawet nie wiem. Wygl¹da na to, ¿e nic nie trzyma mnie na Wielkiej Ziemi. Ale to miejsce równie¿ pozostawi³o nieprzyjemny œlad. A Ty, Sektor?</text>
   </string>
   <string id="sith_last_dialog_23">
       <text>Zobaczymy. W ka¿dym razie nic mnie teraz nie powstrzymuje.</text>

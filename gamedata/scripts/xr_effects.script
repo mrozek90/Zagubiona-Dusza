@@ -4007,7 +4007,7 @@ news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Kto uczyni
 end
 
 function for_stalkers_polylog_3()
-news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Swobody\\n%c[default]Tak, zacz¹³eœ rozkazywaæ odk¹d za³o¿y³eœ kamizelkê Powinnoœci. Zasadniczo mamy równe szanse na prze¿ycie.", nil, "default", 15000)
+news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Wolnoœci\\n%c[default]Tak, zacz¹³eœ rozkazywaæ odk¹d za³o¿y³eœ kamizelkê Powinnoœci. Zasadniczo mamy równe szanse na prze¿ycie.", nil, "default", 15000)
 end
 
 function for_stalkers_polylog_4()
@@ -4019,7 +4019,7 @@ news_manager.send_replica(db.actor, "%c[255,255,255,1]Stalker w egzoszkielecie B
 end
 
 function for_stalkers_polylog_6()
-news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Swobody\\n%c[default]Czy mo¿emy po prostu zbadaæ to wszystko razem? Nie s¹dzê, ¿eby krwiopijca pomyœla³ o zaatakowaniu ca³ego oddzia³u.", nil, "default", 15000)
+news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Wolnoœci\\n%c[default]Czy mo¿emy po prostu zbadaæ to wszystko razem? Nie s¹dzê, ¿eby krwiopijca pomyœla³ o zaatakowaniu ca³ego oddzia³u.", nil, "default", 15000)
 end
 
 function for_stalkers_polylog_7()
@@ -4027,7 +4027,7 @@ news_manager.send_replica(db.actor, "%c[50,255,50,50]Stalker w stroju Powinnoœci
 end
 
 function for_stalkers_polylog_8()
-news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Powinnoœciowcu, du¿o mówisz, a jeœli krwiopijca jest tutaj, to najprawdopodobniej Ciê us³ysza³. Jesteœ jedyn¹ przynêt¹. Swobodzista stoi po lewej stronie, wiêc wygodniej bêdzie mu pod¹¿aæ lew¹ stron¹, aby nikt stamt¹d nie wyskoczy³. Bandyta pójdzie z ty³u, ja pójdê za Tob¹. Kiedy potwór siê pojawi, wydam rozkaz strzelania.", nil, "default", 25000)
+news_manager.send_replica(db.actor, "%c[1,1,1,255]Sektor\\n%c[default]Powinnoœciowcu, du¿o mówisz, a jeœli krwiopijca jest tutaj, to najprawdopodobniej Ciê us³ysza³. Jesteœ jedyn¹ przynêt¹. Wolnoœciowiec stoi po lewej stronie, wiêc wygodniej bêdzie mu pod¹¿aæ lew¹ stron¹, aby nikt stamt¹d nie wyskoczy³. Bandyta pójdzie z ty³u, ja pójdê za Tob¹. Kiedy potwór siê pojawi, wydam rozkaz strzelania.", nil, "default", 25000)
 end
 
 function for_stalkers_polylog_9()
@@ -4035,7 +4035,7 @@ news_manager.send_replica(db.actor, "%c[50,255,50,50]Stalker w stroju Powinnoœci
 end
 
 function for_stalkers_polylog_10()
-news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Swobody\\n%c[default]A ja myœlê, ¿e on ma œwietny plan.", nil, "default", 15000)
+news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Wolnoœci\\n%c[default]A ja myœlê, ¿e on ma œwietny plan.", nil, "default", 15000)
 end
 
 function for_stalkers_polylog_11()
@@ -4047,11 +4047,11 @@ news_manager.send_replica(db.actor, "%c[50,255,50,50]Stalker w stroju Powinnoœci
 end
 
 function for_stalkers_polylog_13()
-news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Swobody\\n%c[default]Co to jest... Co to do diab³a by³o?", nil, "default", 10000)
+news_manager.send_replica(db.actor, "%c[1,1,255,1]Stalker w stroju Wolnoœci\\n%c[default]Co to jest... Co to do diab³a by³o?", nil, "default", 10000)
 end
 
 function for_stalkers_polylog_14()
-news_manager.send_replica(db.actor, "%c[255,255,255,1]Stalker w egzoszkielecie Bandytów\\n%c[default]Co tam nasz przyjacielu?", nil, "default", 10000)
+news_manager.send_replica(db.actor, "%c[255,255,255,1]Stalker w egzoszkielecie Bandytów\\n%c[default]To by³ nasz kolega?", nil, "default", 10000)
 end
 
 function for_stalkers_polylog_15()
@@ -4201,7 +4201,7 @@ news_manager.send_tip(db.actor, "%c[50,255,50,50]UWAGA\\nBroñ dezaktywowana!", n
 end
 
 function shkir_gauss()
-news_manager.send_tip(db.actor, "%c[1,1,1,255]Szkir\\n%c[default]Co oznacza dezaktywowany? Cholera...", nil, "default", 15000)
+news_manager.send_tip(db.actor, "%c[1,1,1,255]Szkir\\n%c[default]Jak to dezaktywowana? Cholera...", nil, "default", 15000)
 end
 
 function red_activate()

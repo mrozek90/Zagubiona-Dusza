@@ -4,7 +4,7 @@
 		<text>PDA Szkira</text>
 	</string>
 	<string id="shkir_pda_desc">
-		<text>Wpis nr 54: Nie s¹dzi³em, ¿e tak siê skoñczy, ale obrona Jekylla powinna mi pomóc. W ka¿dym razie, jeœli coœ mi siê stanie, Sith po prostu zostanie zastrzelony. Najlepsze, co mogê zrobiæ, to graæ na zw³okê i najpierw zabiæ Sektora. S¹dz¹c po tym, jak mnie szukaj¹ bez koñca, mog¹ to byæ tymi Monolitami.</text>
+		<text>Wpis nr 54: Nie s¹dzi³em, ¿e tak siê skoñczy, ale obrona Jekylla powinna mi pomóc. W ka¿dym razie, jeœli coœ mi siê stanie, Sith po prostu zostanie zastrzelony. Najlepsze, co mogê zrobiæ, to graæ na zw³okê i najpierw zabiæ Sektora. S¹dz¹c po tym, jak mnie szukaj¹ bez koñca, mog¹ byæ Monolitowcami.</text>
 	</string>
 	<string id="sith_pda_info">
 		<text>PDA Stiha</text>
@@ -34,7 +34,7 @@
 		<text>Notatka Sitha</text>
 	</string>
 	<string id="sith_treasure_desc">
-		<text>Notatka na pustej kartce, pismo Sitha: \n"Sektor, z jakiegoœ powodu nie mogê siê z Tob¹ skontaktowaæ. Kiedy próbowa³em Ciê znaleŸæ w Limañsku, spotka³em bandytê, który nazywa³ siebie Twoim przyjacielem. Powiedzia³em, ¿e wszystko w porz¹dku. Najprawdopodobniej awaria mojego krótkofalówki, wiêc pójdê do magazynów - do naprawy. Jak tylko to naprawiê, postaram siê z Tob¹ skontaktowaæ, jeœli wszystko siê zgadza, pójdê Ciê poszukaæ. Sith”</text>
+		<text>Notatka na pustej kartce, pismo Sitha: \n"Sektor, z jakiegoœ powodu nie mogê siê z Tob¹ skontaktowaæ. Kiedy próbowa³em Ciê znaleŸæ w Limañsku, spotka³em bandytê, który nazywa³ siebie Twoim przyjacielem. Pomyœla³em, ¿e wszystko jest w porz¹dku. Najprawdopodobniej zepsu³a siê moja krótkofalówka, wiêc pójdê do magazynów naprawiæ j¹. Jak tylko to zrobiê, postaram siê z Tob¹ skontaktowaæ, jeœli wszystko za³atwiê - pójdê Ciê poszukaæ. Sith”</text>
 	</string>
 	<string id="st_wpn_gauss_aes">
 		<text>Strzelba EM1</text>

@@ -331,13 +331,13 @@
 		<text>Przeszukaj schowek ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_sleep_hours">
-		<text>godz</text>
+		<text>h</text>
 	</string>
 	<string id="st_tip">
 		<text>Wiadomoœæ</text>
 	</string>
 	<string id="st_replica">
-		<text></text>
+		<text>Radio</text>
 	</string>
 	<string id="tip_door_blocked">
 		<text>Drzwi s¹ zablokowane</text>

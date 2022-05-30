@@ -508,13 +508,13 @@
         <text>Czasami wydaje mi siê, ¿e znasz siê z ca³¹ Zon¹. Z kim siê nie spotykam - wszyscy Ciê znaj¹.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_1">
-        <text>Heh, masz po prostu szczêœcie. Chocia¿ raczej to ja je mia³em.</text>
+        <text>Heh, maj¹ po prostu szczêœcie. Chocia¿ raczej to ja je mam.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_10">
         <text>Tak, smutna historia.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_11">
-        <text>Od tego czasu wiele siê wydarzy³o, ale któregoœ dnia spotka³em Chrusta i Anakondê, których ju¿ znasz. Zaczêliœmy tu przesiadywaæ we trzech, ale ca³kiem niedawno spotka³em te¿ Szweda - by³ w Szpitalu, w³aœnie mia³ szturmowaæ Elektrowniê Atomow¹ w Czarnobylu razem z Lebiediewem.. Ale wci¹¿ zbieraj¹ si³y. Szwed powiedzia³, ¿e to Ty mu pomog³eœ siê tu dostaæ i dlaczego Ci to mówiê - trochê póŸniej zrozumiesz. Jakiœ czas póŸniej spotka³em Saniê Smirnow spaceruj¹cego po Czerwonym Lesie. Kiedy zacz¹³em o Tobie mówiæ, powiedzia³, ¿e uratowa³eœ mu ¿ycie. A niedawno te¿ znajdujê Worona, a ponadto to dziêki Tobie za³ata³em go na czas. I tego samego dnia wœród Powinnoœci strzeg¹cych Limañska spotykam mojego starego przyjaciela Liochê Skrabina. Oczywiœcie od razu mnie rozpozna³ i ku mojemu zdziwieniu bardzo siê ucieszy³ ze spotkania, wiêc na razie mogê tam chodziæ bez ¿adnych pytañ. Wszyscy utracili dawno ten bezsensowny zapa³, a teraz wszyscy ciesz¹ siê, ¿e siê widz¹, jak za dawnych dobrych czasów. Teraz rozumiesz, dlaczego Ci to wszystko mówiê? Okazuje siê wiêc, ¿e stara brygada ponownie siê zjednoczy³a! A to wszystko dziêki Tobie, Sektor.</text>
+        <text>Od tego czasu wiele siê wydarzy³o, ale któregoœ dnia spotka³em Chrusta i Anakondê, których ju¿ znasz. Zaczêliœmy tu przesiadywaæ we trzech, ale ca³kiem niedawno spotka³em te¿ Szweda - by³ w Szpitalu. W³aœnie mia³ szturmowaæ Elektrowniê Atomow¹ w Czarnobylu razem z Lebiediewem. Ale wci¹¿ zbieraj¹ si³y. Szwed powiedzia³, ¿e to Ty mu pomog³eœ dostaæ siê tam. A dlaczego Ci to mówiê - trochê póŸniej zrozumiesz. Jakiœ czas póŸniej spotka³em Saniê Smirnov spaceruj¹cego po Czerwonym Lesie. Kiedy zacz¹³em o Tobie mówiæ, powiedzia³, ¿e uratowa³eœ mu ¿ycie. A niedawno te¿ znajdujê Worona, a ponadto to dziêki Tobie za³ata³em go na czas. I tego samego dnia wœród Powinnoœci strzeg¹cych Limañska spotykam mojego starego przyjaciela Liochê Skrabina. Oczywiœcie od razu mnie rozpozna³ i ku mojemu zdziwieniu bardzo siê ucieszy³ ze spotkania, wiêc na razie mogê tam chodziæ bez ¿adnych pytañ. Wszyscy utracili dawno ten bezsensowny zapa³, a teraz wszyscy ciesz¹ siê, ¿e siê widz¹, jak za dawnych dobrych czasów. Teraz rozumiesz, dlaczego Ci to wszystko mówiê? Okazuje siê wiêc, ¿e stara gwardia ponownie siê zjednoczy³a! A to wszystko dziêki Tobie, Sektor.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_12">
         <text>No dobrze. Ja po prostu wykonujê swoj¹ pracê.</text>
@@ -541,7 +541,7 @@
         <text>Naturalnie! Ale tak naprawdê to coœ wiêcej ni¿ tylko przyjacielska proœba. Dla mnie to teraz cel ¿yciowy.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_2">
-        <text>W planie?</text>
+        <text>W sensie?</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_20">
         <text>A jeœli znajdziemy jego zw³oki?</text>
@@ -574,19 +574,19 @@
         <text>Wiêc Ty i Woron jesteœcie z tej samej grupy, czy jak?</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_5">
-        <text>Dobrze siê domyœlasz. Có¿, nic nie mo¿na zrobiæ, opowiem Ci tê historiê. By³o nas kilku, bo pojechaliœmy do Zony w 2009 roku. Ja, Sania Smirnov, Sania Szwedsky, Wowan Anakonda, Dima Woron, Stiopa Chrust, Lioha Skrjabin i Dan Fraktor. To by³o dawno temu, gdy przejechaliœmy przez Kordon – sukinsyn, no có¿, wtedy by³o du¿o zabawy! Pamiêtam, jak ucieka³em przed wojownikami tak, ¿e piêty siê ¿arzy³y. Otó¿ osiedliliœmy siê w wiosce Kotów, zaczêliœmy wszystkim tam pomagaæ ile siê da³o. Zdobyliœmy dobr¹ reputacjê, zaczêli nas szanowaæ wœród stalkerów. Nazwaliœmy nasz¹ za³ogê %c[1,1,255,1]Zaubionymi Duszami%c[default]. Ka¿dy mia³ swoj¹ osobliwoœæ, która uzupe³nia³a nasz doœæ du¿y oddzia³. Sanja Smirnow by³ osob¹, która po³¹czy³a nas wszystkich, szanowaliœmy go jako lidera. Szwed by³ dobrym doradc¹, pomaga³ i wspiera³ wszystkich na wiele sposobów. Lioha Czy¿ wzi¹³ na siebie brudn¹ robotê, gdy trzeba by³o kogoœ chroniæ lub odwrotnie - by³ na czele ataku. Od dzieciñstwa Woron lubi³ mechanikê samochodow¹, o ile teraz pamiêtam - potrafi³ zlepiæ dzia³o samobie¿ne ze z³omu. Dlatego po³owa napraw by³a na nim, a po³owa na Anakondzie - ekspert w monta¿u zbroi i ukrywaniu siê. Jak zwykle gada³? "Szczêœcie kocha milczenie" jak dobrze pamêtam...\nPrawdopodobnie mia³em najbardziej bezu¿yteczn¹ rolê w oddziale - "duszê towarzystwa", jak mnie nazywali. Powiedzieli, ¿e s¹ wdziêczni za to, ¿e potrafiê wspieraæ i pomagaæ w trudnych chwilach.</text>
+        <text>Dobrze siê domyœlasz. Có¿, nie ma co robiæ to opowiem Ci tê historiê. By³o nas kilku, przyszliœmy do Zony w 2009 roku. Ja, Sania Smirnov, Sania Szwedsky, Wowan Anakonda, Dima Woron, Stiopa Chrust, Lioha Skriabin i Dan Fraktor. To by³o dawno temu, gdy szliœmy przez Kordon – cholera, ile wtedy by³o du¿o zabawy! Pamiêtam, jak ucieka³em przed ¿o³nierzami tak, ¿e piêty skwierczy³y. Otó¿ osiedliliœmy siê w wiosce Kotów. Zaczêliœmy wszystkim tam pomagaæ ile siê da³o. Zdobyliœmy dobr¹ reputacjê, zaczêli nas szanowaæ wœród stalkerów. Nazwaliœmy nasz¹ za³ogê %c[1,1,255,1]Zagubionymi Duszami%c[default]. Ka¿dy mia³ swoj¹ osobowoœæ, która uzupe³nia³a nasz doœæ du¿y oddzia³. Sania Smirnow by³ osob¹, która po³¹czy³a nas wszystkich, szanowaliœmy go jako lidera. Szwed by³ dobrym doradc¹, pomaga³ i wspiera³ wszystkich na wiele sposobów. Lioha Skriabin wzi¹³ na siebie brudn¹ robotê, gdy trzeba by³o kogoœ chroniæ lub odwrotnie - by³ na czele ataku. Od dzieciñstwa Woron lubi³ mechanikê samochodow¹, o ile teraz pamiêtam - potrafi³ zlepiæ dzia³o samobie¿ne ze z³omu. Dlatego po³owa napraw by³a na nim, a po³owa na Anakondzie - ekspercie w monta¿u zbroi i ukrywaniu siê. Jak zwykle gada³? "Szczêœcie kocha milczenie" jak dobrze pamêtam...\nMi przypad³a prawdopodobnie najbardziej bezu¿yteczna rola w oddziale - "dusza towarzystwa", jak mnie nazywali. Powiedzieli, ¿e s¹ wdziêczni za to, ¿e potrafiê wspieraæ i pomagaæ w trudnych chwilach.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_6">
         <text>Nie s¹dzê, ¿eby siê mylili.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_7">
-        <text>Tak mówisz... Chocia¿ wiesz, najprawdopodobniej tak powiedzieli, bo nie mia³em okreœlonej specjalizacji w grupie - wiêc pomaga³em we wszystkim po trochu. I nigdy nie mia³em problemu z poczuciem humoru, heh!\nAle Fraktor by³ naszym cz³onkiem specjalnym. By³ dobrze zorientowany w rysunkach i by³ genialnym strategiem. Zgodnie z jego planami wszystko zawsze siê uk³ada³o, bo jako cz³owiek by³ o g³owê m¹drzejszy ni¿ po³owa z nas wszystkich razem wziêtych. W ogóle wszyscy byli wyj¹tkowi i pocz¹tkowo chcieli osi¹gn¹æ jedno – przetrwaæ w miejscu pe³nym zagadek i tajemnic. Ale jak rozumiesz, nic nie trwa wiecznie...\nPamiêtam ten dzieñ jak wczoraj - 9 stycznia 2010 by³ jak grom z jasnego nieba. Poniewa¿ przy Kordonie nie mieliœmy nic do roboty, postanowiliœmy zag³êbiæ siê w Zonê. Tak, ¿e w koñcu ka¿dy nagina³ swoj¹ liniê i chcia³ mieæ w³asn¹ - niektórzy na Bagna, inni na Wysypisko, inni do Doliny Mroku i co najwa¿niejsze - nikt tak naprawdê nikogo nie s³ucha³. Wydawa³o siê, ¿e wszystko siê wyrwa³o, nawet, przyznajê, by³em te¿ jednym z tych, którzy nie potrafili dojœæ do wspólnego mianownika. To by³o bardzo rozczarowuj¹ce, gdy zobaczy³em, ¿e grupa facetów, z którymi przechodzi³eœ przez ogieñ i wodê, rozpad³a siê tak obrzydliwie. Ale jednoczeœnie nie chcia³em, ¿eby ocierali siê o moje zdanie.\nTylko Smirnov i Szwed próbowali jakoœ wszystko za³agodziæ, ale nic z tego nie wysz³o.</text>
+        <text>Tak mówisz... Chocia¿ wiesz, najprawdopodobniej tak powiedzieli, bo nie mia³em okreœlonej specjalizacji w grupie - wiêc pomaga³em we wszystkim po trochu. I nigdy nie mia³em problemu z poczuciem humoru.\nAle Fraktor by³ naszym cz³onkiem specjalnym. By³ dobrze zorientowany w rysunkach i by³ genialnym strategiem. Zgodnie z jego planami wszystko zawsze siê uk³ada³o, bo jako cz³owiek by³ o g³owê m¹drzejszy ni¿ po³owa z nas wszystkich razem wziêtych. W ogóle wszyscy byli wyj¹tkowi i pocz¹tkowo chcieli osi¹gn¹æ jedno – przetrwaæ w miejscu pe³nym zagadek i tajemnic. Ale jak rozumiesz, nic nie trwa wiecznie...\nPamiêtam ten dzieñ jak wczoraj - 9 stycznia 2010 by³ jak grom z jasnego nieba. Poniewa¿ przy Kordonie nie mieliœmy nic do roboty, postanowiliœmy zag³êbiæ siê w Zonê. Tak, ¿e w koñcu ka¿dy nagina³ swoj¹ liniê i chcia³ mieæ w³asn¹ - niektórzy na Bagna, inni na Wysypisko, inni do Doliny Mroku i co najwa¿niejsze - nikt tak naprawdê nikogo nie s³ucha³. Wydawa³o siê, ¿e wszystko siê wyrwa³o. Nawet - przyznajê - by³em te¿ jednym z tych, którzy nie potrafili dojœæ do wspólnego mianownika. To by³o bardzo rozczarowuj¹ce, gdy zobaczy³em, ¿e grupa facetów, z którymi przechodzi³eœ przez ogieñ i wodê, rozpad³a siê tak obrzydliwie. Ale jednoczeœnie nie chcia³em, ¿eby wycierali nogi moim zdaniem.\nTylko Smirnov i Szwed próbowali jakoœ wszystko za³agodziæ, ale nic z tego nie wysz³o.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_8">
         <text>Jak to siê wszystko skoñczy³o?</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_9">
-        <text>Tak, ¿e w koñcu siê pok³óciliœmy, wymówiliœmy do siebie obraŸliwe s³owa i ka¿dy poszed³ swoj¹ drog¹ - Szwed poszed³ na Bagna, szukaæ pomocy i tych, którzy jej potrzebowali. Sania Smirnov trafi³ na Wysypisko z tego samego powodu. Ja – do Doliny Mroku, gdzie wszed³em w Wolnoœæ. Woron i Chrust zostali najemnikami, ale ka¿dy pod innym dowództwem, ¿eby siê nie gryŸæ. Anakonda zacz¹³ uganiaæ siê za babami, a Czy¿ popad³ w Powinnoœæ. Co siê sta³o z Fraktorem, gdzie jest i czy w ogóle ¿yje - nikt nie wie. A tak wszystko siê dobrze zaczê³o...</text>
+        <text>Tak, ¿e w koñcu siê pok³óciliœmy, wymówiliœmy do siebie obraŸliwe s³owa i ka¿dy poszed³ swoj¹ drog¹. Szwed poszed³ na Bagna, szukaæ pomocy i tych, którzy jej potrzebowali. Sania Smirnov trafi³ na Wysypisko z tego samego powodu. Ja – do Doliny Mroku, gdzie wszed³em w Wolnoœæ. Woron i Chrust zostali najemnikami, ale ka¿dy pod innym dowództwem, ¿eby siê nie gryŸæ. Anakonda zacz¹³ uganiaæ siê za babami, a Skriabin popad³ w Powinnoœæ. Co siê sta³o z Fraktorem, gdzie jest i czy w ogóle ¿yje - nikt nie wie. A tak wszystko siê dobrze zaczê³o...</text>
     </string>
     <string id="for_infernis_info_dialog_0">
         <text>Co mo¿esz powiedzieæ o ludziach tutaj?</text>
@@ -664,7 +664,7 @@
         <text>I o to chodzi! Nigdy w Ciebie nie w¹tpi³em! Oto ca³a butelka. Twoje zdrowie!</text>
     </string>
     <string id="for_infernis_women_dialog_0">
-        <text>Znalaz³em notatkê tutaj. Wydaje siê nale¿eæ do Ciebie.</text>
+        <text>Znalaz³em notatkê. Wydaje siê nale¿eæ do Ciebie.</text>
     </string>
     <string id="for_infernis_women_dialog_1">
         <text>No to zobaczmy.. Wiêc... Cholera, to znaczy, ¿e Ÿle to ukry³em..</text>
@@ -676,7 +676,7 @@
         <text>A co, sta³o siê interesuj¹ce? Szczerze mówi¹c, nawet gdybym Ci to powiedzia³, by³byœ tylko zawstydzony. Lepiej ciesz siê, ¿e nie jesteœ na moim miejscu.</text>
     </string>
     <string id="for_infernis_women_dialog_12">
-        <text>Tak, sk¹d znasz t¹ kobietê? One niczego w ¿yciu nie rozwi¹zuj¹, najwa¿niejsze jest zdrowy rozs¹dek.</text>
+        <text>To sk¹d znasz t¹ kobietê? One niczego w ¿yciu nie rozwi¹zuj¹, najwa¿niejsze jest zdrowy rozs¹dek.</text>
     </string>
     <string id="for_infernis_women_dialog_13">
         <text>Zgadza siê! Proponujê toast, ¿eby nikt nie przeszkadza³ nam myœleæ racjonalnie! Trzymaj Sektor. Tylko nie ka¿ mi nalegaæ.</text>
@@ -700,16 +700,16 @@
         <text>Có¿... Powiedzmy, ¿e nie mam najlepszych relacji z konsorcjum tych konkretnych najemników, zw³aszcza z t¹ dziewczyn¹. Szczerze mówi¹c, gdybym wiedzia³, ¿e tam poleci, nie przeszkodzi³bym nikomu zestrzeliæ ten helikopter. Sk³óciæ mnie z Anakond¹ to najgorsza rzecz, jak¹ mo¿na zrobiæ na tej planecie.</text>
     </string>
     <string id="for_infernis_women_dialog_6">
-        <text>Kobiety mog¹ sk³óciæ ka¿dego, nie zabi³bym za tak¹.</text>
+        <text>Kobiety mog¹ sk³óciæ ka¿dego, nie zabi³bym tak¹.</text>
     </string>
     <string id="for_infernis_women_dialog_7">
-        <text>Sektor, za kogo mnie masz? ¯ebym j¹ zabi³? Nienawidziæ - tak, gardziæ - tak, byæ traktowanym jak œmieæ - tak, ale zabijaæ... Wstydzi³bym siê po tym spojrzeæ profesorowi w oczy. Tak jak ka¿de okrucieñstwo wobec zwierz¹t.</text>
+        <text>Sektor, za kogo mnie masz? ¯ebym j¹ zabi³? Nienawidziæ - tak, gardziæ - tak, byæ traktowanym jak œmieæ - tak, ale zabijaæ... Wstydzi³bym siê po tym spojrzeæ profesorowi w oczy. Tak jak ka¿de okrucieñstwo wobec ¿ycia.</text>
     </string>
     <string id="for_infernis_women_dialog_8">
         <text>Czy mówisz teraz powa¿nie?</text>
     </string>
     <string id="for_infernis_women_dialog_9">
-        <text>Oczywiœcie, ¿e nie, ha ha ha! ¯artujê, mój nastrój siê poprawi³ po rozmowie. Nawiasem mówi¹c, dziwne jest, ¿e najemnik, nawet by³y, s³yszy zdanie "nie zabi³bym". Wygl¹da na to, ¿e stajesz siê coraz bardziej ludzki. A co do tej kobiety - le¿a³a nieprzytomna na wpó³ martwa. No có¿, postanowi³em karmiæ j¹ u¿ywkami, wiêc jej system nerwowy zawiód³. Puls powróci za trzy lub cztery godziny po moich sztuczkach i wróci do siebie za piêæ lub szeœæ. Niestety t¹ metod¹ uratowa³am jej ¿ycie - raczej od szoku pourazowego nie kopnie w kalendarz. No chyba, ¿e wczeœniej psy znalaz³y j¹ po zapachu krwi. Wtedy - jak to mówi¹ - "ju¿ po ptokach".</text>
+        <text>Oczywiœcie, ¿e nie, ha ha ha! ¯artujê, mój nastrój siê poprawi³ po rozmowie. Nawiasem mówi¹c, dziwne jest, ¿e najemnik, nawet by³y, mówi "nie zabi³bym". Wygl¹da na to, ¿e stajesz siê coraz bardziej ludzki. A co do tej kobiety - le¿a³a nieprzytomna na wpó³ martwa. No có¿, postanowi³em karmiæ j¹ lekami, wiêc jej system nerwowy zawiód³. Puls powróci za trzy lub cztery godziny po moich sztuczkach i wróci do siebie za piêæ lub szeœæ. T¹ sztuczk¹ uratowa³am jej ¿ycie - raczej od szoku pourazowego nie wyci¹gnie nóg. No chyba, ¿e wczeœniej psy znalaz³y j¹ po zapachu krwi. Wtedy - jak to mówi¹ - "ju¿ po ptokach".</text>
     </string>
     <string id="for_kilorik_professor_dialog_0">
         <text>Dawno siê nie widzieliœmy, Kilorik!</text>
@@ -1459,10 +1459,10 @@
         <text>I co z tego?</text>
     </string>
     <string id="for_professor_gauss_dialog_5">
-        <text>Mój eksperyment z modyfikacj¹ broni za pomoc¹ energii artefaktów zakoñczy³ siê sukcesem. W koñcu uda³o siê. Uda³o mi siê zmodyfikowaæ broñ, aby zwiêkszyæ jej si³ê penetracji. Martwi mnie tylko to, ¿e nigdy wczeœniej nie widzia³em takich karabinów. I tak nie wiem, czy mo¿na natkn¹æ siê na inny taki egzemplarz.</text>
+        <text>Mój eksperyment z modyfikacj¹ broni za pomoc¹ energii artefaktów zakoñczy³ siê sukcesem. W koñcu uda³o siê. Uda³o mi siê zmodyfikowaæ broñ, aby zwiêkszyæ jej si³ê penetracji. Martwi mnie tylko to, ¿e nigdy wczeœniej nie widzia³em takich karabinów. I nie wiem, czy mo¿na natkn¹æ siê na drugi taki egzemplarz.</text>
     </string>
     <string id="for_professor_gauss_dialog_6">
-        <text>Dlaczego potrzebujesz wiêcej?</text>
+        <text>Dlaczego potrzebujesz drugiego egzemplarza?</text>
     </string>
     <string id="for_professor_gauss_dialog_7">
         <text>Mówi¹c wprost, pocz¹tkowo moim celem w tej dziedzinie by³o stworzenie specjalnej broni, w któr¹ wyposa¿yliby moich podopiecznych, aby skuteczniej realizowaæ kontrakty. Okazuje siê jednak, ¿e nie ka¿dy rodzaj broni da siê ulepszyæ, powiedzia³bym wrêcz – praktycznie ¿aden. I tak sam sens ulepszeñ jest kwestionowany, jeœli ostatecznie bêdzie tylko jedna taka broñ. Chyba ¿e masz szczêœcie i znajdziesz drugi egzemplarz.</text>
@@ -1471,7 +1471,7 @@
         <text>Nawet nie wiem, co odpowiedzieæ.</text>
     </string>
     <string id="for_professor_gauss_dialog_9">
-        <text>A propos, Sektor. Na pewno zainteresuje Ciê fakt, ¿e kiedy testowa³em tê broñ, bêd¹c w pobli¿u naszego magazynu artefaktów, kiedy strzela³em, zauwa¿y³em, ¿e ka¿dy z nich zacz¹³ stopniowo "Wyparowywaæ".</text>
+        <text>A propos, Sektor. Na pewno zainteresuje Ciê fakt, ¿e kiedy testowa³em tê broñ, bêd¹c w pobli¿u naszego magazynu artefaktów, kiedy strzela³em, zauwa¿y³em, ¿e ka¿dy z nich zacz¹³ stopniowo "wyparowywaæ".</text>
     </string>
     <string id="for_professor_gauss_dialog_end_0">
         <text>Trzy razy zgadnij, kogo znalaz³em na tych wzgórzach?</text>
@@ -1819,7 +1819,7 @@
         <text>Jak siê czujesz?</text>
     </string>
     <string id="for_raven_first_dialog_1">
-        <text>Ruszamy. Na szczêœcie nie mam po³amanych nóg, ale nied³ugo nie bêdê móg³ normalnie chodziæ.</text>
+        <text>Chodzê. Na szczêœcie nie mam po³amanych nóg, ale d³ugo nie bêdê móg³ normalnie chodziæ.</text>
     </string>
     <string id="for_raven_first_dialog_2">
         <text>Gdzie jest teraz Infernis? Wydawa³o siê, ¿e jest z Tob¹.</text>
