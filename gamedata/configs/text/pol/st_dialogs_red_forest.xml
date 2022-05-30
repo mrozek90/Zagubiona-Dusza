@@ -202,7 +202,7 @@
         <text>Nie, s³uchaj uwa¿nie! Mam specjalny PDA, zmodyfikowany. Pozwala ogl¹daæ nie tylko grupy w pobli¿u, ale pokazuje równie¿, ¿ywych stalkerów w okolicy. W³¹czasz tryb wyszukiwania, który identyfikuje wszystkich wed³ug pseudonimów ustawionych w PDA. W ten sposób mo¿esz sprawdziæ, czy ktoœ z mojej grupy jeszcze ¿yje... Grr...err.. Mo¿esz pomóc?</text>
     </string>
     <string id="red_raven_first_dialog_11">
-        <text>ChodŸ, zobaczmy, co tam znajdziesz..</text>
+        <text>Dawaj, zobaczê co tam znajdê..</text>
     </string>
     <string id="red_raven_first_dialog_2">
         <text>Widzia³eœ nas?!..</text>
@@ -214,10 +214,10 @@
         <text>D-do diab³a ch³opaki.. Czy mogliby.. Ahhh!</text>
     </string>
     <string id="red_raven_first_dialog_5">
-        <text>Nie panikuj, powiedz mi, co siê sta³o. I w migiem.</text>
+        <text>Nie panikuj, powiedz mi, co siê sta³o. Migiem.</text>
     </string>
     <string id="red_raven_first_dialog_6">
-        <text>Polecieliœmy do... Tak, nie ma znaczenia gdzie. Lecieliœmy krótko. Nagle sterowanie helikopterem pad³o, nie mogliœmy nic zrobiæ, zacz¹³ spadaæ! Ledwo zd¹¿y³em stamt¹d wyskoczyæ.. Nogi nie wytrzyma³y takiego obci¹¿enia...</text>
+        <text>Lecieliœmy do... Z reszt¹, nie ma znaczenia gdzie. Lecieliœmy nisko. Nagle sterowanie helikopterem pad³o, nie mogliœmy nic zrobiæ, zacz¹³ spadaæ! Ledwo zd¹¿y³em stamt¹d wyskoczyæ.. Nogi nie wytrzyma³y takiego obci¹¿enia...</text>
     </string>
     <string id="red_raven_first_dialog_7">
         <text>Czy by³ z Tob¹ ktoœ jeszcze?</text>
@@ -457,7 +457,7 @@
       <text>O czym teraz mówisz?</text>
   </string>
   <string id="red_skryabin_first_dialog_4">
-      <text>Durnia udajesz? Ktoœ zaatakowa³ nasz¹ bazê na Agropromie. Niektórzy zginêli, a niektórzy zniknêli, tak jak Ty teraz. Mogê wys³aæ Ciê do wiêzienia? Tam odœwie¿¹ Twoj¹ pamiêæ.</text>
+      <text>Durnia udajesz? Ktoœ zaatakowa³ nasz¹ bazê na Agropromie. Niektórzy zginêli, a niektórzy zniknêli, tak jak Ty teraz. Mo¿e wys³aæ Ciê do wiêzienia? Tam odœwie¿¹ Twoj¹ pamiêæ.</text>
   </string>
   <string id="red_skryabin_first_dialog_5">
       <text>Czekaj, czekaj, nie jestem zamieszany w to, co siê tam sta³o. W tym czasie szuka³em dokumentów w podziemiach.</text>
@@ -472,7 +472,7 @@
       <text>Genera³ Kry³ow nie ¿yje, jak wszyscy w bazie. I to pierwszy raz, kiedy s³yszê o "fikcyjnych powinnoœciowcach". Powinnoœæ teraz szuka osób zamieszanych w te morderstwa. A potem spotykam jednego z ocala³ych, który zdecydowanie próbuje siê "ulotniæ", opowiadaj¹c mi ró¿ne bajki. Bêdziesz musia³ usi¹œæ z nami, Sektorze i odpowiedzieæ na nasze pytania.</text>
   </string>
   <string id="red_skryabin_first_dialog_9">
-      <text>Jesteœ idiot¹? Teraz szukam osoby, która najprawdopodobniej jest zamieszana w ludobójstwo Twoich ziomków - odstêpcy naszego oddzia³u, który pojma³ tak¿e naszych najemników. Próbujê go teraz znaleŸæ. Widzia³eœ helikopter, w³aœnie przelecia³? Równie dobrze móg³ tam byæ. Jeœli naprawdê jesteœ zainteresowany znalezieniem osób zaanga¿owanych, szukaj ze mn¹ i nie przeszkadzaj mi. Ust¹p, do cholery!</text>
+      <text>Jesteœ idiot¹? Teraz szukam osoby, która najprawdopodobniej jest zamieszana w ludobójstwo Twoich ziomków - odstêpcy naszego oddzia³u, który pojma³ tak¿e naszych najemników. Próbujê go teraz znaleŸæ. Widzia³eœ helikopter który w³aœnie przelecia³? Równie dobrze móg³ tam byæ. Jeœli naprawdê jesteœ zainteresowany znalezieniem osób zaanga¿owanych, szukaj ze mn¹ i nie przeszkadzaj mi. Ust¹p, do cholery!</text>
   </string>
   <string id="red_skryabin_last_dialog_0">
       <text>Cholera jasna...</text>
