@@ -85,31 +85,31 @@
         <text>Grupa alfa? Dlaczego tylko 4 osoby, nie by³o was wiêcej?</text>
     </string>
     <string id="leshiy_first_dialog_1">
-        <text>Co ciê to obchodzi, Sektorze? Czy naprawdê chcesz komuœ pomóc?</text>
+        <text>Co Ciê to obchodzi, Sektor? Naprawdê chcesz komuœ pomóc?</text>
     </string>
     <string id="leshiy_first_dialog_2">
         <text>Jeœli o coœ pytam, znaczy mam w tym cel.</text>
     </string>
     <string id="leshiy_first_dialog_3">
-        <text>W lesie zaatakowa³ nas jakiœ gigantyczny œwir i rozerwa³ po³owê naszej grupy na strzêpy. Nigdy wczeœniej czegoœ takiego nie widzia³em... Generalnie wszyscy, którym uda³o siê uciec, s¹ tutaj. To ju¿ wiesz wszystko, jaki masz w tym cel?</text>
+        <text>W lesie zaatakowa³ nas jakiœ gigantyczny œwir i rozerwa³ po³owê naszej grupy na strzêpy. Nigdy wczeœniej czegoœ takiego nie widzia³em... Generalnie wszyscy, którym uda³o siê uciec, s¹ tutaj. Wiesz ju¿ wszystko. Po co Ci to?</text>
     </string>
     <string id="leshiy_first_dialog_4">
-        <text>A no mam. Dawaj wspó³rzêdne, gdzie to siê sta³o.</text>
+        <text>Po coœ. Dawaj wspó³rzêdne, gdzie to siê sta³o.</text>
     </string>
     <string id="leshiy_first_dialog_5">
-        <text>Tak, by³ cel. Zdaj raport Szkirowi o swojej grupie. Có¿, teraz pora na mnie.</text>
+        <text>Tak tylko pytam. Zdaj raport Szkirowi o swojej grupie. Có¿, pora na mnie.</text>
     </string>
     <string id="leshiy_first_dialog_end_0">
         <text>Znalaz³em Twoich kumpli i tego potwora. Ledwo po³o¿y³em drania.</text>
     </string>
     <string id="leshiy_first_dialog_end_1">
-        <text>Czy... co zrobi³eœ?? Wygl¹da na to, ¿e Ciê nie doceni³em. Dziêkujê Sektorze. Cieszy moj¹ duszê, wiedz¹c, ¿e ch³opaki s¹ pomszczeni.</text>
+        <text>Czy... co zrobi³eœ?? Wygl¹da na to, ¿e Ciê nie doceni³em. Dziêkujê Sektorze. Cieszy moj¹ duszê wiadomoœæ, ¿e ch³opaki s¹ pomszczeni.</text>
     </string>
     <string id="leshiy_first_dialog_end_2">
         <text>Tak, wszystko jest ju¿ w porz¹dku.</text>
     </string>
     <string id="leshiy_first_dialog_end_3">
-        <text>WeŸ to. To czêœæ mojego ostatniego zlecenia, niech bêdzie z Tob¹. Zak³adam, ¿e Twoje nowe zamówienie zosta³o zrealizowane.</text>
+        <text>WeŸ to. To czêœæ mojego ostatniego zlecenia, trzymaj.</text>
     </string>
     <string id="noname_dialog_0">
         <text>...</text>
@@ -496,10 +496,10 @@
       <text>[Pocz¹tek fabu³y]</text>
   </string>
   <string id="shkir_first_dialog_1">
-      <text>Jesteœmy na miejscu. Klient zap³aci³ pokaŸn¹ kwotê za szefów pewnej grupy Strie³oka. Na razie musimy siê tutaj zadomowiæ.</text>
+      <text>Jesteœmy na miejscu. Klient zap³aci³ pokaŸn¹ kwotê za cz³onków pewnej grupy Strie³oka. Na razie musimy siê tutaj zadomowiæ.</text>
   </string>
   <string id="shkir_first_dialog_2">
-      <text>Czego powinienem oczekiwaæ od tej grupy?</text>
+      <text>Czego powinienem siê spodziewaæ po tej grupie?</text>
   </string>
   <string id="shkir_first_dialog_3">
       <text>Tego samego co od reszty - grupa doœwiadczonych stalkerów, którzy z jakiegoœ powodu kogoœ zdenerwowali. Jesteœ najemnikiem czy detektywem? To co, goñ do grupy "Alfa" i rozeznaj siê w sytuacji. S¹ na parkingu na po³udnie st¹d i dotarli tu przed nami - mo¿e ktoœ siê czegoœ dowiedzia³. W miêdzyczasie dowiem siê, co siê sta³o z "Delt¹".</text>
@@ -538,13 +538,13 @@
       <text>Dowiedzia³eœ siê czegoœ?</text>
   </string>
   <string id="shkir_strelok_dialog_2">
-      <text>Strie³ok by³ tutaj. Pobieg³ do tunelu niedaleko st¹d, który za sob¹ zasypa³. A tak¿e by³ najemnik z blizn¹ na twarzy, szed³ za nim.</text>
+      <text>Strie³ok by³ tutaj. Pobieg³ do tunelu niedaleko st¹d, który za sob¹ zasypa³. By³ tam tak¿e najemnik z blizn¹ na twarzy, szed³ za nim.</text>
   </string>
   <string id="shkir_strelok_dialog_3">
-      <text>Hmm... Wiêc nadal musimy znaleŸæ tego najemnika, on na pewno coœ wie. Dobra, ch³opaki stoj¹ na szpicy, mo¿e ktoœ tam wróci. Sith powiedzia³, ¿e jest tu opuszczona kopalnia, pozosta³o w niej trochê sprzêtu. Poniewa¿ jesteœ z nas najbardziej ciekawski, powierzam to zadanie Tobie. Dotrzyj tam i spróbuj znaleŸæ tam coœ interesuj¹cego, mo¿e jest w tam jakieœ obejœcie.</text>
+      <text>Hmm... Wiêc nadal musimy znaleŸæ tego najemnika, on na pewno coœ wie. Dobra, ch³opaki stoj¹ na szpicy, mo¿e ktoœ tam wróci. Sith powiedzia³, ¿e jest tu opuszczona kopalnia, pozosta³o w niej trochê sprzêtu. Poniewa¿ jesteœ z nas najbardziej ciekawski, powierzam to zadanie Tobie. Dotrzyj tam i spróbuj znaleŸæ tam coœ interesuj¹cego, mo¿e jest tam jakieœ przejœcie.</text>
   </string>
   <string id="shkir_strelok_dialog_4">
-      <text>Hmm... Przyjœcie tu samemu jest niebezpieczne, pójœcie do Sitha - tym bardziej. Potrzebujê towarzysza.</text>
+      <text>Hmm... Przyjœcie tu samemu jest niebezpieczne, pójœcie do kopalni - tym bardziej. Potrzebujê towarzysza.</text>
   </string>
   <string id="shkir_strelok_dialog_5">
       <text>Czy nie wyrazi³em siê jasno?! IdŸ do kopalni dziêciole!</text>
@@ -556,7 +556,7 @@
       <text>Taki, ¿e kaza³em Ci postêpowaæ zgodnie z rozkazem, a zamiast odpowiedzieæ "zrobiê to" – stoisz i jêczysz tu! Zapomnia³eœ, kto jest liderem w dru¿ynie? A mo¿e chcesz porozmawiaæ z klientem o tym, ¿e nie chcesz realizowaæ umowy? Powtarzam - idŸ do kopalni.</text>
   </string>
   <string id="shkir_strelok_dialog_8">
-      <text>Dobra, uspokój siê... ju¿ to robiê.</text>
+      <text>Dobra, uspokój siê... ju¿ idê.</text>
   </string>
   <string id="sith_first_dialog_0">
       <text>Jaki jest plan?</text>
@@ -880,7 +880,7 @@
       <text>Kontyntynuj.</text>
   </string>
   <string id="smirnow_dopros_12">
-      <text>Stalker nazywa³ siê Strie³ok. Ucieka³ przed najemnikiem do tunelu prowadz¹cego do Limañska - tam wysadzi³ przejœcie, ¿eby go nie dorwaæ.</text>
+      <text>Stalker nazywa³ siê Strie³ok. Ucieka³ przed najemnikiem do tunelu prowadz¹cego do Limañska - tam wysadzi³ przejœcie, ¿eby go nie dorwa³.</text>
   </string>
   <string id="smirnow_dopros_13">
       <text>Czy wiesz coœ jeszcze?</text>
@@ -907,7 +907,7 @@
       <text>Tak... rozpoznajê jednego.</text>
   </string>
   <string id="smirnow_dopros_7">
-      <text>Kto dok³adnie?</text>
+      <text>Kogo dok³adnie?</text>
   </string>
   <string id="smirnow_dopros_8">
       <text>By³ tu niedawno, goni³ go najemnik.</text>

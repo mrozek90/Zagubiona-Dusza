@@ -1129,7 +1129,7 @@
         <text>Gdzie mogê szukaæ "Helu"?</text>
     </string>
     <string id="for_professor_artefacts_guide_dialog_20">
-        <text>Mutanty wodne. Czasami wychodz¹ na l¹d, ale wiêkszoœæ czasu spêdzaj¹ na chemicznych bagnach. Wci¹¿ s¹ ma³o zbadane, wiêc ich czêœci cia³a te¿ by mi nie przeszkadza³y. Nawiasem mówi¹c, to prawda.\nNazywamy te potwory "rotanami". Poruszaj¹ siê bardzo szybko, trudno je zobaczyæ w trawie, wiêc b¹dŸ ostro¿ny. Sam las jest niewielki, wiêc najprawdopodobniej siê w nim nie zgubisz.</text>
+        <text>Mutanty wodne. Czasami wychodz¹ na l¹d, ale wiêkszoœæ czasu spêdzaj¹ na chemicznych bagnach. Wci¹¿ s¹ ma³o zbadane, wiêc ich czêœci cia³a te¿ by mi nie przeszkadza³y. To tak na marginesie. \nNazywamy te potwory "rotanami". Poruszaj¹ siê bardzo szybko, trudno je zobaczyæ w trawie, wiêc b¹dŸ ostro¿ny. Sam las jest niewielki, wiêc najprawdopodobniej siê w nim nie zgubisz.</text>
     </string>
     <string id="for_professor_artefacts_guide_dialog_21">
         <text>Snorki. Myœlê, ¿e musia³eœ mieæ z nimi stycznoœæ, s¹ doœæ powszechne w Strefie Wykluczenia. Ale to s¹ niezwyk³e snorki. Jak wspomnia³em, przez d³ugie przebywanie w ognistych strefach anomalii, przyzwyczaili siê ju¿ do temperatury, ich skóra stwardnia³a do stopnia nieprzepuszczalnoœci. Dlatego zabicie ich bêdzie nieco trudniejsze ni¿ zwyk³ych. Warto te¿ zauwa¿yæ, ¿e jeden z moich g³ównych wykonawców zarejestrowa³ obecnoœæ jeszcze bardziej niezwyk³ego potwora w Pentagramie. Podobny jest do snorka, ale jego wygl¹d jest... jeszcze brzydszy od innych. A najgorsze jest to, ¿e nie ustaliliœmy jeszcze ¿adnych jego w³aœciwoœci. B¹dŸ bardzo ostro¿ny, gdy na niego wpadniesz. Byæ mo¿e najlepsz¹ rzecz¹, jak¹ mo¿na zrobiæ w tej sytuacji, by³oby ucieczka, dopóki nie odpuœci sobie i mo¿na kontynuowaæ poszukiwania artefaktu.</text>
@@ -1153,7 +1153,7 @@
         <text>Czy koniecznie muszê szukaæ tu artefaktów?</text>
     </string>
     <string id="for_professor_artefacts_guide_dialog_8">
-        <text>"Hel" jest artefaktem elektrostatycznym, wiêc jego przybli¿one po³o¿enie to strefa anomalii elektrycznych, co potwierdzaj¹ instrumenty. W Twoim przypadku jest to opuszczony budynek na pó³nocny zachód od wejœcia do bunkra. Zwykle pojawiaj¹ siê tam artefakty elektrostatyczne.</text>
+        <text>"Hel" jest artefaktem elektrostatycznym, wiêc jego przybli¿one po³o¿enie to strefa anomalii elektrycznych, co potwierdzaj¹ przyrz¹dy. W Twoim przypadku jest to opuszczony budynek na pó³nocny zachód od wejœcia do bunkra. Zwykle pojawiaj¹ siê tam artefakty elektrostatyczne.</text>
     </string>
     <string id="for_professor_artefacts_guide_dialog_9">
         <text>Na pierwszy rzut oka myœla³em, ¿e podobnie jak Hel, jest artefaktem elektrostatycznym. Ale ku mojemu zdziwieniu ustali³em teraz jego po³o¿enie w anomalii grawitacyjnej. S¹ to góry na pó³nocny wschód od bunkra.</text>
@@ -1267,7 +1267,7 @@
         <text>Byæ mo¿e w Twojej bazie lub niedaleko od niej krêcili siê stalkerzy - w kombinezonach, których nikt nigdy nie widzia³. Mieli kombinezony podobne do grupy "Powinnoœæ", ale br¹zowe, z naszywkami bandytów. S¹ te¿ kombinezony, które wygl¹daj¹ jak kamufla¿owe stalkerskie, ale jednoczeœnie s¹ szare i równie¿ ze znakami bandytów. Prowadzi³a ich mezomorficzna sylwetka z blizn¹ na ³ysej g³owie. Wejœæ w szczegó³y, dlaczego muszê ich znaleŸæ?</text>
     </string>
     <string id="for_professor_first_dialog_5">
-        <text>Nie warto - doskonale rozumiem, ¿e to z nimi Twoja osobista sprawa. Tak, ostatnio mieliœmy takich stalkerów, ka¿dego opisa³eœ bardzo dok³adnie, wiêc nie mo¿e byæ pomy³ki. Proponujê Ci uk³ad: zawrzemy ma³¹ umowê, zrealizujesz j¹, dostaniesz dobr¹ nagrodê i dowiesz siê, dok¹d poszli.</text>
+        <text>Nie warto - doskonale rozumiem, ¿e to Twoja osobista sprawa. Tak, ostatnio mieliœmy takich stalkerów, ka¿dego opisa³eœ bardzo dok³adnie, wiêc nie mo¿e byæ pomy³ki. Proponujê Ci uk³ad: zawrzemy ma³¹ umowê, zrealizujesz j¹, dostaniesz dobr¹ nagrodê i dowiesz siê, dok¹d poszli.</text>
     </string>
     <string id="for_professor_first_dialog_6">
         <text>Kontrakt?</text>
@@ -1300,7 +1300,7 @@
         <text>O jakich artefaktach mówimy?</text>
     </string>
     <string id="for_professor_first_dialog_end_14">
-        <text>Na d³ugo przed masowym pojawieniem siê mutantów jeden z wykonawców umieœci³ w ka¿dej anomalnej strefie skaner, dziêki któremu mogê zobaczyæ obecnoœæ artefaktów, a nawet, jakie s¹ to artefakty. I przy du¿ym szczêœciu s¹ to dok³adnie te, których teraz szczególnie potrzebujê! S¹ to nowe formacje, które praktycznie nigdzie siê nie pojawi³y od pierwszego odkrycia jakichkolwiek pozosta³oœci anomalnej aktywnoœci. Nie s¹ to artefakty, które od lat pojawiaj¹ siê w anomaliach i zosta³y praktycznie przebadane, choæ na bardzo s³abym poziomie. S¹ nowe. Chcia³bym dog³êbnie poznaæ ich w³aœciwoœci. Kiedy bêdziesz gotowy do wykonania zadania, dam Ci kombinezon, a tak¿e wizerunki.</text>
+        <text>Na d³ugo przed masowym pojawieniem siê mutantów jeden z wykonawców umieœci³ w ka¿dej anomalnej strefie skaner, dziêki któremu mogê zobaczyæ obecnoœæ artefaktów, a nawet, jakie s¹ to artefakty. I przy du¿ym szczêœciu s¹ to dok³adnie te, których teraz szczególnie potrzebujê! S¹ to nowe formacje, które praktycznie nigdzie siê nie pojawi³y od pierwszego odkrycia jakichkolwiek pozosta³oœci anomalnej aktywnoœci. Nie s¹ to artefakty, które od lat pojawiaj¹ siê w anomaliach i zosta³y praktycznie przebadane, choæ na bardzo s³abym poziomie. S¹ nowe. Chcia³bym dog³êbnie poznaæ ich w³aœciwoœci. Kiedy bêdziesz gotowy do wykonania zadania, dam Ci kombinezon, a tak¿e szkice.</text>
     </string>
     <string id="for_professor_first_dialog_end_15">
         <text>Gotowy.</text>
@@ -1345,7 +1345,7 @@
         <text>Ju¿ gotowe. Wszystko z Tob¹ jest w najlepszym porz¹dku. Daj mi znaæ, kiedy bêdziesz gotowy do nastêpnego zadania.</text>
     </string>
     <string id="for_professor_first_dialog_end_4">
-        <text>Ju¿. A teraz te artefakty znajduj¹ siê pod pewn¹ "ochron¹" potworów. Nie mogê wysy³aæ odkrywców do stref anomalnych, bo osiedli³y siê w nich potwory - a jednoczeœnie nie mogê wysy³aæ tam ³owców, bo po prostu nie s¹ przystosowani do anomalnej aktywnoœci. A jeœli wys³aæ wszystkich - bezpieczeñstwo bunkra bêdzie zagro¿one!</text>
+        <text>Dobrze. A teraz te artefakty znajduj¹ siê pod pewn¹ "ochron¹" potworów. Nie mogê wysy³aæ odkrywców do stref anomalnych, bo osiedli³y siê w nich potwory - a jednoczeœnie nie mogê wysy³aæ tam ³owców, bo po prostu nie s¹ przystosowani do anomalnej aktywnoœci. A jeœli wys³aæ wszystkich - bezpieczeñstwo bunkra bêdzie zagro¿one!</text>
     </string>
     <string id="for_professor_first_dialog_end_5">
         <text>Artefakty to specjalne cia³a, czêsto niewielkich rozmiarów, pojawiaj¹ce siê w obszarach wzmo¿onej aktywnoœci anomalii. Jedn¹ z ich cech jest to, ¿e maj¹ pewne w³aœciwoœci, które wp³ywaj¹ na organizm: czasami - lecznicze, czasami: szkodliwe, czasami - obie. Jednak te artefakty maj¹ wiele innych w³aœciwoœci - osobiœcie uwa¿am, ¿e s¹ prze³omem w nauce! Aby jednak nie zapychaæ mózgu niepotrzebnymi i niepotrzebnymi informacjami, wystarczy wiedzieæ, ¿e g³ównym przedmiotem moich badañ i studiów s¹ artefakty.</text>
