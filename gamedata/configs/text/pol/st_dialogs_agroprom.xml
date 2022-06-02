@@ -190,7 +190,7 @@
         <text>Nie bardzo. Powiedz, o co chodzi?</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_5">
-        <text>Nie lubisz pustej paplaniny? A oto Twoje zadanie - w tunelu, przy którym znaleŸliœmy Twojego pomocnika... Krótko mówi¹c, szeptali mi, ¿e tam znajduje siê nowy artefakt. Leæ i go poszukaj. Jak tylko go znajdziesz, uderz mnie od razu, zwrócimy Ci Twojego pomocnika i powiemy Szkirowi, ¿e zdo³a³ uciec.</text>
+        <text>Nie lubisz pustej paplaniny? A oto Twoje zadanie - w tunelu, przy którym znaleŸliœmy Twojego pomocnika... Krótko mówi¹c, szeptali mi, ¿e tam znajduje siê nowy artefakt. Leæ i go poszukaj. Jak tylko go znajdziesz, uderz do mnie od razu, zwrócimy Ci Twojego pomocnika i powiemy Szkirowi, ¿e zdo³a³ uciec.</text>
     </string>
     <string id="agr_shkir_bros_bad_dialog_6">
         <text>Co jeœli nie znajdê niczego w tunelu?</text>
@@ -547,7 +547,7 @@
         <text>Stoi.</text>
     </string>
     <string id="krilow_first_dialog_16">
-        <text>Niedaleko st¹d na bajorze stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakiœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim, co tam znajdziesz, a ja zdecydujê, czy jest to warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
+        <text>Niedaleko st¹d na bajorze stoi dom. Wokó³ niego jest chmura chemiczna. Mo¿e dlatego moi ludzie widzieli tam jakiœ wariatów w kombinezonach Powinnoœci, prawdopodobnie halucynacje. Mo¿e s¹ przyjació³mi Twoich napastników. W ka¿dym razie musisz posprz¹taæ ten dom. Opowiedz mi o wszystkim co tam znajdziesz, a ja zdecydujê czy jest to coœ warte. Nie musisz iœæ tam sam - mo¿esz zabraæ kogoœ ze sob¹.</text>
     </string>
     <string id="krilow_first_dialog_17">
         <text>Sam sobie poradzê. Podaj mi wspó³rzêdne.</text>

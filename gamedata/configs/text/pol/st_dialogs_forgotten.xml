@@ -265,7 +265,7 @@
         <text>O¿esz Ty... Co tu robi ta zbroja Monolitu?!</text>
     </string>
     <string id="for_infernis_after_drunk_dialog_end_1">
-        <text>Ty i ja wypiliœmy Twoj¹ truciznê, po czym udaliœmy siê na noc, szukaj¹c jakiegoœ "specjalnego miejsca", opartego na Twoich w³asnych s³owach. Wtedy zaatakowali nas krwiopijcy. Wtedy przypominam sobie, ¿e budzimy siê skuci w jakimœ zapomnianym laboratorium - tam te¿ jest Szkir. Wychodzimy z lochu - atakuje nas ogromny krwiopijca. Znalaz³em u Ciebie granaty, bez nich bym go nie wykoñczy³. Potem - pojawi³ siê jakiœ zagajnik... Tam znalaz³em ten kombinezon.</text>
+        <text>Ty i ja wypiliœmy Twoj¹ truciznê, po czym udaliœmy siê na noc, szukaj¹c jakiegoœ "specjalnego miejsca", opartego na Twoich w³asnych s³owach. Wtedy zaatakowali nas krwiopijcy. Wtedy przypominam sobie, ¿e budzimy siê skuci w jakimœ zapomnianym laboratorium - tam te¿ jest Szkir. Schodzimy ni¿ej - atakuje nas ogromny krwiopijca. Znalaz³em u Ciebie granaty, bez nich bym go nie wykoñczy³. Potem - pojawi³ siê jakiœ zagajnik... Tam znalaz³em ten kombinezon.</text>
     </string>
     <string id="for_infernis_after_drunk_dialog_end_2">
         <text>Jakiœ be³kot... pamiêtam tylko, ¿e siê upiliœmy, upadasz, a potem... minê³y trzy godziny jak piêæ minut, ale ja ca³y czas by³em obok Ciebie... Wydawa³oby siê, ¿e moja wersja jest bardziej prawdopodobna, ale sk¹d Ty w takim razie wzi¹³eœ dok³adnie ten sam egzemplarz modyfikacji, o którym tylko ja wiem... Czekaj, czy powiedzia³eœ "granaty"? Czy przypadkiem to nie te?</text>
@@ -355,10 +355,10 @@
         <text>Mam jeden pomys³. Porozmawiajmy, kiedy bêdziesz gotowy.</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_3">
-        <text>Generalnie profesor powierzy³ mi i trzem stalkerom zadanie pojmania krwiopijcy w lesie niedaleko st¹d. Zgodnie z moim planem wys³a³em jednego z nich na przynêtê, sam poszed³em za nim, a reszta po ró¿nych stronach mia³a os³aniaæ ty³y.</text>
+        <text>Generalnie profesor powierzy³ mi i trzem stalkerom zadanie zabicia krwiopijcy w lesie niedaleko st¹d. Zgodnie z moim planem wys³a³em jednego z nich na przynêtê, sam poszed³em za nim, a reszta po ró¿nych stronach mia³a os³aniaæ ty³y.</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_4">
-        <text>Z³apanie krwiopijcy nie jest najgorszym planem. Rozumiem, ¿e coœ posz³o nie tak?</text>
+        <text>Zabicie krwiopijcy nie jest najgorszym planem. Rozumiem, ¿e coœ posz³o nie tak?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_5">
         <text>Stalker, który sta³ na przynêcie, zosta³ rozerwany na kawa³ki w sekundê. Moje nogi prawie zdrêtwia³y, kiedy zobaczy³em, co siê z nim tam sta³o. Po kilku sekundach ju¿ biega³ wokó³ mnie, zabijaj¹c po drodze ka¿dego z moich partnerów. A najgorsze jest to, ¿e nawet go nie trafiliœmy, bo go nie widzieliœmy! Ca³y czas by³ niewidzialny i zosta³ zauwa¿ony tylko podczas ataku. Nie wiem jak, ale uda³o mi siê stamt¹d uciec.</text>
@@ -1873,7 +1873,7 @@
         <text>Ruszamy?</text>
     </string>
     <string id="for_stalkers_bs_dialog_1">
-        <text>Podniosê swoich. Chcia³em powiedzieæ ¿ebyœ nie pl¹ta³ siê pod nogami, ale teraz jest inaczej – im wiêcej ludzi, tym lepiej.</text>
+        <text>Zabiorê swoich. Chcia³em powiedzieæ ¿ebyœ nie pl¹ta³ siê pod nogami, ale teraz jest inaczej – im wiêcej ludzi, tym lepiej.</text>
     </string>
     <string id="for_stalkers_bs_dialog_2">
         <text>"Nie pl¹ta³ siê"? ¯eby nie by³o, ¿e tylko ja siê stamt¹d wydostanê.</text>
@@ -1882,7 +1882,7 @@
         <text>Czy próbujesz teraz mi groziæ? Nie zapominaj, ¿e jestem Twoim tymczasowym partnerem i jest nas wiêcej. Ktoœ ma jeszcze szansê siê stamt¹d wydostaæ.</text>
     </string>
     <string id="for_stalkers_bs_dialog_4">
-        <text>GróŸb krwiopijcy mieszkaj¹cy na tym bagnie nie bêd¹ rzucaæ.</text>
+        <text>Krwiopijcy mieszkaj¹cy na tym bagnie nie bêd¹ rzucaæ gróŸb.</text>
     </string>
     <string id="for_stalkers_bs_dialog_5">
         <text>To jakaœ bezsensowna rozmowa. Dobra, czas iœæ.</text>

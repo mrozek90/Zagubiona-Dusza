@@ -45,7 +45,7 @@
 		<text>Sedno wyprawy: Porozmawiaj ze Szkirem</text>
 	</string>
 	<string id="agr_base_start_2">
-		<text>Nie rozumiem Szkira. Po co iœæ gdzieœ, gdzie zdecydowanie nie jesteœmy mile widziani? Nie s¹dzê, ¿eby o czymœ mówi³.</text>
+		<text>Nie rozumiem Szkira. Po co iœæ gdzieœ, gdzie zdecydowanie nie jesteœmy mile widziani? S¹dzê, ¿e o czymœ nie mówi.</text>
 	</string>
 	<string id="agr_base_start_3">
 		<text>Sedno wyprawy: Porozmawiaj z Kry³owem</text>
@@ -61,10 +61,10 @@
 		<text>Szaleñcy w kombinezonach Powinnoœci? Byæ mo¿e w tym miejscu znajdê odpowiedŸ, co za powinnoœciowcy byli w Czerwonym Lesie. W koñcu, jak powiedzia³ Kry³ow, to nie s¹ powinnoœciowcy, których wys³a³. A mo¿e po prostu k³amie. Zobaczymy...</text>
 	</string>
 	<string id="agr_sim_3_clear_3">
-		<text>Sedno wyprawy: ZnajdŸ poleg³ych powinnoœciowców</text>
+		<text>Sedno wyprawy: Przeszukaj poleg³ych powinnoœciowców</text>
 	</string>
 	<string id="agr_sim_3_clear_4">
-		<text>Powinnoœciowcy, którzy mówi¹ jak monolity. Muszê dok³adnie zbadaæ zw³oki, najprawdopodobniej gdzieœ jest coœ interesuj¹cego.</text>
+		<text>Powinnoœciowcy, którzy mówi¹ jak monoliciarze. Muszê dok³adnie zbadaæ zw³oki, najprawdopodobniej jest przy nich coœ interesuj¹cego.</text>
 	</string>
 
 	<string id="agr_base_end_1">
@@ -77,7 +77,7 @@
 		<text>Sedno wyprawy: Zakoñcz rozmowê z Kry³owem</text>
 	</string>
 	<string id="agr_base_end_4">
-		<text>To jest zabawne. Jednego z Monolitu pseudonim to "Czort", a prawdziwym diab³em okaza³ siê inny.</text>
+		<text>To jest zabawne. Jeden z Monolitowców mia³ ksywkê "Czort", a prawdziwym diab³em okaza³ siê ktoœ inny.</text>
 	</string>
 
 	<string id="shkir_prelast_dialog_1">

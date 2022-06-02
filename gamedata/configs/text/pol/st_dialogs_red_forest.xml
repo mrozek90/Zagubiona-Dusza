@@ -64,7 +64,7 @@
         <text>Uh.. Sektor, wolny stalker...</text>
     </string>
     <string id="dolg_first_dialog_4">
-        <text>Aha, wolny stalker. A ja Tobie zaufa³em. Widzieliœmy, co zrobi³eœ... Nie sposób Ci wierzyæ... Zabi³eœ niewinnych stalkerów... Du¿o o Tobie wiem, Sektorze. Wiemy te¿ du¿o o Twojej grupie... Nie ma sensu mnie ok³amywaæ...</text>
+        <text>Aha, wolny stalker. Akurat Ci wierzê. Widzieliœmy, co zrobi³eœ... Nie sposób Ci wierzyæ... Zabi³eœ niewinnych stalkerów... Du¿o o Tobie wiem, Sektorze. Wiemy te¿ du¿o o Twojej grupie... Nie ma sensu mnie ok³amywaæ...</text>
     </string>
     <string id="dolg_first_dialog_5">
         <text>Wiêc po co ta paplanina?</text>
@@ -793,7 +793,7 @@
       <text>Poprosi³eœ Szkira o posi³ki?</text>
   </string>
   <string id="sith_shkir_dialog_1_end_5">
-      <text>Tak. Ten chujek dup¹ nie ruszy³ i nie zamierza³ tego zrobiæ. Ten stwór mnie rozwœciecza, nikogo nie oszczêdza. On sam ca³y czas siedzi na dupie w bazie, "lider" z gówna... Przecie¿ przywódcy powinni ca³y czas siedzieæ w bazie, a nie prowadziæ ataków, prawda? Co myœlisz?</text>
+      <text>Tak. Ten chujek dup¹ nie ruszy³ i nie zamierza³ tego zrobiæ. Ten stwór mnie rozwœciecza, nikogo nie oszczêdza. On sam ca³y czas siedzi na dupie w bazie, "lider" z gówna... Przecie¿ przywódcy nie powinni ca³y czas siedzieæ w bazie, a prowadziæ do ataku, prawda? Co myœlisz?</text>
   </string>
   <string id="sith_shkir_dialog_1_end_6">
       <text>Dobra, za du¿o tu rozmawiamy. Myœlê, ¿e pora na mnie.</text>
@@ -820,7 +820,7 @@
       <text>Tak.</text>
   </string>
   <string id="sith_shkir_dialog_2_13">
-      <text>Dobra. Nie ma sensu tu d³u¿ej zostawaæ. Teraz ka¿dy pies zna cel naszego zadania. Teraz mamy drogê do Instytutu Badawczego Agropromu. Stra¿nicy przy wjeŸdzie do Limañska pozostan¹ tam, gdzie byli i w takim przypadku przeœl¹ nam st¹d informacje. Pozostaje mi skontaktowaæ siê z Lesz¹. Powiedz kiedy bêdziesz gotowy, tylko nie zwlekaj zbyt d³ugo.</text>
+      <text>Dobra. Nie ma sensu tu d³u¿ej zostawaæ. Teraz ka¿dy pies zna cel naszego zadania. Teraz mamy drogê do Instytutu Badawczego Agropromu. Stra¿nicy przy wjeŸdzie do Limañska pozostan¹ tam, gdzie byli i w takim przypadku przeœl¹ nam st¹d informacje. Pozostaje mi skontaktowaæ siê z Leszym. Powiedz kiedy bêdziesz gotowy, tylko nie zwlekaj zbyt d³ugo.</text>
   </string>
   <string id="sith_shkir_dialog_2_14">
       <text>Nie.</text>
@@ -835,7 +835,7 @@
       <text>Uspokój siê kochanienki. Jeœli uznam, ¿e tak bêdzie, to tak bêdzie. Ju¿ Ci mówi³em, ¿e ja tu rz¹dzê – nie Ty, nie Sith, nikt inny. Mam kontakty. Jesteœ tu pustym pionkiem, zwyk³ym kundlem, który wykonuje moje rozkazy.</text>
   </string>
   <string id="sith_shkir_dialog_2_4">
-      <text>Bolt, ja liczê na Twój uk³ad. Jeœli jesteœ bezu¿yteczn¹ kup¹ gówna, to co powstrzyma mnie przed walniêciem Ciê teraz?</text>
+      <text>Chuja k³adê na Twoje uk³ady. Jeœli jesteœ bezu¿yteczn¹ kup¹ gówna, to co powstrzyma mnie przed walniêciem Ciê teraz?</text>
   </string>
   <string id="sith_shkir_dialog_2_5">
       <text>Co takiego? Chcesz mnie wykoñczyæ? A co potem? Który z was bêdzie liderem dru¿yny? Ty? Karp? Wint? Mo¿e Sith lub Topór? Nie macie ¿adnych planów co dalej i jak szukaæ Strie³oka. Teraz nie ma sensu siê k³óciæ ani strzelaæ. Dopóki jesteœmy sojusznikami, po co utrudniaæ nam obojgu sprawê? Po wykonaniu kontraktu rozejdziemy siê na wszystkie cztery strony.</text>
