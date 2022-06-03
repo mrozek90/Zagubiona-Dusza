@@ -481,7 +481,7 @@
         <text>Co to w³aœciwie by³o?</text>
     </string>
     <string id="for_infernis_giants_dialog_1">
-        <text>Sama tego do koñca nie zrozumia³em! Jak wszed³eœ do laboratorium, jakaœ ska³a ze wzgórz.. Jakby o¿y³a! Zaczê³a zmieniaæ swój kszta³t, zamieni³a siê w pos¹g, a potem potwory wype³z³y z niej prosto do naszego bunkra! Szkoda, oczywiœcie, ale nie wszyscy stalkerzy prze¿yli. Ci, którzy nie byli w stanie zaatakowaæ, schronili siê w dolnej czêœci. Jednak od tego momentu te wzgórze nie poruszy³o siê.</text>
+        <text>Sam tego do koñca nie rozumiem! Jak wszed³eœ do laboratorium, jakaœ ska³a ze wzgórz.. Jakby o¿y³a! Zaczê³a zmieniaæ swój kszta³t, zamieni³a siê w pos¹g, a potem potwory wype³z³y z niej prosto do naszego bunkra! Szkoda, oczywiœcie, ale nie wszyscy stalkerzy prze¿yli. Ci, którzy nie byli w stanie zaatakowaæ, schronili siê w dolnej czêœci. Jednak od tego momentu te wzgórze nie poruszy³o siê.</text>
     </string>
     <string id="for_infernis_giants_dialog_2">
         <text>Profesor u siebie?</text>
@@ -1444,7 +1444,7 @@
         <text>Chcê Ciê prosiæ, abyœ poszed³ na te wzgórza i sprawdzi³, co to w³aœciwie by³o. Stalkerzy wielokrotnie chodzili po tym miejscu i niczego nie znaleŸli. Mutanci nie mogli po prostu pojawiæ siê znik¹d, jeœli jest jakiœ trop, daj mi znaæ, albo zabij tych, którzy zostali.</text>
     </string>
     <string id="for_professor_gauss_dialog_2">
-        <text>Wiêc dlaczego to nie wysz³o, nie pomog³o?</text>
+        <text>Wiêc dlaczego nie wyszed³eœ i nie pomog³eœ?</text>
     </string>
     <string id="for_professor_gauss_dialog_20">
         <text>Zobaczê co tam jest. Ale najpierw daj mi karabin.</text>
@@ -1810,7 +1810,7 @@
         <text>Jak dostaæ siê do laboratorium Y-13?</text>
     </string>
     <string id="for_professor_y13_dialog_7">
-        <text>Ale Ty... Có¿, bez dalszych pytañ - wejœcie do niego znajduje siê w tym w³aœnie bunkrze. Drzwi po mojej prawej prowadz¹ do tego laboratorium. Tylko tutaj, aby wejœæ, bêdziesz potrzebowaæ karty dostêpu, a raczej has³a z tej karty. Zapamiêtaj uwa¿nie, kod do wejœcia do lochu to %c[50,255,50,50]6686.%c[default]\n Jednak po wejœciu bêd¹ na Ciebie czekaæ kolejne drzwi, których prze³¹cznik bêdzie znajdowa³ siê na po lewej stronie. Potrzebujesz do tego innego kodu, teraz przyjrzê siê dok³adnym liczbom... %c[50,255,50,50]13072021.%c[default] Po wejœciu drzwi powinny siê otworzyæ i mo¿esz kontynuowaæ eksploracjê, lub po co tam idziesz...</text>
+        <text>Ale Ty... Có¿, bez dalszych pytañ - wejœcie do niego znajduje siê w tym w³aœnie bunkrze. Drzwi po mojej prawej prowadz¹ do tego laboratorium. Tylko tutaj, aby wejœæ, bêdziesz potrzebowaæ karty dostêpu, a raczej has³a z tej karty. Zapamiêtaj uwa¿nie, kod do wejœcia do podziemi to %c[50,255,50,50]6686.%c[default]\n Jednak po wejœciu bêd¹ na Ciebie czekaæ kolejne drzwi, których prze³¹cznik bêdzie znajdowa³ siê po lewej stronie. Potrzebujesz do tego innego kodu, teraz przyjrzê siê dok³adnym liczbom... %c[50,255,50,50]13072021.%c[default] Po wejœciu drzwi powinny siê otworzyæ i mo¿esz kontynuowaæ eksploracjê, lub po co tam idziesz...</text>
     </string>
     <string id="for_professor_y13_dialog_8">
         <text>Rozumiem, dziêkujê.</text>

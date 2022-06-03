@@ -19,13 +19,13 @@
         <text>Nie zbli¿aj siê do mnie, padlino Monolitu! Zostaw mnie w spokoju!</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_1">
-        <text>Nie zamierzam Ciê zabiæ. Nie jestem monolitem.</text>
+        <text>Nie zamierzam Ciê zabiæ. Nie nale¿ê do Monolitu.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_10">
         <text>Kto na mnie czeka?! Chcesz mnie oszukaæ?! Czy nadal jesteœ jednym z Monolitów?! Nie dotykaj mnie! Nie chcê ponownie s³yszeæ tego g³osu!!</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_11">
-        <text>Jaki g³os? Czy kompletnie postrada³eœ zmys³y, Monolicie? Mówiê Ci jeszcze raz - szukam Ciê na proœbê Infernisa.</text>
+        <text>Jaki g³os? Czy kompletnie postrada³eœ zmys³y, monolitowcu? Mówiê Ci jeszcze raz - szukam Ciê na proœbê Infernisa.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_12">
         <text>Sk¹d w ogóle wiedzia³eœ o Infernis i naszej starej grupie?</text>
@@ -43,7 +43,7 @@
         <text>Jak Ty... Gdzie by³eœ wtedy...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_17">
-        <text>Infernis powiedzia³, ¿e ju¿ w styczniu 2010 roku postanowi³ zatrzymaæ wszystkie amulety do ostatniego spotkania. Poprosi³ równie¿ o zwrot tego Tobie, jeœli oczywiœcie Ciê znajdê.</text>
+        <text>Infernis powiedzia³, ¿e ju¿ w styczniu 2010 roku postanowi³ zatrzymaæ wszystkie amulety od ostatniego spotkania. Poprosi³ równie¿ o zwrot tego Tobie, jeœli oczywiœcie Ciê znajdê.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_18">
         <text>Tylko ja jakoœ wszystko Ÿle pamiêtam... Mózg mi p³ywa.. Muszê wstaæ...</text>
@@ -73,7 +73,7 @@
         <text>Poprosi³, ¿ebym Ciê odnalaz³. Opowiedzia³ mi historiê o zagubionych duszach i o tym, jak dawno przepad³eœ bez wieœci.</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_8">
-        <text>Nigdy Ciê nigdzie nie widzia³em.. Chocia¿.. Nie widzia³em nikogo poza Monolitami tak d³ugo...</text>
+        <text>Nigdy Ciê nigdzie nie widzia³em.. Chocia¿.. Nie widzia³em nikogo poza monolitowcami tak d³ugo...</text>
     </string>
     <string id="lim_fraktor_first_dialog_end_9">
         <text>ChodŸ ze mn¹. Niedaleko st¹d znajduje siê baza, w której wszyscy na Ciebie czekaj¹.</text>
