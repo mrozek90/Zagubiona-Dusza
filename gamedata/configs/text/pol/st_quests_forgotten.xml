@@ -62,7 +62,7 @@
 		<text>Kwestia Psychiki: Porozmawiaj z partnerem</text>
 	</string>
 	<string id="for_hrust_quest_2">
-		<text>Dobrze, ¿e dosta³em partnera do tego zadania. Czujê, ¿e sam nie zniós³ bym tej umowy.</text>
+		<text>Dobrze, ¿e dosta³em partnera do tego zadania. Czujê, ¿e sam nie wykona³ bym tego zadania.</text>
 	</string>
 	<string id="for_hrust_quest_3">
 		<text>Pytanie Psychiki: Zniszcz upiory</text>
@@ -105,7 +105,7 @@
 		<text>Mieszkaniec: Porozmawiaj z liderem grupy</text>
 	</string>
 	<string id="for_bloodsucker_quest_2">
-		<text>Za ka¿dym razem zadania staj¹ siê coraz gorsze. Wkrótce zmusz¹ mnie do oczyszczenia ca³ego obszaru w dzielnicy z mutantów, wyci¹gniêcia stamt¹d wszystkich artefaktów, a na koniec zatañczyæ kankana. Cholera jasna!</text>
+		<text>Za ka¿dym razem zadania staj¹ siê coraz gorsze. Wkrótce zmusz¹ mnie do oczyszczenia ca³ej okolicy z mutantów, wyci¹gniêcia stamt¹d wszystkich artefaktów, a na koniec zatañczyæ kankana. Cholera jasna!</text>
 	</string>
 	<string id="for_bloodsucker_quest_3">
 		<text>Mieszkaniec: IdŸ do lasu</text>
@@ -157,7 +157,7 @@
 		<text>Spacer: ZnajdŸ kontakt</text>
 	</string>
 	<string id="for_professor_find_weapons_2">
-		<text>Nigdy bym nie pomyœla³, ¿e zatêskniê za bezu¿ytecznymi zadaniami do biegania tam iz powrotem. Po tym wszystkim przez co przeszed³em, spacer w ramach zadania bêdzie dla mnie odpoczynkiem.</text>
+		<text>Nigdy bym nie pomyœla³, ¿e zatêskniê za bezu¿ytecznymi zadaniami do biegania tam i z powrotem. Po tym wszystkim przez co przeszed³em, spacer w ramach zadania bêdzie dla mnie odpoczynkiem.</text>
 	</string>
 	<string id="for_professor_find_weapons_3">
 		<text>Spacer: Daj PDA profesorowi</text>
@@ -221,7 +221,7 @@
 		<text>Wizyta "znajomka": Wróæ do Y-13</text>
 	</string>
 	<string id="for_shkir_find_2">
-		<text>Sith jest teraz w magazynach, nie mam nic do roboty. Pójdê i sprawdzê, jak siê ma Szkir, czy wyszed³ z podziemi? Gdzieœ tam, prawdopodobnie wskoczy³ do w³azu i pope³ni³ samobójstwo.</text>
+		<text>Sith jest teraz w magazynach, nie mam nic do roboty. Pójdê i sprawdzê, jak siê ma Szkir, czy wyszed³ z lochu? Gdzieœ tam, prawdopodobnie wskoczy³ do w³azu i pope³ni³ samobójstwo.</text>
 	</string>
 	<string id="for_shkir_find_3">
 		<text>Wizyta "znajomka": ZnajdŸ Szkira</text>
@@ -233,7 +233,7 @@
 		<text>Wizyta "znajomka": Wydostañ siê z Y-13</text>
 	</string>
 	<string id="for_shkir_find_6">
-		<text>Topór? Wiêc on te¿ szuka³ Szkira? S¹dz¹c po tym, ¿e on tu le¿y, to robota tego bandyty. Wiêc uda³o mu siê uciec! Muszê wyjœæ z laboratorium i ostrzec Sitha, zanim bêdzie za póŸno. Pamiêtam o krótkofalówce, ale sprawdzenie te¿ by nie zaszkodzi³o - jeœli Sith j¹ naprawi³, to i tak nie bêdê wiedzia³ - tunel blokuje po³¹czenie.</text>
+		<text>Topór? Wiêc on te¿ szuka³ Szkira? S¹dz¹c po tym, ¿e on tu le¿y, to robota tego bandyty. Wiêc uda³o mu siê uciec! Muszê wyjœæ z laboratorium i ostrzec Sitha, zanim bêdzie za póŸno. Pamiêtam o krótkofalówce, ale sprawdzenie te¿ by nie zaszkodzi³o - jeœli Sith j¹ naprawi³, to i tak nie bêdê wiedzia³ - metro blokuje po³¹czenie.</text>
 	</string>
 
 	<string id="for_giants_raid_squad_kill_1">

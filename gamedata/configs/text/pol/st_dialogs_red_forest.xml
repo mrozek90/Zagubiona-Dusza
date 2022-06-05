@@ -127,10 +127,10 @@
         <text>W sam¹ porê. Rozumiem, ¿e te¿ widzia³eœ helikopter?</text>
     </string>
     <string id="red_infernis_first_dialog_10">
-        <text>Profesor ju¿ o nim wystarczaj¹co du¿o opowiedzia³. W³aœnie wys³a³ tam Szkira ze swoj¹ grup¹, ¿eby posprz¹tali. Teraz szuka sposobów na zniszczenie jego specjalnej zbroi, której nie mog¹ przebiæ kule.</text>
+        <text>Profesor ju¿ o niej wystarczaj¹co du¿o opowiedzia³. W³aœnie wys³a³ tam Szkira ze swoj¹ grup¹, ¿eby posprz¹tali. Teraz szuka sposobów na zniszczenie jego specjalnej zbroi, której nie mog¹ przebiæ kule.</text>
     </string>
     <string id="red_infernis_first_dialog_11">
-        <text>Wiêc jednak nadal istnieje? Wygl¹da na to, ¿e dzieje siê piek³o. Có¿, co robiæ, potem wrócê do Worona. Gdzie go widzia³eœ?</text>
+        <text>Wiêc jednak ona istnieje? Wygl¹da na to, ¿e mamy niez³y orzech do zgryzienia. Có¿, co robiæ potem wróæ do Worona. Gdzie go widzia³eœ?</text>
     </string>
     <string id="red_infernis_first_dialog_12">
         <text>Na przystanku przy moœcie do Limañska. Przy okazji, ludzie z powinnoœci s¹ teraz na moœcie, nie daj siê z³apaæ.</text>
@@ -145,7 +145,7 @@
         <text>Jeden z tych oszustów to mia³. Moim zdaniem to z niej strzelali w ten helikopter. Zestrzelili go jednym strza³em, ale mnie z jakiegoœ powodu nie uda³o siê strzeliæ z tego ani razu. Wiêc nie potrzebujê go, ale Tobie mo¿e siê przydaæ, jeœli chcesz znaleŸæ sposób na przebicie siê przez wspomnian¹ zbrojê. Bêdê tu przez chwilê, jeœli bêdziesz czegoœ potrzebowa³, po prostu daj mi znaæ.</text>
     </string>
     <string id="red_infernis_first_dialog_2">
-        <text>Nie zrozumia³em dok³adnie, co siê sta³o. Helikopter zapali³ siê gwa³townie, zacz¹³ spadaæ. Swoj¹ drog¹, na przystanku autobusowego znalaz³em ocala³ego. Mówi, ¿e Ciê zna.</text>
+        <text>Nie zrozumia³em dok³adnie, co siê sta³o. Helikopter zapali³ siê gwa³townie, zacz¹³ spadaæ. Swoj¹ drog¹, na przystanku autobusowym znalaz³em ocala³ego. Mówi, ¿e Ciê zna.</text>
     </string>
     <string id="red_infernis_first_dialog_3">
         <text>Jak to? A jak nazywa siê ten ocala³y?</text>
@@ -160,7 +160,7 @@
         <text>Dziwaki w takich kombinezonach razem ze Szkirem brali udzia³ w ataku na nasze grupy na Agropromie. Przez d³ugi czas nie rzuca³y mi siê w oczy, a teraz znowu je widzê. W laboratorium te¿.</text>
     </string>
     <string id="red_infernis_first_dialog_7">
-        <text>W³aœciwie przyszed³em tutaj, aby sprawdziæ schowek - w rezultacie widzê w kopalni renegatów, którzy coœ wêsz¹. Potem s³yszê z daleka, jak helikopter zaczyna huczeæ, "wojsko gdzieœ leci?" - myœla³em. I widzê, ¿e ci dziwacy zaczynaj¹ do niego strzelaæ. Dlaczego tego rodzaju œmieci mia³yby ³amaæ skrzyd³a naszym ¿o³nierzom? Có¿, postanowi³em pokazaæ, gdzie jest ich miejsce. A teraz okazuje siê, ¿e to s¹ najemnicy... Dobra, jeœli chodzi o laboratorium. Mówisz o tym, w którym byliœmy niedawno?</text>
+        <text>W³aœciwie przyjecha³em tutaj, aby sprawdziæ schowek - w rezultacie widzê w kopalni renegatów, którzy coœ wêsz¹. Potem s³yszê z daleka, jak helikopter zaczyna huczeæ, "wojsko gdzieœ leci?" - myœla³em. I widzê, ¿e ci dziwacy zaczynaj¹ do niego strzelaæ. Dlaczego tego rodzaju œmieci mia³yby ³amaæ skrzyd³a naszym ¿o³nierzom? Có¿, postanowi³em pokazaæ, gdzie jest ich miejsce. A teraz okazuje siê, ¿e to s¹ najemnicy... Dobra, jeœli chodzi o laboratorium. Mówisz o tym, w którym byliœmy niedawno?</text>
     </string>
     <string id="red_infernis_first_dialog_8">
         <text>Tak, o tym. Co nie co pamiêtasz?</text>
@@ -208,7 +208,7 @@
         <text>Widzia³eœ nas?!..</text>
     </string>
     <string id="red_raven_first_dialog_3">
-        <text>Czy jest jakaœ ró¿nica? Rozleg³a siê eksplozja po ca³ym Czerwonym Lesie.</text>
+        <text>Czy jest jakaœ ró¿nica? W ca³ym Czerwonym Lesie by³o s³ychaæ eksplozjê.</text>
     </string>
     <string id="red_raven_first_dialog_4">
         <text>D-do diab³a ch³opaki.. Czy mogliby.. Ahhh!</text>
@@ -277,7 +277,7 @@
         <text>Jakbyœ mia³ rozum, ¿eby myœleæ. Zabi³eœ w³asnych ludzi... Nie s¹dzi³eœ, ¿e ktokolwiek prze¿yje?</text>
     </string>
     <string id="red_shkir_last_dialog_end_10">
-        <text>Wiem, wiem, nie martw siê. A jednak nie mów, ¿e nigdy o tym nie myœla³eœ. Kogo ta grupa Strie³oka mog³a tak dra¿niæ, ¿e cztery oddzia³y doœwiadczonych najemników zosta³y wys³ane, by j¹ zniszczyæ?</text>
+        <text>Wiem, wiem, nie martw siê. A jednak nie mów, ¿e nigdy o tym nie myœla³eœ. Kogo ta grupa Strie³oka mog³a tak dra¿niæ, ¿e cztery oddzia³y doœwiadczonych najemników zosta³y wys³ane, by j¹ zabiæ?</text>
     </string>
     <string id="red_shkir_last_dialog_end_11">
         <text>Myœla³em o tym na samym pocz¹tku zlecenia. Ale nie przywi¹zywa³em do tego du¿ej wagi, w koñcu to nie moja sprawa.</text>
@@ -289,19 +289,19 @@
         <text>Nie przeci¹gaj. Kto da³ zlecenie na grupê Strie³oka?</text>
     </string>
     <string id="red_shkir_last_dialog_end_14">
-        <text>%c[1,1,255,1]O-Œwiadomoœæ.</text>
+        <text>%c[1,1,255,1]Œwiadomoœæ-Z.</text>
     </string>
     <string id="red_shkir_last_dialog_end_15">
-        <text>Czy powinno mi to coœ mówiæ?</text>
+        <text>Czy powinno mi coœ mówiæ?</text>
     </string>
     <string id="red_shkir_last_dialog_end_16">
         <text>Có¿, przynajmniej odpowiedzia³em na pytanie, nad którym siê zastanawia³eœ.</text>
     </string>
     <string id="red_shkir_last_dialog_end_17">
-        <text>Wydaje siê, ¿e jesteœ na skraju œmierci, ale ¿artujesz bardziej ni¿ podczas kontraktów. Czy jest na to czas? Powiedz mi, czym jest Œwiadomoœæ-Z.</text>
+        <text>Wydaje siê, ¿e jest na skraju œmierci, ale ¿artujesz bardziej ni¿ podczas kontraktów. Czy jest na to czas? Powiedz mi, czym jest Œwiadomoœæ-Z.</text>
     </string>
     <string id="red_shkir_last_dialog_end_18">
-        <text>Od czego zacz¹æ... O-Œwiadomoœæ to grupa naukowców zlokalizowana w Sarkofagu Czarnobyla. Po wypadku w 1986 r. wybudowano laboratoria o indeksach „X” i „Y” do tajnych badañ wszystkiego, co pozosta³o w okolicy. Ta grupa naukowców kontroluje wszystko, co siê tu dzieje.. A dok³adniej, próbuje kontrolowaæ. Czy kiedykolwiek zastanawia³eœ siê, jak pojawi³o siê to, co stalkerzy nazywaj¹ Zon¹ – mutanty, anomalie, Emisje, a nawet artefakty?</text>
+        <text>Od czego zacz¹æ... Œwiadomoœæ-Z to grupa naukowców zlokalizowana w Sarkofagu Czarnobyla. Po wypadku w 1986 r. wybudowano laboratoria o indeksach „X” i „Y” do tajnych badañ wszystkiego, co pozosta³o w okolicy. Ta grupa naukowców kontroluje wszystko, co siê tu dzieje.. A dok³adniej, próbuje kontrolowaæ. Czy kiedykolwiek zastanawia³eœ siê, jak pojawi³o siê to, co stalkerzy nazywaj¹ Zon¹ – mutanty, anomalie, Emisje, a nawet artefakty?</text>
     </string>
     <string id="red_shkir_last_dialog_end_19">
         <text>Powiedzmy.</text>
@@ -322,19 +322,19 @@
       <text>Ok, powiedzmy, ¿e Ci wierzê. Ale co to wszystko ma wspólnego ze Strie³okiem i jego grup¹?</text>
   </string>
   <string id="red_shkir_last_dialog_end_24">
-      <text>Grupie Strie³oka uda³o siê dostaæ do elektrowni j¹drowej w Czarnobylu, dziêki czemu bêd¹ mogli rozwik³aæ zagadkê powstania Zony, jednoczeœnie przebijaj¹c siê przez oddzia³y Monolitów, które strzeg³y sarkofagu.</text>
+      <text>Grupie Strie³oka uda³o siê dostaæ do elektrowni j¹drowej w Czarnobylu, dziêki czemu bêd¹ mogli rozwik³aæ zagadkê powstania Zony, jednoczeœnie przebijaj¹c siê przez oddzia³y Monolitu, które strzeg³y sarkofagu.</text>
   </string>
   <string id="red_shkir_last_dialog_end_25">
-      <text>Opowiedz mi o frakcji Monolit. Pozna³em jej przedstawicieli, ale niewiele o nich wiem.</text>
+      <text>Opowiedz mi o frakcji Monolitu. Pozna³em jej przedstawicieli, ale niewiele o nich wiem.</text>
   </string>
   <string id="red_shkir_last_dialog_end_26">
-      <text>S¹ to zombie stworzone przez O-Œwiadomoœæ w celu ochrony centrum Zony przed obcymi. Ludzie, którymi steruje g³os którym s¹ pos³uszne. Problem polega na tym, ¿e atakuj¹ ka¿dego, kogo widz¹, uwa¿aj¹c ich za niewiernych. Czy mo¿esz sobie wyobraziæ, jak strasznie wyprano im mózgi?</text>
+      <text>S¹ to zombie stworzone przez Œwiadomoœæ-Z w celu ochrony centrum Zony przed obcymi. Ludzie, którymi steruje g³os którym s¹ pos³uszne. Problem polega na tym, ¿e atakuj¹ ka¿dego, kogo widz¹, uwa¿aj¹c ich za niewiernych. Czy mo¿esz sobie wyobraziæ, jak strasznie wyprano im mózgi?</text>
   </string>
   <string id="red_shkir_last_dialog_end_27">
       <text>Wiêc co siê sta³o z Fraktorem?</text>
   </string>
   <string id="red_shkir_last_dialog_end_28">
-      <text>Ju¿ mówiê. Grupie Strie³oka uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Strie³oka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – to by³y Monolitowcy.</text>
+      <text>Ju¿ mówiê. Grupie Strie³oka uda³o siê dostaæ do bloku energetycznego, ale ostatecznie wycofali siê na Pó³noc, co da³o O-Œwiadomoœci czas na przygotowanie planu ich zniszczenia. W tym celu ludzie, którzy do³¹czyli do szeregów stalkerów, popychali innych do podjêcia dzia³añ zwi¹zanych z poszukiwaniem i atakiem na grupê Strie³oka. W szczególnoœci wys³ali specjalne jednostki najemników, aby wyeliminowaæ ten sam cel. Jedynym haczykiem jest to, ¿e niektóre z tych oddzia³ów nie by³y najemnikami – to byli Monolitowcy.</text>
   </string>
   <string id="red_shkir_last_dialog_end_29">
       <text>Chcesz powiedzieæ...</text>
@@ -343,7 +343,7 @@
       <text>Czemu to wszystko by³o konieczne?</text>
   </string>
   <string id="red_shkir_last_dialog_end_30">
-      <text>Tak, masz racjê. W oddzia³ach "alfa", "beta" i "gamma" byli ludzie nale¿¹cy do grupy "Monolit". Myœlê, ¿e po co to by³o, sam rozumiesz - O-Œwiadomoœæ musia³a kontrolowaæ sytuacjê, wiêc ich w³asnych ludzi wys³ano do oddzia³ów. Dopiero teraz grupa "delta" nie mog³a byæ kontrolowana - w ich oddziale nie by³o cz³onków "Monolitu", wiêc kierownictwo postanowi³o ich wyeliminowaæ.</text>
+      <text>Tak, masz racjê. W oddzia³ach "alfa", "beta" i "gamma" byli ludzie nale¿¹cy do grupy "Monolitu". Myœlê, ¿e po co to by³o, sam rozumiesz - Œwiadomoœæ-Z musia³a kontrolowaæ sytuacjê, wiêc ich w³asnych ludzi wys³ano do oddzia³ów. Dopiero teraz grupa "delta" nie mog³a byæ kontrolowana - w ich oddziale nie by³o cz³onków "Monolitu", wiêc kierownictwo postanowi³o ich wyeliminowaæ.</text>
   </string>
   <string id="red_shkir_last_dialog_end_31">
       <text>Pamiêtam, ¿e Sith, Kane i Phobos zostali zaatakowani przez powinnoœæ na pocz¹tku kontraktu. Jakoœ Twoje k³amstwa nie pasuj¹.</text>
@@ -352,7 +352,7 @@
       <text>Tak? Czy naprawdê myœlisz, ¿e byli z powinnoœci? I dlaczego Kry³ow temu zaprzeczy³? A jaki oddzia³ by³ w Agropromie? A kto prawie przybi³ genera³a, kiedy paplaliœcie sobie jêzykami?</text>
   </string>
   <string id="red_shkir_last_dialog_end_33">
-      <text>Mówisz, ¿e byli Monolitami?</text>
+      <text>Mówisz, ¿e byli z frakcji Monolit?</text>
   </string>
   <string id="red_shkir_last_dialog_end_34">
       <text>Czy masz inne wyjaœnienie? Nie, oczywiœcie, czy mi wierzysz, czy nie, zale¿y od Ciebie.. Ale dlaczego mia³bym przed œmierci¹ Ci k³amaæ? Co wiêcej, sam zacz¹³eœ siê tym interesowaæ.</text>
@@ -376,7 +376,7 @@
       <text>Czemu? Naprawdê chcesz wiedzieæ? Ok, za³ó¿my, ¿e zas³ugujesz na poznanie ca³ej prawdy. W koñcu przebi³eœ siê przez nieprzeniknion¹ zbrojê.. Cholerny profesor...</text>
   </string>
   <string id="red_shkir_last_dialog_end_40">
-      <text>Czy w ogóle mnie s³ucha³eœ?! Wœród ludzi w oddzia³ach byli Monolitowcy! Jak myœlisz, jak zareagowaliby, gdybym zacz¹³ mówiæ wszystkim, ¿e teraz ruszamy do elektrowni j¹drowej w Czarnobylu po O-Œwiadomoœæ? Lub gdybym poszed³ tam sam? Najstraszniejsze w tym wszystkim jest to, ¿e ¿aden z Monolitów nie wiedzia³, gdzie s¹ ich towarzysze. I nawet ja nie wiedzia³em, kto by³ pod przykrywk¹, a kto by³ zwyk³ym najemnikiem, który chcia³ zarobiæ dodatkowe pieni¹dze.</text>
+      <text>Czy w ogóle mnie s³ucha³eœ?! Wœród ludzi w oddzia³ach byli Monolitowcy! Jak myœlisz, jak zareagowaliby, gdybym zacz¹³ mówiæ wszystkim, ¿e teraz ruszamy do elektrowni j¹drowej w Czarnobylu po Œwiadomoœæ-Z? Lub gdybym poszed³ tam sam? Najstraszniejsze w tym wszystkim jest to, ¿e ¿aden z monolitowców nie wiedzia³, gdzie s¹ ich towarzysze. I nawet ja nie wiedzia³em, kto by³ pod przykrywk¹, a kto by³ zwyk³ym najemnikiem, który chcia³ zarobiæ dodatkowe pieni¹dze.</text>
   </string>
   <string id="red_shkir_last_dialog_end_41">
       <text>Dlaczego trzeba by³o to zrobiæ?</text>
@@ -436,7 +436,7 @@
       <text>Dzia³asz mi na nerwy.</text>
   </string>
   <string id="red_shkir_last_dialog_end_8">
-      <text>Jak pewnie przez ca³y kontrakt. Czy wiesz, kto zaaran¿owa³ ten kontrakt? Kto chcia³ siê pozbyæ grupy Strie³oka?</text>
+      <text>Jak pewnie przez ca³y kontrakt. Czy wiesz, kto zaaran¿owa³ ten kontrakt? Kto zamówi³ Grupê Strie³oka?</text>
   </string>
   <string id="red_shkir_last_dialog_end_9">
       <text>Najemnik nie powinien interesowaæ siê takimi rzeczami - wiesz o tym lepiej ode mnie.</text>
@@ -448,7 +448,7 @@
       <text>Czy to nie jest widoczne w PDA? Jestem samotnikiem, pseudonim - Sektor.</text>
   </string>
   <string id="red_skryabin_first_dialog_10">
-      <text>Oto jak? Ok, za³ó¿my, ¿e Ci wierzê. Nawiasem mówi¹c, helikopter zosta³ zestrzelony - nie przez nas, mówiê od razu. Upad³ gdzieœ w okolicy lasu, ale wygl¹da na to, ¿e ktoœ stamt¹d wyskoczy³ i spad³ w okolicy przystanku.</text>
+      <text>Oto jak? Ok, za³ó¿my, ¿e Ci wierzê. Nawiasem mówi¹c, helikopter zosta³ zestrzelony - nie przez nas, mówiê od razu. Upad³ gdzieœ w okolicy lasu, ale wygl¹da na to, ¿e ktoœ z niego wyskoczy³ i spad³ w okolicy przystanku.</text>
   </string>
   <string id="red_skryabin_first_dialog_2">
       <text>Sektor.. Hmm, znajoma ksywa. Wygl¹da na to, ¿e tydzieñ temu siedzia³ w bazie.</text>
@@ -463,16 +463,16 @@
       <text>Czekaj, czekaj, nie jestem zamieszany w to, co siê tam sta³o. W tym czasie szuka³em dokumentów w podziemiach.</text>
   </string>
   <string id="red_skryabin_first_dialog_6">
-      <text>Podziemia Agropromu? Jak zala³ je Szrama, najemnik. Chocia¿ minê³o du¿o czasu...</text>
+      <text>Podziemia Agropromu? Jak zala³ je Szram, najemnik. Chocia¿ minê³o du¿o czasu...</text>
   </string>
   <string id="red_skryabin_first_dialog_7">
-      <text>Nie wiem kto co tam zala³, ale by³em w podziemiach. I nie sam, jak siê okaza³o. A przed i po tym, w czerwonym lesie, spotka³em fikcyjnych powinnoœciowców, którzy mnie zaatakowali. Mo¿e to potwierdziæ genera³ Kry³ow.</text>
+      <text>Nie wiem kto co tam zala³, ale by³em w lochach. I nie sam, jak siê okaza³o. A przed i po tym, w czerwonym lesie, spotka³em fikcyjnych powinnoœciowców, którzy mnie zaatakowali. Mo¿e to potwierdziæ genera³ Kry³ow.</text>
   </string>
   <string id="red_skryabin_first_dialog_8">
       <text>Genera³ Kry³ow nie ¿yje, jak wszyscy w bazie. I to pierwszy raz, kiedy s³yszê o "fikcyjnych powinnoœciowcach". Powinnoœæ teraz szuka osób zamieszanych w te morderstwa. A potem spotykam jednego z ocala³ych, który zdecydowanie próbuje siê "ulotniæ", opowiadaj¹c mi ró¿ne bajki. Bêdziesz musia³ usi¹œæ z nami, Sektorze i odpowiedzieæ na nasze pytania.</text>
   </string>
   <string id="red_skryabin_first_dialog_9">
-      <text>Jesteœ idiot¹? Teraz szukam osoby, która najprawdopodobniej jest zamieszana w ludobójstwo Twoich ziomków - odstêpcy naszego oddzia³u, który pojma³ tak¿e naszych najemników. Próbujê go teraz znaleŸæ. Widzia³eœ helikopter który w³aœnie przelecia³? Równie dobrze móg³ tam byæ. Jeœli naprawdê jesteœ zainteresowany znalezieniem osób zaanga¿owanych, szukaj ze mn¹ i nie przeszkadzaj mi. Ust¹p, do cholery!</text>
+      <text>Jesteœ idiot¹? Teraz szukam osoby, która najprawdopodobniej jest zamieszana w zabójstwo Twoich ziomków - dowódcy naszego oddzia³u, który pojma³ tak¿e naszych najemników. Próbujê go teraz znaleŸæ. Widzia³eœ helikopter który w³aœnie przelecia³? Równie dobrze móg³ tam byæ. Jeœli naprawdê jesteœ zainteresowany znalezieniem osób zaanga¿owanych, szukaj ze mn¹ i nie przeszkadzaj mi. Ust¹p, do cholery!</text>
   </string>
   <string id="red_skryabin_last_dialog_0">
       <text>Cholera jasna...</text>
@@ -610,13 +610,13 @@
       <text>Koniec z nim. Oto jego PDA. A jednoczeœnie - PDA Topora. Znaleziony w jednym z laboratoriów.</text>
   </string>
   <string id="sith_last_dialog_12">
-      <text>Tak, Topor... szkoda. To by³ normalny facet. Dobra, przejdŸmy do... Wow, tyle zapisków!</text>
+      <text>Tak, Topór... szkoda. To by³ normalny facet. Dobra, przejdŸmy do... Wow, tyle zapisków!</text>
   </string>
   <string id="sith_last_dialog_13">
       <text>Mo¿esz poczytaæ.</text>
   </string>
   <string id="sith_last_dialog_14">
-      <text>Okazuje siê, ¿e nie by³ tak¹ z³¹ osob¹, prawda? Ale nigdy nie wybaczê mu Fobosa. I Œwiadomoœci-Z te¿ cholera.</text>
+      <text>Okazuje siê, ¿e nie by³ tak¹ z³¹ osob¹, prawda? Ale nigdy nie wybaczê mu Phobosa. I Œwiadomoœci-Z, cholera - te¿.</text>
   </string>
   <string id="sith_last_dialog_15">
       <text>Przy okazji, weŸ swoj¹ maskê.</text>
@@ -709,7 +709,7 @@
       <text>Przewiduj¹c... Istniej¹ dwie hipotetyczne opcje dok¹d móg³by siê udaæ. Nie... s¹ trzy opcje.</text>
   </string>
   <string id="sith_return_gamma_dialog_20">
-      <text>Most zosta³ podniesiony a tylko Topor i Szkir mieli konsole. Z ty³u jest te¿ prze³¹cznik, ale trzeba siê do niego dostaæ.</text>
+      <text>Most zosta³ podniesiony a tylko Topór i Szkir mieli konsole. Z ty³u jest te¿ prze³¹cznik, ale trzeba siê do niego dostaæ.</text>
   </string>
   <string id="sith_return_gamma_dialog_21">
       <text>Czy Topór by³ z Tob¹, kiedy by³em w podziemiach?</text>
@@ -736,7 +736,7 @@
       <text>To rozdzielamy siê czy nie?</text>
   </string>
   <string id="sith_return_gamma_dialog_2_3">
-      <text>Nie wiem... Jak przeprawisz siê przez rzekê bez mostu? Nie skacz chocia¿.</text>
+      <text>Nie wiem... Jak przeprawisz siê przez rzekê bez mostu? Nie skoczysz przecie¿.</text>
   </string>
   <string id="sith_return_gamma_dialog_2_4">
       <text>Nie, to nie jest ³atwe zadanie. Muszê pomyœleæ...</text>
@@ -829,7 +829,7 @@
       <text>Ty z litoœci nie mo¿esz zabiæ szpica, czy planujesz zostawiæ to ¿o³nierzom? Zabawne. Dobra, to ju¿ nie ma znaczenia. Nie ma sensu tu d³u¿ej zostawaæ. Teraz ka¿dy pies zna cel naszego zadania. Teraz mamy drogê do Instytutu Badawczego Agropromu. Stra¿nicy przy wjeŸdzie do Limañska pozostan¹ tam, gdzie byli i w razie czego przeœl¹ nam st¹d informacje. Pozostaje mi kontakt z Lesz¹. Kiedy bêdziesz gotowy - powiedz mi, tylko nie zwlekaj d³ugo.</text>
   </string>
   <string id="sith_shkir_dialog_2_2">
-      <text>Nie wa¿ne. Dlaczego, do cholery, nie wys³a³eœ Topora lub Karpia, ¿eby pomogli Sithowi? Kane i Fobos zginêli przez Ciebie, zgni³y szczurze!</text>
+      <text>Nie wa¿ne. Dlaczego, do cholery, nie wys³a³eœ Topora lub Karasia, ¿eby pomogli Sithowi? Kane i Fobos zginêli przez Ciebie, zgni³y szczurze!</text>
   </string>
   <string id="sith_shkir_dialog_2_3">
       <text>Uspokój siê kochanienki. Jeœli uznam, ¿e tak bêdzie, to tak bêdzie. Ju¿ Ci mówi³em, ¿e ja tu rz¹dzê – nie Ty, nie Sith, nikt inny. Mam kontakty. Jesteœ tu pustym pionkiem, zwyk³ym kundlem, który wykonuje moje rozkazy.</text>

@@ -192,7 +192,7 @@
 		<text>Nie wiem, jak¹ osob¹ jest major - to jedyny sposób by dowiedzieæ siê...</text>
 	</string>
 	<string id="agr_smirnow_good_quest_1">
-		<text>Kwestia ¿ycia: porozmawiaj z Sani¹ Smirnowem</text>
+		<text>Kwestia ¿ycia: porozmawiaj z Sani¹ Smirnovem</text>
 	</string>
 	<string id="agr_smirnow_good_quest_2">
 		<text>To ten sam typ, którego spotka³em w Czerwonym Lesie! Zastanawiam siê, czy zgodzi siê mi pomóc, wiedz¹c, ¿e kiedyœ uratowa³em mu ¿ycie.</text>
@@ -234,7 +234,7 @@
 		<text>Kwestia ¿ycia: Zlikwiduj najeŸdŸców</text>
 	</string>
 	<string id="agr_freak_second_end_4">
-		<text>To ci, którzy wziêli do niewoli Sitha. Wygl¹da na to, ¿e zrobi³em to w ostatniej chwili. Czas go uratowaæ!</text>
+		<text>To ci, którzy wziêli do niewoli Sitha. Wygl¹da na to, ¿e dotar³em tu w ostatniej chwili. Czas go uratowaæ!</text>
 	</string>
 
 
@@ -265,10 +265,10 @@
 		<text>Muszê podziêkowaæ Wintowi.</text>
 	</string>
 	<string id="agr_smirnow_thx_1">
-		<text>Zwyciêstwo: Porozmawiaj ze Smirnowem</text>
+		<text>Zwyciêstwo: Porozmawiaj ze Smirnovem</text>
 	</string>
 	<string id="agr_smirnow_thx_2">
-		<text>Muszê podziêkowaæ Sani Smirnow.</text>
+		<text>Muszê podziêkowaæ dla Sani Smirnov.</text>
 	</string>
 	<string id="agr_sith_thx_1">
 		<text>Zwyciêstwo: Porozmawiaj z Sithem</text>

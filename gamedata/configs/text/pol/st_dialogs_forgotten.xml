@@ -7,7 +7,7 @@
         <text>Tak to ja. Sektor. A Ty, jak rozumiem, Kane?</text>
     </string>
     <string id="for_dre_dialog_10">
-        <text>Szkir? To dlatego te¿ byli cz³onkowie innych grup. Ale Sitha tu nie ma.</text>
+        <text>Szkir? To dlatego byli tu te¿ cz³onkowie innych grup. Ale Sitha tu nie ma.</text>
     </string>
     <string id="for_dre_dialog_11">
         <text>Prze¿yliœmy z nimi i teraz szukamy Szkira, by pomœciæ ludzi i zawrzeæ kontrakt.</text>
@@ -109,7 +109,7 @@
         <text>To nie Twoja sprawa. OdejdŸ, pókim dobry.</text>
     </string>
     <string id="for_guard_first_dialog_7">
-        <text>To Zapomniane Ziemie? Dlaczego wiêc jednych przepuszczacie a drugich - nie?</text>
+        <text>To Zapomniane Ziemie? Dlaczego wiêc jednych przepuszczacie, a drugich - nie?</text>
     </string>
     <string id="for_guard_first_dialog_8">
         <text>Zaczynasz mnie wkurzaæ, stalkerze. Niewiele osób wie o tym miejscu, czego Ty chcesz w ogóle?</text>
@@ -142,7 +142,7 @@
         <text>Zjawy?</text>
     </string>
     <string id="for_hrust_first_dialog_end_3">
-        <text>Nadal nie wiemy, sk¹d pochodz¹ zombifikowani, ale ca³y czas koñcz¹ w pobli¿u tego budynku. Nawet stalkerzy na wie¿ach nie mog¹ zobaczyæ jak wygl¹daj¹. Jeden z nich powinien zmru¿yæ oczy i je przetrzeæ - zombie ju¿ chodz¹ po okolicy. Ale co gorsza – po ich zamordowaniu, po chwili na ich miejscach pojawiaj¹ siê przezroczyste niematerialne istoty, które nazwaliœmy Zjawami. Przybieraj¹ postaæ ludzi, po czym zaczynaj¹ atakowaæ ka¿dego, kogo zobacz¹. Mo¿na je zabiæ, ale jest to bardzo trudne. A jak wiecie, nie byliœmy jeszcze w stanie ich zbadaæ.</text>
+        <text>Nadal nie wiemy, sk¹d pochodz¹ zombifikowani, ale ca³y czas krêc¹ siê w pobli¿u tego budynku. Nawet stalkerzy na wie¿ach nie mog¹ zobaczyæ sk¹d siê pojawiaj¹. Gdy wartownik zmru¿y oczy i je przetrze - nowe zombie ju¿ chodz¹ po okolicy. Ale co gorsza – po ich zamordowaniu, po chwili na ich miejscach pojawiaj¹ siê przezroczyste niematerialne istoty, które nazwaliœmy Zjawami. Przybieraj¹ postaæ ludzi, po czym zaczynaj¹ atakowaæ ka¿dego, kogo zobacz¹. Mo¿na je zabiæ, ale jest to bardzo trudne. A jak wiecie, nie byliœmy jeszcze w stanie ich zbadaæ.</text>
     </string>
     <string id="for_hrust_first_dialog_end_4">
         <text>A jakie jest prawdopodobieñstwo pojawienia siê ich tutaj?</text>
@@ -289,7 +289,7 @@
         <text>To jest to... Wiêc mo¿e by³o tak, jak powiedzia³eœ. Ale kontinuum czasowe wci¹¿ siê nie zbiega, musimy dowiedzieæ siê wszystkiego od Jekylla.</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_0">
-        <text>Co, Sektor, nie mo¿e spaæ?</text>
+        <text>Co, Sektor... nie mo¿esz spaæ?</text>
     </string>
     <string id="for_infernis_bloodsucker_dialog_1">
         <text>Ja... Obudzi³em siê zlany zimnym potem pierwszy raz w ¿yciu.</text>
@@ -433,7 +433,7 @@
         <text>£adnie, zajmiemy siê tym znakiem póŸniej..</text>
     </string>
     <string id="for_infernis_drunk_dialog_2">
-        <text>Z jakim znakiem?</text>
+        <text>Jakim znakiem?</text>
     </string>
     <string id="for_infernis_drunk_dialog_3">
         <text>Znak, ¿e czas skoñczyæ ze u¿ywkami. Nie trzeba by³o pogr¹¿aæ siê w tych œmieciach... Pilnie muszê sobie przypomnieæ, co siê z nami sta³o, a potem - zamieniæ kilka s³ów z Tob¹ i Profesorem.</text>
@@ -481,7 +481,7 @@
         <text>Co to w³aœciwie by³o?</text>
     </string>
     <string id="for_infernis_giants_dialog_1">
-        <text>Sam tego do koñca nie rozumiem! Jak wszed³eœ do laboratorium, jakaœ ska³a ze wzgórz.. Jakby o¿y³a! Zaczê³a zmieniaæ swój kszta³t, zamieni³a siê w pos¹g, a potem potwory wype³z³y z niej prosto do naszego bunkra! Szkoda, oczywiœcie, ale nie wszyscy stalkerzy prze¿yli. Ci, którzy nie byli w stanie zaatakowaæ, schronili siê w dolnej czêœci. Jednak od tego momentu te wzgórze nie poruszy³o siê.</text>
+        <text>Sama tego do koñca nie zrozumia³em! Jak wszed³eœ do laboratorium, jakaœ ska³a ze wzgórz.. Jakby o¿y³a! Zaczê³a zmieniaæ swój kszta³t, zamieni³a siê w pos¹g, a potem potwory wype³z³y z niej prosto do naszego bunkra! Szkoda, oczywiœcie, ale nie wszyscy stalkerzy prze¿yli. Ci, którzy nie byli w stanie zaatakowaæ, schronili siê w dolnej czêœci. Jednak od tego momentu te wzgórze nie poruszy³o siê.</text>
     </string>
     <string id="for_infernis_giants_dialog_2">
         <text>Profesor u siebie?</text>
@@ -574,7 +574,7 @@
         <text>Wiêc Ty i Woron jesteœcie z tej samej grupy, czy jak?</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_5">
-        <text>Dobrze siê domyœlasz. Có¿, nie ma co robiæ to opowiem Ci tê historiê. By³o nas kilku, przyszliœmy do Zony w 2009 roku. Ja, Sania Smirnov, Sania Szwedsky, Wowan Anakonda, Dima Woron, Stiopa Chrust, Lioha Skriabin i Dan Fraktor. To by³o dawno temu, gdy szliœmy przez Kordon – cholera, ile wtedy by³o du¿o zabawy! Pamiêtam, jak ucieka³em przed ¿o³nierzami tak, ¿e piêty skwierczy³y. Otó¿ osiedliliœmy siê w wiosce Kotów. Zaczêliœmy wszystkim tam pomagaæ ile siê da³o. Zdobyliœmy dobr¹ reputacjê, zaczêli nas szanowaæ wœród stalkerów. Nazwaliœmy nasz¹ za³ogê %c[1,1,255,1]Zagubionymi Duszami%c[default]. Ka¿dy mia³ swoj¹ osobowoœæ, która uzupe³nia³a nasz doœæ du¿y oddzia³. Sania Smirnow by³ osob¹, która po³¹czy³a nas wszystkich, szanowaliœmy go jako lidera. Szwed by³ dobrym doradc¹, pomaga³ i wspiera³ wszystkich na wiele sposobów. Lioha Skriabin wzi¹³ na siebie brudn¹ robotê, gdy trzeba by³o kogoœ chroniæ lub odwrotnie - by³ na czele ataku. Od dzieciñstwa Woron lubi³ mechanikê samochodow¹, o ile teraz pamiêtam - potrafi³ zlepiæ dzia³o samobie¿ne ze z³omu. Dlatego po³owa napraw by³a na nim, a po³owa na Anakondzie - ekspercie w monta¿u zbroi i ukrywaniu siê. Jak zwykle gada³? "Szczêœcie kocha milczenie" jak dobrze pamêtam...\nMi przypad³a prawdopodobnie najbardziej bezu¿yteczna rola w oddziale - "dusza towarzystwa", jak mnie nazywali. Powiedzieli, ¿e s¹ wdziêczni za to, ¿e potrafiê wspieraæ i pomagaæ w trudnych chwilach.</text>
+        <text>Dobrze siê domyœlasz. Có¿, nie ma co robiæ to opowiem Ci tê historiê. By³o nas kilku, przyszliœmy do Zony w 2009 roku. Ja, Sania Smirnov, Sania Szwedsky, Wowan Anakonda, Dima Woron, Stiopa Chrust, Lioha Skriabin i Dan Fraktor. To by³o dawno temu, gdy szliœmy przez Kordon – cholera, ile wtedy by³o zabawy! Pamiêtam, jak ucieka³em przed ¿o³nierzami tak, ¿e piêty skwierczy³y. Otó¿ osiedliliœmy siê w wiosce Kotów. Zaczêliœmy wszystkim tam pomagaæ ile siê da³o. Zdobyliœmy dobr¹ reputacjê, zaczêli nas szanowaæ wœród stalkerów. Nazwaliœmy nasz¹ za³ogê %c[1,1,255,1]Zagubionymi Duszami%c[default]. Ka¿dy mia³ swoj¹ osobowoœæ, która uzupe³nia³a nasz doœæ du¿y oddzia³. Sania Smirnov by³ osob¹, która po³¹czy³a nas wszystkich, szanowaliœmy go jako lidera. Szwed by³ dobrym doradc¹, pomaga³ i wspiera³ wszystkich na wiele sposobów. Lioha Skriabin wzi¹³ na siebie brudn¹ robotê, gdy trzeba by³o kogoœ chroniæ lub odwrotnie - by³ na czele ataku. Od dzieciñstwa Woron lubi³ mechanikê samochodow¹, o ile teraz pamiêtam - potrafi³ zlepiæ dzia³o samobie¿ne ze z³omu. Dlatego po³owa napraw by³a na nim, a po³owa na Anakondzie - ekspercie w monta¿u zbroi i ukrywaniu siê. Jak zwykle gada³? "Szczêœcie kocha milczenie" jak dobrze pamêtam...\nMi przypad³a prawdopodobnie najbardziej bezu¿yteczna rola w oddziale - "dusza towarzystwa", jak mnie nazywali. Powiedzieli, ¿e s¹ wdziêczni za to, ¿e potrafiê wspieraæ i pomagaæ w trudnych chwilach.</text>
     </string>
     <string id="for_infernis_gone_soul_dialog_end_6">
         <text>Nie s¹dzê, ¿eby siê mylili.</text>
@@ -847,7 +847,7 @@
         <text>Heh, masz poczucie humoru. Dobra, skoro tu jesteœmy, wyjaœniê Ci, dlaczego prosi³em Ciê, ¿ebyœ jeszcze nie zabija³ dupka. Prawdê mówi¹c, jestem prawie pewien, ¿e zna zapasowy sposób wydostania siê z laboratorium..</text>
     </string>
     <string id="for_lab_infernis_artefacts_dialog_3">
-        <text>A sk¹d to wzi¹³eœ?</text>
+        <text>A sk¹d to wiesz?</text>
     </string>
     <string id="for_lab_infernis_artefacts_dialog_4">
         <text>Nie by³by tak pewny swoich s³ów i czynów, gdyby zrozumia³, ¿e jest skazany na wiecznoœæ tutaj. Dlatego, gdy le¿a³, pod³¹czy³em do niego urz¹dzenie œledz¹ce. Mam jeszcze z czasów Wolnoœci. Dziêki temu trackerowi bêdziemy mogli okreœliæ jego lokalizacjê. Jeœli nagle wstanie i zacznie gdzieœ iœæ, zobaczê to. Jeœli zniszczy czujnik, sygna³ zostanie utracony i po niego wrócimy.</text>
@@ -904,7 +904,7 @@
         <text>Prawdê mówi¹c, lepsze to ni¿ nic.</text>
     </string>
     <string id="for_lab_infernis_dialog_0">
-        <text>Umieœci³em wszystkie artefakty, po czym ka¿da z kamer zaczê³a wytwarzaæ efekty z tych samych artefaktów. Wygl¹da na to, ¿e pomimo opuszczenia laboratorium, czêœæ znajduj¹cych siê w nich urz¹dzeñ nadal dzia³a.</text>
+        <text>Umieœci³em wszystkie artefakty, po czym ka¿da z kapsu³a zaczê³a wytwarzaæ efekty z tych samych artefaktów. Wygl¹da na to, ¿e pomimo opuszczenia laboratorium, czêœæ znajduj¹cych siê w nich urz¹dzeñ nadal dzia³a.</text>
     </string>
     <string id="for_lab_infernis_dialog_1">
         <text>I nikt nie wie, kiedy po raz ostatni coœ tu uruchamiano.</text>
@@ -976,7 +976,7 @@
         <text>Dobra, nie przejmuj siê. Najwa¿niejsze, ¿e jesteœmy teraz wolni i mo¿emy szukaæ wyjœcia.</text>
     </string>
     <string id="for_lab_infernis_shkir_dialog_4">
-        <text>Jesteœ pewny? I to jest pytanie do Szkira. Ani ja, ani Sektor Ci nie ufamy. Czy myœlisz, ¿e mamy jakiœ powód, aby utrzymaæ Ciê przy ¿yciu?\n%c[255,1,255,255]Szkir\n%c[default]Przynajmniej fizycznie nie bêdziesz w stanie tego zrobiæ, poniewa¿ moja zbroja jest pokryta artefaktem energii , dziêki czemu jestem chroniony przed kulami, eksplozjami i innymi obra¿eniami. Jeœli wykona³eœ misje Jekylla, wiesz o czym mówiê.</text>
+        <text>Jesteœ pewny? I to jest pytanie do Szkira. Ani ja, ani Sektor Ci nie ufamy. Czy myœlisz, ¿e mamy jakiœ powód, aby utrzymaæ Ciê przy ¿yciu?\n%c[255,1,255,255]Szkir\n%c[default]Przynajmniej fizycznie nie bêdziesz w stanie tego zrobiæ, poniewa¿ moja zbroja jest pokryta eneri¹ artefaktu , dziêki czemu jestem chroniony przed kulami, eksplozjami i innymi obra¿eniami. Jeœli wykona³eœ misje Jekylla, wiesz o czym mówiê.</text>
     </string>
     <string id="for_lab_infernis_shkir_dialog_5">
         <text>Powiedzmy..</text>
@@ -1189,7 +1189,7 @@
         <text>I z tego powodu pomyœla³eœ, ¿e bêdê mia³ wiêksz¹ szansê na znalezienie i zabicie go?</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_9">
-        <text>Naprawdê podoba mi siê, ¿e doskonale mnie rozumiesz. Twoim zadaniem jest wytropienie i zabicie tych potworów, które nie pozwalaj¹ nam na dalsz¹ eksploracjê anomalnej strefy wewn¹trz lasu. Poniewa¿ jest to niezwykle wa¿na misja, której niepowodzenie jest niedopuszczalne, wyœlê z Tob¹ jeszcze trzech - mo¿esz ich uznaæ za tymczasowych partnerów.</text>
+        <text>Naprawdê podoba mi siê, ¿e doskonale mnie rozumiesz. Twoim zadaniem jest wytropienie i zabicie tych potworów, które nie pozwalaj¹ nam na dalsz¹ eksploracjê anomalnej strefy wewn¹trz lasu. Poniewa¿ jest to niezwykle wa¿na misja, której niepowodzenie jest niedopuszczalne, wyœlê z Tob¹ jeszcze trzech ludzi - mo¿esz ich uznaæ za tymczasowych partnerów.</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_end_0">
         <text>Profesorze...</text>
@@ -1219,7 +1219,7 @@
         <text>Oto jego macki. Czarny, nie tak jak reszta krwiopijców. Infernis pomóg³ mi sobie z tym poradziæ i mo¿e potwierdziæ moje s³owa.</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_end_end_3">
-        <text>Niesamowite! Czyli naprawdê wam siê uda³o? Jestem bardzo zaskoczony Twoim szczêœciem i si³¹ woli. Naprawdê nie pope³ni³em b³êdu, kiedy da³em Ci te obie umowy.</text>
+        <text>Niesamowite! Czyli naprawdê wam siê uda³o? Jestem bardzo zaskoczony Twoim szczêœciem i si³¹ woli. Naprawdê nie pope³ni³em b³êdu, kiedy da³em Ci te kontrakty.</text>
     </string>
     <string id="for_professor_bloodsucker_dialog_end_end_4">
         <text>Co z nagrod¹?</text>
@@ -1234,7 +1234,7 @@
         <text>Trzy godziny? Skarbeñku, was dwoje nie by³o przez TRZY DNI! A jak dosta³aœ siê do bunkra, skoro nie s³ysza³em jak wchodzisz?</text>
     </string>
     <string id="for_professor_first_dialog_0">
-        <text>Pozdrowienia.</text>
+        <text>Witam.</text>
     </string>
     <string id="for_professor_first_dialog_1">
         <text>Co Ciê tu sprowadza, skarbeñku? Wygl¹dasz na bardzo zmêczonego.</text>
@@ -1393,7 +1393,7 @@
         <text>Kontakt jest martwy. Ma tylko PDA, na którym prawie wszystkie informacje s¹ zaszyfrowane.</text>
     </string>
     <string id="for_professor_first_weapon_dialog_end_1">
-        <text>Ostatnio coraz wiêcej moich ludzi znika. Zaczynam podejrzewaæ, ¿e ktoœ jest w to zamieszany. Ale do cholery, kto tego potrzebuje?</text>
+        <text>Ostatnio coraz wiêcej moich ludzi znika. Zaczynam podejrzewaæ, ¿e ktoœ jest w to zamieszany. Ale do cholery, komu by na tym zale¿a³o?</text>
     </string>
     <string id="for_professor_first_weapon_dialog_end_2">
         <text>Cia³o mia³o zarówno skaleczenia, jak i rany postrza³owe. I coœ mi mówi, ¿e mutanci ju¿ przybyli do martwego stalkera.</text>
@@ -1444,7 +1444,7 @@
         <text>Chcê Ciê prosiæ, abyœ poszed³ na te wzgórza i sprawdzi³, co to w³aœciwie by³o. Stalkerzy wielokrotnie chodzili po tym miejscu i niczego nie znaleŸli. Mutanci nie mogli po prostu pojawiæ siê znik¹d, jeœli jest jakiœ trop, daj mi znaæ, albo zabij tych, którzy zostali.</text>
     </string>
     <string id="for_professor_gauss_dialog_2">
-        <text>Wiêc dlaczego nie wyszed³eœ i nie pomog³eœ?</text>
+        <text>Wiêc dlaczego to nie wysz³o, nie pomog³o?</text>
     </string>
     <string id="for_professor_gauss_dialog_20">
         <text>Zobaczê co tam jest. Ale najpierw daj mi karabin.</text>
@@ -1453,7 +1453,7 @@
         <text>Proszê. I pamiêtaj, ¿e po wprowadzeniu anomalnej mocy broñ ma ograniczon¹ amunicjê. Nie mam mo¿liwoœci zdobycia wiêkszej iloœci baterii, wiêc oszczêdzaj ka¿dy ³adunek i staraj siê nie chybiaæ.</text>
     </string>
     <string id="for_professor_gauss_dialog_3">
-        <text>Niestety nie mam nawet minimalnych umiejêtnoœci do przetrwania w gor¹cych miejscach i posiadania przynajmniej niektórych rodzajów broni palnej. Dla mnie by³oby to samobójstwo, poza tym...</text>
+        <text>Niestety nie mam nawet minimalnych umiejêtnoœci do przetrwania w gor¹cych miejscach i u¿ywania wiêkszoœci rodzajów broni palnej. Dla mnie by³oby to samobójstwo, poza tym...</text>
     </string>
     <string id="for_professor_gauss_dialog_4">
         <text>I co z tego?</text>
@@ -1627,7 +1627,7 @@
         <text>I rozumiem, ¿e moim zadaniem jest jej odnalezienie.</text>
     </string>
     <string id="for_professor_nikson_dialog_7">
-        <text>Dok³adnie tak! Istnieje bardzo du¿e prawdopodobieñstwo, ¿e znajduj¹ siê one w tym samym miejscu, w którym znajdowa³a siê sama kamera, poniewa¿ niebieska kamera z dokumentacj¹ do niej znajdowa³a siê w tym samym miejscu – opuszczony budynek na pó³nocny zachód od wejœcia do bunkra. Tym razem bêdziesz mia³ partnera, który zrozumia³ ju¿ istotê zadania. Mo¿esz zbudowaæ swoj¹ strategiê na podstawie tego, jak dotrzeæ do miejsca, jak siê rozdzieliæ i jak przeszukiwaæ. Pamiêtaj jednak, ¿e Twoim zadaniem jest znalezienie tam wszystkiego, co jest zwi¹zane z tym urz¹dzeniem.</text>
+        <text>Dok³adnie tak! Istnieje bardzo du¿e prawdopodobieñstwo, ¿e znajduj¹ siê one w tym samym miejscu, w którym znajdowa³a siê sama komora, poniewa¿ niebieska komora z dokumentacj¹ do niej znajdowa³a siê w tym samym miejscu – opuszczony budynek na pó³nocny zachód od wejœcia do bunkra. Tym razem bêdziesz mia³ partnera, który zrozumia³ ju¿ istotê zadania. Mo¿esz zbudowaæ swoj¹ strategiê na podstawie tego, jak dotrzeæ do miejsca, jak siê rozdzieliæ i jak przeszukiwaæ. Pamiêtaj jednak, ¿e Twoim zadaniem jest znalezienie tam wszystkiego, co jest zwi¹zane z tym urz¹dzeniem.</text>
     </string>
     <string id="for_professor_nikson_dialog_8">
         <text>Co dok³adnie muszê znaleŸæ? Czy istnieje tytu³ dokumentu? Nie s¹dzê, ¿e bêdê mia³ czas na przeczytanie ka¿dej znalezionej kartki.</text>
@@ -1711,7 +1711,7 @@
         <text>Infernis mia³ granaty, które eksplodowa³y z wy³adowaniami anomalii.</text>
     </string>
     <string id="for_professor_note_dialog_21">
-        <text>Granaty? Ale jeszcze nie próbowa³em ich modyfikowaæ. Nie mam pojêcia, sk¹d Infernis wzi¹³ granaty energetyczne anomalii, ale prawdopodobnie wszystko mo¿e z nimi dzia³aæ. Jeszcze raz dziêkujê za pomoc. Jak tylko przeprowadzê badania i odpowiednie testy, skontaktujê siê z Tob¹ i poinformujê o wynikach.</text>
+        <text>Granaty? Ale jeszcze nie próbowa³em ich modyfikowaæ. Nie mam pojêcia, sk¹d Infernis wzi¹³ anomalne granaty, ale prawdopodobnie wszystko mo¿e z nimi dzia³aæ. Jeszcze raz dziêkujê za pomoc. Jak tylko przeprowadzê badania i odpowiednie testy, skontaktujê siê z Tob¹ i poinformujê o wynikach.</text>
     </string>
     <string id="for_professor_note_dialog_3">
         <text>Czy... wpad³eœ do laboratorium "Y-13"?</text>
@@ -1762,7 +1762,7 @@
         <text>Dobra, do diab³a z tym. Najwa¿niejsze, ¿e mogê tym zniszczyæ zbrojê Szkira. A co tam mówi³eœ o wynikach badañ?</text>
     </string>
     <string id="for_professor_note_dialog_end_17">
-        <text>Dok³adnie! Uda³o mi siê ulepszyæ granaty, umieszczaj¹c je w komorach na broñ i formacji anomalnych. A teraz mam dostêpne "granaty anomalne", które wykorzystuj¹ energiê artefaktów jako eksplozje! Maj¹ potworn¹ moc, a co za tym idzie wysok¹ cenê. Jeœli chcesz kupiæ, ostro¿nie siê z nimi obchodŸ.</text>
+        <text>Dok³adnie! Uda³o mi siê ulepszyæ granaty, umieszczaj¹c je w komorach na broñ oraz ca³oœæ umieœci³em w formacjach anomalnych. A teraz mam dostêpne "granaty anomalne", które wykorzystuj¹ energiê artefaktów jako eksplozje! Maj¹ potworn¹ moc, a co za tym idzie wysok¹ cenê. Jeœli chcesz kupiæ, ostro¿nie siê z nimi obchodŸ.</text>
     </string>
     <string id="for_professor_note_dialog_end_2">
         <text>Poczekaj. Przynios³em Ci karabin, którego prawdopodobnie nigdy wczeœniej nie widzia³eœ. Czy mo¿esz na to spojrzeæ i dowiedzieæ siê, co to jest?</text>
@@ -1780,7 +1780,7 @@
         <text>Wystrzelili z niego i jednym strza³em zestrzelili helikopter.</text>
     </string>
     <string id="for_professor_note_dialog_end_7">
-        <text>Helikopter? To musi byæ specjalna broñ. Proste kalibry nie maj¹ mo¿liwoœci niszczenia œmig³owców jednym strza³em, a ten karabin nie wygl¹da jak granatnik. Wiêc jest prawdopodobne, ¿e to... Pistolet elektrostatyczny?</text>
+        <text>Helikopter? To musi byæ specjalna broñ. Proste kalibry nie maj¹ mo¿liwoœci niszczenia œmig³owców jednym strza³em, a ten karabin nie wygl¹da jak granatnik. Wiêc jest prawdopodobne, ¿e to... Karabin elektrostatyczny?</text>
     </string>
     <string id="for_professor_note_dialog_end_8">
         <text>Tak te¿ za³o¿y³em. Dodatkowo magazynek z tego pistoletu jest podobny do baterii.</text>
@@ -1810,7 +1810,7 @@
         <text>Jak dostaæ siê do laboratorium Y-13?</text>
     </string>
     <string id="for_professor_y13_dialog_7">
-        <text>Ale Ty... Có¿, bez dalszych pytañ - wejœcie do niego znajduje siê w tym w³aœnie bunkrze. Drzwi po mojej prawej prowadz¹ do tego laboratorium. Tylko tutaj, aby wejœæ, bêdziesz potrzebowaæ karty dostêpu, a raczej has³a z tej karty. Zapamiêtaj uwa¿nie, kod do wejœcia do podziemi to %c[50,255,50,50]6686.%c[default]\n Jednak po wejœciu bêd¹ na Ciebie czekaæ kolejne drzwi, których prze³¹cznik bêdzie znajdowa³ siê po lewej stronie. Potrzebujesz do tego innego kodu, teraz przyjrzê siê dok³adnym liczbom... %c[50,255,50,50]13072021.%c[default] Po wejœciu drzwi powinny siê otworzyæ i mo¿esz kontynuowaæ eksploracjê, lub po co tam idziesz...</text>
+        <text>Ale Ty... Có¿, bez dalszych pytañ - wejœcie do niego znajduje siê w tym w³aœnie bunkrze. Drzwi po mojej prawej prowadz¹ do tego laboratorium. Tylko tutaj, aby wejœæ, bêdziesz potrzebowaæ karty dostêpu, a raczej has³a z tej karty. Zapamiêtaj uwa¿nie, kod do wejœcia do lochu to %c[50,255,50,50]6686.%c[default]\n Jednak po wejœciu bêd¹ na Ciebie czekaæ kolejne drzwi, których prze³¹cznik bêdzie znajdowa³ siê na po lewej stronie. Potrzebujesz do tego innego kodu, teraz przyjrzê siê dok³adnym liczbom... %c[50,255,50,50]13072021.%c[default] Po wejœciu drzwi powinny siê otworzyæ i mo¿esz kontynuowaæ eksploracjê, lub po co tam idziesz...</text>
     </string>
     <string id="for_professor_y13_dialog_8">
         <text>Rozumiem, dziêkujê.</text>
@@ -1864,7 +1864,7 @@
         <text>Tak? S³ysza³em, ¿e zdradzi³ cztery oddzia³y, którymi dowodzi³. Zastrzeli³ wszystkich z bezimiennymi i znikn¹³.</text>
     </string>
     <string id="for_raven_squad_dialog_8">
-        <text>Obecnie co robiê to szukam go.</text>
+        <text>Obecnie go szukam.</text>
     </string>
     <string id="for_raven_squad_dialog_9">
         <text>To z³odupiec, tak Ci powiem. Ca³y czas myœla³em i myœlê o moich towarzyszach, o królestwie niebieskim dla nich.. A on sam wszystkich zastrzeli³. Czyjeœ dzieci, ojców...</text>

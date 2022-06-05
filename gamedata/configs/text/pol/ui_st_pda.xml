@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+	<string id="st_ui_pda_legend_vip">
+		<text>Członek Drużyny</text>
+	</string>
 	<string id="gone_soul">
 		<text>Zagubiona Dusza</text>
 	</string>
